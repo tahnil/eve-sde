@@ -1,0 +1,61 @@
+name: Update EVE SDE Data
+
+on:
+  schedule:
+    - cron: '0 0 * * 0'  # Weekly on Sundays
+  workflow_dispatch:
+  push:
+    paths:
+      - 'scripts/extract_ore_data.py'
+
+jobs:
+  update-sde:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Download latest SDE
+        run: |
+          curl -L -o sde.zip https://developers.eveonline.com/static-data/eve-online-static-data-latest-jsonl.zip
+          unzip -o sde.zip
+          ls -lh *.jsonl | head -10
+
+      - name: Extract ore data
+        run: python3 scripts/extract_ore_data.py --sde-path . --output data/ores.json
+
+      - name: Validate output
+        run: |
+          python3 -c "
+          import json
+          with open('data/ores.json') as f:
+              data = json.load(f)
+          
+          assert len(data['ores']) > 50, f\"Expected >50 ores, got {len(data['ores'])}\"
+          assert len(data['minerals']) >= 7, f\"Expected >=7 minerals, got {len(data['minerals'])}\"
+          assert len(data['reprocessing']) > 0, 'No reprocessing data'
+          
+          mineral_names = {m['name'] for m in data['minerals']}
+          expected = {'Tritanium', 'Pyerite', 'Mexallon', 'Isogen', 'Nocxium', 'Zydrine', 'Megacyte'}
+          missing = expected - mineral_names
+          if missing:
+              print(f'Note: Missing expected minerals: {missing}')
+          
+          print(f'✓ {len(data[\"ores\"])} ores, {len(data[\"minerals\"])} minerals, {len(data[\"reprocessing\"])} reprocessing entries')
+          "
+
+      - name: Commit if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/ores.json
+          if git diff --staged --quiet; then
+            echo "No changes"
+          else
+            git commit -m "chore: update ore data from SDE $(date +%Y-%m-%d)"
+            git push
+          fi
