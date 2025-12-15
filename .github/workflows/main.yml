@@ -7,6 +7,7 @@ on:
   push:
     paths:
       - 'scripts/extract_ore_data.py'
+      - 'scripts/extract_item_volumes.py'
 
 jobs:
   update-sde:
@@ -28,6 +29,9 @@ jobs:
       - name: Extract ore data
         run: python3 scripts/extract_ore_data.py --sde-path . --output data/ores.json
 
+      - name: Extract item volumes
+        run: python3 scripts/extract_item_volumes.py --sde-path . --output data/items.json
+
       - name: Validate output
         run: |
           python3 -c "
@@ -48,14 +52,33 @@ jobs:
           print(f'✓ {len(data[\"ores\"])} ores, {len(data[\"minerals\"])} minerals, {len(data[\"reprocessing\"])} reprocessing entries')
           "
 
+          # Validate items.json
+          python3 -c "
+          import json
+          with open('data/items.json') as f:
+              data = json.load(f)
+
+          assert len(data['items']) > 1000, f\"Expected >1000 items, got {len(data['items'])}\"
+          assert 'metadata' in data, 'Missing metadata'
+          assert data['metadata']['itemCount'] == len(data['items']), 'Item count mismatch'
+
+          # Check that items have required fields
+          sample = data['items'][0]
+          required_fields = ['typeID', 'name', 'volume', 'groupID', 'groupName', 'categoryID', 'categoryName']
+          for field in required_fields:
+              assert field in sample, f'Missing field: {field}'
+
+          print(f\"✓ {len(data['items']):,} items, {data['metadata']['categoryCount']} categories\")
+          "
+
       - name: Commit if changed
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add data/ores.json
+          git add data/ores.json data/items.json
           if git diff --staged --quiet; then
             echo "No changes"
           else
-            git commit -m "chore: update ore data from SDE $(date +%Y-%m-%d)"
+            git commit -m "chore: update SDE data from $(date +%Y-%m-%d)"
             git push
           fi
