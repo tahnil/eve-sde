@@ -1876,20 +1876,6 @@
       "compressed": true
     },
     {
-      "typeID": 62563,
-      "name": "Compressed  Crokite IV-Grade",
-      "volume": 0.16,
-      "groupID": 452,
-      "compressed": true
-    },
-    {
-      "typeID": 75278,
-      "name": "Compressed  Mordunium IV-Grade",
-      "volume": 0.001,
-      "groupID": 4513,
-      "compressed": true
-    },
-    {
       "typeID": 62568,
       "name": "Compressed Arkonor",
       "volume": 0.16,
@@ -2137,6 +2123,13 @@
     {
       "typeID": 62562,
       "name": "Compressed Crokite III-Grade",
+      "volume": 0.16,
+      "groupID": 452,
+      "compressed": true
+    },
+    {
+      "typeID": 62563,
+      "name": "Compressed Crokite IV-Grade",
       "volume": 0.16,
       "groupID": 452,
       "compressed": true
@@ -2634,6 +2627,13 @@
     {
       "typeID": 75277,
       "name": "Compressed Mordunium III-Grade",
+      "volume": 0.001,
+      "groupID": 4513,
+      "compressed": true
+    },
+    {
+      "typeID": 75278,
+      "name": "Compressed Mordunium IV-Grade",
       "volume": 0.001,
       "groupID": 4513,
       "compressed": true

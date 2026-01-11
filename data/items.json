@@ -1,7 +1,7 @@
 {
   "metadata": {
     "source": "EVE Online SDE",
-    "itemCount": 26413,
+    "itemCount": 26419,
     "categoryCount": 37,
     "itemsWithZeroVolume": 948,
     "categories": {
@@ -16,7 +16,7 @@
       "Accessories": 77,
       "Personalization": 1589,
       "Ship": 412,
-      "SKINs": 6848,
+      "SKINs": 6853,
       "Charge": 1015,
       "Skill": 505,
       "Decryptors": 44,
@@ -25,7 +25,7 @@
       "Starbase": 195,
       "Infrastructure Upgrades": 73,
       "Material": 265,
-      "Expert Systems": 28,
+      "Expert Systems": 29,
       "Celestial": 223,
       "Fighter": 94,
       "Planetary Resources": 15,
@@ -44992,24 +44992,6 @@
       "categoryName": "Blueprint"
     },
     {
-      "typeID": 62563,
-      "name": "Compressed  Crokite IV-Grade",
-      "volume": 0.16,
-      "groupID": 452,
-      "groupName": "Crokite",
-      "categoryID": 25,
-      "categoryName": "Asteroid"
-    },
-    {
-      "typeID": 75278,
-      "name": "Compressed  Mordunium IV-Grade",
-      "volume": 0.001,
-      "groupID": 4513,
-      "groupName": "Mordunium",
-      "categoryID": 25,
-      "categoryName": "Asteroid"
-    },
-    {
       "typeID": 62396,
       "name": "Compressed Amber Cytoserocin",
       "volume": 1.0,
@@ -45399,6 +45381,15 @@
     {
       "typeID": 62562,
       "name": "Compressed Crokite III-Grade",
+      "volume": 0.16,
+      "groupID": 452,
+      "groupName": "Crokite",
+      "categoryID": 25,
+      "categoryName": "Asteroid"
+    },
+    {
+      "typeID": 62563,
+      "name": "Compressed Crokite IV-Grade",
       "volume": 0.16,
       "groupID": 452,
       "groupName": "Crokite",
@@ -46209,6 +46200,15 @@
     {
       "typeID": 75277,
       "name": "Compressed Mordunium III-Grade",
+      "volume": 0.001,
+      "groupID": 4513,
+      "groupName": "Mordunium",
+      "categoryID": 25,
+      "categoryName": "Asteroid"
+    },
+    {
+      "typeID": 75278,
+      "name": "Compressed Mordunium IV-Grade",
       "volume": 0.001,
       "groupID": 4513,
       "groupName": "Mordunium",
@@ -82335,6 +82335,15 @@
     {
       "typeID": 79757,
       "name": "Gila Empyrean Outlaws SKIN",
+      "volume": 0.01,
+      "groupID": 1950,
+      "groupName": "Permanent SKIN",
+      "categoryID": 91,
+      "categoryName": "SKINs"
+    },
+    {
+      "typeID": 91567,
+      "name": "Gila GalNet StreamCast Unit SKIN",
       "volume": 0.01,
       "groupID": 1950,
       "groupName": "Permanent SKIN",
@@ -125218,6 +125227,15 @@
       "categoryName": "SKINs"
     },
     {
+      "typeID": 91569,
+      "name": "Malediction GalNet StreamCast Unit SKIN",
+      "volume": 0.01,
+      "groupID": 1950,
+      "groupName": "Permanent SKIN",
+      "categoryID": 91,
+      "categoryName": "SKINs"
+    },
+    {
       "typeID": 46780,
       "name": "Malediction Glacial Drift SKIN",
       "volume": 0.01,
@@ -157186,6 +157204,15 @@
       "categoryName": "Personalization"
     },
     {
+      "typeID": 91517,
+      "name": "Perseverance Expert System",
+      "volume": 1.0,
+      "groupID": 4098,
+      "groupName": "Promotional Expert Systems",
+      "categoryID": 2100,
+      "categoryName": "Expert Systems"
+    },
+    {
       "typeID": 33149,
       "name": "Personal Hangar Array",
       "volume": 4000.0,
@@ -158534,6 +158561,15 @@
       "groupName": "Ship Emblems",
       "categoryID": 2118,
       "categoryName": "Personalization"
+    },
+    {
+      "typeID": 91570,
+      "name": "Pioneer GalNet StreamCast Unit SKIN",
+      "volume": 0.01,
+      "groupID": 1950,
+      "groupName": "Permanent SKIN",
+      "categoryID": 91,
+      "categoryName": "SKINs"
     },
     {
       "typeID": 91193,
@@ -161108,6 +161144,15 @@
       "groupName": "Ship Emblems",
       "categoryID": 2118,
       "categoryName": "Personalization"
+    },
+    {
+      "typeID": 91568,
+      "name": "Praxis GalNet StreamCast Unit SKIN",
+      "volume": 0.01,
+      "groupID": 1950,
+      "groupName": "Permanent SKIN",
+      "categoryID": 91,
+      "categoryName": "SKINs"
     },
     {
       "typeID": 79841,
@@ -223689,6 +223734,15 @@
     {
       "typeID": 50002,
       "name": "Vexor Federal Police SKIN",
+      "volume": 0.01,
+      "groupID": 1950,
+      "groupName": "Permanent SKIN",
+      "categoryID": 91,
+      "categoryName": "SKINs"
+    },
+    {
+      "typeID": 91571,
+      "name": "Vexor GalNet StreamCast Unit SKIN",
       "volume": 0.01,
       "groupID": 1950,
       "groupName": "Permanent SKIN",
