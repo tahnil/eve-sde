@@ -1,7 +1,7 @@
 {
   "metadata": {
     "source": "EVE Online SDE",
-    "itemCount": 26419,
+    "itemCount": 26403,
     "categoryCount": 37,
     "itemsWithZeroVolume": 948,
     "categories": {
@@ -16,12 +16,12 @@
       "Accessories": 77,
       "Personalization": 1589,
       "Ship": 412,
-      "SKINs": 6853,
+      "SKINs": 6884,
       "Charge": 1015,
       "Skill": 505,
       "Decryptors": 44,
       "Asteroid": 447,
-      "Implant": 1312,
+      "Implant": 1265,
       "Starbase": 195,
       "Infrastructure Upgrades": 73,
       "Material": 265,
@@ -14248,6 +14248,15 @@
       "categoryName": "SKINs"
     },
     {
+      "typeID": 91615,
+      "name": "Apocalypse Navy Issue Media Miasma SKIN",
+      "volume": 0.01,
+      "groupID": 1950,
+      "groupName": "Permanent SKIN",
+      "categoryID": 91,
+      "categoryName": "SKINs"
+    },
+    {
       "typeID": 53640,
       "name": "Apocalypse Navy Issue Oasis of Faith SKIN",
       "volume": 0.01,
@@ -14768,6 +14777,15 @@
       "groupName": "Ship Emblems",
       "categoryID": 2118,
       "categoryName": "Personalization"
+    },
+    {
+      "typeID": 91610,
+      "name": "Apotheosis Friendship League SKIN",
+      "volume": 0.01,
+      "groupID": 1950,
+      "groupName": "Permanent SKIN",
+      "categoryID": 91,
+      "categoryName": "SKINs"
     },
     {
       "typeID": 79840,
@@ -21432,15 +21450,6 @@
     {
       "typeID": 90694,
       "name": "Basic 'Brainfreeze' Cerebral Accelerator",
-      "volume": 1.0,
-      "groupID": 303,
-      "groupName": "Booster",
-      "categoryID": 20,
-      "categoryName": "Implant"
-    },
-    {
-      "typeID": 89604,
-      "name": "Basic 'Radiance' Cerebral Accelerator",
       "volume": 1.0,
       "groupID": 303,
       "groupName": "Booster",
@@ -39169,6 +39178,15 @@
       "categoryName": "SKINs"
     },
     {
+      "typeID": 91621,
+      "name": "Catalyst Navy Issue Media Miasma SKIN",
+      "volume": 0.01,
+      "groupID": 1950,
+      "groupName": "Permanent SKIN",
+      "categoryID": 91,
+      "categoryName": "SKINs"
+    },
+    {
       "typeID": 34712,
       "name": "Catalyst Quafe SKIN",
       "volume": 0.01,
@@ -41653,33 +41671,6 @@
       "categoryName": "Module"
     },
     {
-      "typeID": 90301,
-      "name": "Chemal Tech Exploration Booster I",
-      "volume": 1.0,
-      "groupID": 303,
-      "groupName": "Booster",
-      "categoryID": 20,
-      "categoryName": "Implant"
-    },
-    {
-      "typeID": 90302,
-      "name": "Chemal Tech Exploration Booster II",
-      "volume": 1.0,
-      "groupID": 303,
-      "groupName": "Booster",
-      "categoryID": 20,
-      "categoryName": "Implant"
-    },
-    {
-      "typeID": 90303,
-      "name": "Chemal Tech Exploration Booster III",
-      "volume": 1.0,
-      "groupID": 303,
-      "groupName": "Booster",
-      "categoryID": 20,
-      "categoryName": "Implant"
-    },
-    {
       "typeID": 81599,
       "name": "Chemal Tech Geneticist",
       "volume": 1.0,
@@ -41687,87 +41678,6 @@
       "groupName": "Livestock",
       "categoryID": 17,
       "categoryName": "Commodity"
-    },
-    {
-      "typeID": 90293,
-      "name": "Chemal Tech Mining Booster I",
-      "volume": 1.0,
-      "groupID": 303,
-      "groupName": "Booster",
-      "categoryID": 20,
-      "categoryName": "Implant"
-    },
-    {
-      "typeID": 90295,
-      "name": "Chemal Tech Mining Booster II",
-      "volume": 1.0,
-      "groupID": 303,
-      "groupName": "Booster",
-      "categoryID": 20,
-      "categoryName": "Implant"
-    },
-    {
-      "typeID": 90297,
-      "name": "Chemal Tech Mining Booster III",
-      "volume": 1.0,
-      "groupID": 303,
-      "groupName": "Booster",
-      "categoryID": 20,
-      "categoryName": "Implant"
-    },
-    {
-      "typeID": 90324,
-      "name": "Chemal Tech Repair Booster I",
-      "volume": 1.0,
-      "groupID": 303,
-      "groupName": "Booster",
-      "categoryID": 20,
-      "categoryName": "Implant"
-    },
-    {
-      "typeID": 90305,
-      "name": "Chemal Tech Repair Booster II",
-      "volume": 1.0,
-      "groupID": 303,
-      "groupName": "Booster",
-      "categoryID": 20,
-      "categoryName": "Implant"
-    },
-    {
-      "typeID": 90306,
-      "name": "Chemal Tech Repair Booster III",
-      "volume": 1.0,
-      "groupID": 303,
-      "groupName": "Booster",
-      "categoryID": 20,
-      "categoryName": "Implant"
-    },
-    {
-      "typeID": 90280,
-      "name": "Chemal Tech Turret Booster I",
-      "volume": 1.0,
-      "groupID": 303,
-      "groupName": "Booster",
-      "categoryID": 20,
-      "categoryName": "Implant"
-    },
-    {
-      "typeID": 90285,
-      "name": "Chemal Tech Turret Booster II",
-      "volume": 1.0,
-      "groupID": 303,
-      "groupName": "Booster",
-      "categoryID": 20,
-      "categoryName": "Implant"
-    },
-    {
-      "typeID": 90290,
-      "name": "Chemal Tech Turret Booster III",
-      "volume": 1.0,
-      "groupID": 303,
-      "groupName": "Booster",
-      "categoryID": 20,
-      "categoryName": "Implant"
     },
     {
       "typeID": 42243,
@@ -72928,6 +72838,15 @@
       "categoryName": "SKINs"
     },
     {
+      "typeID": 91622,
+      "name": "Exequror Navy Issue Media Miasma SKIN",
+      "volume": 0.01,
+      "groupID": 1950,
+      "groupName": "Permanent SKIN",
+      "categoryID": 91,
+      "categoryName": "SKINs"
+    },
+    {
       "typeID": 45023,
       "name": "Exequror Navy Issue Sapphire Sungrazer SKIN",
       "volume": 0.01,
@@ -74469,15 +74388,6 @@
     {
       "typeID": 90696,
       "name": "Extended 'Brainfreeze' Cerebral Accelerator",
-      "volume": 1.0,
-      "groupID": 303,
-      "groupName": "Booster",
-      "categoryID": 20,
-      "categoryName": "Implant"
-    },
-    {
-      "typeID": 89606,
-      "name": "Extended 'Radiance' Cerebral Accelerator",
       "volume": 1.0,
       "groupID": 303,
       "groupName": "Booster",
@@ -78778,6 +78688,15 @@
       "categoryName": "SKINs"
     },
     {
+      "typeID": 91618,
+      "name": "Flycatcher Media Miasma SKIN",
+      "volume": 0.01,
+      "groupID": 1950,
+      "groupName": "Permanent SKIN",
+      "categoryID": 91,
+      "categoryName": "SKINs"
+    },
+    {
       "typeID": 71098,
       "name": "Flycatcher Peace and Order Unit SKIN",
       "volume": 0.01,
@@ -82398,6 +82317,15 @@
     {
       "typeID": 48553,
       "name": "Gila IGC SKIN",
+      "volume": 0.01,
+      "groupID": 1950,
+      "groupName": "Permanent SKIN",
+      "categoryID": 91,
+      "categoryName": "SKINs"
+    },
+    {
+      "typeID": 91630,
+      "name": "Gila Media Miasma SKIN",
       "volume": 0.01,
       "groupID": 1950,
       "groupName": "Permanent SKIN",
@@ -86788,6 +86716,15 @@
       "categoryName": "Personalization"
     },
     {
+      "typeID": 91613,
+      "name": "Gnosis Friendship League SKIN",
+      "volume": 0.01,
+      "groupID": 1950,
+      "groupName": "Permanent SKIN",
+      "categoryID": 91,
+      "categoryName": "SKINs"
+    },
+    {
       "typeID": 76494,
       "name": "Gnosis GalNet StreamCast Unit SKIN",
       "volume": 0.01,
@@ -87366,6 +87303,15 @@
     {
       "typeID": 40616,
       "name": "Golem Matigu Seabeast SKIN",
+      "volume": 0.01,
+      "groupID": 1950,
+      "groupName": "Permanent SKIN",
+      "categoryID": 91,
+      "categoryName": "SKINs"
+    },
+    {
+      "typeID": 91619,
+      "name": "Golem Media Miasma SKIN",
       "volume": 0.01,
       "groupID": 1950,
       "groupName": "Permanent SKIN",
@@ -92807,150 +92753,6 @@
       "groupName": "Livestock",
       "categoryID": 17,
       "categoryName": "Commodity"
-    },
-    {
-      "typeID": 89581,
-      "name": "Harvest Anti-Disruptor Booster I",
-      "volume": 1.0,
-      "groupID": 303,
-      "groupName": "Booster",
-      "categoryID": 20,
-      "categoryName": "Implant"
-    },
-    {
-      "typeID": 89585,
-      "name": "Harvest Anti-Disruptor Booster II",
-      "volume": 1.0,
-      "groupID": 303,
-      "groupName": "Booster",
-      "categoryID": 20,
-      "categoryName": "Implant"
-    },
-    {
-      "typeID": 89586,
-      "name": "Harvest Anti-Disruptor Booster III",
-      "volume": 1.0,
-      "groupID": 303,
-      "groupName": "Booster",
-      "categoryID": 20,
-      "categoryName": "Implant"
-    },
-    {
-      "typeID": 89587,
-      "name": "Harvest Anti-Disruptor Booster IV",
-      "volume": 1.0,
-      "groupID": 303,
-      "groupName": "Booster",
-      "categoryID": 20,
-      "categoryName": "Implant"
-    },
-    {
-      "typeID": 89557,
-      "name": "Harvest Damage Booster I",
-      "volume": 1.0,
-      "groupID": 303,
-      "groupName": "Booster",
-      "categoryID": 20,
-      "categoryName": "Implant"
-    },
-    {
-      "typeID": 89558,
-      "name": "Harvest Damage Booster II",
-      "volume": 1.0,
-      "groupID": 303,
-      "groupName": "Booster",
-      "categoryID": 20,
-      "categoryName": "Implant"
-    },
-    {
-      "typeID": 89559,
-      "name": "Harvest Damage Booster III",
-      "volume": 1.0,
-      "groupID": 303,
-      "groupName": "Booster",
-      "categoryID": 20,
-      "categoryName": "Implant"
-    },
-    {
-      "typeID": 89560,
-      "name": "Harvest Damage Booster IV",
-      "volume": 1.0,
-      "groupID": 303,
-      "groupName": "Booster",
-      "categoryID": 20,
-      "categoryName": "Implant"
-    },
-    {
-      "typeID": 89573,
-      "name": "Harvest Nosferatu Booster I",
-      "volume": 1.0,
-      "groupID": 303,
-      "groupName": "Booster",
-      "categoryID": 20,
-      "categoryName": "Implant"
-    },
-    {
-      "typeID": 89574,
-      "name": "Harvest Nosferatu Booster II",
-      "volume": 1.0,
-      "groupID": 303,
-      "groupName": "Booster",
-      "categoryID": 20,
-      "categoryName": "Implant"
-    },
-    {
-      "typeID": 89576,
-      "name": "Harvest Nosferatu Booster III",
-      "volume": 1.0,
-      "groupID": 303,
-      "groupName": "Booster",
-      "categoryID": 20,
-      "categoryName": "Implant"
-    },
-    {
-      "typeID": 89577,
-      "name": "Harvest Nosferatu Booster IV",
-      "volume": 1.0,
-      "groupID": 303,
-      "groupName": "Booster",
-      "categoryID": 20,
-      "categoryName": "Implant"
-    },
-    {
-      "typeID": 89561,
-      "name": "Harvest Webifier Booster I",
-      "volume": 1.0,
-      "groupID": 303,
-      "groupName": "Booster",
-      "categoryID": 20,
-      "categoryName": "Implant"
-    },
-    {
-      "typeID": 89562,
-      "name": "Harvest Webifier Booster II",
-      "volume": 1.0,
-      "groupID": 303,
-      "groupName": "Booster",
-      "categoryID": 20,
-      "categoryName": "Implant"
-    },
-    {
-      "typeID": 89563,
-      "name": "Harvest Webifier Booster III",
-      "volume": 1.0,
-      "groupID": 303,
-      "groupName": "Booster",
-      "categoryID": 20,
-      "categoryName": "Implant"
-    },
-    {
-      "typeID": 89564,
-      "name": "Harvest Webifier Booster IV",
-      "volume": 1.0,
-      "groupID": 303,
-      "groupName": "Booster",
-      "categoryID": 20,
-      "categoryName": "Implant"
     },
     {
       "typeID": 3218,
@@ -107803,6 +107605,15 @@
       "categoryName": "SKINs"
     },
     {
+      "typeID": 91623,
+      "name": "Ishtar Media Miasma SKIN",
+      "volume": 0.01,
+      "groupID": 1950,
+      "groupName": "Permanent SKIN",
+      "categoryID": 91,
+      "categoryName": "SKINs"
+    },
+    {
       "typeID": 45567,
       "name": "Ishtar Ruby Sungrazer SKIN",
       "volume": 0.01,
@@ -111142,6 +110953,15 @@
       "categoryName": "SKINs"
     },
     {
+      "typeID": 91636,
+      "name": "Kikimora Media Miasma SKIN",
+      "volume": 0.01,
+      "groupID": 1950,
+      "groupName": "Permanent SKIN",
+      "categoryID": 91,
+      "categoryName": "SKINs"
+    },
+    {
       "typeID": 50140,
       "name": "Kikimora Metamateria Exotica SKIN",
       "volume": 0.01,
@@ -112006,6 +111826,15 @@
       "categoryName": "SKINs"
     },
     {
+      "typeID": 91640,
+      "name": "Kronos Media Miasma SKIN",
+      "volume": 0.01,
+      "groupID": 1950,
+      "groupName": "Permanent SKIN",
+      "categoryID": 91,
+      "categoryName": "SKINs"
+    },
+    {
       "typeID": 35250,
       "name": "Kronos Police SKIN (30 Days)",
       "volume": 0.01,
@@ -112269,6 +112098,15 @@
     {
       "typeID": 46436,
       "name": "Kryos Kopis Edge SKIN",
+      "volume": 0.01,
+      "groupID": 1950,
+      "groupName": "Permanent SKIN",
+      "categoryID": 91,
+      "categoryName": "SKINs"
+    },
+    {
+      "typeID": 91639,
+      "name": "Kryos Media Miasma SKIN",
       "volume": 0.01,
       "groupID": 1950,
       "groupName": "Permanent SKIN",
@@ -123303,6 +123141,15 @@
     {
       "typeID": 56603,
       "name": "Machariel Malagrin Marshlight SKIN",
+      "volume": 0.01,
+      "groupID": 1950,
+      "groupName": "Permanent SKIN",
+      "categoryID": 91,
+      "categoryName": "SKINs"
+    },
+    {
+      "typeID": 91629,
+      "name": "Machariel Media Miasma SKIN",
       "volume": 0.01,
       "groupID": 1950,
       "groupName": "Permanent SKIN",
@@ -138007,6 +137854,15 @@
       "categoryName": "Personalization"
     },
     {
+      "typeID": 91611,
+      "name": "Metamorphosis Friendship League SKIN",
+      "volume": 0.01,
+      "groupID": 1950,
+      "groupName": "Permanent SKIN",
+      "categoryID": 91,
+      "categoryName": "SKINs"
+    },
+    {
       "typeID": 79006,
       "name": "Metamorphosis Genolution Dazzle SKIN",
       "volume": 0.01,
@@ -146494,6 +146350,15 @@
       "categoryName": "SKINs"
     },
     {
+      "typeID": 91626,
+      "name": "Naglfar Media Miasma SKIN",
+      "volume": 0.01,
+      "groupID": 1950,
+      "groupName": "Permanent SKIN",
+      "categoryID": 91,
+      "categoryName": "SKINs"
+    },
+    {
       "typeID": 52891,
       "name": "Naglfar Snowline Bladeracer SKIN",
       "volume": 0.01,
@@ -147648,6 +147513,15 @@
     {
       "typeID": 46438,
       "name": "Nereus Kopis Edge SKIN",
+      "volume": 0.01,
+      "groupID": 1950,
+      "groupName": "Permanent SKIN",
+      "categoryID": 91,
+      "categoryName": "SKINs"
+    },
+    {
+      "typeID": 91638,
+      "name": "Nereus Media Miasma SKIN",
       "volume": 0.01,
       "groupID": 1950,
       "groupName": "Permanent SKIN",
@@ -152182,6 +152056,15 @@
       "categoryName": "SKINs"
     },
     {
+      "typeID": 91632,
+      "name": "Odysseus Media Miasma SKIN",
+      "volume": 0.01,
+      "groupID": 1950,
+      "groupName": "Permanent SKIN",
+      "categoryID": 91,
+      "categoryName": "SKINs"
+    },
+    {
       "typeID": 91162,
       "name": "Odysseus One Eden SKIN",
       "volume": 0.01,
@@ -155467,6 +155350,15 @@
       "categoryName": "Personalization"
     },
     {
+      "typeID": 91628,
+      "name": "Outrider Media Miasma SKIN",
+      "volume": 0.01,
+      "groupID": 1950,
+      "groupName": "Permanent SKIN",
+      "categoryID": 91,
+      "categoryName": "SKINs"
+    },
+    {
       "typeID": 91099,
       "name": "Outrider Refined Resourcer SKIN",
       "volume": 0.01,
@@ -156225,6 +156117,15 @@
     {
       "typeID": 53008,
       "name": "Paladin Malagrin Marshlight SKIN",
+      "volume": 0.01,
+      "groupID": 1950,
+      "groupName": "Permanent SKIN",
+      "categoryID": 91,
+      "categoryName": "SKINs"
+    },
+    {
+      "typeID": 91617,
+      "name": "Paladin Media Miasma SKIN",
       "volume": 0.01,
       "groupID": 1950,
       "groupName": "Permanent SKIN",
@@ -157996,6 +157897,15 @@
       "categoryName": "SKINs"
     },
     {
+      "typeID": 91620,
+      "name": "Phoenix Navy Issue Media Miasma SKIN",
+      "volume": 0.01,
+      "groupID": 1950,
+      "groupName": "Permanent SKIN",
+      "categoryID": 91,
+      "categoryName": "SKINs"
+    },
+    {
       "typeID": 78816,
       "name": "Phoenix Navy Issue Union Day Executive SKIN",
       "volume": 0.01,
@@ -158565,6 +158475,15 @@
     {
       "typeID": 91570,
       "name": "Pioneer GalNet StreamCast Unit SKIN",
+      "volume": 0.01,
+      "groupID": 1950,
+      "groupName": "Permanent SKIN",
+      "categoryID": 91,
+      "categoryName": "SKINs"
+    },
+    {
+      "typeID": 91627,
+      "name": "Pioneer Media Miasma SKIN",
       "volume": 0.01,
       "groupID": 1950,
       "groupName": "Permanent SKIN",
@@ -160660,15 +160579,6 @@
       "categoryName": "Implant"
     },
     {
-      "typeID": 89605,
-      "name": "Potent 'Radiance' Cerebral Accelerator",
-      "volume": 1.0,
-      "groupID": 303,
-      "groupName": "Booster",
-      "categoryID": 20,
-      "categoryName": "Implant"
-    },
-    {
       "typeID": 20510,
       "name": "Potent Viral Agent",
       "volume": 0.5,
@@ -161144,6 +161054,15 @@
       "groupName": "Ship Emblems",
       "categoryID": 2118,
       "categoryName": "Personalization"
+    },
+    {
+      "typeID": 91614,
+      "name": "Praxis Friendship League SKIN",
+      "volume": 0.01,
+      "groupID": 1950,
+      "groupName": "Permanent SKIN",
+      "categoryID": 91,
+      "categoryName": "SKINs"
     },
     {
       "typeID": 91568,
@@ -168589,6 +168508,15 @@
       "categoryName": "SKINs"
     },
     {
+      "typeID": 91631,
+      "name": "Rattlesnake Media Miasma SKIN",
+      "volume": 0.01,
+      "groupID": 1950,
+      "groupName": "Permanent SKIN",
+      "categoryID": 91,
+      "categoryName": "SKINs"
+    },
+    {
       "typeID": 75906,
       "name": "Rattlesnake Red Stargazer SKIN",
       "volume": 0.01,
@@ -174124,6 +174052,15 @@
       "categoryName": "SKINs"
     },
     {
+      "typeID": 91616,
+      "name": "Revelation Navy Issue Media Miasma SKIN",
+      "volume": 0.01,
+      "groupID": 1950,
+      "groupName": "Permanent SKIN",
+      "categoryID": 91,
+      "categoryName": "SKINs"
+    },
+    {
       "typeID": 79614,
       "name": "Revelation Navy Issue Sanguinary Savant SKIN",
       "volume": 0.01,
@@ -177600,6 +177537,15 @@
     {
       "typeID": 64727,
       "name": "Sabre Liberation Games SKIN",
+      "volume": 0.01,
+      "groupID": 1950,
+      "groupName": "Permanent SKIN",
+      "categoryID": 91,
+      "categoryName": "SKINs"
+    },
+    {
+      "typeID": 91624,
+      "name": "Sabre Media Miasma SKIN",
       "volume": 0.01,
       "groupID": 1950,
       "groupName": "Permanent SKIN",
@@ -195049,6 +194995,15 @@
       "categoryName": "SKINs"
     },
     {
+      "typeID": 91635,
+      "name": "Squall Media Miasma SKIN",
+      "volume": 0.01,
+      "groupID": 1950,
+      "groupName": "Permanent SKIN",
+      "categoryID": 91,
+      "categoryName": "SKINs"
+    },
+    {
       "typeID": 90416,
       "name": "Squall Shattered Paradigm SKIN",
       "volume": 0.01,
@@ -202618,6 +202573,15 @@
       "categoryName": "SKINs"
     },
     {
+      "typeID": 91633,
+      "name": "Stormbringer Media Miasma SKIN",
+      "volume": 0.01,
+      "groupID": 1950,
+      "groupName": "Permanent SKIN",
+      "categoryID": 91,
+      "categoryName": "SKINs"
+    },
+    {
       "typeID": 88785,
       "name": "Stormbringer Sponsored Security SKIN",
       "volume": 0.01,
@@ -204353,6 +204317,15 @@
       "groupName": "Ship Emblems",
       "categoryID": 2118,
       "categoryName": "Personalization"
+    },
+    {
+      "typeID": 91612,
+      "name": "Sunesis Friendship League SKIN",
+      "volume": 0.01,
+      "groupID": 1950,
+      "groupName": "Permanent SKIN",
+      "categoryID": 91,
+      "categoryName": "SKINs"
     },
     {
       "typeID": 79007,
@@ -209449,42 +209422,6 @@
       "categoryName": "Commodity"
     },
     {
-      "typeID": 89588,
-      "name": "Tetrimon Anti-Drain Booster I",
-      "volume": 1.0,
-      "groupID": 303,
-      "groupName": "Booster",
-      "categoryID": 20,
-      "categoryName": "Implant"
-    },
-    {
-      "typeID": 89589,
-      "name": "Tetrimon Anti-Drain Booster II",
-      "volume": 1.0,
-      "groupID": 303,
-      "groupName": "Booster",
-      "categoryID": 20,
-      "categoryName": "Implant"
-    },
-    {
-      "typeID": 89590,
-      "name": "Tetrimon Anti-Drain Booster III",
-      "volume": 1.0,
-      "groupID": 303,
-      "groupName": "Booster",
-      "categoryID": 20,
-      "categoryName": "Implant"
-    },
-    {
-      "typeID": 89591,
-      "name": "Tetrimon Anti-Drain Booster IV",
-      "volume": 1.0,
-      "groupID": 303,
-      "groupName": "Booster",
-      "categoryID": 20,
-      "categoryName": "Implant"
-    },
-    {
       "typeID": 90117,
       "name": "Tetrimon Base Shortcut Keypass",
       "volume": 0.1,
@@ -209492,114 +209429,6 @@
       "groupName": "Acceleration Gate Keys",
       "categoryID": 17,
       "categoryName": "Commodity"
-    },
-    {
-      "typeID": 89592,
-      "name": "Tetrimon Capacitor Booster I",
-      "volume": 1.0,
-      "groupID": 303,
-      "groupName": "Booster",
-      "categoryID": 20,
-      "categoryName": "Implant"
-    },
-    {
-      "typeID": 89593,
-      "name": "Tetrimon Capacitor Booster II",
-      "volume": 1.0,
-      "groupID": 303,
-      "groupName": "Booster",
-      "categoryID": 20,
-      "categoryName": "Implant"
-    },
-    {
-      "typeID": 89594,
-      "name": "Tetrimon Capacitor Booster III",
-      "volume": 1.0,
-      "groupID": 303,
-      "groupName": "Booster",
-      "categoryID": 20,
-      "categoryName": "Implant"
-    },
-    {
-      "typeID": 89595,
-      "name": "Tetrimon Capacitor Booster IV",
-      "volume": 1.0,
-      "groupID": 303,
-      "groupName": "Booster",
-      "categoryID": 20,
-      "categoryName": "Implant"
-    },
-    {
-      "typeID": 89600,
-      "name": "Tetrimon Precision Booster I",
-      "volume": 1.0,
-      "groupID": 303,
-      "groupName": "Booster",
-      "categoryID": 20,
-      "categoryName": "Implant"
-    },
-    {
-      "typeID": 89601,
-      "name": "Tetrimon Precision Booster II",
-      "volume": 1.0,
-      "groupID": 303,
-      "groupName": "Booster",
-      "categoryID": 20,
-      "categoryName": "Implant"
-    },
-    {
-      "typeID": 89602,
-      "name": "Tetrimon Precision Booster III",
-      "volume": 1.0,
-      "groupID": 303,
-      "groupName": "Booster",
-      "categoryID": 20,
-      "categoryName": "Implant"
-    },
-    {
-      "typeID": 89603,
-      "name": "Tetrimon Precision Booster IV",
-      "volume": 1.0,
-      "groupID": 303,
-      "groupName": "Booster",
-      "categoryID": 20,
-      "categoryName": "Implant"
-    },
-    {
-      "typeID": 89596,
-      "name": "Tetrimon Resistance Booster I",
-      "volume": 1.0,
-      "groupID": 303,
-      "groupName": "Booster",
-      "categoryID": 20,
-      "categoryName": "Implant"
-    },
-    {
-      "typeID": 89597,
-      "name": "Tetrimon Resistance Booster II",
-      "volume": 1.0,
-      "groupID": 303,
-      "groupName": "Booster",
-      "categoryID": 20,
-      "categoryName": "Implant"
-    },
-    {
-      "typeID": 89598,
-      "name": "Tetrimon Resistance Booster III",
-      "volume": 1.0,
-      "groupID": 303,
-      "groupName": "Booster",
-      "categoryID": 20,
-      "categoryName": "Implant"
-    },
-    {
-      "typeID": 89599,
-      "name": "Tetrimon Resistance Booster IV",
-      "volume": 1.0,
-      "groupID": 303,
-      "groupName": "Booster",
-      "categoryID": 20,
-      "categoryName": "Implant"
     },
     {
       "typeID": 85178,
@@ -211546,6 +211375,15 @@
       "categoryName": "SKINs"
     },
     {
+      "typeID": 91625,
+      "name": "Thrasher Fleet Issue Media Miasma SKIN",
+      "volume": 0.01,
+      "groupID": 1950,
+      "groupName": "Permanent SKIN",
+      "categoryID": 91,
+      "categoryName": "SKINs"
+    },
+    {
       "typeID": 82184,
       "name": "Thrasher Fleet Issue Republic Police SKIN",
       "volume": 0.01,
@@ -212079,6 +211917,15 @@
     {
       "typeID": 57708,
       "name": "Thunderchild EDENCOM Victory SKIN",
+      "volume": 0.01,
+      "groupID": 1950,
+      "groupName": "Permanent SKIN",
+      "categoryID": 91,
+      "categoryName": "SKINs"
+    },
+    {
+      "typeID": 91634,
+      "name": "Thunderchild Media Miasma SKIN",
       "volume": 0.01,
       "groupID": 1950,
       "groupName": "Permanent SKIN",
@@ -237554,6 +237401,15 @@
       "groupName": "Ship Emblems",
       "categoryID": 2118,
       "categoryName": "Personalization"
+    },
+    {
+      "typeID": 91637,
+      "name": "Zirnitra Media Miasma SKIN",
+      "volume": 0.01,
+      "groupID": 1950,
+      "groupName": "Permanent SKIN",
+      "categoryID": 91,
+      "categoryName": "SKINs"
     },
     {
       "typeID": 54222,
