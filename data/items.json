@@ -1,14 +1,14 @@
 {
   "metadata": {
     "source": "EVE Online SDE",
-    "itemCount": 26403,
+    "itemCount": 26404,
     "categoryCount": 37,
     "itemsWithZeroVolume": 948,
     "categories": {
       "Module": 3941,
       "Blueprint": 4136,
       "Drone": 133,
-      "Special Edition Assets": 597,
+      "Special Edition Assets": 598,
       "Commodity": 2834,
       "Structure": 18,
       "Deployable": 43,
@@ -97249,6 +97249,15 @@
       "typeID": 90137,
       "name": "Historic Crimson Harvest Trinket Crate",
       "volume": 1.0,
+      "groupID": 1194,
+      "groupName": "Special Edition Commodities",
+      "categoryID": 63,
+      "categoryName": "Special Edition Assets"
+    },
+    {
+      "typeID": 91938,
+      "name": "Historic Gallente SKINs Crate",
+      "volume": 5.0,
       "groupID": 1194,
       "groupName": "Special Edition Commodities",
       "categoryID": 63,
