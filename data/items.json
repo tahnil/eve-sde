@@ -1,22 +1,22 @@
 {
   "metadata": {
     "source": "EVE Online SDE",
-    "itemCount": 26404,
+    "itemCount": 26417,
     "categoryCount": 37,
     "itemsWithZeroVolume": 948,
     "categories": {
       "Module": 3941,
       "Blueprint": 4136,
       "Drone": 133,
-      "Special Edition Assets": 598,
+      "Special Edition Assets": 599,
       "Commodity": 2834,
       "Structure": 18,
       "Deployable": 43,
       "Apparel": 970,
       "Accessories": 77,
-      "Personalization": 1589,
+      "Personalization": 1591,
       "Ship": 412,
-      "SKINs": 6884,
+      "SKINs": 6894,
       "Charge": 1015,
       "Skill": 505,
       "Decryptors": 44,
@@ -19369,6 +19369,15 @@
       "categoryName": "SKINs"
     },
     {
+      "typeID": 92379,
+      "name": "Augoror Unbridled Glory SKIN",
+      "volume": 0.01,
+      "groupID": 1950,
+      "groupName": "Permanent SKIN",
+      "categoryID": 91,
+      "categoryName": "SKINs"
+    },
+    {
       "typeID": 76155,
       "name": "Augoror Versus Blueforce SKIN",
       "volume": 0.01,
@@ -23885,6 +23894,15 @@
       "groupName": "Condenser Pack Blueprint",
       "categoryID": 9,
       "categoryName": "Blueprint"
+    },
+    {
+      "typeID": 91987,
+      "name": "Blazing Teal Metallic - Limited",
+      "volume": 0.1,
+      "groupID": 4726,
+      "groupName": "Ship SKIN Design Element",
+      "categoryID": 2118,
+      "categoryName": "Personalization"
     },
     {
       "typeID": 85145,
@@ -72874,6 +72892,15 @@
       "categoryName": "SKINs"
     },
     {
+      "typeID": 92385,
+      "name": "Exequror Navy Issue Unbridled Glory SKIN",
+      "volume": 0.01,
+      "groupID": 1950,
+      "groupName": "Permanent SKIN",
+      "categoryID": 91,
+      "categoryName": "SKINs"
+    },
+    {
       "typeID": 42167,
       "name": "Exequror Serpentis SKIN",
       "volume": 0.01,
@@ -94494,6 +94521,15 @@
     {
       "typeID": 44909,
       "name": "Hecate Spirit SKIN",
+      "volume": 0.01,
+      "groupID": 1950,
+      "groupName": "Permanent SKIN",
+      "categoryID": 91,
+      "categoryName": "SKINs"
+    },
+    {
+      "typeID": 92384,
+      "name": "Hecate Unbridled Glory SKIN",
       "volume": 0.01,
       "groupID": 1950,
       "groupName": "Permanent SKIN",
@@ -123247,6 +123283,15 @@
       "categoryName": "SKINs"
     },
     {
+      "typeID": 92386,
+      "name": "Machariel Unbridled Glory SKIN",
+      "volume": 0.01,
+      "groupID": 1950,
+      "groupName": "Permanent SKIN",
+      "categoryID": 91,
+      "categoryName": "SKINs"
+    },
+    {
       "typeID": 62647,
       "name": "Machariel Versus Blueforce SKIN",
       "volume": 0.01,
@@ -125193,6 +125238,15 @@
     {
       "typeID": 52570,
       "name": "Malediction Star Captain SKIN",
+      "volume": 0.01,
+      "groupID": 1950,
+      "groupName": "Permanent SKIN",
+      "categoryID": 91,
+      "categoryName": "SKINs"
+    },
+    {
+      "typeID": 92381,
+      "name": "Malediction Unbridled Glory SKIN",
       "volume": 0.01,
       "groupID": 1950,
       "groupName": "Permanent SKIN",
@@ -143756,6 +143810,15 @@
       "groupName": "Permanent SKIN",
       "categoryID": 91,
       "categoryName": "SKINs"
+    },
+    {
+      "typeID": 91986,
+      "name": "Momentous Churn - Limited",
+      "volume": 0.1,
+      "groupID": 4726,
+      "groupName": "Ship SKIN Design Element",
+      "categoryID": 2118,
+      "categoryName": "Personalization"
     },
     {
       "typeID": 45511,
@@ -173395,6 +173458,15 @@
       "categoryName": "SKINs"
     },
     {
+      "typeID": 92380,
+      "name": "Retribution Unbridled Glory SKIN",
+      "volume": 0.01,
+      "groupID": 1950,
+      "groupName": "Permanent SKIN",
+      "categoryID": 91,
+      "categoryName": "SKINs"
+    },
+    {
       "typeID": 57156,
       "name": "Retribution Yoiul Star SKIN",
       "volume": 0.01,
@@ -174072,6 +174144,15 @@
     {
       "typeID": 79614,
       "name": "Revelation Navy Issue Sanguinary Savant SKIN",
+      "volume": 0.01,
+      "groupID": 1950,
+      "groupName": "Permanent SKIN",
+      "categoryID": 91,
+      "categoryName": "SKINs"
+    },
+    {
+      "typeID": 92382,
+      "name": "Revelation Navy Issue Unbridled Glory SKIN",
       "volume": 0.01,
       "groupID": 1950,
       "groupName": "Permanent SKIN",
@@ -177843,6 +177924,15 @@
     {
       "typeID": 52581,
       "name": "Sacrilege Star Captain SKIN",
+      "volume": 0.01,
+      "groupID": 1950,
+      "groupName": "Permanent SKIN",
+      "categoryID": 91,
+      "categoryName": "SKINs"
+    },
+    {
+      "typeID": 92383,
+      "name": "Sacrilege Unbridled Glory SKIN",
       "volume": 0.01,
       "groupID": 1950,
       "groupName": "Permanent SKIN",
@@ -217108,6 +217198,15 @@
       "categoryName": "SKINs"
     },
     {
+      "typeID": 92388,
+      "name": "Typhoon Fleet Issue Unbridled Glory SKIN",
+      "volume": 0.01,
+      "groupID": 1950,
+      "groupName": "Permanent SKIN",
+      "categoryID": 91,
+      "categoryName": "SKINs"
+    },
+    {
       "typeID": 64927,
       "name": "Typhoon Fleet Issue Vherokior SKIN",
       "volume": 0.01,
@@ -217781,6 +217880,15 @@
       "groupName": "Commodities",
       "categoryID": 17,
       "categoryName": "Commodity"
+    },
+    {
+      "typeID": 92278,
+      "name": "Unbridled Glory Crate",
+      "volume": 4.0,
+      "groupID": 1194,
+      "groupName": "Special Edition Commodities",
+      "categoryID": 63,
+      "categoryName": "Special Edition Assets"
     },
     {
       "typeID": 87603,
@@ -222186,6 +222294,15 @@
     {
       "typeID": 48564,
       "name": "Vedmak Triglavian Victory SKIN",
+      "volume": 0.01,
+      "groupID": 1950,
+      "groupName": "Permanent SKIN",
+      "categoryID": 91,
+      "categoryName": "SKINs"
+    },
+    {
+      "typeID": 92387,
+      "name": "Vedmak Unbridled Glory SKIN",
       "volume": 0.01,
       "groupID": 1950,
       "groupName": "Permanent SKIN",
