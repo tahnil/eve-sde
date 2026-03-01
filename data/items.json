@@ -1,14 +1,14 @@
 {
   "metadata": {
     "source": "EVE Online SDE",
-    "itemCount": 26417,
+    "itemCount": 26388,
     "categoryCount": 37,
     "itemsWithZeroVolume": 948,
     "categories": {
       "Module": 3941,
       "Blueprint": 4136,
       "Drone": 133,
-      "Special Edition Assets": 599,
+      "Special Edition Assets": 597,
       "Commodity": 2834,
       "Structure": 18,
       "Deployable": 43,
@@ -21,7 +21,7 @@
       "Skill": 505,
       "Decryptors": 44,
       "Asteroid": 447,
-      "Implant": 1265,
+      "Implant": 1238,
       "Starbase": 195,
       "Infrastructure Upgrades": 73,
       "Material": 265,
@@ -21450,15 +21450,6 @@
     {
       "typeID": 72238,
       "name": "Basic 'Boost' Cerebral Accelerator",
-      "volume": 1.0,
-      "groupID": 303,
-      "groupName": "Booster",
-      "categoryID": 20,
-      "categoryName": "Implant"
-    },
-    {
-      "typeID": 90694,
-      "name": "Basic 'Brainfreeze' Cerebral Accelerator",
       "volume": 1.0,
       "groupID": 303,
       "groupName": "Booster",
@@ -74411,15 +74402,6 @@
       "groupName": "Special Edition Commodities",
       "categoryID": 63,
       "categoryName": "Special Edition Assets"
-    },
-    {
-      "typeID": 90696,
-      "name": "Extended 'Brainfreeze' Cerebral Accelerator",
-      "volume": 1.0,
-      "groupID": 303,
-      "groupName": "Booster",
-      "categoryID": 20,
-      "categoryName": "Implant"
     },
     {
       "typeID": 87828,
@@ -160642,15 +160624,6 @@
       "categoryName": "Special Edition Assets"
     },
     {
-      "typeID": 90695,
-      "name": "Potent 'Brainfreeze' Cerebral Accelerator",
-      "volume": 1.0,
-      "groupID": 303,
-      "groupName": "Booster",
-      "categoryID": 20,
-      "categoryName": "Implant"
-    },
-    {
       "typeID": 20510,
       "name": "Potent Viral Agent",
       "volume": 0.5,
@@ -227431,222 +227404,6 @@
       "categoryName": "SKINs"
     },
     {
-      "typeID": 90677,
-      "name": "Wightstorm Cetana Booster I",
-      "volume": 1.0,
-      "groupID": 303,
-      "groupName": "Booster",
-      "categoryID": 20,
-      "categoryName": "Implant"
-    },
-    {
-      "typeID": 90678,
-      "name": "Wightstorm Cetana Booster II",
-      "volume": 1.0,
-      "groupID": 303,
-      "groupName": "Booster",
-      "categoryID": 20,
-      "categoryName": "Implant"
-    },
-    {
-      "typeID": 90679,
-      "name": "Wightstorm Cetana Booster III",
-      "volume": 1.0,
-      "groupID": 303,
-      "groupName": "Booster",
-      "categoryID": 20,
-      "categoryName": "Implant"
-    },
-    {
-      "typeID": 90680,
-      "name": "Wightstorm Cetana Booster IV",
-      "volume": 1.0,
-      "groupID": 303,
-      "groupName": "Booster",
-      "categoryID": 20,
-      "categoryName": "Implant"
-    },
-    {
-      "typeID": 90669,
-      "name": "Wightstorm Manasikara Booster I",
-      "volume": 1.0,
-      "groupID": 303,
-      "groupName": "Booster",
-      "categoryID": 20,
-      "categoryName": "Implant"
-    },
-    {
-      "typeID": 90670,
-      "name": "Wightstorm Manasikara Booster II",
-      "volume": 1.0,
-      "groupID": 303,
-      "groupName": "Booster",
-      "categoryID": 20,
-      "categoryName": "Implant"
-    },
-    {
-      "typeID": 90671,
-      "name": "Wightstorm Manasikara Booster III",
-      "volume": 1.0,
-      "groupID": 303,
-      "groupName": "Booster",
-      "categoryID": 20,
-      "categoryName": "Implant"
-    },
-    {
-      "typeID": 90672,
-      "name": "Wightstorm Manasikara Booster IV",
-      "volume": 1.0,
-      "groupID": 303,
-      "groupName": "Booster",
-      "categoryID": 20,
-      "categoryName": "Implant"
-    },
-    {
-      "typeID": 90686,
-      "name": "Wightstorm Nirvana Booster I",
-      "volume": 1.0,
-      "groupID": 303,
-      "groupName": "Booster",
-      "categoryID": 20,
-      "categoryName": "Implant"
-    },
-    {
-      "typeID": 90687,
-      "name": "Wightstorm Nirvana Booster II",
-      "volume": 1.0,
-      "groupID": 303,
-      "groupName": "Booster",
-      "categoryID": 20,
-      "categoryName": "Implant"
-    },
-    {
-      "typeID": 90688,
-      "name": "Wightstorm Nirvana Booster III",
-      "volume": 1.0,
-      "groupID": 303,
-      "groupName": "Booster",
-      "categoryID": 20,
-      "categoryName": "Implant"
-    },
-    {
-      "typeID": 90689,
-      "name": "Wightstorm Nirvana Booster IV",
-      "volume": 1.0,
-      "groupID": 303,
-      "groupName": "Booster",
-      "categoryID": 20,
-      "categoryName": "Implant"
-    },
-    {
-      "typeID": 90682,
-      "name": "Wightstorm Rapture Booster I",
-      "volume": 1.0,
-      "groupID": 303,
-      "groupName": "Booster",
-      "categoryID": 20,
-      "categoryName": "Implant"
-    },
-    {
-      "typeID": 90683,
-      "name": "Wightstorm Rapture Booster II",
-      "volume": 1.0,
-      "groupID": 303,
-      "groupName": "Booster",
-      "categoryID": 20,
-      "categoryName": "Implant"
-    },
-    {
-      "typeID": 90684,
-      "name": "Wightstorm Rapture Booster III",
-      "volume": 1.0,
-      "groupID": 303,
-      "groupName": "Booster",
-      "categoryID": 20,
-      "categoryName": "Implant"
-    },
-    {
-      "typeID": 90685,
-      "name": "Wightstorm Rapture Booster IV",
-      "volume": 1.0,
-      "groupID": 303,
-      "groupName": "Booster",
-      "categoryID": 20,
-      "categoryName": "Implant"
-    },
-    {
-      "typeID": 90690,
-      "name": "Wightstorm Sunyata Booster I",
-      "volume": 1.0,
-      "groupID": 303,
-      "groupName": "Booster",
-      "categoryID": 20,
-      "categoryName": "Implant"
-    },
-    {
-      "typeID": 90691,
-      "name": "Wightstorm Sunyata Booster II",
-      "volume": 1.0,
-      "groupID": 303,
-      "groupName": "Booster",
-      "categoryID": 20,
-      "categoryName": "Implant"
-    },
-    {
-      "typeID": 90692,
-      "name": "Wightstorm Sunyata Booster III",
-      "volume": 1.0,
-      "groupID": 303,
-      "groupName": "Booster",
-      "categoryID": 20,
-      "categoryName": "Implant"
-    },
-    {
-      "typeID": 90693,
-      "name": "Wightstorm Sunyata Booster IV",
-      "volume": 1.0,
-      "groupID": 303,
-      "groupName": "Booster",
-      "categoryID": 20,
-      "categoryName": "Implant"
-    },
-    {
-      "typeID": 90673,
-      "name": "Wightstorm Vitarka Booster I",
-      "volume": 1.0,
-      "groupID": 303,
-      "groupName": "Booster",
-      "categoryID": 20,
-      "categoryName": "Implant"
-    },
-    {
-      "typeID": 90674,
-      "name": "Wightstorm Vitarka Booster II",
-      "volume": 1.0,
-      "groupID": 303,
-      "groupName": "Booster",
-      "categoryID": 20,
-      "categoryName": "Implant"
-    },
-    {
-      "typeID": 90675,
-      "name": "Wightstorm Vitarka Booster III",
-      "volume": 1.0,
-      "groupID": 303,
-      "groupName": "Booster",
-      "categoryID": 20,
-      "categoryName": "Implant"
-    },
-    {
-      "typeID": 90676,
-      "name": "Wightstorm Vitarka Booster IV",
-      "volume": 1.0,
-      "groupID": 303,
-      "groupName": "Booster",
-      "categoryID": 20,
-      "categoryName": "Implant"
-    },
-    {
       "typeID": 87841,
       "name": "Wild Warren - Limited",
       "volume": 0.1,
@@ -234706,24 +234463,6 @@
       "typeID": 85310,
       "name": "Yoiul Festival Apparel Crate",
       "volume": 0,
-      "groupID": 1194,
-      "groupName": "Special Edition Commodities",
-      "categoryID": 63,
-      "categoryName": "Special Edition Assets"
-    },
-    {
-      "typeID": 90737,
-      "name": "Yoiul Festival Booster Crate",
-      "volume": 1.0,
-      "groupID": 1194,
-      "groupName": "Special Edition Commodities",
-      "categoryID": 63,
-      "categoryName": "Special Edition Assets"
-    },
-    {
-      "typeID": 90738,
-      "name": "Yoiul Festival Brainfreeze Crate",
-      "volume": 1.0,
       "groupID": 1194,
       "groupName": "Special Edition Commodities",
       "categoryID": 63,
