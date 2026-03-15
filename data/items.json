@@ -1,7 +1,7 @@
 {
   "metadata": {
     "source": "EVE Online SDE",
-    "itemCount": 26388,
+    "itemCount": 26394,
     "categoryCount": 37,
     "itemsWithZeroVolume": 948,
     "categories": {
@@ -16,7 +16,7 @@
       "Accessories": 77,
       "Personalization": 1591,
       "Ship": 412,
-      "SKINs": 6894,
+      "SKINs": 6900,
       "Charge": 1015,
       "Skill": 505,
       "Decryptors": 44,
@@ -17958,6 +17958,15 @@
     {
       "typeID": 37576,
       "name": "Astarte Valimor Legacy SKIN",
+      "volume": 0.01,
+      "groupID": 1950,
+      "groupName": "Permanent SKIN",
+      "categoryID": 91,
+      "categoryName": "SKINs"
+    },
+    {
+      "typeID": 92666,
+      "name": "Astarte Zydrine Burn SKIN",
       "volume": 0.01,
       "groupID": 1950,
       "groupName": "Permanent SKIN",
@@ -41412,6 +41421,15 @@
     {
       "typeID": 62021,
       "name": "Cheetah Versus Redforce SKIN",
+      "volume": 0.01,
+      "groupID": 1950,
+      "groupName": "Permanent SKIN",
+      "categoryID": 91,
+      "categoryName": "SKINs"
+    },
+    {
+      "typeID": 92661,
+      "name": "Cheetah Zydrine Burn SKIN",
       "volume": 0.01,
       "groupID": 1950,
       "groupName": "Permanent SKIN",
@@ -95374,6 +95392,15 @@
       "categoryName": "SKINs"
     },
     {
+      "typeID": 92662,
+      "name": "Heretic Zydrine Burn SKIN",
+      "volume": 0.01,
+      "groupID": 1950,
+      "groupName": "Permanent SKIN",
+      "categoryID": 91,
+      "categoryName": "SKINs"
+    },
+    {
       "typeID": 41414,
       "name": "Hermes Compact Fighter Support Unit",
       "volume": 4000.0,
@@ -98085,6 +98112,15 @@
     {
       "typeID": 77887,
       "name": "Hubris Luminaire Rising SKIN",
+      "volume": 0.01,
+      "groupID": 1950,
+      "groupName": "Permanent SKIN",
+      "categoryID": 91,
+      "categoryName": "SKINs"
+    },
+    {
+      "typeID": 92667,
+      "name": "Hubris Zydrine Burn SKIN",
       "volume": 0.01,
       "groupID": 1950,
       "groupName": "Permanent SKIN",
@@ -175789,6 +175825,15 @@
       "categoryName": "SKINs"
     },
     {
+      "typeID": 92663,
+      "name": "Rook Zydrine Burn SKIN",
+      "volume": 0.01,
+      "groupID": 1950,
+      "groupName": "Permanent SKIN",
+      "categoryID": 91,
+      "categoryName": "SKINs"
+    },
+    {
       "typeID": 34422,
       "name": "Rooks & Kings - The Clarion Call Compilation",
       "volume": 3.0,
@@ -227397,6 +227442,15 @@
     {
       "typeID": 53192,
       "name": "Widow Zento Isideko Combine SKIN",
+      "volume": 0.01,
+      "groupID": 1950,
+      "groupName": "Permanent SKIN",
+      "categoryID": 91,
+      "categoryName": "SKINs"
+    },
+    {
+      "typeID": 92664,
+      "name": "Widow Zydrine Burn SKIN",
       "volume": 0.01,
       "groupID": 1950,
       "groupName": "Permanent SKIN",
