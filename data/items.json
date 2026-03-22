@@ -1,32 +1,32 @@
 {
   "metadata": {
     "source": "EVE Online SDE",
-    "itemCount": 26394,
+    "itemCount": 26506,
     "categoryCount": 37,
     "itemsWithZeroVolume": 948,
     "categories": {
-      "Module": 3941,
-      "Blueprint": 4136,
-      "Drone": 133,
-      "Special Edition Assets": 597,
-      "Commodity": 2834,
+      "Module": 3948,
+      "Blueprint": 4140,
+      "Drone": 151,
+      "Special Edition Assets": 604,
+      "Commodity": 2837,
       "Structure": 18,
-      "Deployable": 43,
-      "Apparel": 970,
+      "Deployable": 44,
+      "Apparel": 975,
       "Accessories": 77,
-      "Personalization": 1591,
-      "Ship": 412,
-      "SKINs": 6900,
-      "Charge": 1015,
-      "Skill": 505,
+      "Personalization": 1611,
+      "Ship": 415,
+      "SKINs": 6910,
+      "Charge": 1017,
+      "Skill": 510,
       "Decryptors": 44,
       "Asteroid": 447,
-      "Implant": 1238,
+      "Implant": 1265,
       "Starbase": 195,
       "Infrastructure Upgrades": 73,
       "Material": 265,
-      "Expert Systems": 29,
-      "Celestial": 223,
+      "Expert Systems": 30,
+      "Celestial": 222,
       "Fighter": 94,
       "Planetary Resources": 15,
       "Structure Module": 356,
@@ -10585,6 +10585,15 @@
       "categoryName": "Skill"
     },
     {
+      "typeID": 92397,
+      "name": "Amarr Fighter Specialization",
+      "volume": 0.01,
+      "groupID": 273,
+      "groupName": "Drones",
+      "categoryID": 16,
+      "categoryName": "Skill"
+    },
+    {
       "typeID": 3036,
       "name": "Amarr Forensic Investigative Deployment",
       "volume": 400.0,
@@ -14896,6 +14905,15 @@
       "categoryName": "Planetary Resources"
     },
     {
+      "typeID": 92035,
+      "name": "Arabellata SW-900-I",
+      "volume": 25.0,
+      "groupID": 100,
+      "groupName": "Combat Drone",
+      "categoryID": 18,
+      "categoryName": "Drone"
+    },
+    {
       "typeID": 23935,
       "name": "Aradim Arachnan's Head",
       "volume": 0.1,
@@ -18496,6 +18514,15 @@
       "categoryName": "Structure Module"
     },
     {
+      "typeID": 92466,
+      "name": "Atlas SD-900",
+      "volume": 25.0,
+      "groupID": 100,
+      "groupName": "Combat Drone",
+      "categoryID": 18,
+      "categoryName": "Drone"
+    },
+    {
       "typeID": 16634,
       "name": "Atmospheric Gases",
       "volume": 0.05,
@@ -21459,6 +21486,15 @@
     {
       "typeID": 72238,
       "name": "Basic 'Boost' Cerebral Accelerator",
+      "volume": 1.0,
+      "groupID": 303,
+      "groupName": "Booster",
+      "categoryID": 20,
+      "categoryName": "Implant"
+    },
+    {
+      "typeID": 92158,
+      "name": "Basic 'Demos' Cerebral Accelerator",
       "volume": 1.0,
       "groupID": 303,
       "groupName": "Booster",
@@ -28639,6 +28675,24 @@
       "categoryName": "Blueprint"
     },
     {
+      "typeID": 92183,
+      "name": "CONCORD-Carrier Rogue Analysis Beacon",
+      "volume": 100.0,
+      "groupID": 4137,
+      "groupName": "Mobile Analysis Beacon",
+      "categoryID": 22,
+      "categoryName": "Deployable"
+    },
+    {
+      "typeID": 92182,
+      "name": "CONCORD-Carrier Rogue Analysis Beacon Blueprint",
+      "volume": 0.01,
+      "groupID": 4141,
+      "groupName": "Mobile Analysis Beacon Blueprint",
+      "categoryID": 9,
+      "categoryName": "Blueprint"
+    },
+    {
       "typeID": 90697,
       "name": "CPD-10N Nullsec Ice Storm Filament",
       "volume": 0.1,
@@ -28889,6 +28943,24 @@
       "groupName": "Moon Materials",
       "categoryID": 4,
       "categoryName": "Material"
+    },
+    {
+      "typeID": 92589,
+      "name": "Caille Steel Metallic - Limited",
+      "volume": 0.1,
+      "groupID": 4726,
+      "groupName": "Ship SKIN Design Element",
+      "categoryID": 2118,
+      "categoryName": "Personalization"
+    },
+    {
+      "typeID": 92590,
+      "name": "Caille Steel Metallic - Unlimited",
+      "volume": 0.1,
+      "groupID": 4726,
+      "groupName": "Ship SKIN Design Element",
+      "categoryID": 2118,
+      "categoryName": "Personalization"
     },
     {
       "typeID": 45647,
@@ -29256,6 +29328,15 @@
       "volume": 0.01,
       "groupID": 270,
       "groupName": "Science",
+      "categoryID": 16,
+      "categoryName": "Skill"
+    },
+    {
+      "typeID": 92400,
+      "name": "Caldari Fighter Specialization",
+      "volume": 0.01,
+      "groupID": 273,
+      "groupName": "Drones",
       "categoryID": 16,
       "categoryName": "Skill"
     },
@@ -32768,6 +32849,15 @@
       "groupName": "Advanced Capital Construction Component Blueprints",
       "categoryID": 9,
       "categoryName": "Blueprint"
+    },
+    {
+      "typeID": 92541,
+      "name": "Capital Disintegrator Specialization",
+      "volume": 0.01,
+      "groupID": 255,
+      "groupName": "Gunnery",
+      "categoryID": 16,
+      "categoryName": "Skill"
     },
     {
       "typeID": 24556,
@@ -42265,6 +42355,24 @@
       "categoryName": "Personalization"
     },
     {
+      "typeID": 92579,
+      "name": "Civic Ember Matte - Limited",
+      "volume": 0.1,
+      "groupID": 4726,
+      "groupName": "Ship SKIN Design Element",
+      "categoryID": 2118,
+      "categoryName": "Personalization"
+    },
+    {
+      "typeID": 92580,
+      "name": "Civic Ember Matte - Unlimited",
+      "volume": 0.1,
+      "groupID": 4726,
+      "groupName": "Ship SKIN Design Element",
+      "categoryID": 2118,
+      "categoryName": "Personalization"
+    },
+    {
       "typeID": 21853,
       "name": "Civilian Armor Repairer",
       "volume": 5.0,
@@ -47676,7 +47784,7 @@
     {
       "typeID": 81383,
       "name": "Contraband Data",
-      "volume": 5.0,
+      "volume": 0.01,
       "groupID": 4575,
       "groupName": "Homefront Operations Commodity",
       "categoryID": 17,
@@ -57187,6 +57295,15 @@
       "categoryName": "Personalization"
     },
     {
+      "typeID": 92462,
+      "name": "Darter TP-600-I",
+      "volume": 10.0,
+      "groupID": 100,
+      "groupName": "Combat Drone",
+      "categoryID": 18,
+      "categoryName": "Drone"
+    },
+    {
       "typeID": 22175,
       "name": "Data Analyzer I",
       "volume": 5.0,
@@ -59858,6 +59975,24 @@
       "groupName": "Miscellaneous",
       "categoryID": 17,
       "categoryName": "Commodity"
+    },
+    {
+      "typeID": 92581,
+      "name": "Diverse Unakite Matte - Limited",
+      "volume": 0.1,
+      "groupID": 4726,
+      "groupName": "Ship SKIN Design Element",
+      "categoryID": 2118,
+      "categoryName": "Personalization"
+    },
+    {
+      "typeID": 92582,
+      "name": "Diverse Unakite Matte - Unlimited",
+      "volume": 0.1,
+      "groupID": 4726,
+      "groupName": "Ship SKIN Design Element",
+      "categoryID": 2118,
+      "categoryName": "Personalization"
     },
     {
       "typeID": 84172,
@@ -65449,6 +65584,15 @@
       "categoryName": "Skill"
     },
     {
+      "typeID": 92149,
+      "name": "Drone Iteration Data",
+      "volume": 0.1,
+      "groupID": 4843,
+      "groupName": "Limited Rarities",
+      "categoryID": 17,
+      "categoryName": "Commodity"
+    },
+    {
       "typeID": 91390,
       "name": "Drone Lands Evacuation Plans",
       "volume": 1.0,
@@ -70543,6 +70687,15 @@
       "categoryName": "SKINs"
     },
     {
+      "typeID": 93069,
+      "name": "Enyo Pride of the Federation SKIN",
+      "volume": 0.01,
+      "groupID": 1950,
+      "groupName": "Permanent SKIN",
+      "categoryID": 91,
+      "categoryName": "SKINs"
+    },
+    {
       "typeID": 42153,
       "name": "Enyo Serpentis SKIN",
       "volume": 0.01,
@@ -70860,6 +71013,15 @@
     {
       "typeID": 48656,
       "name": "Epithal Planetary Extraction",
+      "volume": 0.01,
+      "groupID": 1950,
+      "groupName": "Permanent SKIN",
+      "categoryID": 91,
+      "categoryName": "SKINs"
+    },
+    {
+      "typeID": 93073,
+      "name": "Epithal Pride of the Federation SKIN",
       "volume": 0.01,
       "groupID": 1950,
       "groupName": "Permanent SKIN",
@@ -71436,6 +71598,15 @@
     {
       "typeID": 89119,
       "name": "Eris Luminaire Rising SKIN",
+      "volume": 0.01,
+      "groupID": 1950,
+      "groupName": "Permanent SKIN",
+      "categoryID": 91,
+      "categoryName": "SKINs"
+    },
+    {
+      "typeID": 93078,
+      "name": "Eris Pride of the Federation SKIN",
       "volume": 0.01,
       "groupID": 1950,
       "groupName": "Permanent SKIN",
@@ -74422,6 +74593,15 @@
       "categoryName": "Special Edition Assets"
     },
     {
+      "typeID": 92160,
+      "name": "Extended 'Demos' Cerebral Accelerator",
+      "volume": 1.0,
+      "groupID": 303,
+      "groupName": "Booster",
+      "categoryID": 20,
+      "categoryName": "Implant"
+    },
+    {
       "typeID": 87828,
       "name": "Extracted Butter Satin - Limited",
       "volume": 0.1,
@@ -75025,6 +75205,15 @@
       "categoryName": "Commodity"
     },
     {
+      "typeID": 92180,
+      "name": "Federal Defender Apparel Crate",
+      "volume": 1.0,
+      "groupID": 1194,
+      "groupName": "Special Edition Commodities",
+      "categoryID": 63,
+      "categoryName": "Special Edition Assets"
+    },
+    {
       "typeID": 77947,
       "name": "Federal Encryption Key",
       "volume": 0.01,
@@ -75050,6 +75239,60 @@
       "groupName": "Miscellaneous",
       "categoryID": 17,
       "categoryName": "Commodity"
+    },
+    {
+      "typeID": 92021,
+      "name": "Federation Application Booster I",
+      "volume": 1.0,
+      "groupID": 303,
+      "groupName": "Booster",
+      "categoryID": 20,
+      "categoryName": "Implant"
+    },
+    {
+      "typeID": 92022,
+      "name": "Federation Application Booster II",
+      "volume": 1.0,
+      "groupID": 303,
+      "groupName": "Booster",
+      "categoryID": 20,
+      "categoryName": "Implant"
+    },
+    {
+      "typeID": 92023,
+      "name": "Federation Application Booster III",
+      "volume": 1.0,
+      "groupID": 303,
+      "groupName": "Booster",
+      "categoryID": 20,
+      "categoryName": "Implant"
+    },
+    {
+      "typeID": 92024,
+      "name": "Federation Application Booster IV",
+      "volume": 1.0,
+      "groupID": 303,
+      "groupName": "Booster",
+      "categoryID": 20,
+      "categoryName": "Implant"
+    },
+    {
+      "typeID": 92573,
+      "name": "Federation Ascent - Limited",
+      "volume": 0.1,
+      "groupID": 4726,
+      "groupName": "Ship SKIN Design Element",
+      "categoryID": 2118,
+      "categoryName": "Personalization"
+    },
+    {
+      "typeID": 92574,
+      "name": "Federation Ascent - Unlimited",
+      "volume": 0.1,
+      "groupID": 4726,
+      "groupName": "Ship SKIN Design Element",
+      "categoryID": 2118,
+      "categoryName": "Personalization"
     },
     {
       "typeID": 43678,
@@ -75079,6 +75322,42 @@
       "categoryName": "Commodity"
     },
     {
+      "typeID": 92029,
+      "name": "Federation Damage Booster I",
+      "volume": 1.0,
+      "groupID": 303,
+      "groupName": "Booster",
+      "categoryID": 20,
+      "categoryName": "Implant"
+    },
+    {
+      "typeID": 92030,
+      "name": "Federation Damage Booster II",
+      "volume": 1.0,
+      "groupID": 303,
+      "groupName": "Booster",
+      "categoryID": 20,
+      "categoryName": "Implant"
+    },
+    {
+      "typeID": 92031,
+      "name": "Federation Damage Booster III",
+      "volume": 1.0,
+      "groupID": 303,
+      "groupName": "Booster",
+      "categoryID": 20,
+      "categoryName": "Implant"
+    },
+    {
+      "typeID": 92032,
+      "name": "Federation Damage Booster IV",
+      "volume": 1.0,
+      "groupID": 303,
+      "groupName": "Booster",
+      "categoryID": 20,
+      "categoryName": "Implant"
+    },
+    {
       "typeID": 55746,
       "name": "Federation Day Clothing Crate",
       "volume": 0.1,
@@ -75086,6 +75365,42 @@
       "groupName": "Special Edition Commodities",
       "categoryID": 63,
       "categoryName": "Special Edition Assets"
+    },
+    {
+      "typeID": 92006,
+      "name": "Federation Defense Booster I",
+      "volume": 1.0,
+      "groupID": 303,
+      "groupName": "Booster",
+      "categoryID": 20,
+      "categoryName": "Implant"
+    },
+    {
+      "typeID": 92017,
+      "name": "Federation Defense Booster II",
+      "volume": 1.0,
+      "groupID": 303,
+      "groupName": "Booster",
+      "categoryID": 20,
+      "categoryName": "Implant"
+    },
+    {
+      "typeID": 92018,
+      "name": "Federation Defense Booster III",
+      "volume": 1.0,
+      "groupID": 303,
+      "groupName": "Booster",
+      "categoryID": 20,
+      "categoryName": "Implant"
+    },
+    {
+      "typeID": 92019,
+      "name": "Federation Defense Booster IV",
+      "volume": 1.0,
+      "groupID": 303,
+      "groupName": "Booster",
+      "categoryID": 20,
+      "categoryName": "Implant"
     },
     {
       "typeID": 32891,
@@ -75097,6 +75412,42 @@
       "categoryName": "Commodity"
     },
     {
+      "typeID": 92002,
+      "name": "Federation Electronics Booster I",
+      "volume": 1.0,
+      "groupID": 303,
+      "groupName": "Booster",
+      "categoryID": 20,
+      "categoryName": "Implant"
+    },
+    {
+      "typeID": 92003,
+      "name": "Federation Electronics Booster II",
+      "volume": 1.0,
+      "groupID": 303,
+      "groupName": "Booster",
+      "categoryID": 20,
+      "categoryName": "Implant"
+    },
+    {
+      "typeID": 92004,
+      "name": "Federation Electronics Booster III",
+      "volume": 1.0,
+      "groupID": 303,
+      "groupName": "Booster",
+      "categoryID": 20,
+      "categoryName": "Implant"
+    },
+    {
+      "typeID": 92005,
+      "name": "Federation Electronics Booster IV",
+      "volume": 1.0,
+      "groupID": 303,
+      "groupName": "Booster",
+      "categoryID": 20,
+      "categoryName": "Implant"
+    },
+    {
       "typeID": 32887,
       "name": "Federation Emissary Medallion",
       "volume": 0.1,
@@ -75104,6 +75455,24 @@
       "groupName": "Miscellaneous",
       "categoryID": 17,
       "categoryName": "Commodity"
+    },
+    {
+      "typeID": 92575,
+      "name": "Federation Field - Limited",
+      "volume": 0.1,
+      "groupID": 4726,
+      "groupName": "Ship SKIN Design Element",
+      "categoryID": 2118,
+      "categoryName": "Personalization"
+    },
+    {
+      "typeID": 92576,
+      "name": "Federation Field - Unlimited",
+      "volume": 0.1,
+      "groupID": 4726,
+      "groupName": "Ship SKIN Design Element",
+      "categoryID": 2118,
+      "categoryName": "Personalization"
     },
     {
       "typeID": 48375,
@@ -75167,6 +75536,42 @@
       "groupName": "Special Edition Commodities",
       "categoryID": 63,
       "categoryName": "Special Edition Assets"
+    },
+    {
+      "typeID": 91998,
+      "name": "Federation Mobility Booster I",
+      "volume": 1.0,
+      "groupID": 303,
+      "groupName": "Booster",
+      "categoryID": 20,
+      "categoryName": "Implant"
+    },
+    {
+      "typeID": 91999,
+      "name": "Federation Mobility Booster II",
+      "volume": 1.0,
+      "groupID": 303,
+      "groupName": "Booster",
+      "categoryID": 20,
+      "categoryName": "Implant"
+    },
+    {
+      "typeID": 92000,
+      "name": "Federation Mobility Booster III",
+      "volume": 1.0,
+      "groupID": 303,
+      "groupName": "Booster",
+      "categoryID": 20,
+      "categoryName": "Implant"
+    },
+    {
+      "typeID": 92001,
+      "name": "Federation Mobility Booster IV",
+      "volume": 1.0,
+      "groupID": 303,
+      "groupName": "Booster",
+      "categoryID": 20,
+      "categoryName": "Implant"
     },
     {
       "typeID": 15770,
@@ -76688,6 +77093,42 @@
       "groupName": "Warp Scrambler",
       "categoryID": 7,
       "categoryName": "Module"
+    },
+    {
+      "typeID": 92025,
+      "name": "Federation Projection Booster I",
+      "volume": 1.0,
+      "groupID": 303,
+      "groupName": "Booster",
+      "categoryID": 20,
+      "categoryName": "Implant"
+    },
+    {
+      "typeID": 92026,
+      "name": "Federation Projection Booster II",
+      "volume": 1.0,
+      "groupID": 303,
+      "groupName": "Booster",
+      "categoryID": 20,
+      "categoryName": "Implant"
+    },
+    {
+      "typeID": 92027,
+      "name": "Federation Projection Booster III",
+      "volume": 1.0,
+      "groupID": 303,
+      "groupName": "Booster",
+      "categoryID": 20,
+      "categoryName": "Implant"
+    },
+    {
+      "typeID": 92028,
+      "name": "Federation Projection Booster IV",
+      "volume": 1.0,
+      "groupID": 303,
+      "groupName": "Booster",
+      "categoryID": 20,
+      "categoryName": "Implant"
     },
     {
       "typeID": 76216,
@@ -78326,15 +78767,6 @@
       "groupName": "Drones",
       "categoryID": 16,
       "categoryName": "Skill"
-    },
-    {
-      "typeID": 87164,
-      "name": "Final Liminality",
-      "volume": 20.0,
-      "groupID": 920,
-      "groupName": "Effect Beacon",
-      "categoryID": 2,
-      "categoryName": "Celestial"
     },
     {
       "typeID": 22141,
@@ -80398,6 +80830,60 @@
       "categoryName": "Implant"
     },
     {
+      "typeID": 92181,
+      "name": "Gallente Election Booster Crate",
+      "volume": 1.0,
+      "groupID": 1194,
+      "groupName": "Special Edition Commodities",
+      "categoryID": 63,
+      "categoryName": "Special Edition Assets"
+    },
+    {
+      "typeID": 92161,
+      "name": "Gallente Election Cerebral Accelerator Crate",
+      "volume": 1.0,
+      "groupID": 1194,
+      "groupName": "Special Edition Commodities",
+      "categoryID": 63,
+      "categoryName": "Special Edition Assets"
+    },
+    {
+      "typeID": 92958,
+      "name": "Gallente Election Expert System",
+      "volume": 1.0,
+      "groupID": 4098,
+      "groupName": "Promotional Expert Systems",
+      "categoryID": 2100,
+      "categoryName": "Expert Systems"
+    },
+    {
+      "typeID": 92375,
+      "name": "Gallente Election SKINr Crate",
+      "volume": 1.0,
+      "groupID": 1194,
+      "groupName": "Special Edition Commodities",
+      "categoryID": 63,
+      "categoryName": "Special Edition Assets"
+    },
+    {
+      "typeID": 92269,
+      "name": "Gallente Election System Wide Effect (DO NOT TRANSLATE)",
+      "volume": 20.0,
+      "groupID": 920,
+      "groupName": "Effect Beacon",
+      "categoryID": 2,
+      "categoryName": "Celestial"
+    },
+    {
+      "typeID": 92092,
+      "name": "Gallente Election Y128 SKINs Crate",
+      "volume": 1.0,
+      "groupID": 1194,
+      "groupName": "Special Edition Commodities",
+      "categoryID": 63,
+      "categoryName": "Special Edition Assets"
+    },
+    {
       "typeID": 73404,
       "name": "Gallente Encoder Splice",
       "volume": 0.1,
@@ -80459,6 +80945,15 @@
       "groupName": "Miscellaneous",
       "categoryID": 17,
       "categoryName": "Commodity"
+    },
+    {
+      "typeID": 92398,
+      "name": "Gallente Fighter Specialization",
+      "volume": 0.01,
+      "groupID": 273,
+      "groupName": "Drones",
+      "categoryID": 16,
+      "categoryName": "Skill"
     },
     {
       "typeID": 20527,
@@ -98821,6 +99316,15 @@
       "categoryName": "Skill"
     },
     {
+      "typeID": 92041,
+      "name": "Humboldt EC-900-I",
+      "volume": 25.0,
+      "groupID": 100,
+      "groupName": "Combat Drone",
+      "categoryID": 18,
+      "categoryName": "Drone"
+    },
+    {
       "typeID": 63677,
       "name": "Hunt Booster Crate",
       "volume": 1.0,
@@ -98837,6 +99341,15 @@
       "groupName": "Acceleration Gate Keys",
       "categoryID": 17,
       "categoryName": "Commodity"
+    },
+    {
+      "typeID": 92034,
+      "name": "Huntsman SW-600-I",
+      "volume": 10.0,
+      "groupID": 100,
+      "groupName": "Combat Drone",
+      "categoryID": 18,
+      "categoryName": "Drone"
     },
     {
       "typeID": 24702,
@@ -99863,6 +100376,15 @@
       "groupName": "Ship SKIN Design Element",
       "categoryID": 2118,
       "categoryName": "Personalization"
+    },
+    {
+      "typeID": 92179,
+      "name": "Hyper-Vigilance Core",
+      "volume": 0.01,
+      "groupID": 5068,
+      "groupName": "Vigilance Point Data",
+      "categoryID": 17,
+      "categoryName": "Commodity"
     },
     {
       "typeID": 52568,
@@ -101231,6 +101753,15 @@
       "groupName": "Permanent SKIN",
       "categoryID": 91,
       "categoryName": "SKINs"
+    },
+    {
+      "typeID": 92468,
+      "name": "Immaculate TD-600",
+      "volume": 10.0,
+      "groupID": 100,
+      "groupName": "Combat Drone",
+      "categoryID": 18,
+      "categoryName": "Drone"
     },
     {
       "typeID": 615,
@@ -106390,6 +106921,15 @@
       "categoryName": "SKINs"
     },
     {
+      "typeID": 92039,
+      "name": "Inshore EC-300-I",
+      "volume": 5.0,
+      "groupID": 100,
+      "groupName": "Combat Drone",
+      "categoryID": 18,
+      "categoryName": "Drone"
+    },
+    {
       "typeID": 84178,
       "name": "Insightful Azure Metallic - Limited",
       "volume": 0.1,
@@ -106563,6 +107103,24 @@
     {
       "typeID": 84014,
       "name": "Intaki Emerald Metallic - Limited",
+      "volume": 0.1,
+      "groupID": 4726,
+      "groupName": "Ship SKIN Design Element",
+      "categoryID": 2118,
+      "categoryName": "Personalization"
+    },
+    {
+      "typeID": 92591,
+      "name": "Intaki Obsidian Metallic - Limited",
+      "volume": 0.1,
+      "groupID": 4726,
+      "groupName": "Ship SKIN Design Element",
+      "categoryID": 2118,
+      "categoryName": "Personalization"
+    },
+    {
+      "typeID": 92592,
+      "name": "Intaki Obsidian Metallic - Unlimited",
       "volume": 0.1,
       "groupID": 4726,
       "groupName": "Ship SKIN Design Element",
@@ -112440,6 +112998,15 @@
     {
       "typeID": 46413,
       "name": "Lachesis Kopis Edge SKIN",
+      "volume": 0.01,
+      "groupID": 1950,
+      "groupName": "Permanent SKIN",
+      "categoryID": 91,
+      "categoryName": "SKINs"
+    },
+    {
+      "typeID": 93070,
+      "name": "Lachesis Pride of the Federation SKIN",
       "volume": 0.01,
       "groupID": 1950,
       "groupName": "Permanent SKIN",
@@ -122896,6 +123463,15 @@
       "categoryName": "Special Edition Assets"
     },
     {
+      "typeID": 92465,
+      "name": "Luna SD-600",
+      "volume": 10.0,
+      "groupID": 100,
+      "groupName": "Combat Drone",
+      "categoryID": 18,
+      "categoryName": "Drone"
+    },
+    {
       "typeID": 11736,
       "name": "Lustering Alloy",
       "volume": 1.0,
@@ -132418,6 +132994,15 @@
       "categoryName": "Module"
     },
     {
+      "typeID": 92463,
+      "name": "Meganeura TP-900-I",
+      "volume": 25.0,
+      "groupID": 100,
+      "groupName": "Combat Drone",
+      "categoryID": 18,
+      "categoryName": "Drone"
+    },
+    {
       "typeID": 641,
       "name": "Megathron",
       "volume": 470000.0,
@@ -132870,6 +133455,15 @@
     {
       "typeID": 76246,
       "name": "Megathron Navy Issue Penumbral Shadows SKIN",
+      "volume": 0.01,
+      "groupID": 1950,
+      "groupName": "Permanent SKIN",
+      "categoryID": 91,
+      "categoryName": "SKINs"
+    },
+    {
+      "typeID": 93076,
+      "name": "Megathron Navy Issue Pride of the Federation SKIN",
       "volume": 0.01,
       "groupID": 1950,
       "groupName": "Permanent SKIN",
@@ -136785,6 +137379,15 @@
     {
       "typeID": 37864,
       "name": "Men's Scope Network Special Correspondent Suit",
+      "volume": 0.1,
+      "groupID": 1088,
+      "groupName": "Outer",
+      "categoryID": 30,
+      "categoryName": "Apparel"
+    },
+    {
+      "typeID": 92644,
+      "name": "Men's Select Freedom Combat Suit",
       "volume": 0.1,
       "groupID": 1088,
       "groupName": "Outer",
@@ -141211,6 +141814,15 @@
       "categoryName": "Skill"
     },
     {
+      "typeID": 92399,
+      "name": "Minmatar Fighter Specialization",
+      "volume": 0.01,
+      "groupID": 273,
+      "groupName": "Drones",
+      "categoryID": 16,
+      "categoryName": "Skill"
+    },
+    {
       "typeID": 15674,
       "name": "Minmatar Freedom Fighter Insignia I",
       "volume": 0.1,
@@ -144028,6 +144640,33 @@
       "categoryName": "Commodity"
     },
     {
+      "typeID": 92283,
+      "name": "Moreau YC128 Campaign Bus",
+      "volume": 115000.0,
+      "groupID": 5087,
+      "groupName": "Gallente Election YC128 Campaign Buses",
+      "categoryID": 6,
+      "categoryName": "Ship"
+    },
+    {
+      "typeID": 92554,
+      "name": "Moreau’s Gallente Background",
+      "volume": 0.1,
+      "groupID": 5082,
+      "groupName": "Portrait Backgrounds",
+      "categoryID": 30,
+      "categoryName": "Apparel"
+    },
+    {
+      "typeID": 92453,
+      "name": "Moreau’s Modified Expanded Scan Probe Launcher",
+      "volume": 5.0,
+      "groupID": 481,
+      "groupName": "Scan Probe Launcher",
+      "categoryID": 7,
+      "categoryName": "Module"
+    },
+    {
       "typeID": 19724,
       "name": "Moros",
       "volume": 17550000.0,
@@ -144368,6 +145007,15 @@
       "groupName": "Mineral",
       "categoryID": 4,
       "categoryName": "Material"
+    },
+    {
+      "typeID": 92037,
+      "name": "Mosquito EV-600-I",
+      "volume": 10.0,
+      "groupID": 100,
+      "groupName": "Combat Drone",
+      "categoryID": 18,
+      "categoryName": "Drone"
     },
     {
       "typeID": 88486,
@@ -145423,6 +146071,15 @@
       "categoryName": "SKINs"
     },
     {
+      "typeID": 93075,
+      "name": "Myrmidon Navy Issue Pride of the Federation SKIN",
+      "volume": 0.01,
+      "groupID": 1950,
+      "groupName": "Permanent SKIN",
+      "categoryID": 91,
+      "categoryName": "SKINs"
+    },
+    {
       "typeID": 73878,
       "name": "Myrmidon Navy Issue Versus Redforce SKIN",
       "volume": 0.01,
@@ -145560,6 +146217,24 @@
     {
       "typeID": 48101,
       "name": "Mystic S Blueprint",
+      "volume": 0.01,
+      "groupID": 1994,
+      "groupName": "Advanced Exotic Plasma Charge Blueprint",
+      "categoryID": 9,
+      "categoryName": "Blueprint"
+    },
+    {
+      "typeID": 92952,
+      "name": "Mystic XL",
+      "volume": 0.01,
+      "groupID": 1989,
+      "groupName": "Advanced Exotic Plasma Charge",
+      "categoryID": 8,
+      "categoryName": "Charge"
+    },
+    {
+      "typeID": 92957,
+      "name": "Mystic XL Blueprint",
       "volume": 0.01,
       "groupID": 1994,
       "groupName": "Advanced Exotic Plasma Charge Blueprint",
@@ -147761,6 +148436,15 @@
       "groupName": "Permanent SKIN",
       "categoryID": 91,
       "categoryName": "SKINs"
+    },
+    {
+      "typeID": 92040,
+      "name": "Nertic EC-600-I",
+      "volume": 10.0,
+      "groupID": 100,
+      "groupName": "Combat Drone",
+      "categoryID": 18,
+      "categoryName": "Drone"
     },
     {
       "typeID": 3703,
@@ -151768,6 +152452,24 @@
       "categoryName": "Blueprint"
     },
     {
+      "typeID": 92954,
+      "name": "Occult XL",
+      "volume": 0.01,
+      "groupID": 1989,
+      "groupName": "Advanced Exotic Plasma Charge",
+      "categoryID": 8,
+      "categoryName": "Charge"
+    },
+    {
+      "typeID": 92956,
+      "name": "Occult XL Blueprint",
+      "volume": 0.01,
+      "groupID": 1994,
+      "groupName": "Advanced Exotic Plasma Charge Blueprint",
+      "categoryID": 9,
+      "categoryName": "Blueprint"
+    },
+    {
       "typeID": 2485,
       "name": "Oceanic Advanced Industry Facility",
       "volume": 0,
@@ -153343,6 +154045,15 @@
       "categoryName": "SKINs"
     },
     {
+      "typeID": 93074,
+      "name": "Oneiros Pride of the Federation SKIN",
+      "volume": 0.01,
+      "groupID": 1950,
+      "groupName": "Permanent SKIN",
+      "categoryID": 91,
+      "categoryName": "SKINs"
+    },
+    {
       "typeID": 42173,
       "name": "Oneiros Serpentis SKIN",
       "volume": 0.01,
@@ -154214,6 +154925,15 @@
       "groupName": "Ship SKIN Design Element",
       "categoryID": 2118,
       "categoryName": "Personalization"
+    },
+    {
+      "typeID": 92033,
+      "name": "Orbweaver SW-300-I",
+      "volume": 5.0,
+      "groupID": 100,
+      "groupName": "Combat Drone",
+      "categoryID": 18,
+      "categoryName": "Drone"
     },
     {
       "typeID": 28606,
@@ -160021,6 +160741,15 @@
       "categoryName": "Commodity"
     },
     {
+      "typeID": 92391,
+      "name": "Political Favor",
+      "volume": 0.1,
+      "groupID": 1194,
+      "groupName": "Special Edition Commodities",
+      "categoryID": 63,
+      "categoryName": "Special Edition Assets"
+    },
+    {
       "typeID": 45504,
       "name": "Pollucite",
       "volume": 10.0,
@@ -160658,6 +161387,15 @@
       "groupName": "Special Edition Commodities",
       "categoryID": 63,
       "categoryName": "Special Edition Assets"
+    },
+    {
+      "typeID": 92159,
+      "name": "Potent 'Demos' Cerebral Accelerator",
+      "volume": 1.0,
+      "groupID": 303,
+      "groupName": "Booster",
+      "categoryID": 20,
+      "categoryName": "Implant"
     },
     {
       "typeID": 20510,
@@ -161414,6 +162152,42 @@
       "groupName": "Special Edition Commodities",
       "categoryID": 63,
       "categoryName": "Special Edition Assets"
+    },
+    {
+      "typeID": 92392,
+      "name": "Presidential Candidate Favor",
+      "volume": 0.1,
+      "groupID": 1194,
+      "groupName": "Special Edition Commodities",
+      "categoryID": 63,
+      "categoryName": "Special Edition Assets"
+    },
+    {
+      "typeID": 92455,
+      "name": "Presidential Information Command Burst",
+      "volume": 60.0,
+      "groupID": 1770,
+      "groupName": "Command Burst",
+      "categoryID": 7,
+      "categoryName": "Module"
+    },
+    {
+      "typeID": 92456,
+      "name": "Presidential Mining Foreman Burst",
+      "volume": 60.0,
+      "groupID": 1770,
+      "groupName": "Command Burst",
+      "categoryID": 7,
+      "categoryName": "Module"
+    },
+    {
+      "typeID": 92458,
+      "name": "Presidential Skirmish Command Burst",
+      "volume": 60.0,
+      "groupID": 1770,
+      "groupName": "Command Burst",
+      "categoryID": 7,
+      "categoryName": "Module"
     },
     {
       "typeID": 33215,
@@ -167705,6 +168479,15 @@
       "groupName": "Shield Booster",
       "categoryID": 7,
       "categoryName": "Module"
+    },
+    {
+      "typeID": 91773,
+      "name": "Rampancy Data Dump",
+      "volume": 0.01,
+      "groupID": 5067,
+      "groupName": "Fabricator Data",
+      "categoryID": 17,
+      "categoryName": "Commodity"
     },
     {
       "typeID": 28183,
@@ -175078,6 +175861,33 @@
       "categoryName": "Skill"
     },
     {
+      "typeID": 92284,
+      "name": "Roden YC128 Campaign Bus",
+      "volume": 115000.0,
+      "groupID": 5087,
+      "groupName": "Gallente Election YC128 Campaign Buses",
+      "categoryID": 6,
+      "categoryName": "Ship"
+    },
+    {
+      "typeID": 92555,
+      "name": "Roden’s Gallente Background",
+      "volume": 0.1,
+      "groupID": 5082,
+      "groupName": "Portrait Backgrounds",
+      "categoryID": 30,
+      "categoryName": "Apparel"
+    },
+    {
+      "typeID": 92454,
+      "name": "Roden’s Modified Nanofiber Internal Structure",
+      "volume": 5.0,
+      "groupID": 763,
+      "groupName": "Nanofiber Internal Structure",
+      "categoryID": 7,
+      "categoryName": "Module"
+    },
+    {
       "typeID": 49712,
       "name": "Rodiva",
       "volume": 118000.0,
@@ -181963,6 +182773,24 @@
       "categoryName": "Commodity"
     },
     {
+      "typeID": 92583,
+      "name": "Senatorial Swamp Metallic - Limited",
+      "volume": 0.1,
+      "groupID": 4726,
+      "groupName": "Ship SKIN Design Element",
+      "categoryID": 2118,
+      "categoryName": "Personalization"
+    },
+    {
+      "typeID": 92584,
+      "name": "Senatorial Swamp Metallic - Unlimited",
+      "volume": 0.1,
+      "groupID": 4726,
+      "groupName": "Ship SKIN Design Element",
+      "categoryID": 2118,
+      "categoryName": "Personalization"
+    },
+    {
       "typeID": 57462,
       "name": "Sense-Heuristic Neurolink Enhancer",
       "volume": 4.0,
@@ -188360,6 +189188,15 @@
       "groupName": "Services",
       "categoryID": 5,
       "categoryName": "Accessories"
+    },
+    {
+      "typeID": 92461,
+      "name": "Skimmer TP-300-I",
+      "volume": 5.0,
+      "groupID": 100,
+      "groupName": "Combat Drone",
+      "categoryID": 18,
+      "categoryName": "Drone"
     },
     {
       "typeID": 3349,
@@ -202033,6 +202870,15 @@
       "categoryName": "Personalization"
     },
     {
+      "typeID": 92467,
+      "name": "Stellate TD-300",
+      "volume": 5.0,
+      "groupID": 100,
+      "groupName": "Combat Drone",
+      "categoryID": 18,
+      "categoryName": "Drone"
+    },
+    {
       "typeID": 2875,
       "name": "Sterile Conduits",
       "volume": 50.0,
@@ -202040,6 +202886,15 @@
       "groupName": "Advanced Commodities - Tier 4",
       "categoryID": 43,
       "categoryName": "Planetary Commodities"
+    },
+    {
+      "typeID": 92464,
+      "name": "Stigmella SD-300",
+      "volume": 5.0,
+      "groupID": 100,
+      "groupName": "Combat Drone",
+      "categoryID": 18,
+      "categoryName": "Drone"
     },
     {
       "typeID": 11198,
@@ -205939,6 +206794,15 @@
       "categoryName": "Module"
     },
     {
+      "typeID": 92038,
+      "name": "Tabanida EV-900-I",
+      "volume": 25.0,
+      "groupID": 100,
+      "groupName": "Combat Drone",
+      "categoryID": 18,
+      "categoryName": "Drone"
+    },
+    {
       "typeID": 7169,
       "name": "Tachyon Afocal Laser I",
       "volume": 20.0,
@@ -208027,6 +208891,24 @@
       "categoryName": "Material"
     },
     {
+      "typeID": 92587,
+      "name": "Tei-Su Meadow Metallic - Limited",
+      "volume": 0.1,
+      "groupID": 4726,
+      "groupName": "Ship SKIN Design Element",
+      "categoryID": 2118,
+      "categoryName": "Personalization"
+    },
+    {
+      "typeID": 92588,
+      "name": "Tei-Su Meadow Metallic - Unlimited",
+      "volume": 0.1,
+      "groupID": 4726,
+      "groupName": "Ship SKIN Design Element",
+      "categoryID": 2118,
+      "categoryName": "Personalization"
+    },
+    {
       "typeID": 87269,
       "name": "Tekton Forked Packet",
       "volume": 0.01,
@@ -209377,6 +210259,33 @@
       "categoryName": "SKINs"
     },
     {
+      "typeID": 92282,
+      "name": "Tenzin YC128 Campaign Bus",
+      "volume": 115000.0,
+      "groupID": 5087,
+      "groupName": "Gallente Election YC128 Campaign Buses",
+      "categoryID": 6,
+      "categoryName": "Ship"
+    },
+    {
+      "typeID": 92550,
+      "name": "Tenzin’s Gallente Background",
+      "volume": 0.1,
+      "groupID": 5082,
+      "groupName": "Portrait Backgrounds",
+      "categoryID": 30,
+      "categoryName": "Apparel"
+    },
+    {
+      "typeID": 92451,
+      "name": "Tenzin’s Modified Guidance Disruptor",
+      "volume": 5.0,
+      "groupID": 291,
+      "groupName": "Weapon Disruptor",
+      "categoryID": 7,
+      "categoryName": "Module"
+    },
+    {
       "typeID": 15638,
       "name": "Terachi Tash-Murkon's Insignia",
       "volume": 0.1,
@@ -209973,6 +210882,15 @@
     {
       "typeID": 56598,
       "name": "Thanatos Malagrin Marshlight SKIN",
+      "volume": 0.01,
+      "groupID": 1950,
+      "groupName": "Permanent SKIN",
+      "categoryID": 91,
+      "categoryName": "SKINs"
+    },
+    {
+      "typeID": 93071,
+      "name": "Thanatos Pride of the Federation SKIN",
       "volume": 0.01,
       "groupID": 1950,
       "groupName": "Permanent SKIN",
@@ -212131,6 +213049,15 @@
       "categoryName": "Implant"
     },
     {
+      "typeID": 92036,
+      "name": "Tick EV-300-I",
+      "volume": 5.0,
+      "groupID": 100,
+      "groupName": "Combat Drone",
+      "categoryID": 18,
+      "categoryName": "Drone"
+    },
+    {
       "typeID": 25398,
       "name": "Tikui's Message",
       "volume": 0.1,
@@ -212597,6 +213524,15 @@
       "groupName": "Miscellaneous",
       "categoryID": 17,
       "categoryName": "Commodity"
+    },
+    {
+      "typeID": 92469,
+      "name": "Torafugu TD-900",
+      "volume": 25.0,
+      "groupID": 100,
+      "groupName": "Combat Drone",
+      "categoryID": 18,
+      "categoryName": "Drone"
     },
     {
       "typeID": 44114,
@@ -214030,15 +214966,6 @@
       "categoryName": "Celestial"
     },
     {
-      "typeID": 87177,
-      "name": "Triglavian Minor Victory",
-      "volume": 20.0,
-      "groupID": 920,
-      "groupName": "Effect Beacon",
-      "categoryID": 2,
-      "categoryName": "Celestial"
-    },
-    {
       "typeID": 52307,
       "name": "Triglavian Quantum Engineering",
       "volume": 0.01,
@@ -214680,6 +215607,15 @@
     {
       "typeID": 64398,
       "name": "Tristan Luminaire Zenith SKIN",
+      "volume": 0.01,
+      "groupID": 1950,
+      "groupName": "Permanent SKIN",
+      "categoryID": 91,
+      "categoryName": "SKINs"
+    },
+    {
+      "typeID": 93077,
+      "name": "Tristan Pride of the Federation SKIN",
       "volume": 0.01,
       "groupID": 1950,
       "groupName": "Permanent SKIN",
@@ -216424,6 +217360,24 @@
       "categoryName": "Celestial"
     },
     {
+      "typeID": 92585,
+      "name": "Turquoise Accord Metallic - Limited",
+      "volume": 0.1,
+      "groupID": 4726,
+      "groupName": "Ship SKIN Design Element",
+      "categoryID": 2118,
+      "categoryName": "Personalization"
+    },
+    {
+      "typeID": 92586,
+      "name": "Turquoise Accord Metallic - Unlimited",
+      "volume": 0.1,
+      "groupID": 4726,
+      "groupName": "Ship SKIN Design Element",
+      "categoryID": 2118,
+      "categoryName": "Personalization"
+    },
+    {
       "typeID": 17293,
       "name": "Tuvan Orth's Tag",
       "volume": 0.1,
@@ -217776,6 +218730,24 @@
     {
       "typeID": 53030,
       "name": "Ultratidal Entropic Disintegrator I Blueprint",
+      "volume": 0.01,
+      "groupID": 1990,
+      "groupName": "Precursor Weapon Blueprint",
+      "categoryID": 9,
+      "categoryName": "Blueprint"
+    },
+    {
+      "typeID": 92514,
+      "name": "Ultratidal Entropic Disintegrator II",
+      "volume": 1600.0,
+      "groupID": 1986,
+      "groupName": "Precursor Weapon",
+      "categoryID": 7,
+      "categoryName": "Module"
+    },
+    {
+      "typeID": 92654,
+      "name": "Ultratidal Entropic Disintegrator II Blueprint",
       "volume": 0.01,
       "groupID": 1990,
       "groupName": "Precursor Weapon Blueprint",
@@ -223480,6 +224452,24 @@
       "categoryName": "Personalization"
     },
     {
+      "typeID": 92577,
+      "name": "Verdigris Referendum Gloss - Limited",
+      "volume": 0.1,
+      "groupID": 4726,
+      "groupName": "Ship SKIN Design Element",
+      "categoryID": 2118,
+      "categoryName": "Personalization"
+    },
+    {
+      "typeID": 92578,
+      "name": "Verdigris Referendum Gloss - Unlimited",
+      "volume": 0.1,
+      "groupID": 4726,
+      "groupName": "Ship SKIN Design Element",
+      "categoryID": 2118,
+      "categoryName": "Personalization"
+    },
+    {
       "typeID": 30951,
       "name": "Verification Key",
       "volume": 3.0,
@@ -224517,6 +225507,15 @@
     {
       "typeID": 46751,
       "name": "Viator Lodestrike SKIN",
+      "volume": 0.01,
+      "groupID": 1950,
+      "groupName": "Permanent SKIN",
+      "categoryID": 91,
+      "categoryName": "SKINs"
+    },
+    {
+      "typeID": 93072,
+      "name": "Viator Pride of the Federation SKIN",
       "volume": 0.01,
       "groupID": 1950,
       "groupName": "Permanent SKIN",
@@ -232428,6 +233427,15 @@
     {
       "typeID": 37863,
       "name": "Women's Scope Network Special Correspondent Suit",
+      "volume": 0.1,
+      "groupID": 1088,
+      "groupName": "Outer",
+      "categoryID": 30,
+      "categoryName": "Apparel"
+    },
+    {
+      "typeID": 92631,
+      "name": "Women's Select Freedom Combat Suit",
       "volume": 0.1,
       "groupID": 1088,
       "groupName": "Outer",
