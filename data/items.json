@@ -1,27 +1,27 @@
 {
   "metadata": {
     "source": "EVE Online SDE",
-    "itemCount": 26506,
+    "itemCount": 26522,
     "categoryCount": 37,
     "itemsWithZeroVolume": 948,
     "categories": {
       "Module": 3948,
       "Blueprint": 4140,
       "Drone": 151,
-      "Special Edition Assets": 604,
+      "Special Edition Assets": 605,
       "Commodity": 2837,
       "Structure": 18,
       "Deployable": 44,
       "Apparel": 975,
       "Accessories": 77,
-      "Personalization": 1611,
+      "Personalization": 1612,
       "Ship": 415,
-      "SKINs": 6910,
+      "SKINs": 6919,
       "Charge": 1017,
       "Skill": 510,
       "Decryptors": 44,
-      "Asteroid": 447,
-      "Implant": 1265,
+      "Asteroid": 451,
+      "Implant": 1266,
       "Starbase": 195,
       "Infrastructure Upgrades": 73,
       "Material": 265,
@@ -10169,6 +10169,15 @@
       "groupName": "Ship Emblems",
       "categoryID": 2118,
       "categoryName": "Personalization"
+    },
+    {
+      "typeID": 92966,
+      "name": "Alligator Cryptic Ecdysis SKIN",
+      "volume": 0.01,
+      "groupID": 1950,
+      "groupName": "Permanent SKIN",
+      "categoryID": 91,
+      "categoryName": "SKINs"
     },
     {
       "typeID": 79756,
@@ -29008,6 +29017,15 @@
       "categoryName": "Personalization"
     },
     {
+      "typeID": 92968,
+      "name": "Caiman Cryptic Ecdysis SKIN",
+      "volume": 0.01,
+      "groupID": 1950,
+      "groupName": "Permanent SKIN",
+      "categoryID": 91,
+      "categoryName": "SKINs"
+    },
+    {
       "typeID": 46876,
       "name": "Caiman Glacial Drift SKIN",
       "volume": 0.01,
@@ -46513,6 +46531,15 @@
       "categoryName": "Asteroid"
     },
     {
+      "typeID": 92374,
+      "name": "Compressed Scordite 0-Grade",
+      "volume": 0.0015,
+      "groupID": 460,
+      "groupName": "Scordite",
+      "categoryID": 25,
+      "categoryName": "Asteroid"
+    },
+    {
       "typeID": 62521,
       "name": "Compressed Scordite II-Grade",
       "volume": 0.0015,
@@ -46785,6 +46812,15 @@
     {
       "typeID": 62516,
       "name": "Compressed Veldspar",
+      "volume": 0.001,
+      "groupID": 462,
+      "groupName": "Veldspar",
+      "categoryID": 25,
+      "categoryName": "Asteroid"
+    },
+    {
+      "typeID": 92372,
+      "name": "Compressed Veldspar 0-Grade",
       "volume": 0.001,
       "groupID": 462,
       "groupName": "Veldspar",
@@ -82747,6 +82783,15 @@
       "categoryName": "Personalization"
     },
     {
+      "typeID": 92965,
+      "name": "Gila Cryptic Ecdysis SKIN",
+      "volume": 0.01,
+      "groupID": 1950,
+      "groupName": "Permanent SKIN",
+      "categoryID": 91,
+      "categoryName": "SKINs"
+    },
+    {
       "typeID": 49433,
       "name": "Gila Deathglow Hunters SKIN",
       "volume": 0.01,
@@ -90757,6 +90802,15 @@
       "categoryName": "Commodity"
     },
     {
+      "typeID": 93260,
+      "name": "Guristas Damage Booster III",
+      "volume": 1.0,
+      "groupID": 303,
+      "groupName": "Booster",
+      "categoryID": 20,
+      "categoryName": "Implant"
+    },
+    {
       "typeID": 33988,
       "name": "Guristas Data Sequence",
       "volume": 0.1,
@@ -97771,6 +97825,15 @@
       "typeID": 88133,
       "name": "Historic Capsuleer Day SKIN Crate",
       "volume": 0,
+      "groupID": 1194,
+      "groupName": "Special Edition Commodities",
+      "categoryID": 63,
+      "categoryName": "Special Edition Assets"
+    },
+    {
+      "typeID": 93270,
+      "name": "Historic Carrier SKINs Crate",
+      "volume": 1.0,
       "groupID": 1194,
       "groupName": "Special Edition Commodities",
       "categoryID": 63,
@@ -112168,6 +112231,15 @@
       "categoryName": "Personalization"
     },
     {
+      "typeID": 92970,
+      "name": "Komodo Cryptic Ecdysis SKIN",
+      "volume": 0.01,
+      "groupID": 1950,
+      "groupName": "Permanent SKIN",
+      "categoryID": 91,
+      "categoryName": "SKINs"
+    },
+    {
       "typeID": 46878,
       "name": "Komodo Glacial Drift SKIN",
       "volume": 0.01,
@@ -121366,6 +121438,15 @@
       "categoryName": "Personalization"
     },
     {
+      "typeID": 92969,
+      "name": "Loggerhead Cryptic Ecdysis SKIN",
+      "volume": 0.01,
+      "groupID": 1950,
+      "groupName": "Permanent SKIN",
+      "categoryID": 91,
+      "categoryName": "SKINs"
+    },
+    {
       "typeID": 46877,
       "name": "Loggerhead Glacial Drift SKIN",
       "volume": 0.01,
@@ -126386,6 +126467,15 @@
       "groupName": "Ship Emblems",
       "categoryID": 2118,
       "categoryName": "Personalization"
+    },
+    {
+      "typeID": 92964,
+      "name": "Mamba Cryptic Ecdysis SKIN",
+      "volume": 0.01,
+      "groupID": 1950,
+      "groupName": "Permanent SKIN",
+      "categoryID": 91,
+      "categoryName": "SKINs"
     },
     {
       "typeID": 79758,
@@ -144505,6 +144595,15 @@
       "categoryName": "Personalization"
     },
     {
+      "typeID": 92669,
+      "name": "Monitor Discovery Bound SKIN",
+      "volume": 0.01,
+      "groupID": 1950,
+      "groupName": "Permanent SKIN",
+      "categoryID": 91,
+      "categoryName": "SKINs"
+    },
+    {
       "typeID": 85737,
       "name": "Monitor Empyrean Outlaws SKIN",
       "volume": 0.01,
@@ -144644,7 +144743,7 @@
       "name": "Moreau YC128 Campaign Bus",
       "volume": 115000.0,
       "groupID": 5087,
-      "groupName": "Gallente Election YC128 Campaign Buses",
+      "groupName": "Special Edition Yachts",
       "categoryID": 6,
       "categoryName": "Ship"
     },
@@ -154471,8 +154570,8 @@
       "typeID": 635,
       "name": "Opux Luxury Yacht",
       "volume": 115000.0,
-      "groupID": 26,
-      "groupName": "Cruiser",
+      "groupID": 5087,
+      "groupName": "Special Edition Yachts",
       "categoryID": 6,
       "categoryName": "Ship"
     },
@@ -168049,6 +168148,15 @@
       "categoryName": "Commodity"
     },
     {
+      "typeID": 93256,
+      "name": "Rage of the 7 - Limited",
+      "volume": 0.1,
+      "groupID": 4726,
+      "groupName": "Ship SKIN Design Element",
+      "categoryID": 2118,
+      "categoryName": "Personalization"
+    },
+    {
       "typeID": 47894,
       "name": "Raging Dark Filament",
       "volume": 0.1,
@@ -169289,6 +169397,15 @@
       "groupName": "Ship Emblems",
       "categoryID": 2118,
       "categoryName": "Personalization"
+    },
+    {
+      "typeID": 92967,
+      "name": "Rattlesnake Cryptic Ecdysis SKIN",
+      "volume": 0.01,
+      "groupID": 1950,
+      "groupName": "Permanent SKIN",
+      "categoryID": 91,
+      "categoryName": "SKINs"
     },
     {
       "typeID": 79755,
@@ -175865,7 +175982,7 @@
       "name": "Roden YC128 Campaign Bus",
       "volume": 115000.0,
       "groupID": 5087,
-      "groupName": "Gallente Election YC128 Campaign Buses",
+      "groupName": "Special Edition Yachts",
       "categoryID": 6,
       "categoryName": "Ship"
     },
@@ -180813,6 +180930,15 @@
     {
       "typeID": 1228,
       "name": "Scordite",
+      "volume": 0.15,
+      "groupID": 460,
+      "groupName": "Scordite",
+      "categoryID": 25,
+      "categoryName": "Asteroid"
+    },
+    {
+      "typeID": 92373,
+      "name": "Scordite 0-Grade",
       "volume": 0.15,
       "groupID": 460,
       "groupName": "Scordite",
@@ -210263,7 +210389,7 @@
       "name": "Tenzin YC128 Campaign Bus",
       "volume": 115000.0,
       "groupID": 5087,
-      "groupName": "Gallente Election YC128 Campaign Buses",
+      "groupName": "Special Edition Yachts",
       "categoryID": 6,
       "categoryName": "Ship"
     },
@@ -223453,6 +223579,15 @@
       "categoryName": "Asteroid"
     },
     {
+      "typeID": 92371,
+      "name": "Veldspar 0-Grade",
+      "volume": 0.1,
+      "groupID": 462,
+      "groupName": "Veldspar",
+      "categoryID": 25,
+      "categoryName": "Asteroid"
+    },
+    {
       "typeID": 17470,
       "name": "Veldspar II-Grade",
       "volume": 0.1,
@@ -225643,8 +225778,8 @@
       "typeID": 34590,
       "name": "Victorieux Luxury Yacht",
       "volume": 115000.0,
-      "groupID": 26,
-      "groupName": "Cruiser",
+      "groupID": 5087,
+      "groupName": "Special Edition Yachts",
       "categoryID": 6,
       "categoryName": "Ship"
     },
@@ -233801,6 +233936,15 @@
       "groupName": "Ship Emblems",
       "categoryID": 2118,
       "categoryName": "Personalization"
+    },
+    {
+      "typeID": 92963,
+      "name": "Worm Cryptic Ecdysis SKIN",
+      "volume": 0.01,
+      "groupID": 1950,
+      "groupName": "Permanent SKIN",
+      "categoryID": 91,
+      "categoryName": "SKINs"
     },
     {
       "typeID": 84353,

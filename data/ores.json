@@ -1,9 +1,9 @@
 {
   "metadata": {
     "source": "EVE Online SDE",
-    "oreCount": 447,
+    "oreCount": 451,
     "mineralCount": 11,
-    "reprocessingCount": 307
+    "reprocessingCount": 311
   },
   "ores": [
     {
@@ -1099,6 +1099,13 @@
       "compressed": false
     },
     {
+      "typeID": 92373,
+      "name": "Scordite 0-Grade",
+      "volume": 0.15,
+      "groupID": 460,
+      "compressed": false
+    },
+    {
       "typeID": 17463,
       "name": "Scordite II-Grade",
       "volume": 0.15,
@@ -1332,6 +1339,13 @@
     {
       "typeID": 1230,
       "name": "Veldspar",
+      "volume": 0.1,
+      "groupID": 462,
+      "compressed": false
+    },
+    {
+      "typeID": 92371,
+      "name": "Veldspar 0-Grade",
       "volume": 0.1,
       "groupID": 462,
       "compressed": false
@@ -2828,6 +2842,13 @@
       "compressed": true
     },
     {
+      "typeID": 92374,
+      "name": "Compressed Scordite 0-Grade",
+      "volume": 0.0015,
+      "groupID": 460,
+      "compressed": true
+    },
+    {
       "typeID": 62521,
       "name": "Compressed Scordite II-Grade",
       "volume": 0.0015,
@@ -3040,6 +3061,13 @@
     {
       "typeID": 62516,
       "name": "Compressed Veldspar",
+      "volume": 0.001,
+      "groupID": 462,
+      "compressed": true
+    },
+    {
+      "typeID": 92372,
+      "name": "Compressed Veldspar 0-Grade",
       "volume": 0.001,
       "groupID": 462,
       "compressed": true
@@ -6598,6 +6626,38 @@
       {
         "mineralID": 88087,
         "quantity": 1035
+      }
+    ],
+    "92371": [
+      {
+        "mineralID": 34,
+        "quantity": 200
+      }
+    ],
+    "92372": [
+      {
+        "mineralID": 34,
+        "quantity": 200
+      }
+    ],
+    "92373": [
+      {
+        "mineralID": 34,
+        "quantity": 75
+      },
+      {
+        "mineralID": 35,
+        "quantity": 55
+      }
+    ],
+    "92374": [
+      {
+        "mineralID": 34,
+        "quantity": 75
+      },
+      {
+        "mineralID": 35,
+        "quantity": 55
       }
     ]
   }
