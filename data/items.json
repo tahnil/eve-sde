@@ -18524,7 +18524,7 @@
     },
     {
       "typeID": 92466,
-      "name": "Atlas SD-900",
+      "name": "Atlas SD-900-I",
       "volume": 25.0,
       "groupID": 100,
       "groupName": "Combat Drone",
@@ -101819,7 +101819,7 @@
     },
     {
       "typeID": 92468,
-      "name": "Immaculate TD-600",
+      "name": "Immaculate TD-600-I",
       "volume": 10.0,
       "groupID": 100,
       "groupName": "Combat Drone",
@@ -123545,7 +123545,7 @@
     },
     {
       "typeID": 92465,
-      "name": "Luna SD-600",
+      "name": "Luna SD-600-I",
       "volume": 10.0,
       "groupID": 100,
       "groupName": "Combat Drone",
@@ -202997,7 +202997,7 @@
     },
     {
       "typeID": 92467,
-      "name": "Stellate TD-300",
+      "name": "Stellate TD-300-I",
       "volume": 5.0,
       "groupID": 100,
       "groupName": "Combat Drone",
@@ -203015,7 +203015,7 @@
     },
     {
       "typeID": 92464,
-      "name": "Stigmella SD-300",
+      "name": "Stigmella SD-300-I",
       "volume": 5.0,
       "groupID": 100,
       "groupName": "Combat Drone",
@@ -213653,7 +213653,7 @@
     },
     {
       "typeID": 92469,
-      "name": "Torafugu TD-900",
+      "name": "Torafugu TD-900-I",
       "volume": 25.0,
       "groupID": 100,
       "groupName": "Combat Drone",
