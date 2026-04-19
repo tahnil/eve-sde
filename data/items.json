@@ -1,7 +1,7 @@
 {
   "metadata": {
     "source": "EVE Online SDE",
-    "itemCount": 26522,
+    "itemCount": 26524,
     "categoryCount": 37,
     "itemsWithZeroVolume": 948,
     "categories": {
@@ -12,7 +12,7 @@
       "Commodity": 2837,
       "Structure": 18,
       "Deployable": 44,
-      "Apparel": 975,
+      "Apparel": 977,
       "Accessories": 77,
       "Personalization": 1612,
       "Ship": 415,
@@ -135028,6 +135028,15 @@
       "categoryName": "Apparel"
     },
     {
+      "typeID": 93590,
+      "name": "Men's 'Humanitarian' T-shirt YC 128",
+      "volume": 0.1,
+      "groupID": 1089,
+      "groupName": "Tops",
+      "categoryID": 30,
+      "categoryName": "Apparel"
+    },
+    {
       "typeID": 64196,
       "name": "Men's 'Hyper' Racing Jacket",
       "volume": 0.1,
@@ -230502,6 +230511,15 @@
     {
       "typeID": 35682,
       "name": "Women's 'Humanitarian' T-shirt YC 117",
+      "volume": 0.1,
+      "groupID": 1089,
+      "groupName": "Tops",
+      "categoryID": 30,
+      "categoryName": "Apparel"
+    },
+    {
+      "typeID": 93589,
+      "name": "Women's 'Humanitarian' T-shirt YC 128",
       "volume": 0.1,
       "groupID": 1089,
       "groupName": "Tops",
