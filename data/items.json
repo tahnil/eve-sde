@@ -1,14 +1,14 @@
 {
   "metadata": {
     "source": "EVE Online SDE",
-    "itemCount": 26524,
+    "itemCount": 26495,
     "categoryCount": 37,
     "itemsWithZeroVolume": 948,
     "categories": {
       "Module": 3948,
       "Blueprint": 4140,
       "Drone": 151,
-      "Special Edition Assets": 605,
+      "Special Edition Assets": 603,
       "Commodity": 2837,
       "Structure": 18,
       "Deployable": 44,
@@ -21,7 +21,7 @@
       "Skill": 510,
       "Decryptors": 44,
       "Asteroid": 451,
-      "Implant": 1266,
+      "Implant": 1239,
       "Starbase": 195,
       "Infrastructure Upgrades": 73,
       "Material": 265,
@@ -21495,15 +21495,6 @@
     {
       "typeID": 72238,
       "name": "Basic 'Boost' Cerebral Accelerator",
-      "volume": 1.0,
-      "groupID": 303,
-      "groupName": "Booster",
-      "categoryID": 20,
-      "categoryName": "Implant"
-    },
-    {
-      "typeID": 92158,
-      "name": "Basic 'Demos' Cerebral Accelerator",
       "volume": 1.0,
       "groupID": 303,
       "groupName": "Booster",
@@ -74629,15 +74620,6 @@
       "categoryName": "Special Edition Assets"
     },
     {
-      "typeID": 92160,
-      "name": "Extended 'Demos' Cerebral Accelerator",
-      "volume": 1.0,
-      "groupID": 303,
-      "groupName": "Booster",
-      "categoryID": 20,
-      "categoryName": "Implant"
-    },
-    {
       "typeID": 87828,
       "name": "Extracted Butter Satin - Limited",
       "volume": 0.1,
@@ -75277,42 +75259,6 @@
       "categoryName": "Commodity"
     },
     {
-      "typeID": 92021,
-      "name": "Federation Application Booster I",
-      "volume": 1.0,
-      "groupID": 303,
-      "groupName": "Booster",
-      "categoryID": 20,
-      "categoryName": "Implant"
-    },
-    {
-      "typeID": 92022,
-      "name": "Federation Application Booster II",
-      "volume": 1.0,
-      "groupID": 303,
-      "groupName": "Booster",
-      "categoryID": 20,
-      "categoryName": "Implant"
-    },
-    {
-      "typeID": 92023,
-      "name": "Federation Application Booster III",
-      "volume": 1.0,
-      "groupID": 303,
-      "groupName": "Booster",
-      "categoryID": 20,
-      "categoryName": "Implant"
-    },
-    {
-      "typeID": 92024,
-      "name": "Federation Application Booster IV",
-      "volume": 1.0,
-      "groupID": 303,
-      "groupName": "Booster",
-      "categoryID": 20,
-      "categoryName": "Implant"
-    },
-    {
       "typeID": 92573,
       "name": "Federation Ascent - Limited",
       "volume": 0.1,
@@ -75358,42 +75304,6 @@
       "categoryName": "Commodity"
     },
     {
-      "typeID": 92029,
-      "name": "Federation Damage Booster I",
-      "volume": 1.0,
-      "groupID": 303,
-      "groupName": "Booster",
-      "categoryID": 20,
-      "categoryName": "Implant"
-    },
-    {
-      "typeID": 92030,
-      "name": "Federation Damage Booster II",
-      "volume": 1.0,
-      "groupID": 303,
-      "groupName": "Booster",
-      "categoryID": 20,
-      "categoryName": "Implant"
-    },
-    {
-      "typeID": 92031,
-      "name": "Federation Damage Booster III",
-      "volume": 1.0,
-      "groupID": 303,
-      "groupName": "Booster",
-      "categoryID": 20,
-      "categoryName": "Implant"
-    },
-    {
-      "typeID": 92032,
-      "name": "Federation Damage Booster IV",
-      "volume": 1.0,
-      "groupID": 303,
-      "groupName": "Booster",
-      "categoryID": 20,
-      "categoryName": "Implant"
-    },
-    {
       "typeID": 55746,
       "name": "Federation Day Clothing Crate",
       "volume": 0.1,
@@ -75403,42 +75313,6 @@
       "categoryName": "Special Edition Assets"
     },
     {
-      "typeID": 92006,
-      "name": "Federation Defense Booster I",
-      "volume": 1.0,
-      "groupID": 303,
-      "groupName": "Booster",
-      "categoryID": 20,
-      "categoryName": "Implant"
-    },
-    {
-      "typeID": 92017,
-      "name": "Federation Defense Booster II",
-      "volume": 1.0,
-      "groupID": 303,
-      "groupName": "Booster",
-      "categoryID": 20,
-      "categoryName": "Implant"
-    },
-    {
-      "typeID": 92018,
-      "name": "Federation Defense Booster III",
-      "volume": 1.0,
-      "groupID": 303,
-      "groupName": "Booster",
-      "categoryID": 20,
-      "categoryName": "Implant"
-    },
-    {
-      "typeID": 92019,
-      "name": "Federation Defense Booster IV",
-      "volume": 1.0,
-      "groupID": 303,
-      "groupName": "Booster",
-      "categoryID": 20,
-      "categoryName": "Implant"
-    },
-    {
       "typeID": 32891,
       "name": "Federation Diplomatic Documents",
       "volume": 1.0,
@@ -75446,42 +75320,6 @@
       "groupName": "Miscellaneous",
       "categoryID": 17,
       "categoryName": "Commodity"
-    },
-    {
-      "typeID": 92002,
-      "name": "Federation Electronics Booster I",
-      "volume": 1.0,
-      "groupID": 303,
-      "groupName": "Booster",
-      "categoryID": 20,
-      "categoryName": "Implant"
-    },
-    {
-      "typeID": 92003,
-      "name": "Federation Electronics Booster II",
-      "volume": 1.0,
-      "groupID": 303,
-      "groupName": "Booster",
-      "categoryID": 20,
-      "categoryName": "Implant"
-    },
-    {
-      "typeID": 92004,
-      "name": "Federation Electronics Booster III",
-      "volume": 1.0,
-      "groupID": 303,
-      "groupName": "Booster",
-      "categoryID": 20,
-      "categoryName": "Implant"
-    },
-    {
-      "typeID": 92005,
-      "name": "Federation Electronics Booster IV",
-      "volume": 1.0,
-      "groupID": 303,
-      "groupName": "Booster",
-      "categoryID": 20,
-      "categoryName": "Implant"
     },
     {
       "typeID": 32887,
@@ -75572,42 +75410,6 @@
       "groupName": "Special Edition Commodities",
       "categoryID": 63,
       "categoryName": "Special Edition Assets"
-    },
-    {
-      "typeID": 91998,
-      "name": "Federation Mobility Booster I",
-      "volume": 1.0,
-      "groupID": 303,
-      "groupName": "Booster",
-      "categoryID": 20,
-      "categoryName": "Implant"
-    },
-    {
-      "typeID": 91999,
-      "name": "Federation Mobility Booster II",
-      "volume": 1.0,
-      "groupID": 303,
-      "groupName": "Booster",
-      "categoryID": 20,
-      "categoryName": "Implant"
-    },
-    {
-      "typeID": 92000,
-      "name": "Federation Mobility Booster III",
-      "volume": 1.0,
-      "groupID": 303,
-      "groupName": "Booster",
-      "categoryID": 20,
-      "categoryName": "Implant"
-    },
-    {
-      "typeID": 92001,
-      "name": "Federation Mobility Booster IV",
-      "volume": 1.0,
-      "groupID": 303,
-      "groupName": "Booster",
-      "categoryID": 20,
-      "categoryName": "Implant"
     },
     {
       "typeID": 15770,
@@ -77129,42 +76931,6 @@
       "groupName": "Warp Scrambler",
       "categoryID": 7,
       "categoryName": "Module"
-    },
-    {
-      "typeID": 92025,
-      "name": "Federation Projection Booster I",
-      "volume": 1.0,
-      "groupID": 303,
-      "groupName": "Booster",
-      "categoryID": 20,
-      "categoryName": "Implant"
-    },
-    {
-      "typeID": 92026,
-      "name": "Federation Projection Booster II",
-      "volume": 1.0,
-      "groupID": 303,
-      "groupName": "Booster",
-      "categoryID": 20,
-      "categoryName": "Implant"
-    },
-    {
-      "typeID": 92027,
-      "name": "Federation Projection Booster III",
-      "volume": 1.0,
-      "groupID": 303,
-      "groupName": "Booster",
-      "categoryID": 20,
-      "categoryName": "Implant"
-    },
-    {
-      "typeID": 92028,
-      "name": "Federation Projection Booster IV",
-      "volume": 1.0,
-      "groupID": 303,
-      "groupName": "Booster",
-      "categoryID": 20,
-      "categoryName": "Implant"
     },
     {
       "typeID": 76216,
@@ -80864,24 +80630,6 @@
       "groupName": "Booster",
       "categoryID": 20,
       "categoryName": "Implant"
-    },
-    {
-      "typeID": 92181,
-      "name": "Gallente Election Booster Crate",
-      "volume": 1.0,
-      "groupID": 1194,
-      "groupName": "Special Edition Commodities",
-      "categoryID": 63,
-      "categoryName": "Special Edition Assets"
-    },
-    {
-      "typeID": 92161,
-      "name": "Gallente Election Cerebral Accelerator Crate",
-      "volume": 1.0,
-      "groupID": 1194,
-      "groupName": "Special Edition Commodities",
-      "categoryID": 63,
-      "categoryName": "Special Edition Assets"
     },
     {
       "typeID": 92958,
@@ -161495,15 +161243,6 @@
       "groupName": "Special Edition Commodities",
       "categoryID": 63,
       "categoryName": "Special Edition Assets"
-    },
-    {
-      "typeID": 92159,
-      "name": "Potent 'Demos' Cerebral Accelerator",
-      "volume": 1.0,
-      "groupID": 303,
-      "groupName": "Booster",
-      "categoryID": 20,
-      "categoryName": "Implant"
     },
     {
       "typeID": 20510,
