@@ -1,7 +1,7 @@
 {
   "metadata": {
     "source": "EVE Online SDE",
-    "itemCount": 26683,
+    "itemCount": 26688,
     "categoryCount": 37,
     "itemsWithZeroVolume": 948,
     "categories": {
@@ -16,7 +16,7 @@
       "Accessories": 77,
       "Personalization": 1630,
       "Ship": 415,
-      "SKINs": 6942,
+      "SKINs": 6947,
       "Charge": 1017,
       "Skill": 510,
       "Decryptors": 44,
@@ -101179,6 +101179,15 @@
       "categoryName": "SKINs"
     },
     {
+      "typeID": 94053,
+      "name": "Hyperion Presidential Agent SKIN",
+      "volume": 0.01,
+      "groupID": 1950,
+      "groupName": "Permanent SKIN",
+      "categoryID": 91,
+      "categoryName": "SKINs"
+    },
+    {
       "typeID": 37056,
       "name": "Hyperion Quafe SKIN",
       "volume": 0.01,
@@ -108669,6 +108678,15 @@
     {
       "typeID": 46390,
       "name": "Ishkur Kopis Edge SKIN",
+      "volume": 0.01,
+      "groupID": 1950,
+      "groupName": "Permanent SKIN",
+      "categoryID": 91,
+      "categoryName": "SKINs"
+    },
+    {
+      "typeID": 94052,
+      "name": "Ishkur Presidential Agent SKIN",
       "volume": 0.01,
       "groupID": 1950,
       "groupName": "Permanent SKIN",
@@ -161805,6 +161823,15 @@
     {
       "typeID": 87524,
       "name": "Pontifex Khanid Cyber Knight SKIN",
+      "volume": 0.01,
+      "groupID": 1950,
+      "groupName": "Permanent SKIN",
+      "categoryID": 91,
+      "categoryName": "SKINs"
+    },
+    {
+      "typeID": 94054,
+      "name": "Pontifex Mandate of Faith SKIN",
       "volume": 0.01,
       "groupID": 1950,
       "groupName": "Permanent SKIN",
@@ -223660,6 +223687,15 @@
       "categoryName": "SKINs"
     },
     {
+      "typeID": 94056,
+      "name": "Vagabond Stark Strategist SKIN",
+      "volume": 0.01,
+      "groupID": 1950,
+      "groupName": "Permanent SKIN",
+      "categoryID": 91,
+      "categoryName": "SKINs"
+    },
+    {
       "typeID": 40489,
       "name": "Vagabond Tronhadar Ink SKIN",
       "volume": 0.01,
@@ -230358,6 +230394,15 @@
     {
       "typeID": 52851,
       "name": "Wolf Snowline Bladeracer SKIN",
+      "volume": 0.01,
+      "groupID": 1950,
+      "groupName": "Permanent SKIN",
+      "categoryID": 91,
+      "categoryName": "SKINs"
+    },
+    {
+      "typeID": 94055,
+      "name": "Wolf Stark Strategist SKIN",
       "volume": 0.01,
       "groupID": 1950,
       "groupName": "Permanent SKIN",
