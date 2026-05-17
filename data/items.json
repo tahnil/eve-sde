@@ -1,7 +1,7 @@
 {
   "metadata": {
     "source": "EVE Online SDE",
-    "itemCount": 26688,
+    "itemCount": 26695,
     "categoryCount": 37,
     "itemsWithZeroVolume": 948,
     "categories": {
@@ -16,7 +16,7 @@
       "Accessories": 77,
       "Personalization": 1630,
       "Ship": 415,
-      "SKINs": 6947,
+      "SKINs": 6954,
       "Charge": 1017,
       "Skill": 510,
       "Decryptors": 44,
@@ -7221,6 +7221,15 @@
     {
       "typeID": 37105,
       "name": "Abaddon Kador Serenity Only SKIN",
+      "volume": 0.01,
+      "groupID": 1950,
+      "groupName": "Permanent SKIN",
+      "categoryID": 91,
+      "categoryName": "SKINs"
+    },
+    {
+      "typeID": 94152,
+      "name": "Abaddon Mandate of Faith SKIN",
       "volume": 0.01,
       "groupID": 1950,
       "groupName": "Permanent SKIN",
@@ -23302,6 +23311,15 @@
       "categoryName": "SKINs"
     },
     {
+      "typeID": 94157,
+      "name": "Bifrost Stark Strategist SKIN",
+      "volume": 0.01,
+      "groupID": 1950,
+      "groupName": "Permanent SKIN",
+      "categoryID": 91,
+      "categoryName": "SKINs"
+    },
+    {
       "typeID": 40326,
       "name": "Bifrost Valklear Glory SKIN",
       "volume": 0.01,
@@ -37477,6 +37495,15 @@
       "categoryName": "Special Edition Assets"
     },
     {
+      "typeID": 94187,
+      "name": "Capsule Forever Creative SKIN",
+      "volume": 0.01,
+      "groupID": 1950,
+      "groupName": "Permanent SKIN",
+      "categoryID": 91,
+      "categoryName": "SKINs"
+    },
+    {
       "typeID": 41580,
       "name": "Capsule Palatine SKIN",
       "volume": 0.01,
@@ -41007,6 +41034,15 @@
     {
       "typeID": 36653,
       "name": "Cerberus Raata Sunset SKIN",
+      "volume": 0.01,
+      "groupID": 1950,
+      "groupName": "Permanent SKIN",
+      "categoryID": 91,
+      "categoryName": "SKINs"
+    },
+    {
+      "typeID": 94155,
+      "name": "Cerberus State Regulator SKIN",
       "volume": 0.01,
       "groupID": 1950,
       "groupName": "Permanent SKIN",
@@ -126226,6 +126262,15 @@
       "categoryName": "SKINs"
     },
     {
+      "typeID": 94160,
+      "name": "Magus Presidential Agent SKIN",
+      "volume": 0.01,
+      "groupID": 1950,
+      "groupName": "Permanent SKIN",
+      "categoryID": 91,
+      "categoryName": "SKINs"
+    },
+    {
       "typeID": 42163,
       "name": "Magus Serpentis SKIN",
       "volume": 0.01,
@@ -177564,6 +177609,15 @@
     {
       "typeID": 71103,
       "name": "Rokh Spacelane Patrol SKIN",
+      "volume": 0.01,
+      "groupID": 1950,
+      "groupName": "Permanent SKIN",
+      "categoryID": 91,
+      "categoryName": "SKINs"
+    },
+    {
+      "typeID": 94156,
+      "name": "Rokh State Regulator SKIN",
       "volume": 0.01,
       "groupID": 1950,
       "groupName": "Permanent SKIN",
@@ -239637,6 +239691,15 @@
     {
       "typeID": 43505,
       "name": "Zealot Ironblood SKIN",
+      "volume": 0.01,
+      "groupID": 1950,
+      "groupName": "Permanent SKIN",
+      "categoryID": 91,
+      "categoryName": "SKINs"
+    },
+    {
+      "typeID": 94153,
+      "name": "Zealot Mandate of Faith SKIN",
       "volume": 0.01,
       "groupID": 1950,
       "groupName": "Permanent SKIN",
