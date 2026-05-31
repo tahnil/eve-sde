@@ -1,31 +1,31 @@
 {
   "metadata": {
     "source": "EVE Online SDE",
-    "itemCount": 26695,
+    "itemCount": 26722,
     "categoryCount": 37,
-    "itemsWithZeroVolume": 948,
+    "itemsWithZeroVolume": 956,
     "categories": {
       "Module": 3956,
-      "Blueprint": 4148,
+      "Blueprint": 4152,
       "Drone": 151,
-      "Special Edition Assets": 626,
+      "Special Edition Assets": 630,
       "Commodity": 2839,
       "Structure": 18,
       "Deployable": 44,
       "Apparel": 979,
       "Accessories": 77,
-      "Personalization": 1630,
-      "Ship": 415,
-      "SKINs": 6954,
+      "Personalization": 1642,
+      "Ship": 419,
+      "SKINs": 6955,
       "Charge": 1017,
       "Skill": 510,
       "Decryptors": 44,
       "Asteroid": 451,
-      "Implant": 1340,
+      "Implant": 1341,
       "Starbase": 195,
       "Infrastructure Upgrades": 73,
       "Material": 265,
-      "Expert Systems": 30,
+      "Expert Systems": 31,
       "Celestial": 225,
       "Fighter": 94,
       "Planetary Resources": 15,
@@ -9809,6 +9809,51 @@
       "groupName": "Permanent SKIN",
       "categoryID": 91,
       "categoryName": "SKINs"
+    },
+    {
+      "typeID": 91849,
+      "name": "Algos Navy Issue",
+      "volume": 55000.0,
+      "groupID": 420,
+      "groupName": "Destroyer",
+      "categoryID": 6,
+      "categoryName": "Ship"
+    },
+    {
+      "typeID": 91868,
+      "name": "Algos Navy Issue Alliance Emblem",
+      "volume": 0,
+      "groupID": 4471,
+      "groupName": "Ship Emblems",
+      "categoryID": 2118,
+      "categoryName": "Personalization"
+    },
+    {
+      "typeID": 91861,
+      "name": "Algos Navy Issue Blueprint",
+      "volume": 0.01,
+      "groupID": 487,
+      "groupName": "Destroyer Blueprint",
+      "categoryID": 9,
+      "categoryName": "Blueprint"
+    },
+    {
+      "typeID": 94315,
+      "name": "Algos Navy Issue Blueprint Crate",
+      "volume": 1.0,
+      "groupID": 1194,
+      "groupName": "Special Edition Commodities",
+      "categoryID": 63,
+      "categoryName": "Special Edition Assets"
+    },
+    {
+      "typeID": 91867,
+      "name": "Algos Navy Issue Corporation Emblem",
+      "volume": 0,
+      "groupID": 4471,
+      "groupName": "Ship Emblems",
+      "categoryID": 2118,
+      "categoryName": "Personalization"
     },
     {
       "typeID": 45562,
@@ -48421,6 +48466,51 @@
       "categoryName": "SKINs"
     },
     {
+      "typeID": 91857,
+      "name": "Corax Navy Issue",
+      "volume": 52000.0,
+      "groupID": 420,
+      "groupName": "Destroyer",
+      "categoryID": 6,
+      "categoryName": "Ship"
+    },
+    {
+      "typeID": 91866,
+      "name": "Corax Navy Issue Alliance Emblem",
+      "volume": 0,
+      "groupID": 4471,
+      "groupName": "Ship Emblems",
+      "categoryID": 2118,
+      "categoryName": "Personalization"
+    },
+    {
+      "typeID": 91860,
+      "name": "Corax Navy Issue Blueprint",
+      "volume": 0.01,
+      "groupID": 487,
+      "groupName": "Destroyer Blueprint",
+      "categoryID": 9,
+      "categoryName": "Blueprint"
+    },
+    {
+      "typeID": 94314,
+      "name": "Corax Navy Issue Blueprint Crate",
+      "volume": 1.0,
+      "groupID": 1194,
+      "groupName": "Special Edition Commodities",
+      "categoryID": 63,
+      "categoryName": "Special Edition Assets"
+    },
+    {
+      "typeID": 91865,
+      "name": "Corax Navy Issue Corporation Emblem",
+      "volume": 0,
+      "groupID": 4471,
+      "groupName": "Ship Emblems",
+      "categoryID": 2118,
+      "categoryName": "Personalization"
+    },
+    {
       "typeID": 36646,
       "name": "Corax Raata Sunset SKIN",
       "volume": 0.01,
@@ -63143,6 +63233,51 @@
       "groupName": "Permanent SKIN",
       "categoryID": 91,
       "categoryName": "SKINs"
+    },
+    {
+      "typeID": 91775,
+      "name": "Dragoon Navy Issue",
+      "volume": 47000.0,
+      "groupID": 420,
+      "groupName": "Destroyer",
+      "categoryID": 6,
+      "categoryName": "Ship"
+    },
+    {
+      "typeID": 91864,
+      "name": "Dragoon Navy Issue Alliance Emblem",
+      "volume": 0,
+      "groupID": 4471,
+      "groupName": "Ship Emblems",
+      "categoryID": 2118,
+      "categoryName": "Personalization"
+    },
+    {
+      "typeID": 91859,
+      "name": "Dragoon Navy Issue Blueprint",
+      "volume": 0.01,
+      "groupID": 487,
+      "groupName": "Destroyer Blueprint",
+      "categoryID": 9,
+      "categoryName": "Blueprint"
+    },
+    {
+      "typeID": 94312,
+      "name": "Dragoon Navy Issue Blueprint Crate",
+      "volume": 1.0,
+      "groupID": 1194,
+      "groupName": "Special Edition Commodities",
+      "categoryID": 63,
+      "categoryName": "Special Edition Assets"
+    },
+    {
+      "typeID": 91863,
+      "name": "Dragoon Navy Issue Corporation Emblem",
+      "volume": 0,
+      "groupID": 4471,
+      "groupName": "Ship Emblems",
+      "categoryID": 2118,
+      "categoryName": "Personalization"
     },
     {
       "typeID": 53612,
@@ -102718,6 +102853,15 @@
       "categoryName": "Implant"
     },
     {
+      "typeID": 91916,
+      "name": "Imperial Electronics Booster I",
+      "volume": 1.0,
+      "groupID": 303,
+      "groupName": "Booster",
+      "categoryID": 20,
+      "categoryName": "Implant"
+    },
+    {
       "typeID": 93117,
       "name": "Imperial Electronics Booster I",
       "volume": 1.0,
@@ -110330,6 +110474,24 @@
       "groupName": "Special Edition Commodities",
       "categoryID": 63,
       "categoryName": "Special Edition Assets"
+    },
+    {
+      "typeID": 93351,
+      "name": "Jita Ascendent - Limited",
+      "volume": 0.1,
+      "groupID": 4726,
+      "groupName": "Ship SKIN Design Element",
+      "categoryID": 2118,
+      "categoryName": "Personalization"
+    },
+    {
+      "typeID": 93352,
+      "name": "Jita Ascendent - Unlimited",
+      "volume": 0.1,
+      "groupID": 4726,
+      "groupName": "Ship SKIN Design Element",
+      "categoryID": 2118,
+      "categoryName": "Personalization"
     },
     {
       "typeID": 52275,
@@ -127882,6 +128044,24 @@
       "categoryName": "Module"
     },
     {
+      "typeID": 93353,
+      "name": "Mark of the 4-4 - Limited",
+      "volume": 0.1,
+      "groupID": 4726,
+      "groupName": "Ship SKIN Design Element",
+      "categoryID": 2118,
+      "categoryName": "Personalization"
+    },
+    {
+      "typeID": 93354,
+      "name": "Mark of the 4-4 - Unlimited",
+      "volume": 0.1,
+      "groupID": 4726,
+      "groupName": "Ship SKIN Design Element",
+      "categoryID": 2118,
+      "categoryName": "Personalization"
+    },
+    {
       "typeID": 16598,
       "name": "Marketing",
       "volume": 0.01,
@@ -141533,6 +141713,15 @@
       "groupName": "Livestock",
       "categoryID": 17,
       "categoryName": "Commodity"
+    },
+    {
+      "typeID": 91910,
+      "name": "Military Campaign Expert System",
+      "volume": 1.0,
+      "groupID": 4098,
+      "groupName": "Promotional Expert Systems",
+      "categoryID": 2100,
+      "categoryName": "Expert Systems"
     },
     {
       "typeID": 33025,
@@ -207613,6 +207802,15 @@
       "categoryName": "SKINs"
     },
     {
+      "typeID": 94158,
+      "name": "Svipul Stark Strategist SKIN",
+      "volume": 0.01,
+      "groupID": 1950,
+      "groupName": "Permanent SKIN",
+      "categoryID": 91,
+      "categoryName": "SKINs"
+    },
+    {
       "typeID": 26462,
       "name": "Sweet Leaves",
       "volume": 1.0,
@@ -209600,6 +209798,51 @@
       "groupName": "Permanent SKIN",
       "categoryID": 91,
       "categoryName": "SKINs"
+    },
+    {
+      "typeID": 91858,
+      "name": "Talwar Fleet Issue",
+      "volume": 43000.0,
+      "groupID": 420,
+      "groupName": "Destroyer",
+      "categoryID": 6,
+      "categoryName": "Ship"
+    },
+    {
+      "typeID": 91870,
+      "name": "Talwar Fleet Issue Alliance Emblem",
+      "volume": 0,
+      "groupID": 4471,
+      "groupName": "Ship Emblems",
+      "categoryID": 2118,
+      "categoryName": "Personalization"
+    },
+    {
+      "typeID": 91862,
+      "name": "Talwar Fleet Issue Blueprint",
+      "volume": 0.01,
+      "groupID": 487,
+      "groupName": "Destroyer Blueprint",
+      "categoryID": 9,
+      "categoryName": "Blueprint"
+    },
+    {
+      "typeID": 94316,
+      "name": "Talwar Fleet Issue Blueprint Crate",
+      "volume": 1.0,
+      "groupID": 1194,
+      "groupName": "Special Edition Commodities",
+      "categoryID": 63,
+      "categoryName": "Special Edition Assets"
+    },
+    {
+      "typeID": 91869,
+      "name": "Talwar Fleet Issue Corporation Emblem",
+      "volume": 0,
+      "groupID": 4471,
+      "groupName": "Ship Emblems",
+      "categoryID": 2118,
+      "categoryName": "Personalization"
     },
     {
       "typeID": 59431,
