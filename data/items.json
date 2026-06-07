@@ -1,7 +1,7 @@
 {
   "metadata": {
     "source": "EVE Online SDE",
-    "itemCount": 26722,
+    "itemCount": 26724,
     "categoryCount": 37,
     "itemsWithZeroVolume": 956,
     "categories": {
@@ -12,7 +12,7 @@
       "Commodity": 2839,
       "Structure": 18,
       "Deployable": 44,
-      "Apparel": 979,
+      "Apparel": 981,
       "Accessories": 77,
       "Personalization": 1642,
       "Ship": 419,
@@ -127702,6 +127702,15 @@
       "categoryName": "Blueprint"
     },
     {
+      "typeID": 95228,
+      "name": "Manifest Homecoming Background",
+      "volume": 0.1,
+      "groupID": 5082,
+      "groupName": "Portrait Backgrounds",
+      "categoryID": 30,
+      "categoryName": "Apparel"
+    },
+    {
       "typeID": 48139,
       "name": "Mannar Hair Gel",
       "volume": 1.0,
@@ -203858,6 +203867,15 @@
       "groupName": "Miscellaneous",
       "categoryID": 17,
       "categoryName": "Commodity"
+    },
+    {
+      "typeID": 95275,
+      "name": "Star Cradle Background",
+      "volume": 0.1,
+      "groupID": 5082,
+      "groupName": "Portrait Backgrounds",
+      "categoryID": 30,
+      "categoryName": "Apparel"
     },
     {
       "typeID": 33121,
