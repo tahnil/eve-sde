@@ -1,30 +1,30 @@
 {
   "metadata": {
     "source": "EVE Online SDE",
-    "itemCount": 26724,
+    "itemCount": 26895,
     "categoryCount": 37,
     "itemsWithZeroVolume": 956,
     "categories": {
-      "Module": 3956,
-      "Blueprint": 4152,
-      "Drone": 151,
+      "Module": 3971,
+      "Blueprint": 4158,
+      "Drone": 154,
       "Special Edition Assets": 630,
-      "Commodity": 2839,
+      "Commodity": 2844,
       "Structure": 18,
       "Deployable": 44,
       "Apparel": 981,
       "Accessories": 77,
-      "Personalization": 1642,
-      "Ship": 419,
-      "SKINs": 6955,
+      "Personalization": 1730,
+      "Ship": 423,
+      "SKINs": 7043,
       "Charge": 1017,
-      "Skill": 510,
+      "Skill": 511,
       "Decryptors": 44,
-      "Asteroid": 451,
-      "Implant": 1341,
+      "Asteroid": 459,
+      "Implant": 1290,
       "Starbase": 195,
       "Infrastructure Upgrades": 73,
-      "Material": 265,
+      "Material": 269,
       "Expert Systems": 31,
       "Celestial": 225,
       "Fighter": 94,
@@ -71,6 +71,15 @@
       "groupName": "Warp Core Stabilizer",
       "categoryID": 7,
       "categoryName": "Module"
+    },
+    {
+      "typeID": 93963,
+      "name": "'Aergia' Hobgoblin SW-300",
+      "volume": 5.0,
+      "groupID": 641,
+      "groupName": "Stasis Webifying Drone",
+      "categoryID": 18,
+      "categoryName": "Drone"
     },
     {
       "typeID": 22621,
@@ -7815,7 +7824,7 @@
     {
       "typeID": 90524,
       "name": "Abyssal Ice Harvester",
-      "volume": 25.0,
+      "volume": 5.0,
       "groupID": 464,
       "groupName": "Strip Miner",
       "categoryID": 7,
@@ -7905,7 +7914,7 @@
     {
       "typeID": 90493,
       "name": "Abyssal Strip Miner",
-      "volume": 25.0,
+      "volume": 5.0,
       "groupID": 464,
       "groupName": "Strip Miner",
       "categoryID": 7,
@@ -9854,6 +9863,24 @@
       "groupName": "Ship Emblems",
       "categoryID": 2118,
       "categoryName": "Personalization"
+    },
+    {
+      "typeID": 95269,
+      "name": "Algos Navy Issue Penumbral Shadows SKIN",
+      "volume": 0.01,
+      "groupID": 1950,
+      "groupName": "Permanent SKIN",
+      "categoryID": 91,
+      "categoryName": "SKINs"
+    },
+    {
+      "typeID": 95294,
+      "name": "Algos Navy Issue Presidential Agent SKIN",
+      "volume": 0.01,
+      "groupID": 1950,
+      "groupName": "Permanent SKIN",
+      "categoryID": 91,
+      "categoryName": "SKINs"
     },
     {
       "typeID": 45562,
@@ -13366,6 +13393,24 @@
       "categoryName": "Blueprint"
     },
     {
+      "typeID": 92971,
+      "name": "Anodized Freedom Metallic - Limited",
+      "volume": 0.1,
+      "groupID": 4726,
+      "groupName": "Ship SKIN Design Element",
+      "categoryID": 2118,
+      "categoryName": "Personalization"
+    },
+    {
+      "typeID": 93479,
+      "name": "Anodized Freedom Metallic - Unlimited",
+      "volume": 0.1,
+      "groupID": 4726,
+      "groupName": "Ship SKIN Design Element",
+      "categoryID": 2118,
+      "categoryName": "Personalization"
+    },
+    {
       "typeID": 28848,
       "name": "Anshar",
       "volume": 17550000.0,
@@ -14403,6 +14448,15 @@
     {
       "typeID": 52583,
       "name": "Apocalypse Navy Issue Star Captain SKIN",
+      "volume": 0.01,
+      "groupID": 1950,
+      "groupName": "Permanent SKIN",
+      "categoryID": 91,
+      "categoryName": "SKINs"
+    },
+    {
+      "typeID": 92782,
+      "name": "Apocalypse Navy Issue War Reserves Lieutenant SKIN",
       "volume": 0.01,
       "groupID": 1950,
       "groupName": "Permanent SKIN",
@@ -17092,6 +17146,15 @@
       "categoryName": "SKINs"
     },
     {
+      "typeID": 93655,
+      "name": "Armageddon Navy Issue Penumbral Shadows SKIN",
+      "volume": 0.01,
+      "groupID": 1950,
+      "groupName": "Permanent SKIN",
+      "categoryID": 91,
+      "categoryName": "SKINs"
+    },
+    {
       "typeID": 42590,
       "name": "Armageddon Navy Issue Purity of the Throne SKIN",
       "volume": 0.01,
@@ -17128,6 +17191,15 @@
       "categoryName": "SKINs"
     },
     {
+      "typeID": 92783,
+      "name": "Armageddon Navy Issue War Reserves Lieutenant SKIN",
+      "volume": 0.01,
+      "groupID": 1950,
+      "groupName": "Permanent SKIN",
+      "categoryID": 91,
+      "categoryName": "SKINs"
+    },
+    {
       "typeID": 81357,
       "name": "Armageddon Navy Issue Zydrine Burn SKIN",
       "volume": 0.01,
@@ -17139,6 +17211,15 @@
     {
       "typeID": 53637,
       "name": "Armageddon Oasis of Faith SKIN",
+      "volume": 0.01,
+      "groupID": 1950,
+      "groupName": "Permanent SKIN",
+      "categoryID": 91,
+      "categoryName": "SKINs"
+    },
+    {
+      "typeID": 93708,
+      "name": "Armageddon Penumbral Shadows SKIN",
       "volume": 0.01,
       "groupID": 1950,
       "groupName": "Permanent SKIN",
@@ -19351,6 +19432,15 @@
       "categoryName": "SKINs"
     },
     {
+      "typeID": 93657,
+      "name": "Augoror Navy Issue Penumbral Shadows SKIN",
+      "volume": 0.01,
+      "groupID": 1950,
+      "groupName": "Permanent SKIN",
+      "categoryID": 91,
+      "categoryName": "SKINs"
+    },
+    {
       "typeID": 42576,
       "name": "Augoror Navy Issue Purity of the Throne SKIN",
       "volume": 0.01,
@@ -19470,6 +19560,15 @@
     {
       "typeID": 73463,
       "name": "Augoror Order of Tetrimon SKIN",
+      "volume": 0.01,
+      "groupID": 1950,
+      "groupName": "Permanent SKIN",
+      "categoryID": 91,
+      "categoryName": "SKINs"
+    },
+    {
+      "typeID": 93706,
+      "name": "Augoror Penumbral Shadows SKIN",
       "volume": 0.01,
       "groupID": 1950,
       "groupName": "Permanent SKIN",
@@ -21585,24 +21684,6 @@
     {
       "typeID": 72238,
       "name": "Basic 'Boost' Cerebral Accelerator",
-      "volume": 1.0,
-      "groupID": 303,
-      "groupName": "Booster",
-      "categoryID": 20,
-      "categoryName": "Implant"
-    },
-    {
-      "typeID": 93775,
-      "name": "Basic Capsuleer Day XXIII Cerebral Accelerator",
-      "volume": 1.0,
-      "groupID": 303,
-      "groupName": "Booster",
-      "categoryID": 20,
-      "categoryName": "Implant"
-    },
-    {
-      "typeID": 93778,
-      "name": "Basic Capsuleer Day XXIII Glamourex Booster",
       "volume": 1.0,
       "groupID": 303,
       "groupName": "Booster",
@@ -24067,6 +24148,24 @@
       "categoryName": "Personalization"
     },
     {
+      "typeID": 94137,
+      "name": "Blessed Moss Matte - Limited",
+      "volume": 0.1,
+      "groupID": 4726,
+      "groupName": "Ship SKIN Design Element",
+      "categoryID": 2118,
+      "categoryName": "Personalization"
+    },
+    {
+      "typeID": 94136,
+      "name": "Blessed Moss Matte - Unlimited",
+      "volume": 0.1,
+      "groupID": 4726,
+      "groupName": "Ship SKIN Design Element",
+      "categoryID": 2118,
+      "categoryName": "Personalization"
+    },
+    {
       "typeID": 17204,
       "name": "Blood Brass Tag",
       "volume": 0.1,
@@ -26029,6 +26128,24 @@
       "categoryName": "Commodity"
     },
     {
+      "typeID": 92990,
+      "name": "Breakout Midnight Matte - Limited",
+      "volume": 0.1,
+      "groupID": 4726,
+      "groupName": "Ship SKIN Design Element",
+      "categoryID": 2118,
+      "categoryName": "Personalization"
+    },
+    {
+      "typeID": 93475,
+      "name": "Breakout Midnight Matte - Unlimited",
+      "volume": 0.1,
+      "groupID": 4726,
+      "groupName": "Ship SKIN Design Element",
+      "categoryID": 2118,
+      "categoryName": "Personalization"
+    },
+    {
       "typeID": 26901,
       "name": "Breeder Slave",
       "volume": 1.5,
@@ -27129,6 +27246,15 @@
     {
       "typeID": 44928,
       "name": "Brutix Navy Issue Spirit SKIN",
+      "volume": 0.01,
+      "groupID": 1950,
+      "groupName": "Permanent SKIN",
+      "categoryID": 91,
+      "categoryName": "SKINs"
+    },
+    {
+      "typeID": 92794,
+      "name": "Brutix Navy Issue Strategic Materiel Defender SKIN",
       "volume": 0.01,
       "groupID": 1950,
       "groupName": "Permanent SKIN",
@@ -30097,6 +30223,15 @@
       "categoryName": "SKINs"
     },
     {
+      "typeID": 93668,
+      "name": "Caldari Navy Hookbill Penumbral Shadows SKIN",
+      "volume": 0.01,
+      "groupID": 1950,
+      "groupName": "Permanent SKIN",
+      "categoryID": 91,
+      "categoryName": "SKINs"
+    },
+    {
       "typeID": 46103,
       "name": "Caldari Navy Hookbill Steel Cardinal SKIN",
       "volume": 0.01,
@@ -30304,6 +30439,15 @@
       "categoryName": "Blueprint"
     },
     {
+      "typeID": 93838,
+      "name": "Caldari Navy Large Remote Shield Booster",
+      "volume": 25.0,
+      "groupID": 41,
+      "groupName": "Remote Shield Booster",
+      "categoryID": 7,
+      "categoryName": "Module"
+    },
+    {
       "typeID": 15900,
       "name": "Caldari Navy Large Shield Booster",
       "volume": 25.0,
@@ -30455,6 +30599,24 @@
       "groupName": "Empire Insignia Drops",
       "categoryID": 17,
       "categoryName": "Commodity"
+    },
+    {
+      "typeID": 94063,
+      "name": "Caldari Navy Missile Guidance Computer",
+      "volume": 5.0,
+      "groupID": 1396,
+      "groupName": "Missile Guidance Computer",
+      "categoryID": 7,
+      "categoryName": "Module"
+    },
+    {
+      "typeID": 93908,
+      "name": "Caldari Navy Missile Guidance Enhancer",
+      "volume": 5.0,
+      "groupID": 1395,
+      "groupName": "Missile Guidance Enhancer",
+      "categoryID": 7,
+      "categoryName": "Module"
     },
     {
       "typeID": 27377,
@@ -30768,6 +30930,15 @@
       "volume": 5.0,
       "groupID": 57,
       "groupName": "Shield Power Relay",
+      "categoryID": 7,
+      "categoryName": "Module"
+    },
+    {
+      "typeID": 94067,
+      "name": "Caldari Navy Signal Distortion Amplifier",
+      "volume": 5.0,
+      "groupID": 514,
+      "groupName": "ECM Stabilizer",
       "categoryID": 7,
       "categoryName": "Module"
     },
@@ -37981,63 +38152,9 @@
       "categoryName": "Special Edition Assets"
     },
     {
-      "typeID": 93783,
-      "name": "Capsuleer Day XXIII Accelerator Crate",
-      "volume": 1.0,
-      "groupID": 1194,
-      "groupName": "Special Edition Commodities",
-      "categoryID": 63,
-      "categoryName": "Special Edition Assets"
-    },
-    {
-      "typeID": 93831,
-      "name": "Capsuleer Day XXIII Amarr Booster Crate",
-      "volume": 1.0,
-      "groupID": 1194,
-      "groupName": "Special Edition Commodities",
-      "categoryID": 63,
-      "categoryName": "Special Edition Assets"
-    },
-    {
-      "typeID": 93833,
-      "name": "Capsuleer Day XXIII Caldari Booster Crate",
-      "volume": 1.0,
-      "groupID": 1194,
-      "groupName": "Special Edition Commodities",
-      "categoryID": 63,
-      "categoryName": "Special Edition Assets"
-    },
-    {
       "typeID": 93645,
       "name": "Capsuleer Day XXIII Fireworks Package",
       "volume": 4.0,
-      "groupID": 1194,
-      "groupName": "Special Edition Commodities",
-      "categoryID": 63,
-      "categoryName": "Special Edition Assets"
-    },
-    {
-      "typeID": 93834,
-      "name": "Capsuleer Day XXIII Gallente Booster Crate",
-      "volume": 1.0,
-      "groupID": 1194,
-      "groupName": "Special Edition Commodities",
-      "categoryID": 63,
-      "categoryName": "Special Edition Assets"
-    },
-    {
-      "typeID": 93781,
-      "name": "Capsuleer Day XXIII Glamourex Crate",
-      "volume": 1.0,
-      "groupID": 1194,
-      "groupName": "Special Edition Commodities",
-      "categoryID": 63,
-      "categoryName": "Special Edition Assets"
-    },
-    {
-      "typeID": 93835,
-      "name": "Capsuleer Day XXIII Minmatar Booster Crate",
-      "volume": 1.0,
       "groupID": 1194,
       "groupName": "Special Edition Commodities",
       "categoryID": 63,
@@ -38415,6 +38532,15 @@
     {
       "typeID": 57779,
       "name": "Caracal Navy Issue Hunter's Quiver SKIN",
+      "volume": 0.01,
+      "groupID": 1950,
+      "groupName": "Permanent SKIN",
+      "categoryID": 91,
+      "categoryName": "SKINs"
+    },
+    {
+      "typeID": 92786,
+      "name": "Caracal Navy Issue Military Stockpile Captain SKIN",
       "volume": 0.01,
       "groupID": 1950,
       "groupName": "Permanent SKIN",
@@ -39594,6 +39720,15 @@
     {
       "typeID": 91621,
       "name": "Catalyst Navy Issue Media Miasma SKIN",
+      "volume": 0.01,
+      "groupID": 1950,
+      "groupName": "Permanent SKIN",
+      "categoryID": 91,
+      "categoryName": "SKINs"
+    },
+    {
+      "typeID": 93694,
+      "name": "Catalyst Navy Issue Penumbral Shadows SKIN",
       "volume": 0.01,
       "groupID": 1950,
       "groupName": "Permanent SKIN",
@@ -44389,6 +44524,15 @@
       "categoryName": "SKINs"
     },
     {
+      "typeID": 93658,
+      "name": "Coercer Navy Issue Penumbral Shadows SKIN",
+      "volume": 0.01,
+      "groupID": 1950,
+      "groupName": "Permanent SKIN",
+      "categoryID": 91,
+      "categoryName": "SKINs"
+    },
+    {
       "typeID": 74113,
       "name": "Coercer Navy Issue Purity of the Throne SKIN",
       "volume": 0.01,
@@ -44799,6 +44943,15 @@
       "volume": 0.01,
       "groupID": 258,
       "groupName": "Fleet Support",
+      "categoryID": 16,
+      "categoryName": "Skill"
+    },
+    {
+      "typeID": 93983,
+      "name": "Command Carriers",
+      "volume": 0.01,
+      "groupID": 257,
+      "groupName": "Spaceship Command",
       "categoryID": 16,
       "categoryName": "Skill"
     },
@@ -46378,6 +46531,15 @@
       "categoryName": "Asteroid"
     },
     {
+      "typeID": 92821,
+      "name": "Compressed Kangite X-Grade",
+      "volume": 0.01,
+      "groupID": 5086,
+      "groupName": "Kangite",
+      "categoryID": 25,
+      "categoryName": "Asteroid"
+    },
+    {
       "typeID": 62536,
       "name": "Compressed Kernite",
       "volume": 0.012,
@@ -46567,6 +46729,15 @@
       "categoryName": "Asteroid"
     },
     {
+      "typeID": 92820,
+      "name": "Compressed Moissanite X-Grade",
+      "volume": 0.01,
+      "groupID": 5085,
+      "groupName": "Moissanite",
+      "categoryID": 25,
+      "categoryName": "Asteroid"
+    },
+    {
       "typeID": 62507,
       "name": "Compressed Monazite",
       "volume": 0.1,
@@ -46738,6 +46909,15 @@
       "categoryName": "Asteroid"
     },
     {
+      "typeID": 92819,
+      "name": "Compressed Polycrase X-Grade",
+      "volume": 0.01,
+      "groupID": 5084,
+      "groupName": "Polycrase",
+      "categoryID": 25,
+      "categoryName": "Asteroid"
+    },
+    {
       "typeID": 90307,
       "name": "Compressed Prismaticite",
       "volume": 0.4,
@@ -46806,6 +46986,15 @@
       "volume": 0.16,
       "groupID": 4030,
       "groupName": "Rakovene",
+      "categoryID": 25,
+      "categoryName": "Asteroid"
+    },
+    {
+      "typeID": 92818,
+      "name": "Compressed Raspite X-Grade",
+      "volume": 0.01,
+      "groupID": 5083,
+      "groupName": "Raspite",
       "categoryID": 25,
       "categoryName": "Asteroid"
     },
@@ -47773,6 +47962,15 @@
       "categoryName": "SKINs"
     },
     {
+      "typeID": 94154,
+      "name": "Confessor Mandate of Faith SKIN",
+      "volume": 0.01,
+      "groupID": 1950,
+      "groupName": "Permanent SKIN",
+      "categoryID": 91,
+      "categoryName": "SKINs"
+    },
+    {
       "typeID": 53615,
       "name": "Confessor Oasis of Faith SKIN",
       "volume": 0.01,
@@ -48509,6 +48707,24 @@
       "groupName": "Ship Emblems",
       "categoryID": 2118,
       "categoryName": "Personalization"
+    },
+    {
+      "typeID": 95268,
+      "name": "Corax Navy Issue Penumbral Shadows SKIN",
+      "volume": 0.01,
+      "groupID": 1950,
+      "groupName": "Permanent SKIN",
+      "categoryID": 91,
+      "categoryName": "SKINs"
+    },
+    {
+      "typeID": 95297,
+      "name": "Corax Navy Issue State Regulator SKIN",
+      "volume": 0.01,
+      "groupID": 1950,
+      "groupName": "Permanent SKIN",
+      "categoryID": 91,
+      "categoryName": "SKINs"
     },
     {
       "typeID": 36646,
@@ -49980,6 +50196,15 @@
     {
       "typeID": 76291,
       "name": "Cormorant Navy Issue Heartsurge SKIN",
+      "volume": 0.01,
+      "groupID": 1950,
+      "groupName": "Permanent SKIN",
+      "categoryID": 91,
+      "categoryName": "SKINs"
+    },
+    {
+      "typeID": 93665,
+      "name": "Cormorant Navy Issue Penumbral Shadows SKIN",
       "volume": 0.01,
       "groupID": 1950,
       "groupName": "Permanent SKIN",
@@ -51670,6 +51895,24 @@
       "categoryName": "SKINs"
     },
     {
+      "typeID": 94146,
+      "name": "Cracked Corrosion - Limited",
+      "volume": 0.1,
+      "groupID": 4726,
+      "groupName": "Ship SKIN Design Element",
+      "categoryID": 2118,
+      "categoryName": "Personalization"
+    },
+    {
+      "typeID": 94145,
+      "name": "Cracked Corrosion - Unlimited",
+      "volume": 0.1,
+      "groupID": 4726,
+      "groupName": "Ship SKIN Design Element",
+      "categoryID": 2118,
+      "categoryName": "Personalization"
+    },
+    {
       "typeID": 21878,
       "name": "Cracked Keycard",
       "volume": 0.1,
@@ -51677,6 +51920,78 @@
       "groupName": "Commodities",
       "categoryID": 17,
       "categoryName": "Commodity"
+    },
+    {
+      "typeID": 94108,
+      "name": "Cradle of Faith - Limited",
+      "volume": 0.1,
+      "groupID": 4726,
+      "groupName": "Ship SKIN Design Element",
+      "categoryID": 2118,
+      "categoryName": "Personalization"
+    },
+    {
+      "typeID": 94107,
+      "name": "Cradle of Faith - Unlimited",
+      "volume": 0.1,
+      "groupID": 4726,
+      "groupName": "Ship SKIN Design Element",
+      "categoryID": 2118,
+      "categoryName": "Personalization"
+    },
+    {
+      "typeID": 94125,
+      "name": "Cradle of Freedom - Limited",
+      "volume": 0.1,
+      "groupID": 4726,
+      "groupName": "Ship SKIN Design Element",
+      "categoryID": 2118,
+      "categoryName": "Personalization"
+    },
+    {
+      "typeID": 94121,
+      "name": "Cradle of Freedom - Unlimited",
+      "volume": 0.1,
+      "groupID": 4726,
+      "groupName": "Ship SKIN Design Element",
+      "categoryID": 2118,
+      "categoryName": "Personalization"
+    },
+    {
+      "typeID": 94127,
+      "name": "Cradle of Honor - Limited",
+      "volume": 0.1,
+      "groupID": 4726,
+      "groupName": "Ship SKIN Design Element",
+      "categoryID": 2118,
+      "categoryName": "Personalization"
+    },
+    {
+      "typeID": 94126,
+      "name": "Cradle of Honor - Unlimited",
+      "volume": 0.1,
+      "groupID": 4726,
+      "groupName": "Ship SKIN Design Element",
+      "categoryID": 2118,
+      "categoryName": "Personalization"
+    },
+    {
+      "typeID": 94129,
+      "name": "Cradle of Liberation - Limited",
+      "volume": 0.1,
+      "groupID": 4726,
+      "groupName": "Ship SKIN Design Element",
+      "categoryID": 2118,
+      "categoryName": "Personalization"
+    },
+    {
+      "typeID": 94128,
+      "name": "Cradle of Liberation - Unlimited",
+      "volume": 0.1,
+      "groupID": 4726,
+      "groupName": "Ship SKIN Design Element",
+      "categoryID": 2118,
+      "categoryName": "Personalization"
     },
     {
       "typeID": 12729,
@@ -53047,6 +53362,24 @@
       "categoryName": "Charge"
     },
     {
+      "typeID": 94043,
+      "name": "Crucible Booster III",
+      "volume": 1.0,
+      "groupID": 303,
+      "groupName": "Booster",
+      "categoryID": 20,
+      "categoryName": "Implant"
+    },
+    {
+      "typeID": 94044,
+      "name": "Crucible Booster VI",
+      "volume": 1.0,
+      "groupID": 303,
+      "groupName": "Booster",
+      "categoryID": 20,
+      "categoryName": "Implant"
+    },
+    {
       "typeID": 2161,
       "name": "Crucifier",
       "volume": 28100.0,
@@ -53344,6 +53677,15 @@
       "categoryName": "SKINs"
     },
     {
+      "typeID": 93660,
+      "name": "Crucifier Navy Issue Penumbral Shadows SKIN",
+      "volume": 0.01,
+      "groupID": 1950,
+      "groupName": "Permanent SKIN",
+      "categoryID": 91,
+      "categoryName": "SKINs"
+    },
+    {
       "typeID": 42559,
       "name": "Crucifier Navy Issue Purity of the Throne SKIN",
       "volume": 0.01,
@@ -53371,8 +53713,26 @@
       "categoryName": "SKINs"
     },
     {
+      "typeID": 92779,
+      "name": "Crucifier Navy Issue War Reserves Lieutenant SKIN",
+      "volume": 0.01,
+      "groupID": 1950,
+      "groupName": "Permanent SKIN",
+      "categoryID": 91,
+      "categoryName": "SKINs"
+    },
+    {
       "typeID": 53595,
       "name": "Crucifier Oasis of Faith SKIN",
+      "volume": 0.01,
+      "groupID": 1950,
+      "groupName": "Permanent SKIN",
+      "categoryID": 91,
+      "categoryName": "SKINs"
+    },
+    {
+      "typeID": 93709,
+      "name": "Crucifier Penumbral Shadows SKIN",
       "volume": 0.01,
       "groupID": 1950,
       "groupName": "Permanent SKIN",
@@ -54262,6 +54622,42 @@
       "categoryName": "Material"
     },
     {
+      "typeID": 92572,
+      "name": "Crystalline Kangite",
+      "volume": 0.01,
+      "groupID": 18,
+      "groupName": "Mineral",
+      "categoryID": 4,
+      "categoryName": "Material"
+    },
+    {
+      "typeID": 92571,
+      "name": "Crystalline Moissanite",
+      "volume": 0.01,
+      "groupID": 18,
+      "groupName": "Mineral",
+      "categoryID": 4,
+      "categoryName": "Material"
+    },
+    {
+      "typeID": 92570,
+      "name": "Crystalline Polycrase",
+      "volume": 0.01,
+      "groupID": 18,
+      "groupName": "Mineral",
+      "categoryID": 4,
+      "categoryName": "Material"
+    },
+    {
+      "typeID": 92569,
+      "name": "Crystalline Raspite",
+      "volume": 0.01,
+      "groupID": 18,
+      "groupName": "Mineral",
+      "categoryID": 4,
+      "categoryName": "Material"
+    },
+    {
       "typeID": 16655,
       "name": "Crystallite Alloy",
       "volume": 0.2,
@@ -54874,6 +55270,15 @@
       "categoryName": "Personalization"
     },
     {
+      "typeID": 92800,
+      "name": "Cyclone Fleet Issue Fleet Ordnance Spike SKIN",
+      "volume": 0.01,
+      "groupID": 1950,
+      "groupName": "Permanent SKIN",
+      "categoryID": 91,
+      "categoryName": "SKINs"
+    },
+    {
       "typeID": 89511,
       "name": "Cyclone Fleet Issue Hrada-Oki Offender SKIN",
       "volume": 0.01,
@@ -54885,6 +55290,15 @@
     {
       "typeID": 84128,
       "name": "Cyclone Fleet Issue Media Miasma SKIN",
+      "volume": 0.01,
+      "groupID": 1950,
+      "groupName": "Permanent SKIN",
+      "categoryID": 91,
+      "categoryName": "SKINs"
+    },
+    {
+      "typeID": 93699,
+      "name": "Cyclone Fleet Issue Penumbral Shadows SKIN",
       "volume": 0.01,
       "groupID": 1950,
       "groupName": "Permanent SKIN",
@@ -55047,6 +55461,15 @@
     {
       "typeID": 64930,
       "name": "Cyclone Nefantar SKIN",
+      "volume": 0.01,
+      "groupID": 1950,
+      "groupName": "Permanent SKIN",
+      "categoryID": 91,
+      "categoryName": "SKINs"
+    },
+    {
+      "typeID": 93721,
+      "name": "Cyclone Penumbral Shadows SKIN",
       "volume": 0.01,
       "groupID": 1950,
       "groupName": "Permanent SKIN",
@@ -57702,6 +58125,24 @@
     {
       "typeID": 85773,
       "name": "Darkest Amethyst Matte - Limited",
+      "volume": 0.1,
+      "groupID": 4726,
+      "groupName": "Ship SKIN Design Element",
+      "categoryID": 2118,
+      "categoryName": "Personalization"
+    },
+    {
+      "typeID": 92984,
+      "name": "Darkest Clay Satin - Limited",
+      "volume": 0.1,
+      "groupID": 4726,
+      "groupName": "Ship SKIN Design Element",
+      "categoryID": 2118,
+      "categoryName": "Personalization"
+    },
+    {
+      "typeID": 93484,
+      "name": "Darkest Clay Satin - Unlimited",
       "volume": 0.1,
       "groupID": 4726,
       "groupName": "Ship SKIN Design Element",
@@ -60436,6 +60877,42 @@
       "categoryName": "Personalization"
     },
     {
+      "typeID": 92991,
+      "name": "Divine Bronze Metallic - Limited",
+      "volume": 0.1,
+      "groupID": 4726,
+      "groupName": "Ship SKIN Design Element",
+      "categoryID": 2118,
+      "categoryName": "Personalization"
+    },
+    {
+      "typeID": 93469,
+      "name": "Divine Bronze Metallic - Unlimited",
+      "volume": 0.1,
+      "groupID": 4726,
+      "groupName": "Ship SKIN Design Element",
+      "categoryID": 2118,
+      "categoryName": "Personalization"
+    },
+    {
+      "typeID": 93000,
+      "name": "Divine Convergence - Limited",
+      "volume": 0.1,
+      "groupID": 4726,
+      "groupName": "Ship SKIN Design Element",
+      "categoryID": 2118,
+      "categoryName": "Personalization"
+    },
+    {
+      "typeID": 93467,
+      "name": "Divine Convergence - Unlimited",
+      "volume": 0.1,
+      "groupID": 4726,
+      "groupName": "Ship SKIN Design Element",
+      "categoryID": 2118,
+      "categoryName": "Personalization"
+    },
+    {
       "typeID": 26465,
       "name": "Divine Opium",
       "volume": 1.0,
@@ -62434,6 +62911,15 @@
       "categoryName": "SKINs"
     },
     {
+      "typeID": 93691,
+      "name": "Dominix Navy Issue Penumbral Shadows SKIN",
+      "volume": 0.01,
+      "groupID": 1950,
+      "groupName": "Permanent SKIN",
+      "categoryID": 91,
+      "categoryName": "SKINs"
+    },
+    {
       "typeID": 45026,
       "name": "Dominix Navy Issue Sapphire Sungrazer SKIN",
       "volume": 0.01,
@@ -62452,8 +62938,26 @@
       "categoryName": "SKINs"
     },
     {
+      "typeID": 92795,
+      "name": "Dominix Navy Issue Strategic Materiel Defender SKIN",
+      "volume": 0.01,
+      "groupID": 1950,
+      "groupName": "Permanent SKIN",
+      "categoryID": 91,
+      "categoryName": "SKINs"
+    },
+    {
       "typeID": 87493,
       "name": "Dominix Navy Issue Zydrine Burn SKIN",
+      "volume": 0.01,
+      "groupID": 1950,
+      "groupName": "Permanent SKIN",
+      "categoryID": 91,
+      "categoryName": "SKINs"
+    },
+    {
+      "typeID": 93715,
+      "name": "Dominix Penumbral Shadows SKIN",
       "volume": 0.01,
       "groupID": 1950,
       "groupName": "Permanent SKIN",
@@ -63280,6 +63784,24 @@
       "categoryName": "Personalization"
     },
     {
+      "typeID": 95295,
+      "name": "Dragoon Navy Issue Mandate of Faith SKIN",
+      "volume": 0.01,
+      "groupID": 1950,
+      "groupName": "Permanent SKIN",
+      "categoryID": 91,
+      "categoryName": "SKINs"
+    },
+    {
+      "typeID": 95267,
+      "name": "Dragoon Navy Issue Penumbral Shadows SKIN",
+      "volume": 0.01,
+      "groupID": 1950,
+      "groupName": "Permanent SKIN",
+      "categoryID": 91,
+      "categoryName": "SKINs"
+    },
+    {
       "typeID": 53612,
       "name": "Dragoon Oasis of Faith SKIN",
       "volume": 0.01,
@@ -63757,8 +64279,26 @@
       "categoryName": "SKINs"
     },
     {
+      "typeID": 92787,
+      "name": "Drake Navy Issue Military Stockpile Captain SKIN",
+      "volume": 0.01,
+      "groupID": 1950,
+      "groupName": "Permanent SKIN",
+      "categoryID": 91,
+      "categoryName": "SKINs"
+    },
+    {
       "typeID": 47616,
       "name": "Drake Navy Issue Octopus Orange Flight SKIN",
+      "volume": 0.01,
+      "groupID": 1950,
+      "groupName": "Permanent SKIN",
+      "categoryID": 91,
+      "categoryName": "SKINs"
+    },
+    {
+      "typeID": 93663,
+      "name": "Drake Navy Issue Penumbral Shadows SKIN",
       "volume": 0.01,
       "groupID": 1950,
       "groupName": "Permanent SKIN",
@@ -63858,6 +64398,15 @@
     {
       "typeID": 46731,
       "name": "Drake Octopus Red Flight SKIN",
+      "volume": 0.01,
+      "groupID": 1950,
+      "groupName": "Permanent SKIN",
+      "categoryID": 91,
+      "categoryName": "SKINs"
+    },
+    {
+      "typeID": 93711,
+      "name": "Drake Penumbral Shadows SKIN",
       "volume": 0.01,
       "groupID": 1950,
       "groupName": "Permanent SKIN",
@@ -67951,6 +68500,24 @@
       "categoryName": "SKINs"
     },
     {
+      "typeID": 94144,
+      "name": "Ebony Nightfall Metallic - Limited",
+      "volume": 0.1,
+      "groupID": 4726,
+      "groupName": "Ship SKIN Design Element",
+      "categoryID": 2118,
+      "categoryName": "Personalization"
+    },
+    {
+      "typeID": 94143,
+      "name": "Ebony Nightfall Metallic - Unlimited",
+      "volume": 0.1,
+      "groupID": 4726,
+      "groupName": "Ship SKIN Design Element",
+      "categoryID": 2118,
+      "categoryName": "Personalization"
+    },
+    {
       "typeID": 3532,
       "name": "Echelon",
       "volume": 28100.0,
@@ -69848,6 +70415,24 @@
       "groupName": "Miscellaneous",
       "categoryID": 17,
       "categoryName": "Commodity"
+    },
+    {
+      "typeID": 92997,
+      "name": "Empress Ivory Satin - Limited",
+      "volume": 0.1,
+      "groupID": 4726,
+      "groupName": "Ship SKIN Design Element",
+      "categoryID": 2118,
+      "categoryName": "Personalization"
+    },
+    {
+      "typeID": 93468,
+      "name": "Empress Ivory Satin - Unlimited",
+      "volume": 0.1,
+      "groupID": 4726,
+      "groupName": "Ship SKIN Design Element",
+      "categoryID": 2118,
+      "categoryName": "Personalization"
     },
     {
       "typeID": 22063,
@@ -73540,6 +74125,15 @@
       "categoryName": "SKINs"
     },
     {
+      "typeID": 93693,
+      "name": "Exequror Navy Issue Penumbral Shadows SKIN",
+      "volume": 0.01,
+      "groupID": 1950,
+      "groupName": "Permanent SKIN",
+      "categoryID": 91,
+      "categoryName": "SKINs"
+    },
+    {
       "typeID": 45023,
       "name": "Exequror Navy Issue Sapphire Sungrazer SKIN",
       "volume": 0.01,
@@ -73569,6 +74163,15 @@
     {
       "typeID": 92385,
       "name": "Exequror Navy Issue Unbridled Glory SKIN",
+      "volume": 0.01,
+      "groupID": 1950,
+      "groupName": "Permanent SKIN",
+      "categoryID": 91,
+      "categoryName": "SKINs"
+    },
+    {
+      "typeID": 93717,
+      "name": "Exequror Penumbral Shadows SKIN",
       "volume": 0.01,
       "groupID": 1950,
       "groupName": "Permanent SKIN",
@@ -73925,6 +74528,15 @@
       "groupName": "Special Edition Commodities",
       "categoryID": 63,
       "categoryName": "Special Edition Assets"
+    },
+    {
+      "typeID": 95274,
+      "name": "Exordium Filament",
+      "volume": 0.1,
+      "groupID": 4041,
+      "groupName": "Jump Filaments",
+      "categoryID": 17,
+      "categoryName": "Commodity"
     },
     {
       "typeID": 17765,
@@ -74350,15 +74962,6 @@
       "categoryName": "Implant"
     },
     {
-      "typeID": 88350,
-      "name": "Expired Aegytica Volatile Booster",
-      "volume": 1.0,
-      "groupID": 303,
-      "groupName": "Booster",
-      "categoryID": 20,
-      "categoryName": "Implant"
-    },
-    {
       "typeID": 80001,
       "name": "Expired Annihilated Electrical Filament",
       "volume": 0.1,
@@ -74378,15 +74981,6 @@
     },
     {
       "typeID": 87727,
-      "name": "Expired Balneum Volatile Booster",
-      "volume": 1.0,
-      "groupID": 303,
-      "groupName": "Booster",
-      "categoryID": 20,
-      "categoryName": "Implant"
-    },
-    {
-      "typeID": 88352,
       "name": "Expired Balneum Volatile Booster",
       "volume": 1.0,
       "groupID": 303,
@@ -74593,15 +75187,6 @@
       "categoryName": "Implant"
     },
     {
-      "typeID": 88354,
-      "name": "Expired Mithridate Volatile Booster",
-      "volume": 1.0,
-      "groupID": 303,
-      "groupName": "Booster",
-      "categoryID": 20,
-      "categoryName": "Implant"
-    },
-    {
       "typeID": 62055,
       "name": "Expired Mysterious Warp Matrix Filament",
       "volume": 0.1,
@@ -74746,15 +75331,6 @@
       "categoryName": "Implant"
     },
     {
-      "typeID": 88353,
-      "name": "Expired Theriac Volatile Booster",
-      "volume": 1.0,
-      "groupID": 303,
-      "groupName": "Booster",
-      "categoryID": 20,
-      "categoryName": "Implant"
-    },
-    {
       "typeID": 79998,
       "name": "Expired Vicious Electrical Filament",
       "volume": 0.1,
@@ -74765,15 +75341,6 @@
     },
     {
       "typeID": 87726,
-      "name": "Expired Vis Vitalis Volatile Booster",
-      "volume": 1.0,
-      "groupID": 303,
-      "groupName": "Booster",
-      "categoryID": 20,
-      "categoryName": "Implant"
-    },
-    {
-      "typeID": 88351,
       "name": "Expired Vis Vitalis Volatile Booster",
       "volume": 1.0,
       "groupID": 303,
@@ -75086,24 +75653,6 @@
       "groupName": "Special Edition Commodities",
       "categoryID": 63,
       "categoryName": "Special Edition Assets"
-    },
-    {
-      "typeID": 93776,
-      "name": "Extended Capsuleer Day XXIII Cerebral Accelerator",
-      "volume": 1.0,
-      "groupID": 303,
-      "groupName": "Booster",
-      "categoryID": 20,
-      "categoryName": "Implant"
-    },
-    {
-      "typeID": 93779,
-      "name": "Extended Capsuleer Day XXIII Glamourex Booster",
-      "volume": 1.0,
-      "groupID": 303,
-      "groupName": "Booster",
-      "categoryID": 20,
-      "categoryName": "Implant"
     },
     {
       "typeID": 87828,
@@ -75709,6 +76258,24 @@
       "categoryName": "Commodity"
     },
     {
+      "typeID": 93013,
+      "name": "Federal Cohesion - Limited",
+      "volume": 0.1,
+      "groupID": 4726,
+      "groupName": "Ship SKIN Design Element",
+      "categoryID": 2118,
+      "categoryName": "Personalization"
+    },
+    {
+      "typeID": 93476,
+      "name": "Federal Cohesion - Unlimited",
+      "volume": 0.1,
+      "groupID": 4726,
+      "groupName": "Ship SKIN Design Element",
+      "categoryID": 2118,
+      "categoryName": "Personalization"
+    },
+    {
       "typeID": 92180,
       "name": "Federal Defender Apparel Crate",
       "volume": 1.0,
@@ -75745,40 +76312,13 @@
       "categoryName": "Commodity"
     },
     {
-      "typeID": 92979,
-      "name": "Federation Application Booster I",
-      "volume": 1.0,
-      "groupID": 303,
-      "groupName": "Booster",
-      "categoryID": 20,
-      "categoryName": "Implant"
-    },
-    {
-      "typeID": 92996,
-      "name": "Federation Application Booster II",
-      "volume": 1.0,
-      "groupID": 303,
-      "groupName": "Booster",
-      "categoryID": 20,
-      "categoryName": "Implant"
-    },
-    {
-      "typeID": 92998,
-      "name": "Federation Application Booster III",
-      "volume": 1.0,
-      "groupID": 303,
-      "groupName": "Booster",
-      "categoryID": 20,
-      "categoryName": "Implant"
-    },
-    {
-      "typeID": 92999,
-      "name": "Federation Application Booster IV",
-      "volume": 1.0,
-      "groupID": 303,
-      "groupName": "Booster",
-      "categoryID": 20,
-      "categoryName": "Implant"
+      "typeID": 93611,
+      "name": "Federal Strategic Materiel Supply Package",
+      "volume": 0.01,
+      "groupID": 314,
+      "groupName": "Miscellaneous",
+      "categoryID": 17,
+      "categoryName": "Commodity"
     },
     {
       "typeID": 92573,
@@ -75844,42 +76384,6 @@
       "categoryName": "Commodity"
     },
     {
-      "typeID": 92974,
-      "name": "Federation Damage Booster I",
-      "volume": 1.0,
-      "groupID": 303,
-      "groupName": "Booster",
-      "categoryID": 20,
-      "categoryName": "Implant"
-    },
-    {
-      "typeID": 92975,
-      "name": "Federation Damage Booster II",
-      "volume": 1.0,
-      "groupID": 303,
-      "groupName": "Booster",
-      "categoryID": 20,
-      "categoryName": "Implant"
-    },
-    {
-      "typeID": 92976,
-      "name": "Federation Damage Booster III",
-      "volume": 1.0,
-      "groupID": 303,
-      "groupName": "Booster",
-      "categoryID": 20,
-      "categoryName": "Implant"
-    },
-    {
-      "typeID": 92987,
-      "name": "Federation Damage Booster IV",
-      "volume": 1.0,
-      "groupID": 303,
-      "groupName": "Booster",
-      "categoryID": 20,
-      "categoryName": "Implant"
-    },
-    {
       "typeID": 55746,
       "name": "Federation Day Clothing Crate",
       "volume": 0.1,
@@ -75889,7 +76393,7 @@
       "categoryName": "Special Edition Assets"
     },
     {
-      "typeID": 92981,
+      "typeID": 91935,
       "name": "Federation Defense Booster I",
       "volume": 1.0,
       "groupID": 303,
@@ -75898,7 +76402,7 @@
       "categoryName": "Implant"
     },
     {
-      "typeID": 93017,
+      "typeID": 91944,
       "name": "Federation Defense Booster II",
       "volume": 1.0,
       "groupID": 303,
@@ -75907,17 +76411,8 @@
       "categoryName": "Implant"
     },
     {
-      "typeID": 93018,
+      "typeID": 91943,
       "name": "Federation Defense Booster III",
-      "volume": 1.0,
-      "groupID": 303,
-      "groupName": "Booster",
-      "categoryID": 20,
-      "categoryName": "Implant"
-    },
-    {
-      "typeID": 92948,
-      "name": "Federation Defense Booster IV",
       "volume": 1.0,
       "groupID": 303,
       "groupName": "Booster",
@@ -75934,7 +76429,7 @@
       "categoryName": "Commodity"
     },
     {
-      "typeID": 92876,
+      "typeID": 91921,
       "name": "Federation Electronics Booster I",
       "volume": 1.0,
       "groupID": 303,
@@ -75943,7 +76438,7 @@
       "categoryName": "Implant"
     },
     {
-      "typeID": 92983,
+      "typeID": 91925,
       "name": "Federation Electronics Booster II",
       "volume": 1.0,
       "groupID": 303,
@@ -75952,8 +76447,8 @@
       "categoryName": "Implant"
     },
     {
-      "typeID": 92953,
-      "name": "Federation Electronics Booster IV",
+      "typeID": 91926,
+      "name": "Federation Electronics Booster III",
       "volume": 1.0,
       "groupID": 303,
       "groupName": "Booster",
@@ -76051,7 +76546,34 @@
       "categoryName": "Special Edition Assets"
     },
     {
-      "typeID": 92955,
+      "typeID": 91964,
+      "name": "Federation Hardpoint Booster I",
+      "volume": 1.0,
+      "groupID": 303,
+      "groupName": "Booster",
+      "categoryID": 20,
+      "categoryName": "Implant"
+    },
+    {
+      "typeID": 91974,
+      "name": "Federation Hardpoint Booster II",
+      "volume": 1.0,
+      "groupID": 303,
+      "groupName": "Booster",
+      "categoryID": 20,
+      "categoryName": "Implant"
+    },
+    {
+      "typeID": 91975,
+      "name": "Federation Hardpoint Booster III",
+      "volume": 1.0,
+      "groupID": 303,
+      "groupName": "Booster",
+      "categoryID": 20,
+      "categoryName": "Implant"
+    },
+    {
+      "typeID": 91949,
       "name": "Federation Mobility Booster I",
       "volume": 1.0,
       "groupID": 303,
@@ -76060,7 +76582,7 @@
       "categoryName": "Implant"
     },
     {
-      "typeID": 93019,
+      "typeID": 91958,
       "name": "Federation Mobility Booster II",
       "volume": 1.0,
       "groupID": 303,
@@ -76069,7 +76591,7 @@
       "categoryName": "Implant"
     },
     {
-      "typeID": 92972,
+      "typeID": 91959,
       "name": "Federation Mobility Booster III",
       "volume": 1.0,
       "groupID": 303,
@@ -76078,13 +76600,22 @@
       "categoryName": "Implant"
     },
     {
-      "typeID": 92973,
-      "name": "Federation Mobility Booster IV",
-      "volume": 1.0,
-      "groupID": 303,
-      "groupName": "Booster",
-      "categoryID": 20,
-      "categoryName": "Implant"
+      "typeID": 93998,
+      "name": "Federation Navy 'Argyreos' Magnetic Field Stabilizer",
+      "volume": 5.0,
+      "groupID": 302,
+      "groupName": "Magnetic Field Stabilizer",
+      "categoryID": 7,
+      "categoryName": "Module"
+    },
+    {
+      "typeID": 94020,
+      "name": "Federation Navy 'Khryseos' Magnetic Field Stabilizer",
+      "volume": 5.0,
+      "groupID": 302,
+      "groupName": "Magnetic Field Stabilizer",
+      "categoryID": 7,
+      "categoryName": "Module"
     },
     {
       "typeID": 15770,
@@ -76530,6 +77061,15 @@
     {
       "typeID": 84115,
       "name": "Federation Navy Comet Media Miasma SKIN",
+      "volume": 0.01,
+      "groupID": 1950,
+      "groupName": "Permanent SKIN",
+      "categoryID": 91,
+      "categoryName": "SKINs"
+    },
+    {
+      "typeID": 93697,
+      "name": "Federation Navy Comet Penumbral Shadows SKIN",
       "volume": 0.01,
       "groupID": 1950,
       "groupName": "Permanent SKIN",
@@ -77057,6 +77597,15 @@
       "groupName": "Smart Bomb Blueprint",
       "categoryID": 9,
       "categoryName": "Blueprint"
+    },
+    {
+      "typeID": 93841,
+      "name": "Federation Navy Large Remote Armor Repairer",
+      "volume": 25.0,
+      "groupID": 325,
+      "groupName": "Remote Armor Repairer",
+      "categoryID": 7,
+      "categoryName": "Module"
     },
     {
       "typeID": 23001,
@@ -77644,42 +78193,6 @@
       "categoryName": "Module"
     },
     {
-      "typeID": 92978,
-      "name": "Federation Projection Booster I",
-      "volume": 1.0,
-      "groupID": 303,
-      "groupName": "Booster",
-      "categoryID": 20,
-      "categoryName": "Implant"
-    },
-    {
-      "typeID": 92989,
-      "name": "Federation Projection Booster II",
-      "volume": 1.0,
-      "groupID": 303,
-      "groupName": "Booster",
-      "categoryID": 20,
-      "categoryName": "Implant"
-    },
-    {
-      "typeID": 92992,
-      "name": "Federation Projection Booster III",
-      "volume": 1.0,
-      "groupID": 303,
-      "groupName": "Booster",
-      "categoryID": 20,
-      "categoryName": "Implant"
-    },
-    {
-      "typeID": 92994,
-      "name": "Federation Projection Booster IV",
-      "volume": 1.0,
-      "groupID": 303,
-      "groupName": "Booster",
-      "categoryID": 20,
-      "categoryName": "Implant"
-    },
-    {
       "typeID": 76216,
       "name": "Federation Shadow War Reward Crate",
       "volume": 1.0,
@@ -77687,6 +78200,24 @@
       "groupName": "Special Edition Commodities",
       "categoryID": 63,
       "categoryName": "Special Edition Assets"
+    },
+    {
+      "typeID": 93014,
+      "name": "Federation Supports - Limited",
+      "volume": 0.1,
+      "groupID": 4726,
+      "groupName": "Ship SKIN Design Element",
+      "categoryID": 2118,
+      "categoryName": "Personalization"
+    },
+    {
+      "typeID": 93477,
+      "name": "Federation Supports - Unlimited",
+      "volume": 0.1,
+      "groupID": 4726,
+      "groupName": "Ship SKIN Design Element",
+      "categoryID": 2118,
+      "categoryName": "Personalization"
     },
     {
       "typeID": 26902,
@@ -78328,6 +78859,24 @@
       "categoryName": "SKINs"
     },
     {
+      "typeID": 92788,
+      "name": "Ferox Navy Issue Military Stockpile Captain SKIN",
+      "volume": 0.01,
+      "groupID": 1950,
+      "groupName": "Permanent SKIN",
+      "categoryID": 91,
+      "categoryName": "SKINs"
+    },
+    {
+      "typeID": 93664,
+      "name": "Ferox Navy Issue Penumbral Shadows SKIN",
+      "volume": 0.01,
+      "groupID": 1950,
+      "groupName": "Permanent SKIN",
+      "categoryID": 91,
+      "categoryName": "SKINs"
+    },
+    {
       "typeID": 90418,
       "name": "Ferox Navy Issue Shattered Paradigm SKIN",
       "volume": 0.01,
@@ -78348,6 +78897,15 @@
     {
       "typeID": 73874,
       "name": "Ferox Navy Issue Versus Blueforce SKIN",
+      "volume": 0.01,
+      "groupID": 1950,
+      "groupName": "Permanent SKIN",
+      "categoryID": 91,
+      "categoryName": "SKINs"
+    },
+    {
+      "typeID": 93712,
+      "name": "Ferox Penumbral Shadows SKIN",
       "volume": 0.01,
       "groupID": 1950,
       "groupName": "Permanent SKIN",
@@ -80344,6 +80902,24 @@
       "categoryName": "Commodity"
     },
     {
+      "typeID": 94045,
+      "name": "Free-Zone Booster III",
+      "volume": 1.0,
+      "groupID": 303,
+      "groupName": "Booster",
+      "categoryID": 20,
+      "categoryName": "Implant"
+    },
+    {
+      "typeID": 94046,
+      "name": "Free-Zone Booster VI",
+      "volume": 1.0,
+      "groupID": 303,
+      "groupName": "Booster",
+      "categoryID": 20,
+      "categoryName": "Implant"
+    },
+    {
       "typeID": 25550,
       "name": "Freebooter's Key Alpha",
       "volume": 0.1,
@@ -80990,6 +81566,24 @@
       "groupName": "Eyewear",
       "categoryID": 30,
       "categoryName": "Apparel"
+    },
+    {
+      "typeID": 92824,
+      "name": "Gaia",
+      "volume": 13095000.0,
+      "groupID": 5120,
+      "groupName": "Command Carrier",
+      "categoryID": 6,
+      "categoryName": "Ship"
+    },
+    {
+      "typeID": 94074,
+      "name": "Gaia Blueprint",
+      "volume": 0.01,
+      "groupID": 643,
+      "groupName": "Carrier Blueprint",
+      "categoryID": 9,
+      "categoryName": "Blueprint"
     },
     {
       "typeID": 62650,
@@ -90082,6 +90676,24 @@
       "categoryName": "SKINs"
     },
     {
+      "typeID": 92785,
+      "name": "Griffin Navy Issue Military Stockpile Captain SKIN",
+      "volume": 0.01,
+      "groupID": 1950,
+      "groupName": "Permanent SKIN",
+      "categoryID": 91,
+      "categoryName": "SKINs"
+    },
+    {
+      "typeID": 93666,
+      "name": "Griffin Navy Issue Penumbral Shadows SKIN",
+      "volume": 0.01,
+      "groupID": 1950,
+      "groupName": "Permanent SKIN",
+      "categoryID": 91,
+      "categoryName": "SKINs"
+    },
+    {
       "typeID": 57388,
       "name": "Griffin Navy Issue Spirit SKIN",
       "volume": 0.01,
@@ -90111,6 +90723,15 @@
     {
       "typeID": 53164,
       "name": "Griffin Navy Issue Zento Isideko Combine SKIN",
+      "volume": 0.01,
+      "groupID": 1950,
+      "groupName": "Permanent SKIN",
+      "categoryID": 91,
+      "categoryName": "SKINs"
+    },
+    {
+      "typeID": 93713,
+      "name": "Griffin Penumbral Shadows SKIN",
       "volume": 0.01,
       "groupID": 1950,
       "groupName": "Permanent SKIN",
@@ -93538,6 +94159,15 @@
       "categoryName": "SKINs"
     },
     {
+      "typeID": 92781,
+      "name": "Harbinger Navy Issue War Reserves Lieutenant SKIN",
+      "volume": 0.01,
+      "groupID": 1950,
+      "groupName": "Permanent SKIN",
+      "categoryID": 91,
+      "categoryName": "SKINs"
+    },
+    {
       "typeID": 53629,
       "name": "Harbinger Oasis of Faith SKIN",
       "volume": 0.01,
@@ -93941,6 +94571,24 @@
       "groupName": "Miscellaneous",
       "categoryID": 17,
       "categoryName": "Commodity"
+    },
+    {
+      "typeID": 94039,
+      "name": "Haven Booster III",
+      "volume": 1.0,
+      "groupID": 303,
+      "groupName": "Booster",
+      "categoryID": 20,
+      "categoryName": "Implant"
+    },
+    {
+      "typeID": 94040,
+      "name": "Haven Booster VI",
+      "volume": 1.0,
+      "groupID": 303,
+      "groupName": "Booster",
+      "categoryID": 20,
+      "categoryName": "Implant"
     },
     {
       "typeID": 11379,
@@ -95590,6 +96238,15 @@
       "categoryName": "SKINs"
     },
     {
+      "typeID": 95292,
+      "name": "Hecate Presidential Agent SKIN",
+      "volume": 0.01,
+      "groupID": 1950,
+      "groupName": "Permanent SKIN",
+      "categoryID": 91,
+      "categoryName": "SKINs"
+    },
+    {
       "typeID": 45564,
       "name": "Hecate Ruby Sungrazer SKIN",
       "volume": 0.01,
@@ -96742,6 +97399,15 @@
       "categoryName": "SKINs"
     },
     {
+      "typeID": 93667,
+      "name": "Heron Navy Issue Penumbral Shadows SKIN",
+      "volume": 0.01,
+      "groupID": 1950,
+      "groupName": "Permanent SKIN",
+      "categoryID": 91,
+      "categoryName": "SKINs"
+    },
+    {
       "typeID": 73839,
       "name": "Heron Navy Issue Semiotique Superluminal SKIN",
       "volume": 0.01,
@@ -96753,6 +97419,15 @@
     {
       "typeID": 76157,
       "name": "Heron Navy Issue Versus Redforce SKIN",
+      "volume": 0.01,
+      "groupID": 1950,
+      "groupName": "Permanent SKIN",
+      "categoryID": 91,
+      "categoryName": "SKINs"
+    },
+    {
+      "typeID": 93714,
+      "name": "Heron Penumbral Shadows SKIN",
       "volume": 0.01,
       "groupID": 1950,
       "groupName": "Permanent SKIN",
@@ -98866,6 +99541,24 @@
       "categoryName": "Personalization"
     },
     {
+      "typeID": 92993,
+      "name": "Honeyed Gold Satin - Limited",
+      "volume": 0.1,
+      "groupID": 4726,
+      "groupName": "Ship SKIN Design Element",
+      "categoryID": 2118,
+      "categoryName": "Personalization"
+    },
+    {
+      "typeID": 93470,
+      "name": "Honeyed Gold Satin - Unlimited",
+      "volume": 0.1,
+      "groupID": 4726,
+      "groupName": "Ship SKIN Design Element",
+      "categoryID": 2118,
+      "categoryName": "Personalization"
+    },
+    {
       "typeID": 34312,
       "name": "Honorary Brigadier of Engineers Insignia",
       "volume": 0.1,
@@ -100218,6 +100911,15 @@
     {
       "typeID": 45972,
       "name": "Hurricane Fleet Issue Exoplanets Hunter SKIN",
+      "volume": 0.01,
+      "groupID": 1950,
+      "groupName": "Permanent SKIN",
+      "categoryID": 91,
+      "categoryName": "SKINs"
+    },
+    {
+      "typeID": 92799,
+      "name": "Hurricane Fleet Issue Fleet Ordnance Spike SKIN",
       "volume": 0.01,
       "groupID": 1950,
       "groupName": "Permanent SKIN",
@@ -101640,7 +102342,7 @@
     {
       "typeID": 16278,
       "name": "Ice Harvester I",
-      "volume": 25.0,
+      "volume": 5.0,
       "groupID": 464,
       "groupName": "Strip Miner",
       "categoryID": 7,
@@ -102322,6 +103024,15 @@
       "categoryName": "SKINs"
     },
     {
+      "typeID": 93696,
+      "name": "Imicus Navy Issue Penumbral Shadows SKIN",
+      "volume": 0.01,
+      "groupID": 1950,
+      "groupName": "Permanent SKIN",
+      "categoryID": 91,
+      "categoryName": "SKINs"
+    },
+    {
       "typeID": 73840,
       "name": "Imicus Navy Issue Semiotique Superluminal SKIN",
       "volume": 0.01,
@@ -102333,6 +103044,15 @@
     {
       "typeID": 76165,
       "name": "Imicus Navy Issue Versus Redforce SKIN",
+      "volume": 0.01,
+      "groupID": 1950,
+      "groupName": "Permanent SKIN",
+      "categoryID": 91,
+      "categoryName": "SKINs"
+    },
+    {
+      "typeID": 93719,
+      "name": "Imicus Penumbral Shadows SKIN",
       "volume": 0.01,
       "groupID": 1950,
       "groupName": "Permanent SKIN",
@@ -102736,40 +103456,22 @@
       "categoryName": "SKINs"
     },
     {
-      "typeID": 93129,
-      "name": "Imperial Application Booster I",
-      "volume": 1.0,
-      "groupID": 303,
-      "groupName": "Booster",
-      "categoryID": 20,
-      "categoryName": "Implant"
+      "typeID": 93001,
+      "name": "Imperial Benediction - Limited",
+      "volume": 0.1,
+      "groupID": 4726,
+      "groupName": "Ship SKIN Design Element",
+      "categoryID": 2118,
+      "categoryName": "Personalization"
     },
     {
-      "typeID": 93130,
-      "name": "Imperial Application Booster II",
-      "volume": 1.0,
-      "groupID": 303,
-      "groupName": "Booster",
-      "categoryID": 20,
-      "categoryName": "Implant"
-    },
-    {
-      "typeID": 93131,
-      "name": "Imperial Application Booster III",
-      "volume": 1.0,
-      "groupID": 303,
-      "groupName": "Booster",
-      "categoryID": 20,
-      "categoryName": "Implant"
-    },
-    {
-      "typeID": 93132,
-      "name": "Imperial Application Booster IV",
-      "volume": 1.0,
-      "groupID": 303,
-      "groupName": "Booster",
-      "categoryID": 20,
-      "categoryName": "Implant"
+      "typeID": 93466,
+      "name": "Imperial Benediction - Unlimited",
+      "volume": 0.1,
+      "groupID": 4726,
+      "groupName": "Ship SKIN Design Element",
+      "categoryID": 2118,
+      "categoryName": "Personalization"
     },
     {
       "typeID": 78874,
@@ -102781,43 +103483,7 @@
       "categoryName": "Special Edition Assets"
     },
     {
-      "typeID": 93121,
-      "name": "Imperial Damage Booster I",
-      "volume": 1.0,
-      "groupID": 303,
-      "groupName": "Booster",
-      "categoryID": 20,
-      "categoryName": "Implant"
-    },
-    {
-      "typeID": 93122,
-      "name": "Imperial Damage Booster II",
-      "volume": 1.0,
-      "groupID": 303,
-      "groupName": "Booster",
-      "categoryID": 20,
-      "categoryName": "Implant"
-    },
-    {
-      "typeID": 93123,
-      "name": "Imperial Damage Booster III",
-      "volume": 1.0,
-      "groupID": 303,
-      "groupName": "Booster",
-      "categoryID": 20,
-      "categoryName": "Implant"
-    },
-    {
-      "typeID": 93124,
-      "name": "Imperial Damage Booster IV",
-      "volume": 1.0,
-      "groupID": 303,
-      "groupName": "Booster",
-      "categoryID": 20,
-      "categoryName": "Implant"
-    },
-    {
-      "typeID": 93133,
+      "typeID": 91932,
       "name": "Imperial Defense Booster I",
       "volume": 1.0,
       "groupID": 303,
@@ -102826,7 +103492,7 @@
       "categoryName": "Implant"
     },
     {
-      "typeID": 93134,
+      "typeID": 91939,
       "name": "Imperial Defense Booster II",
       "volume": 1.0,
       "groupID": 303,
@@ -102835,17 +103501,8 @@
       "categoryName": "Implant"
     },
     {
-      "typeID": 93135,
+      "typeID": 91940,
       "name": "Imperial Defense Booster III",
-      "volume": 1.0,
-      "groupID": 303,
-      "groupName": "Booster",
-      "categoryID": 20,
-      "categoryName": "Implant"
-    },
-    {
-      "typeID": 93136,
-      "name": "Imperial Defense Booster IV",
       "volume": 1.0,
       "groupID": 303,
       "groupName": "Booster",
@@ -102862,16 +103519,7 @@
       "categoryName": "Implant"
     },
     {
-      "typeID": 93117,
-      "name": "Imperial Electronics Booster I",
-      "volume": 1.0,
-      "groupID": 303,
-      "groupName": "Booster",
-      "categoryID": 20,
-      "categoryName": "Implant"
-    },
-    {
-      "typeID": 93118,
+      "typeID": 91929,
       "name": "Imperial Electronics Booster II",
       "volume": 1.0,
       "groupID": 303,
@@ -102880,17 +103528,8 @@
       "categoryName": "Implant"
     },
     {
-      "typeID": 93119,
+      "typeID": 91930,
       "name": "Imperial Electronics Booster III",
-      "volume": 1.0,
-      "groupID": 303,
-      "groupName": "Booster",
-      "categoryID": 20,
-      "categoryName": "Implant"
-    },
-    {
-      "typeID": 93120,
-      "name": "Imperial Electronics Booster IV",
       "volume": 1.0,
       "groupID": 303,
       "groupName": "Booster",
@@ -102916,7 +103555,34 @@
       "categoryName": "Personalization"
     },
     {
-      "typeID": 93137,
+      "typeID": 91962,
+      "name": "Imperial Hardpoint Booster I",
+      "volume": 1.0,
+      "groupID": 303,
+      "groupName": "Booster",
+      "categoryID": 20,
+      "categoryName": "Implant"
+    },
+    {
+      "typeID": 91970,
+      "name": "Imperial Hardpoint Booster II",
+      "volume": 1.0,
+      "groupID": 303,
+      "groupName": "Booster",
+      "categoryID": 20,
+      "categoryName": "Implant"
+    },
+    {
+      "typeID": 91971,
+      "name": "Imperial Hardpoint Booster III",
+      "volume": 1.0,
+      "groupID": 303,
+      "groupName": "Booster",
+      "categoryID": 20,
+      "categoryName": "Implant"
+    },
+    {
+      "typeID": 91947,
       "name": "Imperial Mobility Booster I",
       "volume": 1.0,
       "groupID": 303,
@@ -102925,7 +103591,7 @@
       "categoryName": "Implant"
     },
     {
-      "typeID": 93138,
+      "typeID": 91952,
       "name": "Imperial Mobility Booster II",
       "volume": 1.0,
       "groupID": 303,
@@ -102934,7 +103600,7 @@
       "categoryName": "Implant"
     },
     {
-      "typeID": 93139,
+      "typeID": 91951,
       "name": "Imperial Mobility Booster III",
       "volume": 1.0,
       "groupID": 303,
@@ -102943,13 +103609,31 @@
       "categoryName": "Implant"
     },
     {
-      "typeID": 93140,
-      "name": "Imperial Mobility Booster IV",
-      "volume": 1.0,
-      "groupID": 303,
-      "groupName": "Booster",
-      "categoryID": 20,
-      "categoryName": "Implant"
+      "typeID": 93913,
+      "name": "Imperial Navy 'Atonement' Tracking Enhancer",
+      "volume": 5.0,
+      "groupID": 211,
+      "groupName": "Tracking Enhancer",
+      "categoryID": 7,
+      "categoryName": "Module"
+    },
+    {
+      "typeID": 94060,
+      "name": "Imperial Navy 'Disciple' Heat Sink",
+      "volume": 5.0,
+      "groupID": 205,
+      "groupName": "Heat Sink",
+      "categoryID": 7,
+      "categoryName": "Module"
+    },
+    {
+      "typeID": 94058,
+      "name": "Imperial Navy 'Neophyte' Heat Sink",
+      "volume": 5.0,
+      "groupID": 205,
+      "groupName": "Heat Sink",
+      "categoryID": 7,
+      "categoryName": "Module"
     },
     {
       "typeID": 31896,
@@ -103609,6 +104293,15 @@
       "categoryName": "Blueprint"
     },
     {
+      "typeID": 93840,
+      "name": "Imperial Navy Large Remote Armor Repairer",
+      "volume": 25.0,
+      "groupID": 325,
+      "groupName": "Remote Armor Repairer",
+      "categoryID": 7,
+      "categoryName": "Module"
+    },
+    {
       "typeID": 31946,
       "name": "Imperial Navy Large Remote Capacitor Transmitter",
       "volume": 25.0,
@@ -104140,6 +104833,15 @@
       "categoryName": "SKINs"
     },
     {
+      "typeID": 93661,
+      "name": "Imperial Navy Slicer Penumbral Shadows SKIN",
+      "volume": 0.01,
+      "groupID": 1950,
+      "groupName": "Permanent SKIN",
+      "categoryID": 91,
+      "categoryName": "SKINs"
+    },
+    {
       "typeID": 42558,
       "name": "Imperial Navy Slicer Purity of the Throne SKIN",
       "volume": 0.01,
@@ -104500,42 +105202,6 @@
       "categoryName": "Personalization"
     },
     {
-      "typeID": 93125,
-      "name": "Imperial Projection Booster I",
-      "volume": 1.0,
-      "groupID": 303,
-      "groupName": "Booster",
-      "categoryID": 20,
-      "categoryName": "Implant"
-    },
-    {
-      "typeID": 93126,
-      "name": "Imperial Projection Booster II",
-      "volume": 1.0,
-      "groupID": 303,
-      "groupName": "Booster",
-      "categoryID": 20,
-      "categoryName": "Implant"
-    },
-    {
-      "typeID": 93127,
-      "name": "Imperial Projection Booster III",
-      "volume": 1.0,
-      "groupID": 303,
-      "groupName": "Booster",
-      "categoryID": 20,
-      "categoryName": "Implant"
-    },
-    {
-      "typeID": 93128,
-      "name": "Imperial Projection Booster IV",
-      "volume": 1.0,
-      "groupID": 303,
-      "groupName": "Booster",
-      "categoryID": 20,
-      "categoryName": "Implant"
-    },
-    {
       "typeID": 76214,
       "name": "Imperial Shadow War Reward Crate",
       "volume": 1.0,
@@ -104570,6 +105236,15 @@
       "groupName": "Ship SKIN Design Element",
       "categoryID": 2118,
       "categoryName": "Personalization"
+    },
+    {
+      "typeID": 93609,
+      "name": "Imperial War Reserves Supply Package",
+      "volume": 0.01,
+      "groupID": 314,
+      "groupName": "Miscellaneous",
+      "categoryID": 17,
+      "categoryName": "Commodity"
     },
     {
       "typeID": 25621,
@@ -108037,6 +108712,24 @@
       "categoryName": "Personalization"
     },
     {
+      "typeID": 92980,
+      "name": "Intaki Evergreen Satin - Limited",
+      "volume": 0.1,
+      "groupID": 4726,
+      "groupName": "Ship SKIN Design Element",
+      "categoryID": 2118,
+      "categoryName": "Personalization"
+    },
+    {
+      "typeID": 93480,
+      "name": "Intaki Evergreen Satin - Unlimited",
+      "volume": 0.1,
+      "groupID": 4726,
+      "groupName": "Ship SKIN Design Element",
+      "categoryID": 2118,
+      "categoryName": "Personalization"
+    },
+    {
       "typeID": 92591,
       "name": "Intaki Obsidian Metallic - Limited",
       "volume": 0.1,
@@ -109972,6 +110665,15 @@
       "categoryName": "SKINs"
     },
     {
+      "typeID": 94159,
+      "name": "Jackdaw State Regulator SKIN",
+      "volume": 0.01,
+      "groupID": 1950,
+      "groupName": "Permanent SKIN",
+      "categoryID": 91,
+      "categoryName": "SKINs"
+    },
+    {
       "typeID": 46109,
       "name": "Jackdaw Steel Cardinal SKIN",
       "volume": 0.01,
@@ -110647,6 +111349,24 @@
       "categoryName": "Blueprint"
     },
     {
+      "typeID": 94131,
+      "name": "Juniper Edge Gloss - Limited",
+      "volume": 0.1,
+      "groupID": 4726,
+      "groupName": "Ship SKIN Design Element",
+      "categoryID": 2118,
+      "categoryName": "Personalization"
+    },
+    {
+      "typeID": 94130,
+      "name": "Juniper Edge Gloss - Unlimited",
+      "volume": 0.1,
+      "groupID": 4726,
+      "groupName": "Ship SKIN Design Element",
+      "categoryID": 2118,
+      "categoryName": "Personalization"
+    },
+    {
       "typeID": 26252,
       "name": "Jury Rigging",
       "volume": 0.01,
@@ -110951,6 +111671,15 @@
       "groupName": "Livestock",
       "categoryID": 17,
       "categoryName": "Commodity"
+    },
+    {
+      "typeID": 92568,
+      "name": "Kangite X-Grade",
+      "volume": 1.0,
+      "groupID": 5086,
+      "groupName": "Kangite",
+      "categoryID": 25,
+      "categoryName": "Asteroid"
     },
     {
       "typeID": 48590,
@@ -112400,6 +113129,24 @@
       "groupName": "Miscellaneous",
       "categoryID": 17,
       "categoryName": "Commodity"
+    },
+    {
+      "typeID": 94148,
+      "name": "Khuumak’s Head - Limited",
+      "volume": 0.1,
+      "groupID": 4726,
+      "groupName": "Ship SKIN Design Element",
+      "categoryID": 2118,
+      "categoryName": "Personalization"
+    },
+    {
+      "typeID": 94147,
+      "name": "Khuumak’s Head - Unlimited",
+      "volume": 0.1,
+      "groupID": 4726,
+      "groupName": "Ship SKIN Design Element",
+      "categoryID": 2118,
+      "categoryName": "Personalization"
     },
     {
       "typeID": 2093,
@@ -121276,6 +122023,24 @@
       "categoryName": "Blueprint"
     },
     {
+      "typeID": 94135,
+      "name": "Lilac Restoration Matte - Limited",
+      "volume": 0.1,
+      "groupID": 4726,
+      "groupName": "Ship SKIN Design Element",
+      "categoryID": 2118,
+      "categoryName": "Personalization"
+    },
+    {
+      "typeID": 94134,
+      "name": "Lilac Restoration Matte - Unlimited",
+      "volume": 0.1,
+      "groupID": 4726,
+      "groupName": "Ship SKIN Design Element",
+      "categoryID": 2118,
+      "categoryName": "Personalization"
+    },
+    {
       "typeID": 83294,
       "name": "Lilac Star Dust Gloss - Limited",
       "volume": 0.1,
@@ -122111,6 +122876,24 @@
       "groupName": "Ice Product",
       "categoryID": 4,
       "categoryName": "Material"
+    },
+    {
+      "typeID": 92977,
+      "name": "Lirautton Verdure Matte - Limited",
+      "volume": 0.1,
+      "groupID": 4726,
+      "groupName": "Ship SKIN Design Element",
+      "categoryID": 2118,
+      "categoryName": "Personalization"
+    },
+    {
+      "typeID": 93478,
+      "name": "Lirautton Verdure Matte - Unlimited",
+      "volume": 0.1,
+      "groupID": 4726,
+      "groupName": "Ship SKIN Design Element",
+      "categoryID": 2118,
+      "categoryName": "Personalization"
     },
     {
       "typeID": 33027,
@@ -125947,6 +126730,15 @@
       "categoryName": "SKINs"
     },
     {
+      "typeID": 93659,
+      "name": "Magnate Navy Issue Penumbral Shadows SKIN",
+      "volume": 0.01,
+      "groupID": 1950,
+      "groupName": "Permanent SKIN",
+      "categoryID": 91,
+      "categoryName": "SKINs"
+    },
+    {
       "typeID": 79609,
       "name": "Magnate Navy Issue Sanguinary Savant SKIN",
       "volume": 0.01,
@@ -125976,6 +126768,15 @@
     {
       "typeID": 53598,
       "name": "Magnate Oasis of Faith SKIN",
+      "volume": 0.01,
+      "groupID": 1950,
+      "groupName": "Permanent SKIN",
+      "categoryID": 91,
+      "categoryName": "SKINs"
+    },
+    {
+      "typeID": 93705,
+      "name": "Magnate Penumbral Shadows SKIN",
       "volume": 0.01,
       "groupID": 1950,
       "groupName": "Permanent SKIN",
@@ -128494,6 +129295,24 @@
       "categoryName": "SKINs"
     },
     {
+      "typeID": 92985,
+      "name": "Matar Moss Matte - Limited",
+      "volume": 0.1,
+      "groupID": 4726,
+      "groupName": "Ship SKIN Design Element",
+      "categoryID": 2118,
+      "categoryName": "Personalization"
+    },
+    {
+      "typeID": 93485,
+      "name": "Matar Moss Matte - Unlimited",
+      "volume": 0.1,
+      "groupID": 4726,
+      "groupName": "Ship SKIN Design Element",
+      "categoryID": 2118,
+      "categoryName": "Personalization"
+    },
+    {
       "typeID": 48589,
       "name": "Matari Word Calendar",
       "volume": 1.0,
@@ -128854,6 +129673,15 @@
       "categoryName": "SKINs"
     },
     {
+      "typeID": 93695,
+      "name": "Maulus Navy Issue Penumbral Shadows SKIN",
+      "volume": 0.01,
+      "groupID": 1950,
+      "groupName": "Permanent SKIN",
+      "categoryID": 91,
+      "categoryName": "SKINs"
+    },
+    {
       "typeID": 45022,
       "name": "Maulus Navy Issue Sapphire Sungrazer SKIN",
       "volume": 0.01,
@@ -128865,6 +129693,24 @@
     {
       "typeID": 44904,
       "name": "Maulus Navy Issue Spirit SKIN",
+      "volume": 0.01,
+      "groupID": 1950,
+      "groupName": "Permanent SKIN",
+      "categoryID": 91,
+      "categoryName": "SKINs"
+    },
+    {
+      "typeID": 92791,
+      "name": "Maulus Navy Issue Strategic Materiel Defender SKIN",
+      "volume": 0.01,
+      "groupID": 1950,
+      "groupName": "Permanent SKIN",
+      "categoryID": 91,
+      "categoryName": "SKINs"
+    },
+    {
+      "typeID": 93718,
+      "name": "Maulus Penumbral Shadows SKIN",
       "volume": 0.01,
       "groupID": 1950,
       "groupName": "Permanent SKIN",
@@ -133957,6 +134803,24 @@
       "categoryName": "Commodity"
     },
     {
+      "typeID": 92988,
+      "name": "Megacorp White Satin - Limited",
+      "volume": 0.1,
+      "groupID": 4726,
+      "groupName": "Ship SKIN Design Element",
+      "categoryID": 2118,
+      "categoryName": "Personalization"
+    },
+    {
+      "typeID": 93474,
+      "name": "Megacorp White Satin - Unlimited",
+      "volume": 0.1,
+      "groupID": 4726,
+      "groupName": "Ship SKIN Design Element",
+      "categoryID": 2118,
+      "categoryName": "Personalization"
+    },
+    {
       "typeID": 40,
       "name": "Megacyte",
       "volume": 0.01,
@@ -134526,6 +135390,15 @@
     {
       "typeID": 44935,
       "name": "Megathron Navy Issue Spirit SKIN",
+      "volume": 0.01,
+      "groupID": 1950,
+      "groupName": "Permanent SKIN",
+      "categoryID": 91,
+      "categoryName": "SKINs"
+    },
+    {
+      "typeID": 92796,
+      "name": "Megathron Navy Issue Strategic Materiel Defender SKIN",
       "volume": 0.01,
       "groupID": 1950,
       "groupName": "Permanent SKIN",
@@ -145432,6 +146305,15 @@
       "categoryName": "Blueprint"
     },
     {
+      "typeID": 92567,
+      "name": "Moissanite X-Grade",
+      "volume": 1.0,
+      "groupID": 5085,
+      "groupName": "Moissanite",
+      "categoryID": 25,
+      "categoryName": "Asteroid"
+    },
+    {
       "typeID": 11529,
       "name": "Molecular Engineering",
       "volume": 0.01,
@@ -147151,6 +148033,15 @@
       "categoryName": "SKINs"
     },
     {
+      "typeID": 93692,
+      "name": "Myrmidon Navy Issue Penumbral Shadows SKIN",
+      "volume": 0.01,
+      "groupID": 1950,
+      "groupName": "Permanent SKIN",
+      "categoryID": 91,
+      "categoryName": "SKINs"
+    },
+    {
       "typeID": 93075,
       "name": "Myrmidon Navy Issue Pride of the Federation SKIN",
       "volume": 0.01,
@@ -147160,8 +148051,26 @@
       "categoryName": "SKINs"
     },
     {
+      "typeID": 92793,
+      "name": "Myrmidon Navy Issue Strategic Materiel Defender SKIN",
+      "volume": 0.01,
+      "groupID": 1950,
+      "groupName": "Permanent SKIN",
+      "categoryID": 91,
+      "categoryName": "SKINs"
+    },
+    {
       "typeID": 73878,
       "name": "Myrmidon Navy Issue Versus Redforce SKIN",
+      "volume": 0.01,
+      "groupID": 1950,
+      "groupName": "Permanent SKIN",
+      "categoryID": 91,
+      "categoryName": "SKINs"
+    },
+    {
+      "typeID": 93716,
+      "name": "Myrmidon Penumbral Shadows SKIN",
       "volume": 0.01,
       "groupID": 1950,
       "groupName": "Permanent SKIN",
@@ -147813,6 +148722,15 @@
       "volume": 0.01,
       "groupID": 1954,
       "groupName": "90-Day SKIN",
+      "categoryID": 91,
+      "categoryName": "SKINs"
+    },
+    {
+      "typeID": 95298,
+      "name": "Naga State Regulator SKIN",
+      "volume": 0.01,
+      "groupID": 1950,
+      "groupName": "Permanent SKIN",
       "categoryID": 91,
       "categoryName": "SKINs"
     },
@@ -149223,6 +150141,24 @@
     {
       "typeID": 83066,
       "name": "Neon Foil Metallic - Unlimited",
+      "volume": 0.1,
+      "groupID": 4726,
+      "groupName": "Ship SKIN Design Element",
+      "categoryID": 2118,
+      "categoryName": "Personalization"
+    },
+    {
+      "typeID": 94139,
+      "name": "Neon Forest Gloss - Limited",
+      "volume": 0.1,
+      "groupID": 4726,
+      "groupName": "Ship SKIN Design Element",
+      "categoryID": 2118,
+      "categoryName": "Personalization"
+    },
+    {
+      "typeID": 94138,
+      "name": "Neon Forest Gloss - Unlimited",
       "volume": 0.1,
       "groupID": 4726,
       "groupName": "Ship SKIN Design Element",
@@ -152236,6 +153172,186 @@
       "categoryName": "Blueprint"
     },
     {
+      "typeID": 94088,
+      "name": "Number 0 - Limited",
+      "volume": 0.1,
+      "groupID": 4726,
+      "groupName": "Ship SKIN Design Element",
+      "categoryID": 2118,
+      "categoryName": "Personalization"
+    },
+    {
+      "typeID": 94087,
+      "name": "Number 0 - Unlimited",
+      "volume": 0.1,
+      "groupID": 4726,
+      "groupName": "Ship SKIN Design Element",
+      "categoryID": 2118,
+      "categoryName": "Personalization"
+    },
+    {
+      "typeID": 94090,
+      "name": "Number 1 - Limited",
+      "volume": 0.1,
+      "groupID": 4726,
+      "groupName": "Ship SKIN Design Element",
+      "categoryID": 2118,
+      "categoryName": "Personalization"
+    },
+    {
+      "typeID": 94089,
+      "name": "Number 1 - Unlimited",
+      "volume": 0.1,
+      "groupID": 4726,
+      "groupName": "Ship SKIN Design Element",
+      "categoryID": 2118,
+      "categoryName": "Personalization"
+    },
+    {
+      "typeID": 94092,
+      "name": "Number 2 - Limited",
+      "volume": 0.1,
+      "groupID": 4726,
+      "groupName": "Ship SKIN Design Element",
+      "categoryID": 2118,
+      "categoryName": "Personalization"
+    },
+    {
+      "typeID": 94091,
+      "name": "Number 2 - Unlimited",
+      "volume": 0.1,
+      "groupID": 4726,
+      "groupName": "Ship SKIN Design Element",
+      "categoryID": 2118,
+      "categoryName": "Personalization"
+    },
+    {
+      "typeID": 94094,
+      "name": "Number 3 - Limited",
+      "volume": 0.1,
+      "groupID": 4726,
+      "groupName": "Ship SKIN Design Element",
+      "categoryID": 2118,
+      "categoryName": "Personalization"
+    },
+    {
+      "typeID": 94093,
+      "name": "Number 3 - Unlimited",
+      "volume": 0.1,
+      "groupID": 4726,
+      "groupName": "Ship SKIN Design Element",
+      "categoryID": 2118,
+      "categoryName": "Personalization"
+    },
+    {
+      "typeID": 94096,
+      "name": "Number 4 - Limited",
+      "volume": 0.1,
+      "groupID": 4726,
+      "groupName": "Ship SKIN Design Element",
+      "categoryID": 2118,
+      "categoryName": "Personalization"
+    },
+    {
+      "typeID": 94095,
+      "name": "Number 4 - Unlimited",
+      "volume": 0.1,
+      "groupID": 4726,
+      "groupName": "Ship SKIN Design Element",
+      "categoryID": 2118,
+      "categoryName": "Personalization"
+    },
+    {
+      "typeID": 94098,
+      "name": "Number 5 - Limited",
+      "volume": 0.1,
+      "groupID": 4726,
+      "groupName": "Ship SKIN Design Element",
+      "categoryID": 2118,
+      "categoryName": "Personalization"
+    },
+    {
+      "typeID": 94097,
+      "name": "Number 5 - Unlimited",
+      "volume": 0.1,
+      "groupID": 4726,
+      "groupName": "Ship SKIN Design Element",
+      "categoryID": 2118,
+      "categoryName": "Personalization"
+    },
+    {
+      "typeID": 94100,
+      "name": "Number 6 - Limited",
+      "volume": 0.1,
+      "groupID": 4726,
+      "groupName": "Ship SKIN Design Element",
+      "categoryID": 2118,
+      "categoryName": "Personalization"
+    },
+    {
+      "typeID": 94099,
+      "name": "Number 6 - Unlimited",
+      "volume": 0.1,
+      "groupID": 4726,
+      "groupName": "Ship SKIN Design Element",
+      "categoryID": 2118,
+      "categoryName": "Personalization"
+    },
+    {
+      "typeID": 94102,
+      "name": "Number 7 - Limited",
+      "volume": 0.1,
+      "groupID": 4726,
+      "groupName": "Ship SKIN Design Element",
+      "categoryID": 2118,
+      "categoryName": "Personalization"
+    },
+    {
+      "typeID": 94101,
+      "name": "Number 7 - Unlimited",
+      "volume": 0.1,
+      "groupID": 4726,
+      "groupName": "Ship SKIN Design Element",
+      "categoryID": 2118,
+      "categoryName": "Personalization"
+    },
+    {
+      "typeID": 94104,
+      "name": "Number 8 - Limited",
+      "volume": 0.1,
+      "groupID": 4726,
+      "groupName": "Ship SKIN Design Element",
+      "categoryID": 2118,
+      "categoryName": "Personalization"
+    },
+    {
+      "typeID": 94103,
+      "name": "Number 8 - Unlimited",
+      "volume": 0.1,
+      "groupID": 4726,
+      "groupName": "Ship SKIN Design Element",
+      "categoryID": 2118,
+      "categoryName": "Personalization"
+    },
+    {
+      "typeID": 94106,
+      "name": "Number 9 - Limited",
+      "volume": 0.1,
+      "groupID": 4726,
+      "groupName": "Ship SKIN Design Element",
+      "categoryID": 2118,
+      "categoryName": "Personalization"
+    },
+    {
+      "typeID": 94105,
+      "name": "Number 9 - Unlimited",
+      "volume": 0.1,
+      "groupID": 4726,
+      "groupName": "Ship SKIN Design Element",
+      "categoryID": 2118,
+      "categoryName": "Personalization"
+    },
+    {
       "typeID": 29477,
       "name": "Number Box",
       "volume": 0.2,
@@ -154684,6 +155800,15 @@
       "categoryName": "SKINs"
     },
     {
+      "typeID": 92780,
+      "name": "Omen Navy Issue War Reserves Lieutenant SKIN",
+      "volume": 0.01,
+      "groupID": 1950,
+      "groupName": "Permanent SKIN",
+      "categoryID": 91,
+      "categoryName": "SKINs"
+    },
+    {
       "typeID": 61863,
       "name": "Omen Navy Issue Warp Convergence SKIN",
       "volume": 0.01,
@@ -155881,6 +157006,15 @@
       "categoryName": "SKINs"
     },
     {
+      "typeID": 95296,
+      "name": "Oracle Mandate of Faith SKIN",
+      "volume": 0.01,
+      "groupID": 1950,
+      "groupName": "Permanent SKIN",
+      "categoryID": 91,
+      "categoryName": "SKINs"
+    },
+    {
       "typeID": 53630,
       "name": "Oracle Oasis of Faith SKIN",
       "volume": 0.01,
@@ -157035,6 +158169,15 @@
     {
       "typeID": 84120,
       "name": "Osprey Navy Issue Media Miasma SKIN",
+      "volume": 0.01,
+      "groupID": 1950,
+      "groupName": "Permanent SKIN",
+      "categoryID": 91,
+      "categoryName": "SKINs"
+    },
+    {
+      "typeID": 93669,
+      "name": "Osprey Navy Issue Penumbral Shadows SKIN",
       "volume": 0.01,
       "groupID": 1950,
       "groupName": "Permanent SKIN",
@@ -161398,6 +162541,24 @@
       "categoryName": "Blueprint"
     },
     {
+      "typeID": 92986,
+      "name": "Plum Loyalty Gloss - Limited",
+      "volume": 0.1,
+      "groupID": 4726,
+      "groupName": "Ship SKIN Design Element",
+      "categoryID": 2118,
+      "categoryName": "Personalization"
+    },
+    {
+      "typeID": 93473,
+      "name": "Plum Loyalty Gloss - Unlimited",
+      "volume": 0.1,
+      "groupID": 4726,
+      "groupName": "Ship SKIN Design Element",
+      "categoryID": 2118,
+      "categoryName": "Personalization"
+    },
+    {
       "typeID": 90595,
       "name": "Plumbed Depths Metallic - Limited",
       "volume": 0.1,
@@ -161918,6 +163079,15 @@
       "groupName": "Refined Commodities - Tier 2",
       "categoryID": 43,
       "categoryName": "Planetary Commodities"
+    },
+    {
+      "typeID": 92566,
+      "name": "Polycrase X-Grade",
+      "volume": 1.0,
+      "groupID": 5084,
+      "groupName": "Polycrase",
+      "categoryID": 25,
+      "categoryName": "Asteroid"
     },
     {
       "typeID": 28625,
@@ -162530,24 +163700,6 @@
       "groupName": "Special Edition Commodities",
       "categoryID": 63,
       "categoryName": "Special Edition Assets"
-    },
-    {
-      "typeID": 93777,
-      "name": "Potent Capsuleer Day XXIII Cerebral Accelerator",
-      "volume": 1.0,
-      "groupID": 303,
-      "groupName": "Booster",
-      "categoryID": 20,
-      "categoryName": "Implant"
-    },
-    {
-      "typeID": 93780,
-      "name": "Potent Capsuleer Day XXIII Glamourex Booster",
-      "volume": 1.0,
-      "groupID": 303,
-      "groupName": "Booster",
-      "categoryID": 20,
-      "categoryName": "Implant"
     },
     {
       "typeID": 20510,
@@ -163684,6 +164836,15 @@
       "categoryName": "Personalization"
     },
     {
+      "typeID": 93703,
+      "name": "Probe Fleet Issue Penumbral Shadows SKIN",
+      "volume": 0.01,
+      "groupID": 1950,
+      "groupName": "Permanent SKIN",
+      "categoryID": 91,
+      "categoryName": "SKINs"
+    },
+    {
       "typeID": 73841,
       "name": "Probe Fleet Issue Semiotique Superluminal SKIN",
       "volume": 0.01,
@@ -163749,6 +164910,15 @@
     {
       "typeID": 84123,
       "name": "Probe Media Miasma SKIN",
+      "volume": 0.01,
+      "groupID": 1950,
+      "groupName": "Permanent SKIN",
+      "categoryID": 91,
+      "categoryName": "SKINs"
+    },
+    {
+      "typeID": 93724,
+      "name": "Probe Penumbral Shadows SKIN",
       "volume": 0.01,
       "groupID": 1950,
       "groupName": "Permanent SKIN",
@@ -164989,6 +166159,15 @@
       "categoryName": "SKINs"
     },
     {
+      "typeID": 93656,
+      "name": "Prophecy Navy Issue Penumbral Shadows SKIN",
+      "volume": 0.01,
+      "groupID": 1950,
+      "groupName": "Permanent SKIN",
+      "categoryID": 91,
+      "categoryName": "SKINs"
+    },
+    {
       "typeID": 79612,
       "name": "Prophecy Navy Issue Sanguinary Savant SKIN",
       "volume": 0.01,
@@ -165007,8 +166186,26 @@
       "categoryName": "SKINs"
     },
     {
+      "typeID": 92784,
+      "name": "Prophecy Navy Issue War Reserves Lieutenant SKIN",
+      "volume": 0.01,
+      "groupID": 1950,
+      "groupName": "Permanent SKIN",
+      "categoryID": 91,
+      "categoryName": "SKINs"
+    },
+    {
       "typeID": 53631,
       "name": "Prophecy Oasis of Faith SKIN",
+      "volume": 0.01,
+      "groupID": 1950,
+      "groupName": "Permanent SKIN",
+      "categoryID": 91,
+      "categoryName": "SKINs"
+    },
+    {
+      "typeID": 93707,
+      "name": "Prophecy Penumbral Shadows SKIN",
       "volume": 0.01,
       "groupID": 1950,
       "groupName": "Permanent SKIN",
@@ -166130,6 +167327,60 @@
       "groupName": "Missile Launcher Torpedo",
       "categoryID": 7,
       "categoryName": "Module"
+    },
+    {
+      "typeID": 93145,
+      "name": "Prototype 'Pluto' Ice Harvesting Drone",
+      "volume": 1100.0,
+      "groupID": 101,
+      "groupName": "Mining Drone",
+      "categoryID": 18,
+      "categoryName": "Drone"
+    },
+    {
+      "typeID": 93146,
+      "name": "Prototype 'Pluto' Ice Harvesting Drone Blueprint",
+      "volume": 0.01,
+      "groupID": 177,
+      "groupName": "Mining Drone Blueprint",
+      "categoryID": 9,
+      "categoryName": "Blueprint"
+    },
+    {
+      "typeID": 94027,
+      "name": "Prototype 'Pluto' Ice Harvesting Drone Blueprint Crate",
+      "volume": 1.0,
+      "groupID": 1194,
+      "groupName": "Special Edition Commodities",
+      "categoryID": 63,
+      "categoryName": "Special Edition Assets"
+    },
+    {
+      "typeID": 93143,
+      "name": "Prototype 'Pluto' Mining Drone",
+      "volume": 1100.0,
+      "groupID": 101,
+      "groupName": "Mining Drone",
+      "categoryID": 18,
+      "categoryName": "Drone"
+    },
+    {
+      "typeID": 93144,
+      "name": "Prototype 'Pluto' Mining Drone Blueprint",
+      "volume": 0.01,
+      "groupID": 177,
+      "groupName": "Mining Drone Blueprint",
+      "categoryID": 9,
+      "categoryName": "Blueprint"
+    },
+    {
+      "typeID": 94026,
+      "name": "Prototype 'Pluto' Mining Drone Blueprint Crate",
+      "volume": 1.0,
+      "groupID": 1194,
+      "groupName": "Special Edition Commodities",
+      "categoryID": 63,
+      "categoryName": "Special Edition Assets"
     },
     {
       "typeID": 20561,
@@ -170380,6 +171631,15 @@
       "categoryName": "Module"
     },
     {
+      "typeID": 92565,
+      "name": "Raspite X-Grade",
+      "volume": 1.0,
+      "groupID": 5083,
+      "groupName": "Raspite",
+      "categoryID": 25,
+      "categoryName": "Asteroid"
+    },
+    {
       "typeID": 20548,
       "name": "Ratei's Insignia",
       "volume": 0.1,
@@ -171093,6 +172353,15 @@
     {
       "typeID": 57780,
       "name": "Raven Navy Issue Hunter's Quiver SKIN",
+      "volume": 0.01,
+      "groupID": 1950,
+      "groupName": "Permanent SKIN",
+      "categoryID": 91,
+      "categoryName": "SKINs"
+    },
+    {
+      "typeID": 92790,
+      "name": "Raven Navy Issue Military Stockpile Captain SKIN",
       "volume": 0.01,
       "groupID": 1950,
       "groupName": "Permanent SKIN",
@@ -173044,42 +174313,6 @@
       "categoryName": "Skill"
     },
     {
-      "typeID": 93050,
-      "name": "Republic Application Booster I",
-      "volume": 1.0,
-      "groupID": 303,
-      "groupName": "Booster",
-      "categoryID": 20,
-      "categoryName": "Implant"
-    },
-    {
-      "typeID": 93051,
-      "name": "Republic Application Booster II",
-      "volume": 1.0,
-      "groupID": 303,
-      "groupName": "Booster",
-      "categoryID": 20,
-      "categoryName": "Implant"
-    },
-    {
-      "typeID": 93052,
-      "name": "Republic Application Booster III",
-      "volume": 1.0,
-      "groupID": 303,
-      "groupName": "Booster",
-      "categoryID": 20,
-      "categoryName": "Implant"
-    },
-    {
-      "typeID": 93053,
-      "name": "Republic Application Booster IV",
-      "volume": 1.0,
-      "groupID": 303,
-      "groupName": "Booster",
-      "categoryID": 20,
-      "categoryName": "Implant"
-    },
-    {
       "typeID": 43679,
       "name": "Republic Civilian Container",
       "volume": 0.1,
@@ -173098,43 +174331,7 @@
       "categoryName": "Special Edition Assets"
     },
     {
-      "typeID": 93022,
-      "name": "Republic Damage Booster I",
-      "volume": 1.0,
-      "groupID": 303,
-      "groupName": "Booster",
-      "categoryID": 20,
-      "categoryName": "Implant"
-    },
-    {
-      "typeID": 93023,
-      "name": "Republic Damage Booster II",
-      "volume": 1.0,
-      "groupID": 303,
-      "groupName": "Booster",
-      "categoryID": 20,
-      "categoryName": "Implant"
-    },
-    {
-      "typeID": 93024,
-      "name": "Republic Damage Booster III",
-      "volume": 1.0,
-      "groupID": 303,
-      "groupName": "Booster",
-      "categoryID": 20,
-      "categoryName": "Implant"
-    },
-    {
-      "typeID": 93025,
-      "name": "Republic Damage Booster IV",
-      "volume": 1.0,
-      "groupID": 303,
-      "groupName": "Booster",
-      "categoryID": 20,
-      "categoryName": "Implant"
-    },
-    {
-      "typeID": 93054,
+      "typeID": 91936,
       "name": "Republic Defense Booster I",
       "volume": 1.0,
       "groupID": 303,
@@ -173143,7 +174340,7 @@
       "categoryName": "Implant"
     },
     {
-      "typeID": 93055,
+      "typeID": 91945,
       "name": "Republic Defense Booster II",
       "volume": 1.0,
       "groupID": 303,
@@ -173152,17 +174349,8 @@
       "categoryName": "Implant"
     },
     {
-      "typeID": 93058,
+      "typeID": 91946,
       "name": "Republic Defense Booster III",
-      "volume": 1.0,
-      "groupID": 303,
-      "groupName": "Booster",
-      "categoryID": 20,
-      "categoryName": "Implant"
-    },
-    {
-      "typeID": 93059,
-      "name": "Republic Defense Booster IV",
       "volume": 1.0,
       "groupID": 303,
       "groupName": "Booster",
@@ -173179,7 +174367,7 @@
       "categoryName": "Commodity"
     },
     {
-      "typeID": 93060,
+      "typeID": 91922,
       "name": "Republic Electronics Booster I",
       "volume": 1.0,
       "groupID": 303,
@@ -173188,7 +174376,7 @@
       "categoryName": "Implant"
     },
     {
-      "typeID": 93061,
+      "typeID": 91923,
       "name": "Republic Electronics Booster II",
       "volume": 1.0,
       "groupID": 303,
@@ -173197,17 +174385,8 @@
       "categoryName": "Implant"
     },
     {
-      "typeID": 93062,
+      "typeID": 91924,
       "name": "Republic Electronics Booster III",
-      "volume": 1.0,
-      "groupID": 303,
-      "groupName": "Booster",
-      "categoryID": 20,
-      "categoryName": "Implant"
-    },
-    {
-      "typeID": 93063,
-      "name": "Republic Electronics Booster IV",
       "volume": 1.0,
       "groupID": 303,
       "groupName": "Booster",
@@ -174016,6 +175195,15 @@
       "categoryName": "SKINs"
     },
     {
+      "typeID": 93704,
+      "name": "Republic Fleet Firetail Penumbral Shadows SKIN",
+      "volume": 0.01,
+      "groupID": 1950,
+      "groupName": "Permanent SKIN",
+      "categoryID": 91,
+      "categoryName": "SKINs"
+    },
+    {
       "typeID": 59837,
       "name": "Republic Fleet Firetail Sebiestor SKIN",
       "volume": 0.01,
@@ -174277,6 +175465,15 @@
       "categoryName": "Blueprint"
     },
     {
+      "typeID": 93839,
+      "name": "Republic Fleet Large Remote Shield Booster",
+      "volume": 25.0,
+      "groupID": 41,
+      "groupName": "Remote Shield Booster",
+      "categoryID": 7,
+      "categoryName": "Module"
+    },
+    {
       "typeID": 15904,
       "name": "Republic Fleet Large Shield Booster",
       "volume": 25.0,
@@ -174394,6 +175591,33 @@
       "categoryName": "Commodity"
     },
     {
+      "typeID": 94065,
+      "name": "Republic Fleet Mining Survey Chipset",
+      "volume": 5.0,
+      "groupID": 49,
+      "groupName": "Mining Survey Chipset",
+      "categoryID": 7,
+      "categoryName": "Module"
+    },
+    {
+      "typeID": 94064,
+      "name": "Republic Fleet Missile Guidance Computer",
+      "volume": 5.0,
+      "groupID": 1396,
+      "groupName": "Missile Guidance Computer",
+      "categoryID": 7,
+      "categoryName": "Module"
+    },
+    {
+      "typeID": 93909,
+      "name": "Republic Fleet Missile Guidance Enhancer",
+      "volume": 5.0,
+      "groupID": 1395,
+      "groupName": "Missile Guidance Enhancer",
+      "categoryID": 7,
+      "categoryName": "Module"
+    },
+    {
       "typeID": 15703,
       "name": "Republic Fleet Multispectrum Coating",
       "volume": 5.0,
@@ -174473,6 +175697,15 @@
       "groupName": "Projectile Ammo",
       "categoryID": 8,
       "categoryName": "Charge"
+    },
+    {
+      "typeID": 93612,
+      "name": "Republic Fleet Ordnance Supply Package",
+      "volume": 0.01,
+      "groupID": 314,
+      "groupName": "Miscellaneous",
+      "categoryID": 17,
+      "categoryName": "Commodity"
     },
     {
       "typeID": 15812,
@@ -174961,6 +176194,51 @@
       "categoryName": "Module"
     },
     {
+      "typeID": 91965,
+      "name": "Republic Hardpoint Booster I",
+      "volume": 1.0,
+      "groupID": 303,
+      "groupName": "Booster",
+      "categoryID": 20,
+      "categoryName": "Implant"
+    },
+    {
+      "typeID": 91976,
+      "name": "Republic Hardpoint Booster II",
+      "volume": 1.0,
+      "groupID": 303,
+      "groupName": "Booster",
+      "categoryID": 20,
+      "categoryName": "Implant"
+    },
+    {
+      "typeID": 91977,
+      "name": "Republic Hardpoint Booster III",
+      "volume": 1.0,
+      "groupID": 303,
+      "groupName": "Booster",
+      "categoryID": 20,
+      "categoryName": "Implant"
+    },
+    {
+      "typeID": 93016,
+      "name": "Republic Iconic - Limited",
+      "volume": 0.1,
+      "groupID": 4726,
+      "groupName": "Ship SKIN Design Element",
+      "categoryID": 2118,
+      "categoryName": "Personalization"
+    },
+    {
+      "typeID": 93482,
+      "name": "Republic Iconic - Unlimited",
+      "volume": 0.1,
+      "groupID": 4726,
+      "groupName": "Ship SKIN Design Element",
+      "categoryID": 2118,
+      "categoryName": "Personalization"
+    },
+    {
       "typeID": 48534,
       "name": "Republic Justice Department Bronze Reward",
       "volume": 10000.0,
@@ -174988,7 +176266,25 @@
       "categoryName": "Special Edition Assets"
     },
     {
-      "typeID": 93064,
+      "typeID": 93015,
+      "name": "Republic Lineage - Limited",
+      "volume": 0.1,
+      "groupID": 4726,
+      "groupName": "Ship SKIN Design Element",
+      "categoryID": 2118,
+      "categoryName": "Personalization"
+    },
+    {
+      "typeID": 93481,
+      "name": "Republic Lineage - Unlimited",
+      "volume": 0.1,
+      "groupID": 4726,
+      "groupName": "Ship SKIN Design Element",
+      "categoryID": 2118,
+      "categoryName": "Personalization"
+    },
+    {
+      "typeID": 91950,
       "name": "Republic Mobility Booster I",
       "volume": 1.0,
       "groupID": 303,
@@ -174997,7 +176293,7 @@
       "categoryName": "Implant"
     },
     {
-      "typeID": 93065,
+      "typeID": 91960,
       "name": "Republic Mobility Booster II",
       "volume": 1.0,
       "groupID": 303,
@@ -175006,17 +176302,8 @@
       "categoryName": "Implant"
     },
     {
-      "typeID": 93020,
+      "typeID": 91961,
       "name": "Republic Mobility Booster III",
-      "volume": 1.0,
-      "groupID": 303,
-      "groupName": "Booster",
-      "categoryID": 20,
-      "categoryName": "Implant"
-    },
-    {
-      "typeID": 93021,
-      "name": "Republic Mobility Booster IV",
       "volume": 1.0,
       "groupID": 303,
       "groupName": "Booster",
@@ -175031,42 +176318,6 @@
       "groupName": "Commodities",
       "categoryID": 17,
       "categoryName": "Commodity"
-    },
-    {
-      "typeID": 93026,
-      "name": "Republic Projection Booster I",
-      "volume": 1.0,
-      "groupID": 303,
-      "groupName": "Booster",
-      "categoryID": 20,
-      "categoryName": "Implant"
-    },
-    {
-      "typeID": 93027,
-      "name": "Republic Projection Booster II",
-      "volume": 1.0,
-      "groupID": 303,
-      "groupName": "Booster",
-      "categoryID": 20,
-      "categoryName": "Implant"
-    },
-    {
-      "typeID": 93028,
-      "name": "Republic Projection Booster III",
-      "volume": 1.0,
-      "groupID": 303,
-      "groupName": "Booster",
-      "categoryID": 20,
-      "categoryName": "Implant"
-    },
-    {
-      "typeID": 93029,
-      "name": "Republic Projection Booster IV",
-      "volume": 1.0,
-      "groupID": 303,
-      "groupName": "Booster",
-      "categoryID": 20,
-      "categoryName": "Implant"
     },
     {
       "typeID": 22037,
@@ -180442,6 +181693,15 @@
       "categoryName": "Skill"
     },
     {
+      "typeID": 92822,
+      "name": "Salvation",
+      "volume": 13950000.0,
+      "groupID": 5120,
+      "groupName": "Command Carrier",
+      "categoryID": 6,
+      "categoryName": "Ship"
+    },
+    {
       "typeID": 43698,
       "name": "Salvation Angels Strong Box",
       "volume": 0.1,
@@ -180449,6 +181709,15 @@
       "groupName": "Strong Boxes",
       "categoryID": 17,
       "categoryName": "Commodity"
+    },
+    {
+      "typeID": 94072,
+      "name": "Salvation Blueprint",
+      "volume": 0.01,
+      "groupID": 643,
+      "groupName": "Carrier Blueprint",
+      "categoryID": 9,
+      "categoryName": "Blueprint"
     },
     {
       "typeID": 21852,
@@ -182647,6 +183916,24 @@
       "categoryName": "SKINs"
     },
     {
+      "typeID": 92789,
+      "name": "Scorpion Navy Issue Military Stockpile Captain SKIN",
+      "volume": 0.01,
+      "groupID": 1950,
+      "groupName": "Permanent SKIN",
+      "categoryID": 91,
+      "categoryName": "SKINs"
+    },
+    {
+      "typeID": 93662,
+      "name": "Scorpion Navy Issue Penumbral Shadows SKIN",
+      "volume": 0.01,
+      "groupID": 1950,
+      "groupName": "Permanent SKIN",
+      "categoryID": 91,
+      "categoryName": "SKINs"
+    },
+    {
       "typeID": 57391,
       "name": "Scorpion Navy Issue Spirit SKIN",
       "volume": 0.01,
@@ -182685,6 +183972,15 @@
     {
       "typeID": 53195,
       "name": "Scorpion Navy Issue Zento Isideko Combine SKIN",
+      "volume": 0.01,
+      "groupID": 1950,
+      "groupName": "Permanent SKIN",
+      "categoryID": 91,
+      "categoryName": "SKINs"
+    },
+    {
+      "typeID": 93710,
+      "name": "Scorpion Penumbral Shadows SKIN",
       "volume": 0.01,
       "groupID": 1950,
       "groupName": "Permanent SKIN",
@@ -183610,6 +184906,15 @@
       "categoryName": "SKINs"
     },
     {
+      "typeID": 93700,
+      "name": "Scythe Fleet Issue Penumbral Shadows SKIN",
+      "volume": 0.01,
+      "groupID": 1950,
+      "groupName": "Permanent SKIN",
+      "categoryID": 91,
+      "categoryName": "SKINs"
+    },
+    {
       "typeID": 52876,
       "name": "Scythe Fleet Issue Snowline Bladeracer SKIN",
       "volume": 0.01,
@@ -183684,6 +184989,15 @@
     {
       "typeID": 59466,
       "name": "Scythe Liberation Games SKIN",
+      "volume": 0.01,
+      "groupID": 1950,
+      "groupName": "Permanent SKIN",
+      "categoryID": 91,
+      "categoryName": "SKINs"
+    },
+    {
+      "typeID": 93722,
+      "name": "Scythe Penumbral Shadows SKIN",
       "volume": 0.01,
       "groupID": 1950,
       "groupName": "Permanent SKIN",
@@ -188677,6 +189991,24 @@
       "categoryName": "Skill"
     },
     {
+      "typeID": 94150,
+      "name": "Shield of the Empires - Limited",
+      "volume": 0.1,
+      "groupID": 4726,
+      "groupName": "Ship SKIN Design Element",
+      "categoryID": 2118,
+      "categoryName": "Personalization"
+    },
+    {
+      "typeID": 94149,
+      "name": "Shield of the Empires - Unlimited",
+      "volume": 0.1,
+      "groupID": 4726,
+      "groupName": "Ship SKIN Design Element",
+      "categoryID": 2118,
+      "categoryName": "Personalization"
+    },
+    {
       "typeID": 11603,
       "name": "Shiez Kuzaks Ship Database",
       "volume": 0.1,
@@ -189827,6 +191159,24 @@
       "groupName": "Miscellaneous",
       "categoryID": 17,
       "categoryName": "Commodity"
+    },
+    {
+      "typeID": 92823,
+      "name": "Simurgh",
+      "volume": 11925000.0,
+      "groupID": 5120,
+      "groupName": "Command Carrier",
+      "categoryID": 6,
+      "categoryName": "Ship"
+    },
+    {
+      "typeID": 94073,
+      "name": "Simurgh Blueprint",
+      "volume": 0.01,
+      "groupID": 643,
+      "groupName": "Carrier Blueprint",
+      "categoryID": 9,
+      "categoryName": "Blueprint"
     },
     {
       "typeID": 22430,
@@ -197731,6 +199081,15 @@
       "categoryName": "SKINs"
     },
     {
+      "typeID": 92798,
+      "name": "Stabber Fleet Issue Fleet Ordnance Spike SKIN",
+      "volume": 0.01,
+      "groupID": 1950,
+      "groupName": "Permanent SKIN",
+      "categoryID": 91,
+      "categoryName": "SKINs"
+    },
+    {
       "typeID": 46903,
       "name": "Stabber Fleet Issue Glacial Drift SKIN",
       "volume": 0.01,
@@ -203959,6 +205318,24 @@
       "categoryName": "Charge"
     },
     {
+      "typeID": 92982,
+      "name": "Starkman Ochre Satin - Limited",
+      "volume": 0.1,
+      "groupID": 4726,
+      "groupName": "Ship SKIN Design Element",
+      "categoryID": 2118,
+      "categoryName": "Personalization"
+    },
+    {
+      "typeID": 93483,
+      "name": "Starkman Ochre Satin - Unlimited",
+      "volume": 0.1,
+      "groupID": 4726,
+      "groupName": "Ship SKIN Design Element",
+      "categoryID": 2118,
+      "categoryName": "Personalization"
+    },
+    {
       "typeID": 26907,
       "name": "Starkmanir Slave",
       "volume": 3.0,
@@ -204094,42 +205471,6 @@
       "categoryName": "Material"
     },
     {
-      "typeID": 93116,
-      "name": "State Application Booster I",
-      "volume": 1.0,
-      "groupID": 303,
-      "groupName": "Booster",
-      "categoryID": 20,
-      "categoryName": "Implant"
-    },
-    {
-      "typeID": 93103,
-      "name": "State Application Booster II",
-      "volume": 1.0,
-      "groupID": 303,
-      "groupName": "Booster",
-      "categoryID": 20,
-      "categoryName": "Implant"
-    },
-    {
-      "typeID": 93093,
-      "name": "State Application Booster III",
-      "volume": 1.0,
-      "groupID": 303,
-      "groupName": "Booster",
-      "categoryID": 20,
-      "categoryName": "Implant"
-    },
-    {
-      "typeID": 93095,
-      "name": "State Application Booster IV",
-      "volume": 1.0,
-      "groupID": 303,
-      "groupName": "Booster",
-      "categoryID": 20,
-      "categoryName": "Implant"
-    },
-    {
       "typeID": 43677,
       "name": "State Civilian Container",
       "volume": 0.1,
@@ -204148,6 +205489,24 @@
       "categoryName": "Personalization"
     },
     {
+      "typeID": 93003,
+      "name": "State Corridor - Limited",
+      "volume": 0.1,
+      "groupID": 4726,
+      "groupName": "Ship SKIN Design Element",
+      "categoryID": 2118,
+      "categoryName": "Personalization"
+    },
+    {
+      "typeID": 93472,
+      "name": "State Corridor - Unlimited",
+      "volume": 0.1,
+      "groupID": 4726,
+      "groupName": "Ship SKIN Design Element",
+      "categoryID": 2118,
+      "categoryName": "Personalization"
+    },
+    {
       "typeID": 79117,
       "name": "State Counter-Insurgency Reward Crate",
       "volume": 1.0,
@@ -204157,43 +205516,7 @@
       "categoryName": "Special Edition Assets"
     },
     {
-      "typeID": 93066,
-      "name": "State Damage Booster I",
-      "volume": 1.0,
-      "groupID": 303,
-      "groupName": "Booster",
-      "categoryID": 20,
-      "categoryName": "Implant"
-    },
-    {
-      "typeID": 93067,
-      "name": "State Damage Booster II",
-      "volume": 1.0,
-      "groupID": 303,
-      "groupName": "Booster",
-      "categoryID": 20,
-      "categoryName": "Implant"
-    },
-    {
-      "typeID": 93068,
-      "name": "State Damage Booster III",
-      "volume": 1.0,
-      "groupID": 303,
-      "groupName": "Booster",
-      "categoryID": 20,
-      "categoryName": "Implant"
-    },
-    {
-      "typeID": 93085,
-      "name": "State Damage Booster IV",
-      "volume": 1.0,
-      "groupID": 303,
-      "groupName": "Booster",
-      "categoryID": 20,
-      "categoryName": "Implant"
-    },
-    {
-      "typeID": 93096,
+      "typeID": 91934,
       "name": "State Defense Booster I",
       "volume": 1.0,
       "groupID": 303,
@@ -204202,7 +205525,7 @@
       "categoryName": "Implant"
     },
     {
-      "typeID": 93106,
+      "typeID": 91941,
       "name": "State Defense Booster II",
       "volume": 1.0,
       "groupID": 303,
@@ -204211,17 +205534,8 @@
       "categoryName": "Implant"
     },
     {
-      "typeID": 93107,
+      "typeID": 91942,
       "name": "State Defense Booster III",
-      "volume": 1.0,
-      "groupID": 303,
-      "groupName": "Booster",
-      "categoryID": 20,
-      "categoryName": "Implant"
-    },
-    {
-      "typeID": 93108,
-      "name": "State Defense Booster IV",
       "volume": 1.0,
       "groupID": 303,
       "groupName": "Booster",
@@ -204238,7 +205552,25 @@
       "categoryName": "Commodity"
     },
     {
-      "typeID": 93109,
+      "typeID": 93002,
+      "name": "State Directive - Limited",
+      "volume": 0.1,
+      "groupID": 4726,
+      "groupName": "Ship SKIN Design Element",
+      "categoryID": 2118,
+      "categoryName": "Personalization"
+    },
+    {
+      "typeID": 93471,
+      "name": "State Directive - Unlimited",
+      "volume": 0.1,
+      "groupID": 4726,
+      "groupName": "Ship SKIN Design Element",
+      "categoryID": 2118,
+      "categoryName": "Personalization"
+    },
+    {
+      "typeID": 91920,
       "name": "State Electronics Booster I",
       "volume": 1.0,
       "groupID": 303,
@@ -204247,7 +205579,7 @@
       "categoryName": "Implant"
     },
     {
-      "typeID": 93110,
+      "typeID": 91927,
       "name": "State Electronics Booster II",
       "volume": 1.0,
       "groupID": 303,
@@ -204256,17 +205588,8 @@
       "categoryName": "Implant"
     },
     {
-      "typeID": 93111,
+      "typeID": 91928,
       "name": "State Electronics Booster III",
-      "volume": 1.0,
-      "groupID": 303,
-      "groupName": "Booster",
-      "categoryID": 20,
-      "categoryName": "Implant"
-    },
-    {
-      "typeID": 93112,
-      "name": "State Electronics Booster IV",
       "volume": 1.0,
       "groupID": 303,
       "groupName": "Booster",
@@ -204283,7 +205606,43 @@
       "categoryName": "Commodity"
     },
     {
-      "typeID": 93113,
+      "typeID": 91963,
+      "name": "State Hardpoint Booster I",
+      "volume": 1.0,
+      "groupID": 303,
+      "groupName": "Booster",
+      "categoryID": 20,
+      "categoryName": "Implant"
+    },
+    {
+      "typeID": 91972,
+      "name": "State Hardpoint Booster II",
+      "volume": 1.0,
+      "groupID": 303,
+      "groupName": "Booster",
+      "categoryID": 20,
+      "categoryName": "Implant"
+    },
+    {
+      "typeID": 91973,
+      "name": "State Hardpoint Booster III",
+      "volume": 1.0,
+      "groupID": 303,
+      "groupName": "Booster",
+      "categoryID": 20,
+      "categoryName": "Implant"
+    },
+    {
+      "typeID": 93610,
+      "name": "State Military Stockpile Supply Package",
+      "volume": 0.01,
+      "groupID": 314,
+      "groupName": "Miscellaneous",
+      "categoryID": 17,
+      "categoryName": "Commodity"
+    },
+    {
+      "typeID": 91948,
       "name": "State Mobility Booster I",
       "volume": 1.0,
       "groupID": 303,
@@ -204292,7 +205651,7 @@
       "categoryName": "Implant"
     },
     {
-      "typeID": 93098,
+      "typeID": 91953,
       "name": "State Mobility Booster II",
       "volume": 1.0,
       "groupID": 303,
@@ -204301,17 +205660,8 @@
       "categoryName": "Implant"
     },
     {
-      "typeID": 93101,
+      "typeID": 91954,
       "name": "State Mobility Booster III",
-      "volume": 1.0,
-      "groupID": 303,
-      "groupName": "Booster",
-      "categoryID": 20,
-      "categoryName": "Implant"
-    },
-    {
-      "typeID": 93102,
-      "name": "State Mobility Booster IV",
       "volume": 1.0,
       "groupID": 303,
       "groupName": "Booster",
@@ -204326,42 +205676,6 @@
       "groupName": "Special Edition Commodities",
       "categoryID": 63,
       "categoryName": "Special Edition Assets"
-    },
-    {
-      "typeID": 93114,
-      "name": "State Projection Booster I",
-      "volume": 1.0,
-      "groupID": 303,
-      "groupName": "Booster",
-      "categoryID": 20,
-      "categoryName": "Implant"
-    },
-    {
-      "typeID": 93087,
-      "name": "State Projection Booster II",
-      "volume": 1.0,
-      "groupID": 303,
-      "groupName": "Booster",
-      "categoryID": 20,
-      "categoryName": "Implant"
-    },
-    {
-      "typeID": 93088,
-      "name": "State Projection Booster III",
-      "volume": 1.0,
-      "groupID": 303,
-      "groupName": "Booster",
-      "categoryID": 20,
-      "categoryName": "Implant"
-    },
-    {
-      "typeID": 93115,
-      "name": "State Projection Booster IV",
-      "volume": 1.0,
-      "groupID": 303,
-      "groupName": "Booster",
-      "categoryID": 20,
-      "categoryName": "Implant"
     },
     {
       "typeID": 76215,
@@ -206049,7 +207363,7 @@
     {
       "typeID": 17482,
       "name": "Strip Miner I",
-      "volume": 25.0,
+      "volume": 5.0,
       "groupID": 464,
       "groupName": "Strip Miner",
       "categoryID": 7,
@@ -206063,6 +207377,24 @@
       "groupName": "Strip Miner Blueprint",
       "categoryID": 9,
       "categoryName": "Blueprint"
+    },
+    {
+      "typeID": 94047,
+      "name": "Strokar Booster III",
+      "volume": 1.0,
+      "groupID": 303,
+      "groupName": "Booster",
+      "categoryID": 20,
+      "categoryName": "Implant"
+    },
+    {
+      "typeID": 94048,
+      "name": "Strokar Booster VI",
+      "volume": 1.0,
+      "groupID": 303,
+      "groupName": "Booster",
+      "categoryID": 20,
+      "categoryName": "Implant"
     },
     {
       "typeID": 10156,
@@ -207316,6 +208648,42 @@
       "categoryName": "Planetary Commodities"
     },
     {
+      "typeID": 93643,
+      "name": "Supplies: Battle of Pator",
+      "volume": 10.0,
+      "groupID": 1194,
+      "groupName": "Special Edition Commodities",
+      "categoryID": 63,
+      "categoryName": "Special Edition Assets"
+    },
+    {
+      "typeID": 93641,
+      "name": "Supplies: Caldari Prime Breakout",
+      "volume": 10.0,
+      "groupID": 1194,
+      "groupName": "Special Edition Commodities",
+      "categoryID": 63,
+      "categoryName": "Special Edition Assets"
+    },
+    {
+      "typeID": 93640,
+      "name": "Supplies: Golgothan Fields",
+      "volume": 10.0,
+      "groupID": 1194,
+      "groupName": "Special Edition Commodities",
+      "categoryID": 63,
+      "categoryName": "Special Edition Assets"
+    },
+    {
+      "typeID": 93642,
+      "name": "Supplies: Intaki Liberation",
+      "volume": 10.0,
+      "groupID": 1194,
+      "groupName": "Special Edition Commodities",
+      "categoryID": 63,
+      "categoryName": "Special Edition Assets"
+    },
+    {
       "typeID": 24268,
       "name": "Supply Chain Management",
       "volume": 0.01,
@@ -208034,6 +209402,24 @@
       "groupName": "Signal Amplifier",
       "categoryID": 7,
       "categoryName": "Module"
+    },
+    {
+      "typeID": 94133,
+      "name": "Syndicated Teal Satin - Limited",
+      "volume": 0.1,
+      "groupID": 4726,
+      "groupName": "Ship SKIN Design Element",
+      "categoryID": 2118,
+      "categoryName": "Personalization"
+    },
+    {
+      "typeID": 94132,
+      "name": "Syndicated Teal Satin - Unlimited",
+      "volume": 0.1,
+      "groupID": 4726,
+      "groupName": "Ship SKIN Design Element",
+      "categoryID": 2118,
+      "categoryName": "Personalization"
     },
     {
       "typeID": 28670,
@@ -209629,6 +211015,15 @@
       "categoryName": "SKINs"
     },
     {
+      "typeID": 95293,
+      "name": "Talos Presidential Agent SKIN",
+      "volume": 0.01,
+      "groupID": 1950,
+      "groupName": "Permanent SKIN",
+      "categoryID": 91,
+      "categoryName": "SKINs"
+    },
+    {
       "typeID": 47282,
       "name": "Talos Serenity YC119 SKIN",
       "volume": 0.01,
@@ -209861,6 +211256,24 @@
       "groupName": "Ship Emblems",
       "categoryID": 2118,
       "categoryName": "Personalization"
+    },
+    {
+      "typeID": 95266,
+      "name": "Talwar Fleet Issue Penumbral Shadows SKIN",
+      "volume": 0.01,
+      "groupID": 1950,
+      "groupName": "Permanent SKIN",
+      "categoryID": 91,
+      "categoryName": "SKINs"
+    },
+    {
+      "typeID": 95299,
+      "name": "Talwar Fleet Issue Stark Strategist SKIN",
+      "volume": 0.01,
+      "groupID": 1950,
+      "groupName": "Permanent SKIN",
+      "categoryID": 91,
+      "categoryName": "SKINs"
     },
     {
       "typeID": 59431,
@@ -211089,6 +212502,15 @@
     {
       "typeID": 45978,
       "name": "Tempest Fleet Issue Exoplanets Hunter SKIN",
+      "volume": 0.01,
+      "groupID": 1950,
+      "groupName": "Permanent SKIN",
+      "categoryID": 91,
+      "categoryName": "SKINs"
+    },
+    {
+      "typeID": 92801,
+      "name": "Tempest Fleet Issue Fleet Ordnance Spike SKIN",
       "volume": 0.01,
       "groupID": 1950,
       "groupName": "Permanent SKIN",
@@ -214210,6 +215632,15 @@
       "categoryName": "SKINs"
     },
     {
+      "typeID": 93701,
+      "name": "Thrasher Fleet Issue Penumbral Shadows SKIN",
+      "volume": 0.01,
+      "groupID": 1950,
+      "groupName": "Permanent SKIN",
+      "categoryID": 91,
+      "categoryName": "SKINs"
+    },
+    {
       "typeID": 82184,
       "name": "Thrasher Fleet Issue Republic Police SKIN",
       "volume": 0.01,
@@ -215940,6 +217371,15 @@
     {
       "typeID": 78690,
       "name": "Tornado Solar Brilliance SKIN",
+      "volume": 0.01,
+      "groupID": 1950,
+      "groupName": "Permanent SKIN",
+      "categoryID": 91,
+      "categoryName": "SKINs"
+    },
+    {
+      "typeID": 95300,
+      "name": "Tornado Stark Strategist SKIN",
       "volume": 0.01,
       "groupID": 1950,
       "groupName": "Permanent SKIN",
@@ -219871,6 +221311,15 @@
       "categoryName": "SKINs"
     },
     {
+      "typeID": 92802,
+      "name": "Typhoon Fleet Issue Fleet Ordnance Spike SKIN",
+      "volume": 0.01,
+      "groupID": 1950,
+      "groupName": "Permanent SKIN",
+      "categoryID": 91,
+      "categoryName": "SKINs"
+    },
+    {
       "typeID": 55718,
       "name": "Typhoon Fleet Issue Freedom's Revolution SKIN",
       "volume": 0.01,
@@ -219936,6 +221385,15 @@
     {
       "typeID": 64931,
       "name": "Typhoon Fleet Issue Nefantar SKIN",
+      "volume": 0.01,
+      "groupID": 1950,
+      "groupName": "Permanent SKIN",
+      "categoryID": 91,
+      "categoryName": "SKINs"
+    },
+    {
+      "typeID": 93698,
+      "name": "Typhoon Fleet Issue Penumbral Shadows SKIN",
       "volume": 0.01,
       "groupID": 1950,
       "groupName": "Permanent SKIN",
@@ -220143,6 +221601,15 @@
     {
       "typeID": 53017,
       "name": "Typhoon Malagrin Marshlight SKIN",
+      "volume": 0.01,
+      "groupID": 1950,
+      "groupName": "Permanent SKIN",
+      "categoryID": 91,
+      "categoryName": "SKINs"
+    },
+    {
+      "typeID": 93720,
+      "name": "Typhoon Penumbral Shadows SKIN",
       "volume": 0.01,
       "groupID": 1950,
       "groupName": "Permanent SKIN",
@@ -226981,6 +228448,15 @@
       "categoryName": "SKINs"
     },
     {
+      "typeID": 92792,
+      "name": "Vexor Navy Issue Strategic Materiel Defender SKIN",
+      "volume": 0.01,
+      "groupID": 1950,
+      "groupName": "Permanent SKIN",
+      "categoryID": 91,
+      "categoryName": "SKINs"
+    },
+    {
       "typeID": 61872,
       "name": "Vexor Navy Issue Warp Convergence SKIN",
       "volume": 0.01,
@@ -227746,6 +229222,15 @@
       "categoryName": "SKINs"
     },
     {
+      "typeID": 92797,
+      "name": "Vigil Fleet Issue Fleet Ordnance Spike SKIN",
+      "volume": 0.01,
+      "groupID": 1950,
+      "groupName": "Permanent SKIN",
+      "categoryID": 91,
+      "categoryName": "SKINs"
+    },
+    {
       "typeID": 46889,
       "name": "Vigil Fleet Issue Glacial Drift SKIN",
       "volume": 0.01,
@@ -227784,6 +229269,15 @@
     {
       "typeID": 64928,
       "name": "Vigil Fleet Issue Nefantar SKIN",
+      "volume": 0.01,
+      "groupID": 1950,
+      "groupName": "Permanent SKIN",
+      "categoryID": 91,
+      "categoryName": "SKINs"
+    },
+    {
+      "typeID": 93702,
+      "name": "Vigil Fleet Issue Penumbral Shadows SKIN",
       "volume": 0.01,
       "groupID": 1950,
       "groupName": "Permanent SKIN",
@@ -227937,6 +229431,15 @@
     {
       "typeID": 38626,
       "name": "Vigil Krusual Serenity Only SKIN",
+      "volume": 0.01,
+      "groupID": 1950,
+      "groupName": "Permanent SKIN",
+      "categoryID": 91,
+      "categoryName": "SKINs"
+    },
+    {
+      "typeID": 93723,
+      "name": "Vigil Penumbral Shadows SKIN",
       "volume": 0.01,
       "groupID": 1950,
       "groupName": "Permanent SKIN",
@@ -229751,6 +231254,24 @@
       "groupName": "Electronic Warfare Drone Blueprint",
       "categoryID": 9,
       "categoryName": "Blueprint"
+    },
+    {
+      "typeID": 94142,
+      "name": "Wartorn Electrum Metallic - Limited",
+      "volume": 0.1,
+      "groupID": 4726,
+      "groupName": "Ship SKIN Design Element",
+      "categoryID": 2118,
+      "categoryName": "Personalization"
+    },
+    {
+      "typeID": 94141,
+      "name": "Wartorn Electrum Metallic - Unlimited",
+      "volume": 0.1,
+      "groupID": 4726,
+      "groupName": "Ship SKIN Design Element",
+      "categoryID": 2118,
+      "categoryName": "Personalization"
     },
     {
       "typeID": 23473,
@@ -237446,6 +238967,24 @@
       "groupName": "Empire Insignia Drops",
       "categoryID": 17,
       "categoryName": "Commodity"
+    },
+    {
+      "typeID": 92825,
+      "name": "Ymir",
+      "volume": 11250000.0,
+      "groupID": 5120,
+      "groupName": "Command Carrier",
+      "categoryID": 6,
+      "categoryName": "Ship"
+    },
+    {
+      "typeID": 94075,
+      "name": "Ymir Blueprint",
+      "volume": 0.01,
+      "groupID": 643,
+      "groupName": "Carrier Blueprint",
+      "categoryID": 9,
+      "categoryName": "Blueprint"
     },
     {
       "typeID": 47302,
