@@ -1,31 +1,31 @@
 {
   "metadata": {
     "source": "EVE Online SDE",
-    "itemCount": 26895,
+    "itemCount": 26928,
     "categoryCount": 37,
     "itemsWithZeroVolume": 956,
     "categories": {
       "Module": 3971,
       "Blueprint": 4158,
       "Drone": 154,
-      "Special Edition Assets": 630,
+      "Special Edition Assets": 631,
       "Commodity": 2844,
       "Structure": 18,
       "Deployable": 44,
-      "Apparel": 981,
+      "Apparel": 982,
       "Accessories": 77,
-      "Personalization": 1730,
+      "Personalization": 1749,
       "Ship": 423,
-      "SKINs": 7043,
+      "SKINs": 7053,
       "Charge": 1017,
       "Skill": 511,
       "Decryptors": 44,
-      "Asteroid": 459,
+      "Asteroid": 460,
       "Implant": 1290,
       "Starbase": 195,
       "Infrastructure Upgrades": 73,
       "Material": 269,
-      "Expert Systems": 31,
+      "Expert Systems": 32,
       "Celestial": 225,
       "Fighter": 94,
       "Planetary Resources": 15,
@@ -15193,6 +15193,15 @@
       "categoryName": "SKINs"
     },
     {
+      "typeID": 95478,
+      "name": "Arazu Pride of the Federation SKIN",
+      "volume": 0.01,
+      "groupID": 1950,
+      "groupName": "Permanent SKIN",
+      "categoryID": 91,
+      "categoryName": "SKINs"
+    },
+    {
       "typeID": 42174,
       "name": "Arazu Serpentis SKIN",
       "volume": 0.01,
@@ -17715,6 +17724,15 @@
     {
       "typeID": 83355,
       "name": "Asaya Midnight Satin - Unlimited",
+      "volume": 0.1,
+      "groupID": 4726,
+      "groupName": "Ship SKIN Design Element",
+      "categoryID": 2118,
+      "categoryName": "Personalization"
+    },
+    {
+      "typeID": 95410,
+      "name": "Ascendant Zenith Gloss - Limited",
       "volume": 0.1,
       "groupID": 4726,
       "groupName": "Ship SKIN Design Element",
@@ -59671,6 +59689,42 @@
       "categoryName": "Skill"
     },
     {
+      "typeID": 95400,
+      "name": "Defiant Ochre Matte - Limited",
+      "volume": 0.1,
+      "groupID": 4726,
+      "groupName": "Ship SKIN Design Element",
+      "categoryID": 2118,
+      "categoryName": "Personalization"
+    },
+    {
+      "typeID": 95401,
+      "name": "Defiant Ochre Matte - Unlimited",
+      "volume": 0.1,
+      "groupID": 4726,
+      "groupName": "Ship SKIN Design Element",
+      "categoryID": 2118,
+      "categoryName": "Personalization"
+    },
+    {
+      "typeID": 95396,
+      "name": "Defiant Ochre Metallic - Limited",
+      "volume": 0.1,
+      "groupID": 4726,
+      "groupName": "Ship SKIN Design Element",
+      "categoryID": 2118,
+      "categoryName": "Personalization"
+    },
+    {
+      "typeID": 95397,
+      "name": "Defiant Ochre Metallic - Unlimited",
+      "volume": 0.1,
+      "groupID": 4726,
+      "groupName": "Ship SKIN Design Element",
+      "categoryID": 2118,
+      "categoryName": "Personalization"
+    },
+    {
       "typeID": 13206,
       "name": "Defiled Relics",
       "volume": 0.1,
@@ -70993,6 +71047,15 @@
       "categoryName": "Material"
     },
     {
+      "typeID": 95413,
+      "name": "Enduring Core - Unlimited",
+      "volume": 0.1,
+      "groupID": 4726,
+      "groupName": "Ship SKIN Design Element",
+      "categoryID": 2118,
+      "categoryName": "Personalization"
+    },
+    {
       "typeID": 54292,
       "name": "Enduring EM Shield Hardener",
       "volume": 5.0,
@@ -76382,6 +76445,15 @@
       "groupName": "Miscellaneous",
       "categoryID": 17,
       "categoryName": "Commodity"
+    },
+    {
+      "typeID": 95463,
+      "name": "Federation Day Celebration Crate",
+      "volume": 4.0,
+      "groupID": 1194,
+      "groupName": "Special Edition Commodities",
+      "categoryID": 63,
+      "categoryName": "Special Edition Assets"
     },
     {
       "typeID": 55746,
@@ -82349,6 +82421,15 @@
       "groupName": "Command Burst Blueprint",
       "categoryID": 9,
       "categoryName": "Blueprint"
+    },
+    {
+      "typeID": 95452,
+      "name": "Gallente Pilot",
+      "volume": 1.0,
+      "groupID": 4091,
+      "groupName": "Standard Expert Systems",
+      "categoryID": 2100,
+      "categoryName": "Expert Systems"
     },
     {
       "typeID": 29447,
@@ -96247,6 +96328,15 @@
       "categoryName": "SKINs"
     },
     {
+      "typeID": 95480,
+      "name": "Hecate Pride of the Federation SKIN",
+      "volume": 0.01,
+      "groupID": 1950,
+      "groupName": "Permanent SKIN",
+      "categoryID": 91,
+      "categoryName": "SKINs"
+    },
+    {
       "typeID": 45564,
       "name": "Hecate Ruby Sungrazer SKIN",
       "volume": 0.01,
@@ -102061,6 +102151,15 @@
       "categoryName": "SKINs"
     },
     {
+      "typeID": 95474,
+      "name": "Hyperion Pride of the Federation SKIN",
+      "volume": 0.01,
+      "groupID": 1950,
+      "groupName": "Permanent SKIN",
+      "categoryID": 91,
+      "categoryName": "SKINs"
+    },
+    {
       "typeID": 37056,
       "name": "Hyperion Quafe SKIN",
       "volume": 0.01,
@@ -103026,6 +103125,15 @@
     {
       "typeID": 93696,
       "name": "Imicus Navy Issue Penumbral Shadows SKIN",
+      "volume": 0.01,
+      "groupID": 1950,
+      "groupName": "Permanent SKIN",
+      "categoryID": 91,
+      "categoryName": "SKINs"
+    },
+    {
+      "typeID": 95481,
+      "name": "Imicus Navy Issue Pride of the Federation SKIN",
       "volume": 0.01,
       "groupID": 1950,
       "groupName": "Permanent SKIN",
@@ -112006,6 +112114,15 @@
       "categoryName": "SKINs"
     },
     {
+      "typeID": 95477,
+      "name": "Keres Pride of the Federation SKIN",
+      "volume": 0.01,
+      "groupID": 1950,
+      "groupName": "Permanent SKIN",
+      "categoryID": 91,
+      "categoryName": "SKINs"
+    },
+    {
       "typeID": 42157,
       "name": "Keres Serpentis SKIN",
       "volume": 0.01,
@@ -114204,6 +114321,15 @@
     {
       "typeID": 37123,
       "name": "Kronos Police Serenity Only SKIN",
+      "volume": 0.01,
+      "groupID": 1950,
+      "groupName": "Permanent SKIN",
+      "categoryID": 91,
+      "categoryName": "SKINs"
+    },
+    {
+      "typeID": 95479,
+      "name": "Kronos Pride of the Federation SKIN",
       "volume": 0.01,
       "groupID": 1950,
       "groupName": "Permanent SKIN",
@@ -129711,6 +129837,15 @@
     {
       "typeID": 93718,
       "name": "Maulus Penumbral Shadows SKIN",
+      "volume": 0.01,
+      "groupID": 1950,
+      "groupName": "Permanent SKIN",
+      "categoryID": 91,
+      "categoryName": "SKINs"
+    },
+    {
+      "typeID": 95482,
+      "name": "Maulus Pride of the Federation SKIN",
       "volume": 0.01,
       "groupID": 1950,
       "groupName": "Permanent SKIN",
@@ -146854,6 +146989,15 @@
       "categoryName": "SKINs"
     },
     {
+      "typeID": 95475,
+      "name": "Moros Pride of the Federation SKIN",
+      "volume": 0.01,
+      "groupID": 1950,
+      "groupName": "Permanent SKIN",
+      "categoryID": 91,
+      "categoryName": "SKINs"
+    },
+    {
       "typeID": 34664,
       "name": "Moros Roden SKIN",
       "volume": 0.01,
@@ -151824,6 +151968,15 @@
     {
       "typeID": 46443,
       "name": "Ninazu Kopis Edge SKIN",
+      "volume": 0.01,
+      "groupID": 1950,
+      "groupName": "Permanent SKIN",
+      "categoryID": 91,
+      "categoryName": "SKINs"
+    },
+    {
+      "typeID": 95476,
+      "name": "Ninazu Pride of the Federation SKIN",
       "volume": 0.01,
       "groupID": 1950,
       "groupName": "Permanent SKIN",
@@ -169228,6 +169381,15 @@
       "categoryName": "Asteroid"
     },
     {
+      "typeID": 95395,
+      "name": "Pyroxeres  0-Grade",
+      "volume": 0.3,
+      "groupID": 459,
+      "groupName": "Pyroxeres",
+      "categoryID": 25,
+      "categoryName": "Asteroid"
+    },
+    {
       "typeID": 17459,
       "name": "Pyroxeres II-Grade",
       "volume": 0.3,
@@ -170324,6 +170486,15 @@
       "groupName": "Advanced Capital Construction Component Blueprints",
       "categoryID": 9,
       "categoryName": "Blueprint"
+    },
+    {
+      "typeID": 95399,
+      "name": "Radiant Aureate Metallic - Unlimited",
+      "volume": 0.1,
+      "groupID": 4726,
+      "groupName": "Ship SKIN Design Element",
+      "categoryID": 2118,
+      "categoryName": "Personalization"
     },
     {
       "typeID": 52310,
@@ -173179,6 +173350,24 @@
       "categoryName": "Commodity"
     },
     {
+      "typeID": 95415,
+      "name": "Rebel Crest - Limited",
+      "volume": 0.1,
+      "groupID": 4726,
+      "groupName": "Ship SKIN Design Element",
+      "categoryID": 2118,
+      "categoryName": "Personalization"
+    },
+    {
+      "typeID": 95416,
+      "name": "Rebel Crest - Unlimited",
+      "volume": 0.1,
+      "groupID": 4726,
+      "groupName": "Ship SKIN Design Element",
+      "categoryID": 2118,
+      "categoryName": "Personalization"
+    },
+    {
       "typeID": 29952,
       "name": "Rebellion Cache",
       "volume": 50.0,
@@ -173186,6 +173375,24 @@
       "groupName": "Miscellaneous",
       "categoryID": 17,
       "categoryName": "Commodity"
+    },
+    {
+      "typeID": 95408,
+      "name": "Reclaimed Dawn Satin - Limited",
+      "volume": 0.1,
+      "groupID": 4726,
+      "groupName": "Ship SKIN Design Element",
+      "categoryID": 2118,
+      "categoryName": "Personalization"
+    },
+    {
+      "typeID": 95409,
+      "name": "Reclaimed Dawn Satin - Unlimited",
+      "volume": 0.1,
+      "groupID": 4726,
+      "groupName": "Ship SKIN Design Element",
+      "categoryID": 2118,
+      "categoryName": "Personalization"
     },
     {
       "typeID": 22761,
@@ -173960,6 +174167,24 @@
       "groupName": "Special Edition Commodities",
       "categoryID": 63,
       "categoryName": "Special Edition Assets"
+    },
+    {
+      "typeID": 95417,
+      "name": "Remnant Dominion - Limited",
+      "volume": 0.1,
+      "groupID": 4726,
+      "groupName": "Ship SKIN Design Element",
+      "categoryID": 2118,
+      "categoryName": "Personalization"
+    },
+    {
+      "typeID": 95418,
+      "name": "Remnant Dominion - Unlimited",
+      "volume": 0.1,
+      "groupID": 4726,
+      "groupName": "Ship SKIN Design Element",
+      "categoryID": 2118,
+      "categoryName": "Personalization"
     },
     {
       "typeID": 16069,
@@ -176660,6 +176885,42 @@
       "groupName": "Engineering",
       "categoryID": 16,
       "categoryName": "Skill"
+    },
+    {
+      "typeID": 95402,
+      "name": "Resolve Stratos Gloss - Limited",
+      "volume": 0.1,
+      "groupID": 4726,
+      "groupName": "Ship SKIN Design Element",
+      "categoryID": 2118,
+      "categoryName": "Personalization"
+    },
+    {
+      "typeID": 95403,
+      "name": "Resolve Stratos Gloss - Unlimited",
+      "volume": 0.1,
+      "groupID": 4726,
+      "groupName": "Ship SKIN Design Element",
+      "categoryID": 2118,
+      "categoryName": "Personalization"
+    },
+    {
+      "typeID": 95406,
+      "name": "Resolve Stratos Matte - Limited",
+      "volume": 0.1,
+      "groupID": 4726,
+      "groupName": "Ship SKIN Design Element",
+      "categoryID": 2118,
+      "categoryName": "Personalization"
+    },
+    {
+      "typeID": 95407,
+      "name": "Resolve Stratos Matte - Unlimited",
+      "volume": 0.1,
+      "groupID": 4726,
+      "groupName": "Ship SKIN Design Element",
+      "categoryID": 2118,
+      "categoryName": "Personalization"
     },
     {
       "typeID": 30258,
@@ -198019,6 +198280,15 @@
       "categoryName": "Commodity"
     },
     {
+      "typeID": 95501,
+      "name": "Soaring Federation Background",
+      "volume": 0.1,
+      "groupID": 5082,
+      "groupName": "Portrait Backgrounds",
+      "categoryID": 30,
+      "categoryName": "Apparel"
+    },
+    {
       "typeID": 3355,
       "name": "Social",
       "volume": 0.01,
@@ -208650,7 +208920,7 @@
     {
       "typeID": 93643,
       "name": "Supplies: Battle of Pator",
-      "volume": 10.0,
+      "volume": 3000.0,
       "groupID": 1194,
       "groupName": "Special Edition Commodities",
       "categoryID": 63,
@@ -208659,7 +208929,7 @@
     {
       "typeID": 93641,
       "name": "Supplies: Caldari Prime Breakout",
-      "volume": 10.0,
+      "volume": 3000.0,
       "groupID": 1194,
       "groupName": "Special Edition Commodities",
       "categoryID": 63,
@@ -208668,7 +208938,7 @@
     {
       "typeID": 93640,
       "name": "Supplies: Golgothan Fields",
-      "volume": 10.0,
+      "volume": 3000.0,
       "groupID": 1194,
       "groupName": "Special Edition Commodities",
       "categoryID": 63,
@@ -208677,7 +208947,7 @@
     {
       "typeID": 93642,
       "name": "Supplies: Intaki Liberation",
-      "volume": 10.0,
+      "volume": 3000.0,
       "groupID": 1194,
       "groupName": "Special Edition Commodities",
       "categoryID": 63,
@@ -211017,6 +211287,15 @@
     {
       "typeID": 95293,
       "name": "Talos Presidential Agent SKIN",
+      "volume": 0.01,
+      "groupID": 1950,
+      "groupName": "Permanent SKIN",
+      "categoryID": 91,
+      "categoryName": "SKINs"
+    },
+    {
+      "typeID": 95473,
+      "name": "Talos Pride of the Federation SKIN",
       "volume": 0.01,
       "groupID": 1950,
       "groupName": "Permanent SKIN",
@@ -229940,6 +230219,24 @@
       "groupName": "Permanent SKIN",
       "categoryID": 91,
       "categoryName": "SKINs"
+    },
+    {
+      "typeID": 95404,
+      "name": "Violent Surge Metallic - Limited",
+      "volume": 0.1,
+      "groupID": 4726,
+      "groupName": "Ship SKIN Design Element",
+      "categoryID": 2118,
+      "categoryName": "Personalization"
+    },
+    {
+      "typeID": 95405,
+      "name": "Violent Surge Metallic - Unlimited",
+      "volume": 0.1,
+      "groupID": 4726,
+      "groupName": "Ship SKIN Design Element",
+      "categoryID": 2118,
+      "categoryName": "Personalization"
     },
     {
       "typeID": 88543,

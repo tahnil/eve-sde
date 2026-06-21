@@ -1,9 +1,9 @@
 {
   "metadata": {
     "source": "EVE Online SDE",
-    "oreCount": 459,
+    "oreCount": 460,
     "mineralCount": 15,
-    "reprocessingCount": 319
+    "reprocessingCount": 320
   },
   "ores": [
     {
@@ -1031,6 +1031,13 @@
     {
       "typeID": 1224,
       "name": "Pyroxeres",
+      "volume": 0.3,
+      "groupID": 459,
+      "compressed": false
+    },
+    {
+      "typeID": 95395,
+      "name": "Pyroxeres  0-Grade",
       "volume": 0.3,
       "groupID": 459,
       "compressed": false
@@ -6846,6 +6853,16 @@
       {
         "mineralID": 92572,
         "quantity": 10
+      }
+    ],
+    "95395": [
+      {
+        "mineralID": 35,
+        "quantity": 45
+      },
+      {
+        "mineralID": 36,
+        "quantity": 15
       }
     ]
   }
