@@ -1,9 +1,9 @@
 {
   "metadata": {
     "source": "EVE Online SDE",
-    "itemCount": 26928,
+    "itemCount": 26918,
     "categoryCount": 37,
-    "itemsWithZeroVolume": 956,
+    "itemsWithZeroVolume": 960,
     "categories": {
       "Module": 3971,
       "Blueprint": 4158,
@@ -14,7 +14,7 @@
       "Deployable": 44,
       "Apparel": 982,
       "Accessories": 77,
-      "Personalization": 1749,
+      "Personalization": 1739,
       "Ship": 423,
       "SKINs": 7053,
       "Charge": 1017,
@@ -17724,15 +17724,6 @@
     {
       "typeID": 83355,
       "name": "Asaya Midnight Satin - Unlimited",
-      "volume": 0.1,
-      "groupID": 4726,
-      "groupName": "Ship SKIN Design Element",
-      "categoryID": 2118,
-      "categoryName": "Personalization"
-    },
-    {
-      "typeID": 95410,
-      "name": "Ascendant Zenith Gloss - Limited",
       "volume": 0.1,
       "groupID": 4726,
       "groupName": "Ship SKIN Design Element",
@@ -55045,6 +55036,24 @@
       "categoryName": "Ship"
     },
     {
+      "typeID": 95446,
+      "name": "Cybele Alliance Emblem",
+      "volume": 0,
+      "groupID": 4471,
+      "groupName": "Ship Emblems",
+      "categoryID": 2118,
+      "categoryName": "Personalization"
+    },
+    {
+      "typeID": 95484,
+      "name": "Cybele Corporation Emblem",
+      "volume": 0,
+      "groupID": 4471,
+      "groupName": "Ship Emblems",
+      "categoryID": 2118,
+      "categoryName": "Personalization"
+    },
+    {
       "typeID": 88648,
       "name": "Cyber Quill - Limited",
       "volume": 0.1,
@@ -59687,42 +59696,6 @@
       "groupName": "Science",
       "categoryID": 16,
       "categoryName": "Skill"
-    },
-    {
-      "typeID": 95400,
-      "name": "Defiant Ochre Matte - Limited",
-      "volume": 0.1,
-      "groupID": 4726,
-      "groupName": "Ship SKIN Design Element",
-      "categoryID": 2118,
-      "categoryName": "Personalization"
-    },
-    {
-      "typeID": 95401,
-      "name": "Defiant Ochre Matte - Unlimited",
-      "volume": 0.1,
-      "groupID": 4726,
-      "groupName": "Ship SKIN Design Element",
-      "categoryID": 2118,
-      "categoryName": "Personalization"
-    },
-    {
-      "typeID": 95396,
-      "name": "Defiant Ochre Metallic - Limited",
-      "volume": 0.1,
-      "groupID": 4726,
-      "groupName": "Ship SKIN Design Element",
-      "categoryID": 2118,
-      "categoryName": "Personalization"
-    },
-    {
-      "typeID": 95397,
-      "name": "Defiant Ochre Metallic - Unlimited",
-      "volume": 0.1,
-      "groupID": 4726,
-      "groupName": "Ship SKIN Design Element",
-      "categoryID": 2118,
-      "categoryName": "Personalization"
     },
     {
       "typeID": 13206,
@@ -71045,15 +71018,6 @@
       "groupName": "Named Components",
       "categoryID": 4,
       "categoryName": "Material"
-    },
-    {
-      "typeID": 95413,
-      "name": "Enduring Core - Unlimited",
-      "volume": 0.1,
-      "groupID": 4726,
-      "groupName": "Ship SKIN Design Element",
-      "categoryID": 2118,
-      "categoryName": "Personalization"
     },
     {
       "typeID": 54292,
@@ -170488,15 +170452,6 @@
       "categoryName": "Blueprint"
     },
     {
-      "typeID": 95399,
-      "name": "Radiant Aureate Metallic - Unlimited",
-      "volume": 0.1,
-      "groupID": 4726,
-      "groupName": "Ship SKIN Design Element",
-      "categoryID": 2118,
-      "categoryName": "Personalization"
-    },
-    {
       "typeID": 52310,
       "name": "Radiation Absorption Thruster",
       "volume": 1.0,
@@ -173350,15 +173305,6 @@
       "categoryName": "Commodity"
     },
     {
-      "typeID": 95415,
-      "name": "Rebel Crest - Limited",
-      "volume": 0.1,
-      "groupID": 4726,
-      "groupName": "Ship SKIN Design Element",
-      "categoryID": 2118,
-      "categoryName": "Personalization"
-    },
-    {
       "typeID": 95416,
       "name": "Rebel Crest - Unlimited",
       "volume": 0.1,
@@ -173375,15 +173321,6 @@
       "groupName": "Miscellaneous",
       "categoryID": 17,
       "categoryName": "Commodity"
-    },
-    {
-      "typeID": 95408,
-      "name": "Reclaimed Dawn Satin - Limited",
-      "volume": 0.1,
-      "groupID": 4726,
-      "groupName": "Ship SKIN Design Element",
-      "categoryID": 2118,
-      "categoryName": "Personalization"
     },
     {
       "typeID": 95409,
@@ -174167,15 +174104,6 @@
       "groupName": "Special Edition Commodities",
       "categoryID": 63,
       "categoryName": "Special Edition Assets"
-    },
-    {
-      "typeID": 95417,
-      "name": "Remnant Dominion - Limited",
-      "volume": 0.1,
-      "groupID": 4726,
-      "groupName": "Ship SKIN Design Element",
-      "categoryID": 2118,
-      "categoryName": "Personalization"
     },
     {
       "typeID": 95418,
@@ -176885,33 +176813,6 @@
       "groupName": "Engineering",
       "categoryID": 16,
       "categoryName": "Skill"
-    },
-    {
-      "typeID": 95402,
-      "name": "Resolve Stratos Gloss - Limited",
-      "volume": 0.1,
-      "groupID": 4726,
-      "groupName": "Ship SKIN Design Element",
-      "categoryID": 2118,
-      "categoryName": "Personalization"
-    },
-    {
-      "typeID": 95403,
-      "name": "Resolve Stratos Gloss - Unlimited",
-      "volume": 0.1,
-      "groupID": 4726,
-      "groupName": "Ship SKIN Design Element",
-      "categoryID": 2118,
-      "categoryName": "Personalization"
-    },
-    {
-      "typeID": 95406,
-      "name": "Resolve Stratos Matte - Limited",
-      "volume": 0.1,
-      "groupID": 4726,
-      "groupName": "Ship SKIN Design Element",
-      "categoryID": 2118,
-      "categoryName": "Personalization"
     },
     {
       "typeID": 95407,
@@ -189764,6 +189665,24 @@
       "groupName": "Assault Frigate",
       "categoryID": 6,
       "categoryName": "Ship"
+    },
+    {
+      "typeID": 95444,
+      "name": "Shapash Alliance Emblem",
+      "volume": 0,
+      "groupID": 4471,
+      "groupName": "Ship Emblems",
+      "categoryID": 2118,
+      "categoryName": "Personalization"
+    },
+    {
+      "typeID": 95445,
+      "name": "Shapash Corporation Emblem",
+      "volume": 0,
+      "groupID": 4471,
+      "groupName": "Ship Emblems",
+      "categoryID": 2118,
+      "categoryName": "Personalization"
     },
     {
       "typeID": 15668,
@@ -230219,15 +230138,6 @@
       "groupName": "Permanent SKIN",
       "categoryID": 91,
       "categoryName": "SKINs"
-    },
-    {
-      "typeID": 95404,
-      "name": "Violent Surge Metallic - Limited",
-      "volume": 0.1,
-      "groupID": 4726,
-      "groupName": "Ship SKIN Design Element",
-      "categoryID": 2118,
-      "categoryName": "Personalization"
     },
     {
       "typeID": 95405,
