@@ -1,22 +1,22 @@
 {
   "metadata": {
     "source": "EVE Online SDE",
-    "itemCount": 26918,
+    "itemCount": 26944,
     "categoryCount": 37,
     "itemsWithZeroVolume": 960,
     "categories": {
       "Module": 3971,
       "Blueprint": 4158,
       "Drone": 154,
-      "Special Edition Assets": 631,
+      "Special Edition Assets": 632,
       "Commodity": 2844,
       "Structure": 18,
       "Deployable": 44,
-      "Apparel": 982,
+      "Apparel": 986,
       "Accessories": 77,
-      "Personalization": 1739,
+      "Personalization": 1755,
       "Ship": 423,
-      "SKINs": 7053,
+      "SKINs": 7057,
       "Charge": 1017,
       "Skill": 511,
       "Decryptors": 44,
@@ -25,7 +25,7 @@
       "Starbase": 195,
       "Infrastructure Upgrades": 73,
       "Material": 269,
-      "Expert Systems": 32,
+      "Expert Systems": 33,
       "Celestial": 225,
       "Fighter": 94,
       "Planetary Resources": 15,
@@ -9865,6 +9865,15 @@
       "categoryName": "Personalization"
     },
     {
+      "typeID": 95528,
+      "name": "Algos Navy Issue Forever Creative SKIN",
+      "volume": 0.01,
+      "groupID": 1950,
+      "groupName": "Permanent SKIN",
+      "categoryID": 91,
+      "categoryName": "SKINs"
+    },
+    {
       "typeID": 95269,
       "name": "Algos Navy Issue Penumbral Shadows SKIN",
       "volume": 0.01,
@@ -16714,6 +16723,24 @@
       "categoryName": "Special Edition Assets"
     },
     {
+      "typeID": 95408,
+      "name": "Arkombine Dawn Satin - Limited",
+      "volume": 0.1,
+      "groupID": 4726,
+      "groupName": "Ship SKIN Design Element",
+      "categoryID": 2118,
+      "categoryName": "Personalization"
+    },
+    {
+      "typeID": 95409,
+      "name": "Arkombine Dawn Satin - Unlimited",
+      "volume": 0.1,
+      "groupID": 4726,
+      "groupName": "Ship SKIN Design Element",
+      "categoryID": 2118,
+      "categoryName": "Personalization"
+    },
+    {
       "typeID": 22,
       "name": "Arkonor",
       "volume": 16.0,
@@ -19873,6 +19900,42 @@
       "categoryName": "SKINs"
     },
     {
+      "typeID": 95402,
+      "name": "Avalon Aqua Gloss - Limited",
+      "volume": 0.1,
+      "groupID": 4726,
+      "groupName": "Ship SKIN Design Element",
+      "categoryID": 2118,
+      "categoryName": "Personalization"
+    },
+    {
+      "typeID": 95403,
+      "name": "Avalon Aqua Gloss - Unlimited",
+      "volume": 0.1,
+      "groupID": 4726,
+      "groupName": "Ship SKIN Design Element",
+      "categoryID": 2118,
+      "categoryName": "Personalization"
+    },
+    {
+      "typeID": 95406,
+      "name": "Avalon Aqua Matte - Limited",
+      "volume": 0.1,
+      "groupID": 4726,
+      "groupName": "Ship SKIN Design Element",
+      "categoryID": 2118,
+      "categoryName": "Personalization"
+    },
+    {
+      "typeID": 95407,
+      "name": "Avalon Aqua Matte - Unlimited",
+      "volume": 0.1,
+      "groupID": 4726,
+      "groupName": "Ship SKIN Design Element",
+      "categoryID": 2118,
+      "categoryName": "Personalization"
+    },
+    {
       "typeID": 11567,
       "name": "Avatar",
       "volume": 155000000.0,
@@ -22087,8 +22150,8 @@
       "categoryName": "Asteroid"
     },
     {
-      "typeID": 28392,
-      "name": "Batch Compressed Crokite III-Grade",
+      "typeID": 28393,
+      "name": "Batch Compressed Crokite II-Grade",
       "volume": 7.81,
       "groupID": 452,
       "groupName": "Crokite",
@@ -22096,8 +22159,8 @@
       "categoryName": "Asteroid"
     },
     {
-      "typeID": 28393,
-      "name": "Batch Compressed Crokite IV-Grade",
+      "typeID": 28392,
+      "name": "Batch Compressed Crokite III-Grade",
       "volume": 7.81,
       "groupID": 452,
       "groupName": "Crokite",
@@ -48718,6 +48781,15 @@
       "categoryName": "Personalization"
     },
     {
+      "typeID": 95526,
+      "name": "Corax Navy Issue Forever Creative SKIN",
+      "volume": 0.01,
+      "groupID": 1950,
+      "groupName": "Permanent SKIN",
+      "categoryID": 91,
+      "categoryName": "SKINs"
+    },
+    {
       "typeID": 95268,
       "name": "Corax Navy Issue Penumbral Shadows SKIN",
       "volume": 0.01,
@@ -59698,6 +59770,51 @@
       "categoryName": "Skill"
     },
     {
+      "typeID": 95445,
+      "name": "Defiant Latten Matte - Limited",
+      "volume": 0,
+      "groupID": 4471,
+      "groupName": "Ship Emblems",
+      "categoryID": 2118,
+      "categoryName": "Personalization"
+    },
+    {
+      "typeID": 95401,
+      "name": "Defiant Latten Matte - Unlimited",
+      "volume": 0.1,
+      "groupID": 4726,
+      "groupName": "Ship SKIN Design Element",
+      "categoryID": 2118,
+      "categoryName": "Personalization"
+    },
+    {
+      "typeID": 95396,
+      "name": "Defiant Latten Metallic - Limited",
+      "volume": 0.1,
+      "groupID": 4726,
+      "groupName": "Ship SKIN Design Element",
+      "categoryID": 2118,
+      "categoryName": "Personalization"
+    },
+    {
+      "typeID": 95397,
+      "name": "Defiant Latten Metallic - Unlimited",
+      "volume": 0.1,
+      "groupID": 4726,
+      "groupName": "Ship SKIN Design Element",
+      "categoryID": 2118,
+      "categoryName": "Personalization"
+    },
+    {
+      "typeID": 95400,
+      "name": "Defiant Ochre Matte - Limited",
+      "volume": 0.1,
+      "groupID": 4726,
+      "groupName": "Ship SKIN Design Element",
+      "categoryID": 2118,
+      "categoryName": "Personalization"
+    },
+    {
       "typeID": 13206,
       "name": "Defiled Relics",
       "volume": 0.1,
@@ -63809,6 +63926,15 @@
       "groupName": "Ship Emblems",
       "categoryID": 2118,
       "categoryName": "Personalization"
+    },
+    {
+      "typeID": 95525,
+      "name": "Dragoon Navy Issue Forever Creative SKIN",
+      "volume": 0.01,
+      "groupID": 1950,
+      "groupName": "Permanent SKIN",
+      "categoryID": 91,
+      "categoryName": "SKINs"
     },
     {
       "typeID": 95295,
@@ -80794,6 +80920,15 @@
       "categoryName": "Commodity"
     },
     {
+      "typeID": 95673,
+      "name": "Foundation Wisdom Background",
+      "volume": 0.1,
+      "groupID": 5082,
+      "groupName": "Portrait Backgrounds",
+      "categoryID": 30,
+      "categoryName": "Apparel"
+    },
+    {
       "typeID": 44268,
       "name": "Four Freedoms Firework",
       "volume": 0.1,
@@ -94364,6 +94499,42 @@
       "groupName": "Livestock",
       "categoryID": 17,
       "categoryName": "Commodity"
+    },
+    {
+      "typeID": 95404,
+      "name": "Harmonic Alloy Metallic - Limited",
+      "volume": 0.1,
+      "groupID": 4726,
+      "groupName": "Ship SKIN Design Element",
+      "categoryID": 2118,
+      "categoryName": "Personalization"
+    },
+    {
+      "typeID": 95405,
+      "name": "Harmonic Alloy Metallic - Unlimited",
+      "volume": 0.1,
+      "groupID": 4726,
+      "groupName": "Ship SKIN Design Element",
+      "categoryID": 2118,
+      "categoryName": "Personalization"
+    },
+    {
+      "typeID": 95412,
+      "name": "Harmonius Bridge - Limited",
+      "volume": 0.1,
+      "groupID": 4726,
+      "groupName": "Ship SKIN Design Element",
+      "categoryID": 2118,
+      "categoryName": "Personalization"
+    },
+    {
+      "typeID": 95413,
+      "name": "Harmonius Bridge - Unlimited",
+      "volume": 0.1,
+      "groupID": 4726,
+      "groupName": "Ship SKIN Design Element",
+      "categoryID": 2118,
+      "categoryName": "Personalization"
     },
     {
       "typeID": 11381,
@@ -121501,6 +121672,24 @@
       "categoryName": "Blueprint"
     },
     {
+      "typeID": 95672,
+      "name": "Liberated Matar Background",
+      "volume": 0.1,
+      "groupID": 5082,
+      "groupName": "Portrait Backgrounds",
+      "categoryID": 30,
+      "categoryName": "Apparel"
+    },
+    {
+      "typeID": 95657,
+      "name": "Liberation Day Celebration Crate",
+      "volume": 4.0,
+      "groupID": 1194,
+      "groupName": "Special Edition Commodities",
+      "categoryID": 63,
+      "categoryName": "Special Edition Assets"
+    },
+    {
       "typeID": 21607,
       "name": "Liberation Elixir",
       "volume": 0.2,
@@ -144118,6 +144307,15 @@
       "categoryName": "Blueprint"
     },
     {
+      "typeID": 95633,
+      "name": "Minmatar Pilot",
+      "volume": 1.0,
+      "groupID": 4091,
+      "groupName": "Standard Expert Systems",
+      "categoryID": 2100,
+      "categoryName": "Expert Systems"
+    },
+    {
       "typeID": 2912,
       "name": "Minmatar Pilot's Corpse",
       "volume": 1.0,
@@ -156653,6 +156851,15 @@
       "groupName": "Ship SKIN Design Element",
       "categoryID": 2118,
       "categoryName": "Personalization"
+    },
+    {
+      "typeID": 95458,
+      "name": "Operation Avalon Background",
+      "volume": 0.1,
+      "groupID": 5082,
+      "groupName": "Portrait Backgrounds",
+      "categoryID": 30,
+      "categoryName": "Apparel"
     },
     {
       "typeID": 72258,
@@ -169346,7 +169553,7 @@
     },
     {
       "typeID": 95395,
-      "name": "Pyroxeres  0-Grade",
+      "name": "Pyroxeres 0-Grade",
       "volume": 0.3,
       "groupID": 459,
       "groupName": "Pyroxeres",
@@ -170450,6 +170657,24 @@
       "groupName": "Advanced Capital Construction Component Blueprints",
       "categoryID": 9,
       "categoryName": "Blueprint"
+    },
+    {
+      "typeID": 95398,
+      "name": "Radiant Aureate Metallic - Limited",
+      "volume": 0.1,
+      "groupID": 4726,
+      "groupName": "Ship SKIN Design Element",
+      "categoryID": 2118,
+      "categoryName": "Personalization"
+    },
+    {
+      "typeID": 95399,
+      "name": "Radiant Aureate Metallic - Unlimited",
+      "volume": 0.1,
+      "groupID": 4726,
+      "groupName": "Ship SKIN Design Element",
+      "categoryID": 2118,
+      "categoryName": "Personalization"
     },
     {
       "typeID": 52310,
@@ -173305,8 +173530,17 @@
       "categoryName": "Commodity"
     },
     {
+      "typeID": 95415,
+      "name": "Rebel Cross - Limited",
+      "volume": 0.1,
+      "groupID": 4726,
+      "groupName": "Ship SKIN Design Element",
+      "categoryID": 2118,
+      "categoryName": "Personalization"
+    },
+    {
       "typeID": 95416,
-      "name": "Rebel Crest - Unlimited",
+      "name": "Rebel Cross - Unlimited",
       "volume": 0.1,
       "groupID": 4726,
       "groupName": "Ship SKIN Design Element",
@@ -173321,15 +173555,6 @@
       "groupName": "Miscellaneous",
       "categoryID": 17,
       "categoryName": "Commodity"
-    },
-    {
-      "typeID": 95409,
-      "name": "Reclaimed Dawn Satin - Unlimited",
-      "volume": 0.1,
-      "groupID": 4726,
-      "groupName": "Ship SKIN Design Element",
-      "categoryID": 2118,
-      "categoryName": "Personalization"
     },
     {
       "typeID": 22761,
@@ -174106,8 +174331,17 @@
       "categoryName": "Special Edition Assets"
     },
     {
+      "typeID": 95417,
+      "name": "Remnant Honor - Limited",
+      "volume": 0.1,
+      "groupID": 4726,
+      "groupName": "Ship SKIN Design Element",
+      "categoryID": 2118,
+      "categoryName": "Personalization"
+    },
+    {
       "typeID": 95418,
-      "name": "Remnant Dominion - Unlimited",
+      "name": "Remnant Honor - Unlimited",
       "volume": 0.1,
       "groupID": 4726,
       "groupName": "Ship SKIN Design Element",
@@ -176815,15 +177049,6 @@
       "categoryName": "Skill"
     },
     {
-      "typeID": 95407,
-      "name": "Resolve Stratos Matte - Unlimited",
-      "volume": 0.1,
-      "groupID": 4726,
-      "groupName": "Ship SKIN Design Element",
-      "categoryID": 2118,
-      "categoryName": "Personalization"
-    },
-    {
       "typeID": 30258,
       "name": "Resonance Calibration Matrix",
       "volume": 0.01,
@@ -176831,6 +177056,15 @@
       "groupName": "Ancient Salvage",
       "categoryID": 4,
       "categoryName": "Material"
+    },
+    {
+      "typeID": 95410,
+      "name": "Resonant Turf Gloss - Limited",
+      "volume": 0.1,
+      "groupID": 4726,
+      "groupName": "Ship SKIN Design Element",
+      "categoryID": 2118,
+      "categoryName": "Personalization"
     },
     {
       "typeID": 34330,
@@ -189669,15 +189903,6 @@
     {
       "typeID": 95444,
       "name": "Shapash Alliance Emblem",
-      "volume": 0,
-      "groupID": 4471,
-      "groupName": "Ship Emblems",
-      "categoryID": 2118,
-      "categoryName": "Personalization"
-    },
-    {
-      "typeID": 95445,
-      "name": "Shapash Corporation Emblem",
       "volume": 0,
       "groupID": 4471,
       "groupName": "Ship Emblems",
@@ -211456,6 +211681,15 @@
       "categoryName": "Personalization"
     },
     {
+      "typeID": 95527,
+      "name": "Talwar Fleet Issue Forever Creative SKIN",
+      "volume": 0.01,
+      "groupID": 1950,
+      "groupName": "Permanent SKIN",
+      "categoryID": 91,
+      "categoryName": "SKINs"
+    },
+    {
       "typeID": 95266,
       "name": "Talwar Fleet Issue Penumbral Shadows SKIN",
       "volume": 0.01,
@@ -222580,6 +222814,15 @@
       "categoryName": "Commodity"
     },
     {
+      "typeID": 95674,
+      "name": "Union Contemplation Background",
+      "volume": 0.1,
+      "groupID": 5082,
+      "groupName": "Portrait Backgrounds",
+      "categoryID": 30,
+      "categoryName": "Apparel"
+    },
+    {
       "typeID": 71755,
       "name": "Union of Eight Paths Firework",
       "volume": 0.1,
@@ -230138,15 +230381,6 @@
       "groupName": "Permanent SKIN",
       "categoryID": 91,
       "categoryName": "SKINs"
-    },
-    {
-      "typeID": 95405,
-      "name": "Violent Surge Metallic - Unlimited",
-      "volume": 0.1,
-      "groupID": 4726,
-      "groupName": "Ship SKIN Design Element",
-      "categoryID": 2118,
-      "categoryName": "Personalization"
     },
     {
       "typeID": 88543,

@@ -1037,7 +1037,7 @@
     },
     {
       "typeID": 95395,
-      "name": "Pyroxeres  0-Grade",
+      "name": "Pyroxeres 0-Grade",
       "volume": 0.3,
       "groupID": 459,
       "compressed": false
@@ -1547,15 +1547,15 @@
       "compressed": true
     },
     {
-      "typeID": 28392,
-      "name": "Batch Compressed Crokite III-Grade",
+      "typeID": 28393,
+      "name": "Batch Compressed Crokite II-Grade",
       "volume": 7.81,
       "groupID": 452,
       "compressed": true
     },
     {
-      "typeID": 28393,
-      "name": "Batch Compressed Crokite IV-Grade",
+      "typeID": 28392,
+      "name": "Batch Compressed Crokite III-Grade",
       "volume": 7.81,
       "groupID": 452,
       "compressed": true
