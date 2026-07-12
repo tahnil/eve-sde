@@ -1,27 +1,27 @@
 {
   "metadata": {
     "source": "EVE Online SDE",
-    "itemCount": 26944,
+    "itemCount": 26980,
     "categoryCount": 37,
     "itemsWithZeroVolume": 960,
     "categories": {
-      "Module": 3971,
-      "Blueprint": 4158,
+      "Module": 3973,
+      "Blueprint": 4159,
       "Drone": 154,
-      "Special Edition Assets": 632,
+      "Special Edition Assets": 636,
       "Commodity": 2844,
       "Structure": 18,
       "Deployable": 44,
       "Apparel": 986,
       "Accessories": 77,
-      "Personalization": 1755,
+      "Personalization": 1756,
       "Ship": 423,
-      "SKINs": 7057,
+      "SKINs": 7074,
       "Charge": 1017,
       "Skill": 511,
       "Decryptors": 44,
       "Asteroid": 460,
-      "Implant": 1290,
+      "Implant": 1301,
       "Starbase": 195,
       "Infrastructure Upgrades": 73,
       "Material": 269,
@@ -8650,6 +8650,15 @@
       "categoryName": "Personalization"
     },
     {
+      "typeID": 95654,
+      "name": "Aeon Arkombine Arisen SKIN",
+      "volume": 0.01,
+      "groupID": 1950,
+      "groupName": "Permanent SKIN",
+      "categoryID": 91,
+      "categoryName": "SKINs"
+    },
+    {
       "typeID": 86108,
       "name": "Aeon Aurora Universalis SKIN",
       "volume": 0.01,
@@ -9836,6 +9845,15 @@
       "groupName": "Ship Emblems",
       "categoryID": 2118,
       "categoryName": "Personalization"
+    },
+    {
+      "typeID": 95656,
+      "name": "Algos Navy Issue Arkombine Arisen SKIN",
+      "volume": 0.01,
+      "groupID": 1950,
+      "groupName": "Permanent SKIN",
+      "categoryID": 91,
+      "categoryName": "SKINs"
     },
     {
       "typeID": 91861,
@@ -15078,7 +15096,7 @@
     {
       "typeID": 60766,
       "name": "Aralez",
-      "volume": 10.0,
+      "volume": 20.0,
       "groupID": 100,
       "groupName": "Combat Drone",
       "categoryID": 18,
@@ -16712,6 +16730,15 @@
       "groupName": "Permanent SKIN",
       "categoryID": 91,
       "categoryName": "SKINs"
+    },
+    {
+      "typeID": 95557,
+      "name": "Arkombine Arisen SKIN Crate",
+      "volume": 1.0,
+      "groupID": 1194,
+      "groupName": "Special Edition Commodities",
+      "categoryID": 63,
+      "categoryName": "Special Edition Assets"
     },
     {
       "typeID": 87098,
@@ -18597,6 +18624,15 @@
     {
       "typeID": 59767,
       "name": "Astrogeology Skill Accelerator",
+      "volume": 1.0,
+      "groupID": 303,
+      "groupName": "Booster",
+      "categoryID": 20,
+      "categoryName": "Implant"
+    },
+    {
+      "typeID": 95533,
+      "name": "Astrograph Clash Booster",
       "volume": 1.0,
       "groupID": 303,
       "groupName": "Booster",
@@ -23473,6 +23509,15 @@
       "categoryName": "SKINs"
     },
     {
+      "typeID": 95721,
+      "name": "Bifrost Hrada-Oki Offender SKIN",
+      "volume": 0.01,
+      "groupID": 1950,
+      "groupName": "Permanent SKIN",
+      "categoryID": 91,
+      "categoryName": "SKINs"
+    },
+    {
       "typeID": 63176,
       "name": "Bifrost Hunter's Quiver SKIN",
       "volume": 0.01,
@@ -25910,6 +25955,15 @@
       "groupName": "Standard Expert Systems",
       "categoryID": 2100,
       "categoryName": "Expert Systems"
+    },
+    {
+      "typeID": 95414,
+      "name": "Breach Control",
+      "volume": 5.0,
+      "groupID": 60,
+      "groupName": "Damage Control",
+      "categoryID": 7,
+      "categoryName": "Module"
     },
     {
       "typeID": 598,
@@ -38296,6 +38350,15 @@
       "categoryName": "Personalization"
     },
     {
+      "typeID": 95652,
+      "name": "Caracal Arkombine Arisen SKIN",
+      "volume": 0.01,
+      "groupID": 1950,
+      "groupName": "Permanent SKIN",
+      "categoryID": 91,
+      "categoryName": "SKINs"
+    },
+    {
       "typeID": 60236,
       "name": "Caracal Aspirant Enforcer SKIN",
       "volume": 0.01,
@@ -40033,6 +40096,15 @@
       "categoryName": "Commodity"
     },
     {
+      "typeID": 95532,
+      "name": "Cavalry Clash Booster",
+      "volume": 1.0,
+      "groupID": 303,
+      "groupName": "Booster",
+      "categoryID": 20,
+      "categoryName": "Implant"
+    },
+    {
       "typeID": 25275,
       "name": "Celadon Cytoserocin",
       "volume": 10.0,
@@ -40409,6 +40481,15 @@
       "groupName": "Ship Emblems",
       "categoryID": 2118,
       "categoryName": "Personalization"
+    },
+    {
+      "typeID": 95648,
+      "name": "Cenotaph Arkombine Arisen SKIN",
+      "volume": 0.01,
+      "groupID": 1950,
+      "groupName": "Permanent SKIN",
+      "categoryID": 91,
+      "categoryName": "SKINs"
     },
     {
       "typeID": 85180,
@@ -43903,6 +43984,15 @@
       "categoryName": "SKINs"
     },
     {
+      "typeID": 95724,
+      "name": "Claymore Hrada-Oki Offender SKIN",
+      "volume": 0.01,
+      "groupID": 1950,
+      "groupName": "Permanent SKIN",
+      "categoryID": 91,
+      "categoryName": "SKINs"
+    },
+    {
       "typeID": 36448,
       "name": "Claymore Justice SKIN",
       "volume": 0.01,
@@ -44792,6 +44882,15 @@
       "groupName": "Commodities",
       "categoryID": 17,
       "categoryName": "Commodity"
+    },
+    {
+      "typeID": 95537,
+      "name": "Coherence Volatile Booster",
+      "volume": 1.0,
+      "groupID": 303,
+      "groupName": "Booster",
+      "categoryID": 20,
+      "categoryName": "Implant"
     },
     {
       "typeID": 60285,
@@ -48752,6 +48851,15 @@
       "groupName": "Ship Emblems",
       "categoryID": 2118,
       "categoryName": "Personalization"
+    },
+    {
+      "typeID": 95651,
+      "name": "Corax Navy Issue Arkombine Arisen SKIN",
+      "volume": 0.01,
+      "groupID": 1950,
+      "groupName": "Permanent SKIN",
+      "categoryID": 91,
+      "categoryName": "SKINs"
     },
     {
       "typeID": 91860,
@@ -59770,6 +59878,15 @@
       "categoryName": "Skill"
     },
     {
+      "typeID": 95400,
+      "name": "Defiant Latten Matte - Limited",
+      "volume": 0.1,
+      "groupID": 4726,
+      "groupName": "Ship SKIN Design Element",
+      "categoryID": 2118,
+      "categoryName": "Personalization"
+    },
+    {
       "typeID": 95445,
       "name": "Defiant Latten Matte - Limited",
       "volume": 0,
@@ -59799,15 +59916,6 @@
     {
       "typeID": 95397,
       "name": "Defiant Latten Metallic - Unlimited",
-      "volume": 0.1,
-      "groupID": 4726,
-      "groupName": "Ship SKIN Design Element",
-      "categoryID": 2118,
-      "categoryName": "Personalization"
-    },
-    {
-      "typeID": 95400,
-      "name": "Defiant Ochre Matte - Limited",
       "volume": 0.1,
       "groupID": 4726,
       "groupName": "Ship SKIN Design Element",
@@ -63899,6 +64007,15 @@
       "groupName": "Ship Emblems",
       "categoryID": 2118,
       "categoryName": "Personalization"
+    },
+    {
+      "typeID": 95653,
+      "name": "Dragoon Navy Issue Arkombine Arisen SKIN",
+      "volume": 0.01,
+      "groupID": 1950,
+      "groupName": "Permanent SKIN",
+      "categoryID": 91,
+      "categoryName": "SKINs"
     },
     {
       "typeID": 91859,
@@ -93698,6 +93815,15 @@
       "groupName": "Ship SKIN Design Element",
       "categoryID": 2118,
       "categoryName": "Personalization"
+    },
+    {
+      "typeID": 95542,
+      "name": "Hallowed Volatile Booster",
+      "volume": 1.0,
+      "groupID": 303,
+      "groupName": "Booster",
+      "categoryID": 20,
+      "categoryName": "Implant"
     },
     {
       "typeID": 53055,
@@ -123688,6 +123814,15 @@
       "categoryName": "SKINs"
     },
     {
+      "typeID": 95720,
+      "name": "Loki Hrada-Oki Offender SKIN",
+      "volume": 0.01,
+      "groupID": 1950,
+      "groupName": "Permanent SKIN",
+      "categoryID": 91,
+      "categoryName": "SKINs"
+    },
+    {
       "typeID": 52428,
       "name": "Loki In Rust We Trust SKIN",
       "volume": 0.01,
@@ -123965,6 +124100,15 @@
       "groupName": "Salvaged Materials",
       "categoryID": 4,
       "categoryName": "Material"
+    },
+    {
+      "typeID": 95556,
+      "name": "Lorharyth’s Modified Inertial Stabilizer",
+      "volume": 5.0,
+      "groupID": 762,
+      "groupName": "Inertial Stabilizer",
+      "categoryID": 7,
+      "categoryName": "Module"
     },
     {
       "typeID": 33217,
@@ -152596,6 +152740,15 @@
       "categoryName": "SKINs"
     },
     {
+      "typeID": 95727,
+      "name": "Nomad Hrada-Oki Offender SKIN",
+      "volume": 0.01,
+      "groupID": 1950,
+      "groupName": "Permanent SKIN",
+      "categoryID": 91,
+      "categoryName": "SKINs"
+    },
+    {
       "typeID": 36454,
       "name": "Nomad Justice SKIN",
       "volume": 0.01,
@@ -156860,6 +157013,15 @@
       "groupName": "Portrait Backgrounds",
       "categoryID": 30,
       "categoryName": "Apparel"
+    },
+    {
+      "typeID": 95647,
+      "name": "Operation Avalon Booster Crate",
+      "volume": 1.0,
+      "groupID": 1194,
+      "groupName": "Special Edition Commodities",
+      "categoryID": 63,
+      "categoryName": "Special Edition Assets"
     },
     {
       "typeID": 72258,
@@ -164152,6 +164314,24 @@
       "categoryName": "Implant"
     },
     {
+      "typeID": 95529,
+      "name": "Poteque 'Prospector' Salvaging SV-906",
+      "volume": 1.0,
+      "groupID": 1230,
+      "groupName": "Cyber Scanning",
+      "categoryID": 20,
+      "categoryName": "Implant"
+    },
+    {
+      "typeID": 95530,
+      "name": "Poteque 'Prospector' Salvaging SV-906 Blueprint",
+      "volume": 0.01,
+      "groupID": 724,
+      "groupName": "Implant Blueprints",
+      "categoryID": 9,
+      "categoryName": "Blueprint"
+    },
+    {
       "typeID": 56876,
       "name": "Poteque 'Prospector' Sharpeye 11-11",
       "volume": 1.0,
@@ -165041,6 +165221,15 @@
       "groupName": "Ship Emblems",
       "categoryID": 2118,
       "categoryName": "Personalization"
+    },
+    {
+      "typeID": 95649,
+      "name": "Probe Arkombine Arisen SKIN",
+      "volume": 0.01,
+      "groupID": 1950,
+      "groupName": "Permanent SKIN",
+      "categoryID": 91,
+      "categoryName": "SKINs"
     },
     {
       "typeID": 60231,
@@ -168382,6 +168571,15 @@
       "categoryName": "SKINs"
     },
     {
+      "typeID": 95723,
+      "name": "Prowler Hrada-Oki Offender SKIN",
+      "volume": 0.01,
+      "groupID": 1950,
+      "groupName": "Permanent SKIN",
+      "categoryID": 91,
+      "categoryName": "SKINs"
+    },
+    {
       "typeID": 36437,
       "name": "Prowler Justice SKIN",
       "volume": 0.01,
@@ -171305,6 +171503,15 @@
       "groupName": "Ship SKIN Design Element",
       "categoryID": 2118,
       "categoryName": "Personalization"
+    },
+    {
+      "typeID": 95716,
+      "name": "Ranking Vanguard Resonant Cypher",
+      "volume": 0.1,
+      "groupID": 1194,
+      "groupName": "Special Edition Commodities",
+      "categoryID": 63,
+      "categoryName": "Special Edition Assets"
     },
     {
       "typeID": 42840,
@@ -176797,6 +177004,15 @@
       "categoryName": "Implant"
     },
     {
+      "typeID": 95539,
+      "name": "Requisition Volatile Booster",
+      "volume": 1.0,
+      "groupID": 303,
+      "groupName": "Booster",
+      "categoryID": 20,
+      "categoryName": "Implant"
+    },
+    {
       "typeID": 3403,
       "name": "Research",
       "volume": 0.01,
@@ -177060,6 +177276,15 @@
     {
       "typeID": 95410,
       "name": "Resonant Turf Gloss - Limited",
+      "volume": 0.1,
+      "groupID": 4726,
+      "groupName": "Ship SKIN Design Element",
+      "categoryID": 2118,
+      "categoryName": "Personalization"
+    },
+    {
+      "typeID": 95411,
+      "name": "Resonant Turf Gloss - Unlimited",
       "volume": 0.1,
       "groupID": 4726,
       "groupName": "Ship SKIN Design Element",
@@ -181054,6 +181279,15 @@
       "categoryName": "Special Edition Assets"
     },
     {
+      "typeID": 95534,
+      "name": "SITREP Clash Booster",
+      "volume": 1.0,
+      "groupID": 303,
+      "groupName": "Booster",
+      "categoryID": 20,
+      "categoryName": "Implant"
+    },
+    {
       "typeID": 83709,
       "name": "SKINR Studio Supplies",
       "volume": 1.0,
@@ -182105,6 +182339,15 @@
       "groupName": "Strong Boxes",
       "categoryID": 17,
       "categoryName": "Commodity"
+    },
+    {
+      "typeID": 95655,
+      "name": "Salvation Arkombine Arisen SKIN",
+      "volume": 0.01,
+      "groupID": 1950,
+      "groupName": "Permanent SKIN",
+      "categoryID": 91,
+      "categoryName": "SKINs"
     },
     {
       "typeID": 94072,
@@ -198433,6 +198676,15 @@
       "categoryName": "Apparel"
     },
     {
+      "typeID": 95541,
+      "name": "Soaring Volatile Booster",
+      "volume": 1.0,
+      "groupID": 303,
+      "groupName": "Booster",
+      "categoryID": 20,
+      "categoryName": "Implant"
+    },
+    {
       "typeID": 3355,
       "name": "Social",
       "volume": 0.01,
@@ -206461,6 +206713,15 @@
       "categoryName": "SKINs"
     },
     {
+      "typeID": 95722,
+      "name": "Stiletto Hrada-Oki Offender SKIN",
+      "volume": 0.01,
+      "groupID": 1950,
+      "groupName": "Permanent SKIN",
+      "categoryID": 91,
+      "categoryName": "SKINs"
+    },
+    {
       "typeID": 57533,
       "name": "Stiletto Hunter's Quiver SKIN",
       "volume": 0.01,
@@ -211654,6 +211915,15 @@
       "categoryName": "Personalization"
     },
     {
+      "typeID": 95650,
+      "name": "Talwar Fleet Issue Arkombine Arisen SKIN",
+      "volume": 0.01,
+      "groupID": 1950,
+      "groupName": "Permanent SKIN",
+      "categoryID": 91,
+      "categoryName": "SKINs"
+    },
+    {
       "typeID": 91862,
       "name": "Talwar Fleet Issue Blueprint",
       "volume": 0.01,
@@ -212968,6 +213238,15 @@
       "categoryName": "SKINs"
     },
     {
+      "typeID": 95725,
+      "name": "Tempest Fleet Issue Hrada-Oki Offender SKIN",
+      "volume": 0.01,
+      "groupID": 1950,
+      "groupName": "Permanent SKIN",
+      "categoryID": 91,
+      "categoryName": "SKINs"
+    },
+    {
       "typeID": 36442,
       "name": "Tempest Fleet Issue Justice SKIN",
       "volume": 0.01,
@@ -213443,6 +213722,15 @@
       "groupName": "Special Edition Commodities",
       "categoryID": 63,
       "categoryName": "Special Edition Assets"
+    },
+    {
+      "typeID": 95543,
+      "name": "Tenacious Volatile Booster",
+      "volume": 1.0,
+      "groupID": 303,
+      "groupName": "Booster",
+      "categoryID": 20,
+      "categoryName": "Implant"
     },
     {
       "typeID": 77421,
@@ -224389,6 +224677,15 @@
       "categoryName": "Special Edition Assets"
     },
     {
+      "typeID": 95538,
+      "name": "Upcycle Volatile Booster",
+      "volume": 1.0,
+      "groupID": 303,
+      "groupName": "Booster",
+      "categoryID": 20,
+      "categoryName": "Implant"
+    },
+    {
       "typeID": 25709,
       "name": "Upgraded 'Malkuth' Heavy Assault Missile Launcher I",
       "volume": 10.0,
@@ -226178,6 +226475,15 @@
       "groupName": "Ship Emblems",
       "categoryID": 2118,
       "categoryName": "Personalization"
+    },
+    {
+      "typeID": 95640,
+      "name": "Vanguard Resonant Cypher",
+      "volume": 0.1,
+      "groupID": 1194,
+      "groupName": "Special Edition Commodities",
+      "categoryID": 63,
+      "categoryName": "Special Edition Assets"
     },
     {
       "typeID": 22234,
@@ -239428,6 +239734,15 @@
       "categoryName": "Blueprint"
     },
     {
+      "typeID": 95726,
+      "name": "Ymir Hrada-Oki Offender SKIN",
+      "volume": 0.01,
+      "groupID": 1950,
+      "groupName": "Permanent SKIN",
+      "categoryID": 91,
+      "categoryName": "SKINs"
+    },
+    {
       "typeID": 47302,
       "name": "Yoiul Blizzard Firework",
       "volume": 0.1,
@@ -242117,6 +242432,15 @@
       "groupName": "Empire Insignia Drops",
       "categoryID": 17,
       "categoryName": "Commodity"
+    },
+    {
+      "typeID": 95540,
+      "name": "Zero-In Volatile Booster",
+      "volume": 1.0,
+      "groupID": 303,
+      "groupName": "Booster",
+      "categoryID": 20,
+      "categoryName": "Implant"
     },
     {
       "typeID": 48112,
