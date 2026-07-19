@@ -1,14 +1,14 @@
 {
   "metadata": {
     "source": "EVE Online SDE",
-    "itemCount": 26980,
+    "itemCount": 26982,
     "categoryCount": 37,
     "itemsWithZeroVolume": 960,
     "categories": {
       "Module": 3973,
       "Blueprint": 4159,
       "Drone": 154,
-      "Special Edition Assets": 636,
+      "Special Edition Assets": 637,
       "Commodity": 2844,
       "Structure": 18,
       "Deployable": 44,
@@ -25,7 +25,7 @@
       "Starbase": 195,
       "Infrastructure Upgrades": 73,
       "Material": 269,
-      "Expert Systems": 33,
+      "Expert Systems": 34,
       "Celestial": 225,
       "Fighter": 94,
       "Planetary Resources": 15,
@@ -10997,6 +10997,15 @@
       "groupName": "Command Burst Blueprint",
       "categoryID": 9,
       "categoryName": "Blueprint"
+    },
+    {
+      "typeID": 95744,
+      "name": "Amarr Pilot",
+      "volume": 1.0,
+      "groupID": 4091,
+      "groupName": "Standard Expert Systems",
+      "categoryID": 2100,
+      "categoryName": "Expert Systems"
     },
     {
       "typeID": 73225,
@@ -81028,6 +81037,15 @@
       "categoryName": "Special Edition Assets"
     },
     {
+      "typeID": 95747,
+      "name": "Foundation Day Celebration Crate",
+      "volume": 4.0,
+      "groupID": 1194,
+      "groupName": "Special Edition Commodities",
+      "categoryID": 63,
+      "categoryName": "Special Edition Assets"
+    },
+    {
       "typeID": 11856,
       "name": "Foundation Stone",
       "volume": 180.0,
@@ -94562,60 +94580,6 @@
       "groupName": "Ship SKIN Design Element",
       "categoryID": 2118,
       "categoryName": "Personalization"
-    },
-    {
-      "typeID": 27206,
-      "name": "Hardwiring - Zainou 'Sharpshooter' ZMX10",
-      "volume": 1.0,
-      "groupID": 746,
-      "groupName": "Cyber Missile",
-      "categoryID": 20,
-      "categoryName": "Implant"
-    },
-    {
-      "typeID": 27204,
-      "name": "Hardwiring - Zainou 'Sharpshooter' ZMX100",
-      "volume": 1.0,
-      "groupID": 746,
-      "groupName": "Cyber Missile",
-      "categoryID": 20,
-      "categoryName": "Implant"
-    },
-    {
-      "typeID": 27205,
-      "name": "Hardwiring - Zainou 'Sharpshooter' ZMX1000",
-      "volume": 1.0,
-      "groupID": 746,
-      "groupName": "Cyber Missile",
-      "categoryID": 20,
-      "categoryName": "Implant"
-    },
-    {
-      "typeID": 3149,
-      "name": "Hardwiring - Zainou 'Sharpshooter' ZMX11",
-      "volume": 1.0,
-      "groupID": 746,
-      "groupName": "Cyber Missile",
-      "categoryID": 20,
-      "categoryName": "Implant"
-    },
-    {
-      "typeID": 3150,
-      "name": "Hardwiring - Zainou 'Sharpshooter' ZMX110",
-      "volume": 1.0,
-      "groupID": 746,
-      "groupName": "Cyber Missile",
-      "categoryID": 20,
-      "categoryName": "Implant"
-    },
-    {
-      "typeID": 3151,
-      "name": "Hardwiring - Zainou 'Sharpshooter' ZMX1100",
-      "volume": 1.0,
-      "groupID": 746,
-      "groupName": "Cyber Missile",
-      "categoryID": 20,
-      "categoryName": "Implant"
     },
     {
       "typeID": 25869,
@@ -201304,15 +201268,6 @@
       "categoryName": "Blueprint"
     },
     {
-      "typeID": 63196,
-      "name": "Standup Flak Round Blueprint",
-      "volume": 0.01,
-      "groupID": 4188,
-      "groupName": "Structure Area Denial Ammo Blueprint",
-      "categoryID": 9,
-      "categoryName": "Blueprint"
-    },
-    {
       "typeID": 63195,
       "name": "Standup Flak Round I",
       "volume": 1.0,
@@ -201320,6 +201275,15 @@
       "groupName": "Structure Area Denial Ammunition",
       "categoryID": 8,
       "categoryName": "Charge"
+    },
+    {
+      "typeID": 63196,
+      "name": "Standup Flak Round I Blueprint",
+      "volume": 0.01,
+      "groupID": 4188,
+      "groupName": "Structure Area Denial Ammo Blueprint",
+      "categoryID": 9,
+      "categoryName": "Blueprint"
     },
     {
       "typeID": 35949,
@@ -241887,6 +241851,60 @@
     {
       "typeID": 3180,
       "name": "Zainou 'Snapshot' Torpedoes TD-606",
+      "volume": 1.0,
+      "groupID": 746,
+      "groupName": "Cyber Missile",
+      "categoryID": 20,
+      "categoryName": "Implant"
+    },
+    {
+      "typeID": 27206,
+      "name": "Zainou 'Snapshot' XL Torpedoes XT-601",
+      "volume": 1.0,
+      "groupID": 746,
+      "groupName": "Cyber Missile",
+      "categoryID": 20,
+      "categoryName": "Implant"
+    },
+    {
+      "typeID": 3149,
+      "name": "Zainou 'Snapshot' XL Torpedoes XT-602",
+      "volume": 1.0,
+      "groupID": 746,
+      "groupName": "Cyber Missile",
+      "categoryID": 20,
+      "categoryName": "Implant"
+    },
+    {
+      "typeID": 27204,
+      "name": "Zainou 'Snapshot' XL Torpedoes XT-603",
+      "volume": 1.0,
+      "groupID": 746,
+      "groupName": "Cyber Missile",
+      "categoryID": 20,
+      "categoryName": "Implant"
+    },
+    {
+      "typeID": 3150,
+      "name": "Zainou 'Snapshot' XL Torpedoes XT-604",
+      "volume": 1.0,
+      "groupID": 746,
+      "groupName": "Cyber Missile",
+      "categoryID": 20,
+      "categoryName": "Implant"
+    },
+    {
+      "typeID": 27205,
+      "name": "Zainou 'Snapshot' XL Torpedoes XT-605",
+      "volume": 1.0,
+      "groupID": 746,
+      "groupName": "Cyber Missile",
+      "categoryID": 20,
+      "categoryName": "Implant"
+    },
+    {
+      "typeID": 3151,
+      "name": "Zainou 'Snapshot' XL Torpedoes XT-606",
       "volume": 1.0,
       "groupID": 746,
       "groupName": "Cyber Missile",
