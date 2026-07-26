@@ -1,7 +1,7 @@
 {
   "metadata": {
     "source": "EVE Online SDE",
-    "itemCount": 26982,
+    "itemCount": 26983,
     "categoryCount": 37,
     "itemsWithZeroVolume": 960,
     "categories": {
@@ -14,7 +14,7 @@
       "Deployable": 44,
       "Apparel": 986,
       "Accessories": 77,
-      "Personalization": 1756,
+      "Personalization": 1757,
       "Ship": 423,
       "SKINs": 7074,
       "Charge": 1017,
@@ -76112,6 +76112,15 @@
       "groupName": "ECM",
       "categoryID": 7,
       "categoryName": "Module"
+    },
+    {
+      "typeID": 95813,
+      "name": "Fabricated 100 - Limited",
+      "volume": 0.1,
+      "groupID": 4726,
+      "groupName": "Ship SKIN Design Element",
+      "categoryID": 2118,
+      "categoryName": "Personalization"
     },
     {
       "typeID": 81118,
