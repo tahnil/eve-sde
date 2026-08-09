@@ -1,7 +1,7 @@
 {
   "metadata": {
     "source": "EVE Online SDE",
-    "itemCount": 26983,
+    "itemCount": 26992,
     "categoryCount": 37,
     "itemsWithZeroVolume": 960,
     "categories": {
@@ -16,7 +16,7 @@
       "Accessories": 77,
       "Personalization": 1757,
       "Ship": 423,
-      "SKINs": 7074,
+      "SKINs": 7083,
       "Charge": 1017,
       "Skill": 511,
       "Decryptors": 44,
@@ -11134,6 +11134,15 @@
       "categoryName": "SKINs"
     },
     {
+      "typeID": 96042,
+      "name": "Amarr Shuttle Khanid Cyber Knight SKIN",
+      "volume": 0.01,
+      "groupID": 1950,
+      "groupName": "Permanent SKIN",
+      "categoryID": 91,
+      "categoryName": "SKINs"
+    },
+    {
       "typeID": 55948,
       "name": "Amarr Shuttle Khanid SKIN",
       "volume": 0.01,
@@ -14212,6 +14221,15 @@
       "categoryName": "SKINs"
     },
     {
+      "typeID": 96041,
+      "name": "Apocalypse Khanid Cyber Knight SKIN",
+      "volume": 0.01,
+      "groupID": 1950,
+      "groupName": "Permanent SKIN",
+      "categoryID": 91,
+      "categoryName": "SKINs"
+    },
+    {
       "typeID": 34628,
       "name": "Apocalypse Khanid SKIN",
       "volume": 0.01,
@@ -14808,6 +14826,15 @@
     {
       "typeID": 48858,
       "name": "Apostle Imperial Jubilee SKIN",
+      "volume": 0.01,
+      "groupID": 1950,
+      "groupName": "Permanent SKIN",
+      "categoryID": 91,
+      "categoryName": "SKINs"
+    },
+    {
+      "typeID": 96040,
+      "name": "Apostle Khanid Cyber Knight SKIN",
       "volume": 0.01,
       "groupID": 1950,
       "groupName": "Permanent SKIN",
@@ -19326,6 +19353,15 @@
     {
       "typeID": 43501,
       "name": "Augoror Ironblood SKIN",
+      "volume": 0.01,
+      "groupID": 1950,
+      "groupName": "Permanent SKIN",
+      "categoryID": 91,
+      "categoryName": "SKINs"
+    },
+    {
+      "typeID": 96047,
+      "name": "Augoror Khanid Cyber Knight SKIN",
       "volume": 0.01,
       "groupID": 1950,
       "groupName": "Permanent SKIN",
@@ -44596,6 +44632,15 @@
       "categoryName": "SKINs"
     },
     {
+      "typeID": 96048,
+      "name": "Coercer Khanid Cyber Knight SKIN",
+      "volume": 0.01,
+      "groupID": 1950,
+      "groupName": "Permanent SKIN",
+      "categoryID": 91,
+      "categoryName": "SKINs"
+    },
+    {
       "typeID": 78411,
       "name": "Coercer Lavacore Imperial SKIN",
       "volume": 0.01,
@@ -64056,6 +64101,15 @@
     {
       "typeID": 95525,
       "name": "Dragoon Navy Issue Forever Creative SKIN",
+      "volume": 0.01,
+      "groupID": 1950,
+      "groupName": "Permanent SKIN",
+      "categoryID": 91,
+      "categoryName": "SKINs"
+    },
+    {
+      "typeID": 96043,
+      "name": "Dragoon Navy Issue Khanid Cyber Knight SKIN",
       "volume": 0.01,
       "groupID": 1950,
       "groupName": "Permanent SKIN",
@@ -94242,6 +94296,15 @@
     {
       "typeID": 37908,
       "name": "Harbinger Kador Serenity Only SKIN",
+      "volume": 0.01,
+      "groupID": 1950,
+      "groupName": "Permanent SKIN",
+      "categoryID": 91,
+      "categoryName": "SKINs"
+    },
+    {
+      "typeID": 96044,
+      "name": "Harbinger Khanid Cyber Knight SKIN",
       "volume": 0.01,
       "groupID": 1950,
       "groupName": "Permanent SKIN",
@@ -191143,6 +191206,15 @@
       "categoryName": "SKINs"
     },
     {
+      "typeID": 96046,
+      "name": "Sigil Khanid Cyber Knight SKIN",
+      "volume": 0.01,
+      "groupID": 1950,
+      "groupName": "Permanent SKIN",
+      "categoryID": 91,
+      "categoryName": "SKINs"
+    },
+    {
       "typeID": 55949,
       "name": "Sigil Khanid SKIN",
       "volume": 0.01,
@@ -217686,6 +217758,15 @@
     {
       "typeID": 43487,
       "name": "Tormentor Ironblood SKIN",
+      "volume": 0.01,
+      "groupID": 1950,
+      "groupName": "Permanent SKIN",
+      "categoryID": 91,
+      "categoryName": "SKINs"
+    },
+    {
+      "typeID": 96045,
+      "name": "Tormentor Khanid Cyber Knight SKIN",
       "volume": 0.01,
       "groupID": 1950,
       "groupName": "Permanent SKIN",
