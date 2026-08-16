@@ -59941,15 +59941,6 @@
       "categoryName": "Personalization"
     },
     {
-      "typeID": 95445,
-      "name": "Defiant Latten Matte - Limited",
-      "volume": 0,
-      "groupID": 4471,
-      "groupName": "Ship Emblems",
-      "categoryID": 2118,
-      "categoryName": "Personalization"
-    },
-    {
       "typeID": 95401,
       "name": "Defiant Latten Matte - Unlimited",
       "volume": 0.1,
@@ -190182,6 +190173,15 @@
     {
       "typeID": 95444,
       "name": "Shapash Alliance Emblem",
+      "volume": 0,
+      "groupID": 4471,
+      "groupName": "Ship Emblems",
+      "categoryID": 2118,
+      "categoryName": "Personalization"
+    },
+    {
+      "typeID": 95445,
+      "name": "Shapash Corporation Emblem",
       "volume": 0,
       "groupID": 4471,
       "groupName": "Ship Emblems",
