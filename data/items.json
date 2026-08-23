@@ -1,12 +1,12 @@
 {
   "metadata": {
     "source": "EVE Online SDE",
-    "itemCount": 26992,
+    "itemCount": 26981,
     "categoryCount": 37,
     "itemsWithZeroVolume": 960,
     "categories": {
       "Module": 3973,
-      "Blueprint": 4159,
+      "Blueprint": 4158,
       "Drone": 154,
       "Special Edition Assets": 637,
       "Commodity": 2844,
@@ -21,7 +21,7 @@
       "Skill": 511,
       "Decryptors": 44,
       "Asteroid": 460,
-      "Implant": 1301,
+      "Implant": 1291,
       "Starbase": 195,
       "Infrastructure Upgrades": 73,
       "Material": 269,
@@ -18660,15 +18660,6 @@
     {
       "typeID": 59767,
       "name": "Astrogeology Skill Accelerator",
-      "volume": 1.0,
-      "groupID": 303,
-      "groupName": "Booster",
-      "categoryID": 20,
-      "categoryName": "Implant"
-    },
-    {
-      "typeID": 95533,
-      "name": "Astrograph Clash Booster",
       "volume": 1.0,
       "groupID": 303,
       "groupName": "Booster",
@@ -40141,15 +40132,6 @@
       "categoryName": "Commodity"
     },
     {
-      "typeID": 95532,
-      "name": "Cavalry Clash Booster",
-      "volume": 1.0,
-      "groupID": 303,
-      "groupName": "Booster",
-      "categoryID": 20,
-      "categoryName": "Implant"
-    },
-    {
       "typeID": 25275,
       "name": "Celadon Cytoserocin",
       "volume": 10.0,
@@ -44936,15 +44918,6 @@
       "groupName": "Commodities",
       "categoryID": 17,
       "categoryName": "Commodity"
-    },
-    {
-      "typeID": 95537,
-      "name": "Coherence Volatile Booster",
-      "volume": 1.0,
-      "groupID": 303,
-      "groupName": "Booster",
-      "categoryID": 20,
-      "categoryName": "Implant"
     },
     {
       "typeID": 60285,
@@ -93887,15 +93860,6 @@
       "groupName": "Ship SKIN Design Element",
       "categoryID": 2118,
       "categoryName": "Personalization"
-    },
-    {
-      "typeID": 95542,
-      "name": "Hallowed Volatile Booster",
-      "volume": 1.0,
-      "groupID": 303,
-      "groupName": "Booster",
-      "categoryID": 20,
-      "categoryName": "Implant"
     },
     {
       "typeID": 53055,
@@ -165070,15 +165034,6 @@
       "categoryName": "Personalization"
     },
     {
-      "typeID": 2864,
-      "name": "Primae Blueprint",
-      "volume": 0.01,
-      "groupID": 108,
-      "groupName": "Hauler Blueprint",
-      "categoryID": 9,
-      "categoryName": "Blueprint"
-    },
-    {
       "typeID": 75195,
       "name": "Primae Corporation Emblem",
       "volume": 0,
@@ -177031,15 +176986,6 @@
       "categoryName": "Implant"
     },
     {
-      "typeID": 95539,
-      "name": "Requisition Volatile Booster",
-      "volume": 1.0,
-      "groupID": 303,
-      "groupName": "Booster",
-      "categoryID": 20,
-      "categoryName": "Implant"
-    },
-    {
       "typeID": 3403,
       "name": "Research",
       "volume": 0.01,
@@ -181304,15 +181250,6 @@
       "groupName": "Special Edition Commodities",
       "categoryID": 63,
       "categoryName": "Special Edition Assets"
-    },
-    {
-      "typeID": 95534,
-      "name": "SITREP Clash Booster",
-      "volume": 1.0,
-      "groupID": 303,
-      "groupName": "Booster",
-      "categoryID": 20,
-      "categoryName": "Implant"
     },
     {
       "typeID": 83709,
@@ -198721,15 +198658,6 @@
       "categoryName": "Apparel"
     },
     {
-      "typeID": 95541,
-      "name": "Soaring Volatile Booster",
-      "volume": 1.0,
-      "groupID": 303,
-      "groupName": "Booster",
-      "categoryID": 20,
-      "categoryName": "Implant"
-    },
-    {
       "typeID": 3355,
       "name": "Social",
       "volume": 0.01,
@@ -213769,15 +213697,6 @@
       "categoryName": "Special Edition Assets"
     },
     {
-      "typeID": 95543,
-      "name": "Tenacious Volatile Booster",
-      "volume": 1.0,
-      "groupID": 303,
-      "groupName": "Booster",
-      "categoryID": 20,
-      "categoryName": "Implant"
-    },
-    {
       "typeID": 77421,
       "name": "Tenebraet Mutanite",
       "volume": 4.0,
@@ -224729,15 +224648,6 @@
       "groupName": "Special Edition Commodities",
       "categoryID": 63,
       "categoryName": "Special Edition Assets"
-    },
-    {
-      "typeID": 95538,
-      "name": "Upcycle Volatile Booster",
-      "volume": 1.0,
-      "groupID": 303,
-      "groupName": "Booster",
-      "categoryID": 20,
-      "categoryName": "Implant"
     },
     {
       "typeID": 25709,
@@ -242540,15 +242450,6 @@
       "groupName": "Empire Insignia Drops",
       "categoryID": 17,
       "categoryName": "Commodity"
-    },
-    {
-      "typeID": 95540,
-      "name": "Zero-In Volatile Booster",
-      "volume": 1.0,
-      "groupID": 303,
-      "groupName": "Booster",
-      "categoryID": 20,
-      "categoryName": "Implant"
     },
     {
       "typeID": 48112,
