@@ -1,22 +1,22 @@
 {
   "metadata": {
     "source": "EVE Online SDE",
-    "itemCount": 26981,
+    "itemCount": 27116,
     "categoryCount": 37,
     "itemsWithZeroVolume": 960,
     "categories": {
       "Module": 3973,
       "Blueprint": 4158,
       "Drone": 154,
-      "Special Edition Assets": 637,
+      "Special Edition Assets": 638,
       "Commodity": 2844,
       "Structure": 18,
       "Deployable": 44,
       "Apparel": 986,
       "Accessories": 77,
-      "Personalization": 1757,
+      "Personalization": 1863,
       "Ship": 423,
-      "SKINs": 7083,
+      "SKINs": 7110,
       "Charge": 1017,
       "Skill": 511,
       "Decryptors": 44,
@@ -25,7 +25,7 @@
       "Starbase": 195,
       "Infrastructure Upgrades": 73,
       "Material": 269,
-      "Expert Systems": 34,
+      "Expert Systems": 35,
       "Celestial": 225,
       "Fighter": 94,
       "Planetary Resources": 15,
@@ -7572,6 +7572,15 @@
     {
       "typeID": 37513,
       "name": "Absolution Raata Sunset SKIN",
+      "volume": 0.01,
+      "groupID": 1950,
+      "groupName": "Permanent SKIN",
+      "categoryID": 91,
+      "categoryName": "SKINs"
+    },
+    {
+      "typeID": 96318,
+      "name": "Absolution Sanguinary Savant SKIN",
       "volume": 0.01,
       "groupID": 1950,
       "groupName": "Permanent SKIN",
@@ -15679,6 +15688,24 @@
       "categoryName": "Commodity"
     },
     {
+      "typeID": 96635,
+      "name": "Arch - Limited",
+      "volume": 0.1,
+      "groupID": 4726,
+      "groupName": "Ship SKIN Design Element",
+      "categoryID": 2118,
+      "categoryName": "Personalization"
+    },
+    {
+      "typeID": 96634,
+      "name": "Arch - Unlimited",
+      "volume": 0.1,
+      "groupID": 4726,
+      "groupName": "Ship SKIN Design Element",
+      "categoryID": 2118,
+      "categoryName": "Personalization"
+    },
+    {
       "typeID": 20721,
       "name": "Arch Angel Carbonized Lead L",
       "volume": 0.025,
@@ -17385,6 +17412,15 @@
       "volume": 0.01,
       "groupID": 1954,
       "groupName": "90-Day SKIN",
+      "categoryID": 91,
+      "categoryName": "SKINs"
+    },
+    {
+      "typeID": 96140,
+      "name": "Armageddon Shattered Paradigm SKIN",
+      "volume": 0.01,
+      "groupID": 1950,
+      "groupName": "Permanent SKIN",
       "categoryID": 91,
       "categoryName": "SKINs"
     },
@@ -23608,6 +23644,24 @@
       "categoryName": "SKINs"
     },
     {
+      "typeID": 96639,
+      "name": "Big Dots - Limited",
+      "volume": 0.1,
+      "groupID": 4726,
+      "groupName": "Ship SKIN Design Element",
+      "categoryID": 2118,
+      "categoryName": "Personalization"
+    },
+    {
+      "typeID": 96638,
+      "name": "Big Dots - Unlimited",
+      "volume": 0.1,
+      "groupID": 4726,
+      "groupName": "Ship SKIN Design Element",
+      "categoryID": 2118,
+      "categoryName": "Personalization"
+    },
+    {
       "typeID": 23683,
       "name": "Binary Transpositional Code",
       "volume": 0.1,
@@ -25921,6 +25975,15 @@
       "categoryName": "SKINs"
     },
     {
+      "typeID": 97200,
+      "name": "Bowhead Nautgripur Industrial Input SKIN",
+      "volume": 0.01,
+      "groupID": 1950,
+      "groupName": "Permanent SKIN",
+      "categoryID": 91,
+      "categoryName": "SKINs"
+    },
+    {
       "typeID": 42680,
       "name": "Bowhead Paydirt Prospector SKIN",
       "volume": 0.01,
@@ -26315,6 +26378,24 @@
       "groupName": "Livestock",
       "categoryID": 17,
       "categoryName": "Commodity"
+    },
+    {
+      "typeID": 96681,
+      "name": "Bridged Squares - Limited",
+      "volume": 0.1,
+      "groupID": 4726,
+      "groupName": "Ship SKIN Design Element",
+      "categoryID": 2118,
+      "categoryName": "Personalization"
+    },
+    {
+      "typeID": 96680,
+      "name": "Bridged Squares - Unlimited",
+      "volume": 0.1,
+      "groupID": 4726,
+      "groupName": "Ship SKIN Design Element",
+      "categoryID": 2118,
+      "categoryName": "Personalization"
     },
     {
       "typeID": 46284,
@@ -28349,6 +28430,24 @@
       "groupName": "Permanent SKIN",
       "categoryID": 91,
       "categoryName": "SKINs"
+    },
+    {
+      "typeID": 96631,
+      "name": "Button Square - Limited",
+      "volume": 0.1,
+      "groupID": 4726,
+      "groupName": "Ship SKIN Design Element",
+      "categoryID": 2118,
+      "categoryName": "Personalization"
+    },
+    {
+      "typeID": 96630,
+      "name": "Button Square - Unlimited",
+      "volume": 0.1,
+      "groupID": 4726,
+      "groupName": "Ship SKIN Design Element",
+      "categoryID": 2118,
+      "categoryName": "Personalization"
     },
     {
       "typeID": 11192,
@@ -31465,6 +31564,15 @@
       "categoryName": "Blueprint"
     },
     {
+      "typeID": 96325,
+      "name": "Caldari Pilot",
+      "volume": 1.0,
+      "groupID": 4091,
+      "groupName": "Standard Expert Systems",
+      "categoryID": 2100,
+      "categoryName": "Expert Systems"
+    },
+    {
       "typeID": 30980,
       "name": "Caldari Prisoners of War",
       "volume": 0.5,
@@ -31530,6 +31638,15 @@
     {
       "typeID": 77051,
       "name": "Caldari Shuttle Capsuleer Day XX SKIN",
+      "volume": 0.01,
+      "groupID": 1950,
+      "groupName": "Permanent SKIN",
+      "categoryID": 91,
+      "categoryName": "SKINs"
+    },
+    {
+      "typeID": 96327,
+      "name": "Caldari Shuttle Cold Wind's Call SKIN",
       "volume": 0.01,
       "groupID": 1950,
       "groupName": "Permanent SKIN",
@@ -40564,6 +40681,15 @@
       "categoryName": "SKINs"
     },
     {
+      "typeID": 96161,
+      "name": "Cenotaph Shattered Paradigm SKIN",
+      "volume": 0.01,
+      "groupID": 1950,
+      "groupName": "Permanent SKIN",
+      "categoryID": 91,
+      "categoryName": "SKINs"
+    },
+    {
       "typeID": 82355,
       "name": "Center Grade - Limited",
       "volume": 0.1,
@@ -42913,8 +43039,116 @@
       "categoryName": "Commodity"
     },
     {
+      "typeID": 96608,
+      "name": "Circle - Limited",
+      "volume": 0.1,
+      "groupID": 4726,
+      "groupName": "Ship SKIN Design Element",
+      "categoryID": 2118,
+      "categoryName": "Personalization"
+    },
+    {
+      "typeID": 96607,
+      "name": "Circle - Unlimited",
+      "volume": 0.1,
+      "groupID": 4726,
+      "groupName": "Ship SKIN Design Element",
+      "categoryID": 2118,
+      "categoryName": "Personalization"
+    },
+    {
       "typeID": 86105,
       "name": "Circle Carmine Matte - Limited",
+      "volume": 0.1,
+      "groupID": 4726,
+      "groupName": "Ship SKIN Design Element",
+      "categoryID": 2118,
+      "categoryName": "Personalization"
+    },
+    {
+      "typeID": 96612,
+      "name": "Circle Hole - Limited",
+      "volume": 0.1,
+      "groupID": 4726,
+      "groupName": "Ship SKIN Design Element",
+      "categoryID": 2118,
+      "categoryName": "Personalization"
+    },
+    {
+      "typeID": 96611,
+      "name": "Circle Hole - Unlimited",
+      "volume": 0.1,
+      "groupID": 4726,
+      "groupName": "Ship SKIN Design Element",
+      "categoryID": 2118,
+      "categoryName": "Personalization"
+    },
+    {
+      "typeID": 96659,
+      "name": "Circle Hole Contrast - Limited",
+      "volume": 0.1,
+      "groupID": 4726,
+      "groupName": "Ship SKIN Design Element",
+      "categoryID": 2118,
+      "categoryName": "Personalization"
+    },
+    {
+      "typeID": 96658,
+      "name": "Circle Hole Contrast - Unlimited",
+      "volume": 0.1,
+      "groupID": 4726,
+      "groupName": "Ship SKIN Design Element",
+      "categoryID": 2118,
+      "categoryName": "Personalization"
+    },
+    {
+      "typeID": 96610,
+      "name": "Circle Outline - Limited",
+      "volume": 0.1,
+      "groupID": 4726,
+      "groupName": "Ship SKIN Design Element",
+      "categoryID": 2118,
+      "categoryName": "Personalization"
+    },
+    {
+      "typeID": 96609,
+      "name": "Circle Outline - Unlimited",
+      "volume": 0.1,
+      "groupID": 4726,
+      "groupName": "Ship SKIN Design Element",
+      "categoryID": 2118,
+      "categoryName": "Personalization"
+    },
+    {
+      "typeID": 96616,
+      "name": "Circle Outline Thin - Limited",
+      "volume": 0.1,
+      "groupID": 4726,
+      "groupName": "Ship SKIN Design Element",
+      "categoryID": 2118,
+      "categoryName": "Personalization"
+    },
+    {
+      "typeID": 96615,
+      "name": "Circle Outline Thin - Unlimited",
+      "volume": 0.1,
+      "groupID": 4726,
+      "groupName": "Ship SKIN Design Element",
+      "categoryID": 2118,
+      "categoryName": "Personalization"
+    },
+    {
+      "typeID": 96687,
+      "name": "Circuit Connections - Limited",
+      "volume": 0.1,
+      "groupID": 4726,
+      "groupName": "Ship SKIN Design Element",
+      "categoryID": 2118,
+      "categoryName": "Personalization"
+    },
+    {
+      "typeID": 96686,
+      "name": "Circuit Connections - Unlimited",
       "volume": 0.1,
       "groupID": 4726,
       "groupName": "Ship SKIN Design Element",
@@ -44778,6 +45012,15 @@
     {
       "typeID": 37497,
       "name": "Coercer Raata Sunset SKIN",
+      "volume": 0.01,
+      "groupID": 1950,
+      "groupName": "Permanent SKIN",
+      "categoryID": 91,
+      "categoryName": "SKINs"
+    },
+    {
+      "typeID": 96320,
+      "name": "Coercer Sanguinary Savant SKIN",
       "volume": 0.01,
       "groupID": 1950,
       "groupName": "Permanent SKIN",
@@ -47737,6 +47980,60 @@
       "categoryName": "Commodity"
     },
     {
+      "typeID": 96643,
+      "name": "Concentric Circles - Limited",
+      "volume": 0.1,
+      "groupID": 4726,
+      "groupName": "Ship SKIN Design Element",
+      "categoryID": 2118,
+      "categoryName": "Personalization"
+    },
+    {
+      "typeID": 96642,
+      "name": "Concentric Circles - Unlimited",
+      "volume": 0.1,
+      "groupID": 4726,
+      "groupName": "Ship SKIN Design Element",
+      "categoryID": 2118,
+      "categoryName": "Personalization"
+    },
+    {
+      "typeID": 96683,
+      "name": "Concentric Diamonds - Limited",
+      "volume": 0.1,
+      "groupID": 4726,
+      "groupName": "Ship SKIN Design Element",
+      "categoryID": 2118,
+      "categoryName": "Personalization"
+    },
+    {
+      "typeID": 96682,
+      "name": "Concentric Diamonds - Unlimited",
+      "volume": 0.1,
+      "groupID": 4726,
+      "groupName": "Ship SKIN Design Element",
+      "categoryID": 2118,
+      "categoryName": "Personalization"
+    },
+    {
+      "typeID": 96685,
+      "name": "Concentric Squares - Limited",
+      "volume": 0.1,
+      "groupID": 4726,
+      "groupName": "Ship SKIN Design Element",
+      "categoryID": 2118,
+      "categoryName": "Personalization"
+    },
+    {
+      "typeID": 96684,
+      "name": "Concentric Squares - Unlimited",
+      "volume": 0.1,
+      "groupID": 4726,
+      "groupName": "Ship SKIN Design Element",
+      "categoryID": 2118,
+      "categoryName": "Personalization"
+    },
+    {
       "typeID": 56893,
       "name": "Concord Fiesta 11-11",
       "volume": 1.0,
@@ -48905,6 +49202,15 @@
       "groupName": "Special Edition Commodities",
       "categoryID": 63,
       "categoryName": "Special Edition Assets"
+    },
+    {
+      "typeID": 96329,
+      "name": "Corax Navy Issue Cold Wind's Call SKIN",
+      "volume": 0.01,
+      "groupID": 1950,
+      "groupName": "Permanent SKIN",
+      "categoryID": 91,
+      "categoryName": "SKINs"
     },
     {
       "typeID": 91865,
@@ -53101,6 +53407,78 @@
       "categoryName": "Commodity"
     },
     {
+      "typeID": 96800,
+      "name": "Creamy Alloy Metallic - Limited",
+      "volume": 0.1,
+      "groupID": 4726,
+      "groupName": "Ship SKIN Design Element",
+      "categoryID": 2118,
+      "categoryName": "Personalization"
+    },
+    {
+      "typeID": 96799,
+      "name": "Creamy Alloy Metallic - Unlimited",
+      "volume": 0.1,
+      "groupID": 4726,
+      "groupName": "Ship SKIN Design Element",
+      "categoryID": 2118,
+      "categoryName": "Personalization"
+    },
+    {
+      "typeID": 96798,
+      "name": "Creamy Ferrous Metallic - Limited",
+      "volume": 0.1,
+      "groupID": 4726,
+      "groupName": "Ship SKIN Design Element",
+      "categoryID": 2118,
+      "categoryName": "Personalization"
+    },
+    {
+      "typeID": 96797,
+      "name": "Creamy Ferrous Metallic - Unlimited",
+      "volume": 0.1,
+      "groupID": 4726,
+      "groupName": "Ship SKIN Design Element",
+      "categoryID": 2118,
+      "categoryName": "Personalization"
+    },
+    {
+      "typeID": 96796,
+      "name": "Creamy Nebula Metallic - Limited",
+      "volume": 0.1,
+      "groupID": 4726,
+      "groupName": "Ship SKIN Design Element",
+      "categoryID": 2118,
+      "categoryName": "Personalization"
+    },
+    {
+      "typeID": 96795,
+      "name": "Creamy Nebula Metallic - Unlimited",
+      "volume": 0.1,
+      "groupID": 4726,
+      "groupName": "Ship SKIN Design Element",
+      "categoryID": 2118,
+      "categoryName": "Personalization"
+    },
+    {
+      "typeID": 96802,
+      "name": "Creamy Plate Metallic - Limited",
+      "volume": 0.1,
+      "groupID": 4726,
+      "groupName": "Ship SKIN Design Element",
+      "categoryID": 2118,
+      "categoryName": "Personalization"
+    },
+    {
+      "typeID": 96801,
+      "name": "Creamy Plate Metallic - Unlimited",
+      "volume": 0.1,
+      "groupID": 4726,
+      "groupName": "Ship SKIN Design Element",
+      "categoryID": 2118,
+      "categoryName": "Personalization"
+    },
+    {
       "typeID": 20104,
       "name": "Creations Central Pass",
       "volume": 0.1,
@@ -53369,6 +53747,24 @@
       "groupName": "Miscellaneous",
       "categoryID": 17,
       "categoryName": "Commodity"
+    },
+    {
+      "typeID": 96651,
+      "name": "Crossed-corners - Limited",
+      "volume": 0.1,
+      "groupID": 4726,
+      "groupName": "Ship SKIN Design Element",
+      "categoryID": 2118,
+      "categoryName": "Personalization"
+    },
+    {
+      "typeID": 96650,
+      "name": "Crossed-corners - Unlimited",
+      "volume": 0.1,
+      "groupID": 4726,
+      "groupName": "Ship SKIN Design Element",
+      "categoryID": 2118,
+      "categoryName": "Personalization"
     },
     {
       "typeID": 16457,
@@ -53967,6 +54363,15 @@
     {
       "typeID": 37484,
       "name": "Crucifier Raata Sunset SKIN",
+      "volume": 0.01,
+      "groupID": 1950,
+      "groupName": "Permanent SKIN",
+      "categoryID": 91,
+      "categoryName": "SKINs"
+    },
+    {
+      "typeID": 96316,
+      "name": "Crucifier Sanguinary Savant SKIN",
       "volume": 0.01,
       "groupID": 1950,
       "groupName": "Permanent SKIN",
@@ -54890,6 +55295,24 @@
       "groupName": "Composite Reaction Formulas",
       "categoryID": 9,
       "categoryName": "Blueprint"
+    },
+    {
+      "typeID": 96629,
+      "name": "Cube - Limited",
+      "volume": 0.1,
+      "groupID": 4726,
+      "groupName": "Ship SKIN Design Element",
+      "categoryID": 2118,
+      "categoryName": "Personalization"
+    },
+    {
+      "typeID": 96628,
+      "name": "Cube - Unlimited",
+      "volume": 0.1,
+      "groupID": 4726,
+      "groupName": "Ship SKIN Design Element",
+      "categoryID": 2118,
+      "categoryName": "Personalization"
     },
     {
       "typeID": 88539,
@@ -55844,6 +56267,24 @@
       "groupName": "Heavy Fighter Blueprint",
       "categoryID": 9,
       "categoryName": "Blueprint"
+    },
+    {
+      "typeID": 96647,
+      "name": "Cylinder - Limited",
+      "volume": 0.1,
+      "groupID": 4726,
+      "groupName": "Ship SKIN Design Element",
+      "categoryID": 2118,
+      "categoryName": "Personalization"
+    },
+    {
+      "typeID": 96646,
+      "name": "Cylinder - Unlimited",
+      "volume": 0.1,
+      "groupID": 4726,
+      "groupName": "Ship SKIN Design Element",
+      "categoryID": 2118,
+      "categoryName": "Personalization"
     },
     {
       "typeID": 17720,
@@ -64092,6 +64533,15 @@
     {
       "typeID": 95267,
       "name": "Dragoon Navy Issue Penumbral Shadows SKIN",
+      "volume": 0.01,
+      "groupID": 1950,
+      "groupName": "Permanent SKIN",
+      "categoryID": 91,
+      "categoryName": "SKINs"
+    },
+    {
+      "typeID": 96315,
+      "name": "Dragoon Navy Issue Sanguinary Savant SKIN",
       "volume": 0.01,
       "groupID": 1950,
       "groupName": "Permanent SKIN",
@@ -76222,6 +76672,24 @@
       "categoryName": "Personalization"
     },
     {
+      "typeID": 96693,
+      "name": "Fading Decline - Limited",
+      "volume": 0.1,
+      "groupID": 4726,
+      "groupName": "Ship SKIN Design Element",
+      "categoryID": 2118,
+      "categoryName": "Personalization"
+    },
+    {
+      "typeID": 96692,
+      "name": "Fading Decline - Unlimited",
+      "volume": 0.1,
+      "groupID": 4726,
+      "groupName": "Ship SKIN Design Element",
+      "categoryID": 2118,
+      "categoryName": "Personalization"
+    },
+    {
       "typeID": 82369,
       "name": "Fading Hive - Limited",
       "volume": 0.1,
@@ -76233,6 +76701,42 @@
     {
       "typeID": 82455,
       "name": "Fading Hive - Unlimited",
+      "volume": 0.1,
+      "groupID": 4726,
+      "groupName": "Ship SKIN Design Element",
+      "categoryID": 2118,
+      "categoryName": "Personalization"
+    },
+    {
+      "typeID": 96691,
+      "name": "Fading Hole - Limited",
+      "volume": 0.1,
+      "groupID": 4726,
+      "groupName": "Ship SKIN Design Element",
+      "categoryID": 2118,
+      "categoryName": "Personalization"
+    },
+    {
+      "typeID": 96690,
+      "name": "Fading Hole - Unlimited",
+      "volume": 0.1,
+      "groupID": 4726,
+      "groupName": "Ship SKIN Design Element",
+      "categoryID": 2118,
+      "categoryName": "Personalization"
+    },
+    {
+      "typeID": 96695,
+      "name": "Fading Intrusion - Limited",
+      "volume": 0.1,
+      "groupID": 4726,
+      "groupName": "Ship SKIN Design Element",
+      "categoryID": 2118,
+      "categoryName": "Personalization"
+    },
+    {
+      "typeID": 96694,
+      "name": "Fading Intrusion - Unlimited",
       "volume": 0.1,
       "groupID": 4726,
       "groupName": "Ship SKIN Design Element",
@@ -78895,6 +79399,15 @@
       "categoryName": "SKINs"
     },
     {
+      "typeID": 96332,
+      "name": "Ferox Cold Wind's Call SKIN",
+      "volume": 0.01,
+      "groupID": 1950,
+      "groupName": "Permanent SKIN",
+      "categoryID": 91,
+      "categoryName": "SKINs"
+    },
+    {
       "typeID": 48834,
       "name": "Ferox Cordite Blossom SKIN",
       "volume": 0.01,
@@ -81089,6 +81602,24 @@
       "groupName": "Portrait Backgrounds",
       "categoryID": 30,
       "categoryName": "Apparel"
+    },
+    {
+      "typeID": 96645,
+      "name": "Four Corners - Limited",
+      "volume": 0.1,
+      "groupID": 4726,
+      "groupName": "Ship SKIN Design Element",
+      "categoryID": 2118,
+      "categoryName": "Personalization"
+    },
+    {
+      "typeID": 96644,
+      "name": "Four Corners - Unlimited",
+      "volume": 0.1,
+      "groupID": 4726,
+      "groupName": "Ship SKIN Design Element",
+      "categoryID": 2118,
+      "categoryName": "Personalization"
     },
     {
       "typeID": 44268,
@@ -93844,6 +94375,24 @@
       "categoryName": "Implant"
     },
     {
+      "typeID": 96675,
+      "name": "Half Arch - Limited",
+      "volume": 0.1,
+      "groupID": 4726,
+      "groupName": "Ship SKIN Design Element",
+      "categoryID": 2118,
+      "categoryName": "Personalization"
+    },
+    {
+      "typeID": 96672,
+      "name": "Half Arch - Unlimited",
+      "volume": 0.1,
+      "groupID": 4726,
+      "groupName": "Ship SKIN Design Element",
+      "categoryID": 2118,
+      "categoryName": "Personalization"
+    },
+    {
       "typeID": 82363,
       "name": "Half Measure - Limited",
       "volume": 0.1,
@@ -97723,6 +98272,15 @@
       "categoryName": "SKINs"
     },
     {
+      "typeID": 96328,
+      "name": "Heron Navy Issue Cold Wind's Call SKIN",
+      "volume": 0.01,
+      "groupID": 1950,
+      "groupName": "Permanent SKIN",
+      "categoryID": 91,
+      "categoryName": "SKINs"
+    },
+    {
       "typeID": 74036,
       "name": "Heron Navy Issue Corporation Emblem",
       "volume": 0,
@@ -99379,6 +99937,78 @@
       "categoryName": "Implant"
     },
     {
+      "typeID": 96792,
+      "name": "Highlit Alloy Metallic - Limited",
+      "volume": 0.1,
+      "groupID": 4726,
+      "groupName": "Ship SKIN Design Element",
+      "categoryID": 2118,
+      "categoryName": "Personalization"
+    },
+    {
+      "typeID": 96791,
+      "name": "Highlit Alloy Metallic - Unlimited",
+      "volume": 0.1,
+      "groupID": 4726,
+      "groupName": "Ship SKIN Design Element",
+      "categoryID": 2118,
+      "categoryName": "Personalization"
+    },
+    {
+      "typeID": 96770,
+      "name": "Highlit Canary Metallic - Limited",
+      "volume": 0.1,
+      "groupID": 4726,
+      "groupName": "Ship SKIN Design Element",
+      "categoryID": 2118,
+      "categoryName": "Personalization"
+    },
+    {
+      "typeID": 96769,
+      "name": "Highlit Canary Metallic - Unlimited",
+      "volume": 0.1,
+      "groupID": 4726,
+      "groupName": "Ship SKIN Design Element",
+      "categoryID": 2118,
+      "categoryName": "Personalization"
+    },
+    {
+      "typeID": 96772,
+      "name": "Highlit Ferrous Metallic - Limited",
+      "volume": 0.1,
+      "groupID": 4726,
+      "groupName": "Ship SKIN Design Element",
+      "categoryID": 2118,
+      "categoryName": "Personalization"
+    },
+    {
+      "typeID": 96771,
+      "name": "Highlit Ferrous Metallic - Unlimited",
+      "volume": 0.1,
+      "groupID": 4726,
+      "groupName": "Ship SKIN Design Element",
+      "categoryID": 2118,
+      "categoryName": "Personalization"
+    },
+    {
+      "typeID": 96794,
+      "name": "Highlit Plate Metallic - Limited",
+      "volume": 0.1,
+      "groupID": 4726,
+      "groupName": "Ship SKIN Design Element",
+      "categoryID": 2118,
+      "categoryName": "Personalization"
+    },
+    {
+      "typeID": 96793,
+      "name": "Highlit Plate Metallic - Unlimited",
+      "volume": 0.1,
+      "groupID": 4726,
+      "groupName": "Ship SKIN Design Element",
+      "categoryID": 2118,
+      "categoryName": "Personalization"
+    },
+    {
       "typeID": 37544,
       "name": "Highstroke Scoped Guidance Disruptor",
       "volume": 5.0,
@@ -100461,6 +101091,15 @@
     {
       "typeID": 36430,
       "name": "Huginn Justice SKIN",
+      "volume": 0.01,
+      "groupID": 1950,
+      "groupName": "Permanent SKIN",
+      "categoryID": 91,
+      "categoryName": "SKINs"
+    },
+    {
+      "typeID": 96160,
+      "name": "Huginn Shattered Paradigm SKIN",
       "volume": 0.01,
       "groupID": 1950,
       "groupName": "Permanent SKIN",
@@ -108829,6 +109468,15 @@
       "categoryName": "SKINs"
     },
     {
+      "typeID": 96141,
+      "name": "Inquisitor Shattered Paradigm SKIN",
+      "volume": 0.01,
+      "groupID": 1950,
+      "groupName": "Permanent SKIN",
+      "categoryID": 91,
+      "categoryName": "SKINs"
+    },
+    {
       "typeID": 34724,
       "name": "Inquisitor Tash-Murkon SKIN",
       "volume": 0.01,
@@ -111018,6 +111666,15 @@
     {
       "typeID": 48566,
       "name": "Jackdaw Quantum Potential SKIN",
+      "volume": 0.01,
+      "groupID": 1950,
+      "groupName": "Permanent SKIN",
+      "categoryID": 91,
+      "categoryName": "SKINs"
+    },
+    {
+      "typeID": 96142,
+      "name": "Jackdaw Shattered Paradigm SKIN",
       "volume": 0.01,
       "groupID": 1950,
       "groupName": "Permanent SKIN",
@@ -124111,6 +124768,24 @@
       "categoryName": "Special Edition Assets"
     },
     {
+      "typeID": 96657,
+      "name": "Loud Warning Circle - Limited",
+      "volume": 0.1,
+      "groupID": 4726,
+      "groupName": "Ship SKIN Design Element",
+      "categoryID": 2118,
+      "categoryName": "Personalization"
+    },
+    {
+      "typeID": 96656,
+      "name": "Loud Warning Circle - Unlimited",
+      "volume": 0.1,
+      "groupID": 4726,
+      "groupName": "Ship SKIN Design Element",
+      "categoryID": 2118,
+      "categoryName": "Personalization"
+    },
+    {
       "typeID": 33953,
       "name": "Low-grade Amulet Alpha",
       "volume": 1.0,
@@ -129194,6 +129869,78 @@
       "groupName": "Spaceship Command",
       "categoryID": 16,
       "categoryName": "Skill"
+    },
+    {
+      "typeID": 96811,
+      "name": "Marine Alloy Metallic - Limited",
+      "volume": 0.1,
+      "groupID": 4726,
+      "groupName": "Ship SKIN Design Element",
+      "categoryID": 2118,
+      "categoryName": "Personalization"
+    },
+    {
+      "typeID": 96809,
+      "name": "Marine Alloy Metallic - Unlimited",
+      "volume": 0.1,
+      "groupID": 4726,
+      "groupName": "Ship SKIN Design Element",
+      "categoryID": 2118,
+      "categoryName": "Personalization"
+    },
+    {
+      "typeID": 96808,
+      "name": "Marine Ferrous Metallic - Limited",
+      "volume": 0.1,
+      "groupID": 4726,
+      "groupName": "Ship SKIN Design Element",
+      "categoryID": 2118,
+      "categoryName": "Personalization"
+    },
+    {
+      "typeID": 96807,
+      "name": "Marine Ferrous Metallic - Unlimited",
+      "volume": 0.1,
+      "groupID": 4726,
+      "groupName": "Ship SKIN Design Element",
+      "categoryID": 2118,
+      "categoryName": "Personalization"
+    },
+    {
+      "typeID": 96814,
+      "name": "Marine Plate Metallic - Limited",
+      "volume": 0.1,
+      "groupID": 4726,
+      "groupName": "Ship SKIN Design Element",
+      "categoryID": 2118,
+      "categoryName": "Personalization"
+    },
+    {
+      "typeID": 96813,
+      "name": "Marine Plate Metallic - Unlimited",
+      "volume": 0.1,
+      "groupID": 4726,
+      "groupName": "Ship SKIN Design Element",
+      "categoryID": 2118,
+      "categoryName": "Personalization"
+    },
+    {
+      "typeID": 96806,
+      "name": "Marine Shallows Metallic - Limited",
+      "volume": 0.1,
+      "groupID": 4726,
+      "groupName": "Ship SKIN Design Element",
+      "categoryID": 2118,
+      "categoryName": "Personalization"
+    },
+    {
+      "typeID": 96804,
+      "name": "Marine Shallows Metallic - Unlimited",
+      "volume": 0.1,
+      "groupID": 4726,
+      "groupName": "Ship SKIN Design Element",
+      "categoryID": 2118,
+      "categoryName": "Personalization"
     },
     {
       "typeID": 3810,
@@ -144766,6 +145513,15 @@
       "categoryName": "SKINs"
     },
     {
+      "typeID": 96334,
+      "name": "Minokawa Cold Wind's Call SKIN",
+      "volume": 0.01,
+      "groupID": 1950,
+      "groupName": "Permanent SKIN",
+      "categoryID": 91,
+      "categoryName": "SKINs"
+    },
+    {
       "typeID": 76847,
       "name": "Minokawa Corporation Emblem",
       "volume": 0,
@@ -155314,6 +156070,60 @@
       "categoryName": "Personalization"
     },
     {
+      "typeID": 96661,
+      "name": "Octagon - Limited",
+      "volume": 0.1,
+      "groupID": 4726,
+      "groupName": "Ship SKIN Design Element",
+      "categoryID": 2118,
+      "categoryName": "Personalization"
+    },
+    {
+      "typeID": 96660,
+      "name": "Octagon - Unlimited",
+      "volume": 0.1,
+      "groupID": 4726,
+      "groupName": "Ship SKIN Design Element",
+      "categoryID": 2118,
+      "categoryName": "Personalization"
+    },
+    {
+      "typeID": 96663,
+      "name": "Octagon Hole - Limited",
+      "volume": 0.1,
+      "groupID": 4726,
+      "groupName": "Ship SKIN Design Element",
+      "categoryID": 2118,
+      "categoryName": "Personalization"
+    },
+    {
+      "typeID": 96662,
+      "name": "Octagon Hole - Unlimited",
+      "volume": 0.1,
+      "groupID": 4726,
+      "groupName": "Ship SKIN Design Element",
+      "categoryID": 2118,
+      "categoryName": "Personalization"
+    },
+    {
+      "typeID": 96665,
+      "name": "Octagon Outline - Limited",
+      "volume": 0.1,
+      "groupID": 4726,
+      "groupName": "Ship SKIN Design Element",
+      "categoryID": 2118,
+      "categoryName": "Personalization"
+    },
+    {
+      "typeID": 96664,
+      "name": "Octagon Outline - Unlimited",
+      "volume": 0.1,
+      "groupID": 4726,
+      "groupName": "Ship SKIN Design Element",
+      "categoryID": 2118,
+      "categoryName": "Personalization"
+    },
+    {
       "typeID": 32237,
       "name": "Octomet Dog Tags",
       "volume": 3.0,
@@ -156241,6 +157051,15 @@
       "categoryName": "SKINs"
     },
     {
+      "typeID": 96317,
+      "name": "Omen Navy Issue Sanguinary Savant SKIN",
+      "volume": 0.01,
+      "groupID": 1950,
+      "groupName": "Permanent SKIN",
+      "categoryID": 91,
+      "categoryName": "SKINs"
+    },
+    {
       "typeID": 56795,
       "name": "Omen Navy Issue Sarum SKIN",
       "volume": 0.01,
@@ -157031,6 +157850,24 @@
       "groupName": "Miscellaneous",
       "categoryID": 17,
       "categoryName": "Commodity"
+    },
+    {
+      "typeID": 96768,
+      "name": "Opposing Triangles - Limited",
+      "volume": 0.1,
+      "groupID": 4726,
+      "groupName": "Ship SKIN Design Element",
+      "categoryID": 2118,
+      "categoryName": "Personalization"
+    },
+    {
+      "typeID": 96767,
+      "name": "Opposing Triangles - Unlimited",
+      "volume": 0.1,
+      "groupID": 4726,
+      "groupName": "Ship SKIN Design Element",
+      "categoryID": 2118,
+      "categoryName": "Personalization"
     },
     {
       "typeID": 6173,
@@ -158032,6 +158869,15 @@
       "categoryName": "SKINs"
     },
     {
+      "typeID": 97199,
+      "name": "Orca Nautgripur Industrial Input SKIN",
+      "volume": 0.01,
+      "groupID": 1950,
+      "groupName": "Permanent SKIN",
+      "categoryID": 91,
+      "categoryName": "SKINs"
+    },
+    {
       "typeID": 34645,
       "name": "Orca Nocx Rush SKIN",
       "volume": 0.01,
@@ -158444,6 +159290,15 @@
       "groupName": "Cruiser Blueprint",
       "categoryID": 9,
       "categoryName": "Blueprint"
+    },
+    {
+      "typeID": 96331,
+      "name": "Osprey Cold Wind's Call SKIN",
+      "volume": 0.01,
+      "groupID": 1950,
+      "groupName": "Permanent SKIN",
+      "categoryID": 91,
+      "categoryName": "SKINs"
     },
     {
       "typeID": 48720,
@@ -160469,6 +161324,24 @@
       "groupName": "Construction Component Blueprints",
       "categoryID": 9,
       "categoryName": "Blueprint"
+    },
+    {
+      "typeID": 96667,
+      "name": "Pentagon - Limited",
+      "volume": 0.1,
+      "groupID": 4726,
+      "groupName": "Ship SKIN Design Element",
+      "categoryID": 2118,
+      "categoryName": "Personalization"
+    },
+    {
+      "typeID": 96666,
+      "name": "Pentagon - Unlimited",
+      "volume": 0.1,
+      "groupID": 4726,
+      "groupName": "Ship SKIN Design Element",
+      "categoryID": 2118,
+      "categoryName": "Personalization"
     },
     {
       "typeID": 88464,
@@ -172531,6 +173404,15 @@
       "categoryName": "SKINs"
     },
     {
+      "typeID": 96333,
+      "name": "Raven Cold Wind's Call SKIN",
+      "volume": 0.01,
+      "groupID": 1950,
+      "groupName": "Permanent SKIN",
+      "categoryID": 91,
+      "categoryName": "SKINs"
+    },
+    {
       "typeID": 76861,
       "name": "Raven Corporation Emblem",
       "volume": 0,
@@ -172920,6 +173802,15 @@
     {
       "typeID": 76242,
       "name": "Raven Navy Issue Penumbral Shadows SKIN",
+      "volume": 0.01,
+      "groupID": 1950,
+      "groupName": "Permanent SKIN",
+      "categoryID": 91,
+      "categoryName": "SKINs"
+    },
+    {
+      "typeID": 96143,
+      "name": "Raven Navy Issue Shattered Paradigm SKIN",
       "volume": 0.01,
       "groupID": 1950,
       "groupName": "Permanent SKIN",
@@ -174135,6 +175026,15 @@
     {
       "typeID": 37518,
       "name": "Redeemer Raata Sunset SKIN",
+      "volume": 0.01,
+      "groupID": 1950,
+      "groupName": "Permanent SKIN",
+      "categoryID": 91,
+      "categoryName": "SKINs"
+    },
+    {
+      "typeID": 96319,
+      "name": "Redeemer Sanguinary Savant SKIN",
       "volume": 0.01,
       "groupID": 1950,
       "groupName": "Permanent SKIN",
@@ -180352,6 +181252,15 @@
       "categoryName": "SKINs"
     },
     {
+      "typeID": 97198,
+      "name": "Rorqual Nautgripur Industrial Input SKIN",
+      "volume": 0.01,
+      "groupID": 1950,
+      "groupName": "Permanent SKIN",
+      "categoryID": 91,
+      "categoryName": "SKINs"
+    },
+    {
       "typeID": 34646,
       "name": "Rorqual Nocx Rush SKIN",
       "volume": 0.01,
@@ -180543,6 +181452,24 @@
     {
       "typeID": 90634,
       "name": "Rough Element - Unlimited",
+      "volume": 0.1,
+      "groupID": 4726,
+      "groupName": "Ship SKIN Design Element",
+      "categoryID": 2118,
+      "categoryName": "Personalization"
+    },
+    {
+      "typeID": 96689,
+      "name": "Rounded Diamond - Limited",
+      "volume": 0.1,
+      "groupID": 4726,
+      "groupName": "Ship SKIN Design Element",
+      "categoryID": 2118,
+      "categoryName": "Personalization"
+    },
+    {
+      "typeID": 96688,
+      "name": "Rounded Diamond - Unlimited",
       "volume": 0.1,
       "groupID": 4726,
       "groupName": "Ship SKIN Design Element",
@@ -182321,6 +183248,15 @@
       "groupName": "Carrier Blueprint",
       "categoryID": 9,
       "categoryName": "Blueprint"
+    },
+    {
+      "typeID": 96321,
+      "name": "Salvation Sanguinary Savant SKIN",
+      "volume": 0.01,
+      "groupID": 1950,
+      "groupName": "Permanent SKIN",
+      "categoryID": 91,
+      "categoryName": "SKINs"
     },
     {
       "typeID": 21852,
@@ -191809,6 +192745,15 @@
       "categoryName": "Blueprint"
     },
     {
+      "typeID": 96335,
+      "name": "Simurgh Cold Wind's Call SKIN",
+      "volume": 0.01,
+      "groupID": 1950,
+      "groupName": "Permanent SKIN",
+      "categoryID": 91,
+      "categoryName": "SKINs"
+    },
+    {
       "typeID": 22430,
       "name": "Sin",
       "volume": 454500.0,
@@ -199099,6 +200044,24 @@
       "categoryName": "Asteroid"
     },
     {
+      "typeID": 96633,
+      "name": "Sphere - Limited",
+      "volume": 0.1,
+      "groupID": 4726,
+      "groupName": "Ship SKIN Design Element",
+      "categoryID": 2118,
+      "categoryName": "Personalization"
+    },
+    {
+      "typeID": 96632,
+      "name": "Sphere - Unlimited",
+      "volume": 0.1,
+      "groupID": 4726,
+      "groupName": "Ship SKIN Design Element",
+      "categoryID": 2118,
+      "categoryName": "Personalization"
+    },
+    {
       "typeID": 42,
       "name": "Spiced Wine",
       "volume": 0.5,
@@ -199259,6 +200222,24 @@
       "groupName": "Miscellaneous",
       "categoryID": 17,
       "categoryName": "Commodity"
+    },
+    {
+      "typeID": 96653,
+      "name": "Split Circles - Limited",
+      "volume": 0.1,
+      "groupID": 4726,
+      "groupName": "Ship SKIN Design Element",
+      "categoryID": 2118,
+      "categoryName": "Personalization"
+    },
+    {
+      "typeID": 96652,
+      "name": "Split Circles - Unlimited",
+      "volume": 0.1,
+      "groupID": 4726,
+      "groupName": "Ship SKIN Design Element",
+      "categoryID": 2118,
+      "categoryName": "Personalization"
     },
     {
       "typeID": 19,
@@ -199457,6 +200438,60 @@
       "groupName": "Permanent SKIN",
       "categoryID": 91,
       "categoryName": "SKINs"
+    },
+    {
+      "typeID": 96614,
+      "name": "Square - Limited",
+      "volume": 0.1,
+      "groupID": 4726,
+      "groupName": "Ship SKIN Design Element",
+      "categoryID": 2118,
+      "categoryName": "Personalization"
+    },
+    {
+      "typeID": 96613,
+      "name": "Square - Unlimited",
+      "volume": 0.1,
+      "groupID": 4726,
+      "groupName": "Ship SKIN Design Element",
+      "categoryID": 2118,
+      "categoryName": "Personalization"
+    },
+    {
+      "typeID": 96618,
+      "name": "Square Outline - Limited",
+      "volume": 0.1,
+      "groupID": 4726,
+      "groupName": "Ship SKIN Design Element",
+      "categoryID": 2118,
+      "categoryName": "Personalization"
+    },
+    {
+      "typeID": 96617,
+      "name": "Square Outline - Unlimited",
+      "volume": 0.1,
+      "groupID": 4726,
+      "groupName": "Ship SKIN Design Element",
+      "categoryID": 2118,
+      "categoryName": "Personalization"
+    },
+    {
+      "typeID": 96669,
+      "name": "Square Valley - Limited",
+      "volume": 0.1,
+      "groupID": 4726,
+      "groupName": "Ship SKIN Design Element",
+      "categoryID": 2118,
+      "categoryName": "Personalization"
+    },
+    {
+      "typeID": 96668,
+      "name": "Square Valley - Unlimited",
+      "volume": 0.1,
+      "groupID": 4726,
+      "groupName": "Ship SKIN Design Element",
+      "categoryID": 2118,
+      "categoryName": "Personalization"
     },
     {
       "typeID": 88673,
@@ -212545,6 +213580,15 @@
       "categoryName": "Blueprint"
     },
     {
+      "typeID": 96330,
+      "name": "Tayra Cold Wind's Call SKIN",
+      "volume": 0.01,
+      "groupID": 1950,
+      "groupName": "Permanent SKIN",
+      "categoryID": 91,
+      "categoryName": "SKINs"
+    },
+    {
       "typeID": 73641,
       "name": "Tayra Corporation Emblem",
       "volume": 0,
@@ -214343,6 +215387,24 @@
       "groupName": "Miscellaneous",
       "categoryID": 17,
       "categoryName": "Commodity"
+    },
+    {
+      "typeID": 96671,
+      "name": "Tetrahedron - Limited",
+      "volume": 0.1,
+      "groupID": 4726,
+      "groupName": "Ship SKIN Design Element",
+      "categoryID": 2118,
+      "categoryName": "Personalization"
+    },
+    {
+      "typeID": 96670,
+      "name": "Tetrahedron - Unlimited",
+      "volume": 0.1,
+      "groupID": 4726,
+      "groupName": "Ship SKIN Design Element",
+      "categoryID": 2118,
+      "categoryName": "Personalization"
     },
     {
       "typeID": 90117,
@@ -218791,6 +219853,78 @@
       "categoryName": "Blueprint"
     },
     {
+      "typeID": 96620,
+      "name": "Triangle - Limited",
+      "volume": 0.1,
+      "groupID": 4726,
+      "groupName": "Ship SKIN Design Element",
+      "categoryID": 2118,
+      "categoryName": "Personalization"
+    },
+    {
+      "typeID": 96619,
+      "name": "Triangle - Unlimited",
+      "volume": 0.1,
+      "groupID": 4726,
+      "groupName": "Ship SKIN Design Element",
+      "categoryID": 2118,
+      "categoryName": "Personalization"
+    },
+    {
+      "typeID": 96622,
+      "name": "Triangle Hole - Limited",
+      "volume": 0.1,
+      "groupID": 4726,
+      "groupName": "Ship SKIN Design Element",
+      "categoryID": 2118,
+      "categoryName": "Personalization"
+    },
+    {
+      "typeID": 96621,
+      "name": "Triangle Hole - Unlimited",
+      "volume": 0.1,
+      "groupID": 4726,
+      "groupName": "Ship SKIN Design Element",
+      "categoryID": 2118,
+      "categoryName": "Personalization"
+    },
+    {
+      "typeID": 96624,
+      "name": "Triangle Outline - Limited",
+      "volume": 0.1,
+      "groupID": 4726,
+      "groupName": "Ship SKIN Design Element",
+      "categoryID": 2118,
+      "categoryName": "Personalization"
+    },
+    {
+      "typeID": 96623,
+      "name": "Triangle Outline - Unlimited",
+      "volume": 0.1,
+      "groupID": 4726,
+      "groupName": "Ship SKIN Design Element",
+      "categoryID": 2118,
+      "categoryName": "Personalization"
+    },
+    {
+      "typeID": 96627,
+      "name": "Triangle Outline Thin - Limited",
+      "volume": 0.1,
+      "groupID": 4726,
+      "groupName": "Ship SKIN Design Element",
+      "categoryID": 2118,
+      "categoryName": "Personalization"
+    },
+    {
+      "typeID": 96626,
+      "name": "Triangle Outline Thin - Unlimited",
+      "volume": 0.1,
+      "groupID": 4726,
+      "groupName": "Ship SKIN Design Element",
+      "categoryID": 2118,
+      "categoryName": "Personalization"
+    },
+    {
       "typeID": 3843,
       "name": "Tribal Sponsorship",
       "volume": 0.1,
@@ -221644,6 +222778,42 @@
       "categoryName": "Asteroid"
     },
     {
+      "typeID": 96637,
+      "name": "Two by Two Circles - Limited",
+      "volume": 0.1,
+      "groupID": 4726,
+      "groupName": "Ship SKIN Design Element",
+      "categoryID": 2118,
+      "categoryName": "Personalization"
+    },
+    {
+      "typeID": 96636,
+      "name": "Two by Two Circles - Unlimited",
+      "volume": 0.1,
+      "groupID": 4726,
+      "groupName": "Ship SKIN Design Element",
+      "categoryID": 2118,
+      "categoryName": "Personalization"
+    },
+    {
+      "typeID": 96649,
+      "name": "Two by Two Diagonal - Limited",
+      "volume": 0.1,
+      "groupID": 4726,
+      "groupName": "Ship SKIN Design Element",
+      "categoryID": 2118,
+      "categoryName": "Personalization"
+    },
+    {
+      "typeID": 96648,
+      "name": "Two by Two Diagonal - Unlimited",
+      "volume": 0.1,
+      "groupID": 4726,
+      "groupName": "Ship SKIN Design Element",
+      "categoryID": 2118,
+      "categoryName": "Personalization"
+    },
+    {
       "typeID": 18580,
       "name": "Tycoon",
       "volume": 0.01,
@@ -223082,6 +224252,15 @@
       "groupName": "Portrait Backgrounds",
       "categoryID": 30,
       "categoryName": "Apparel"
+    },
+    {
+      "typeID": 96336,
+      "name": "Union Day Celebration Crate",
+      "volume": 4.0,
+      "groupID": 1194,
+      "groupName": "Special Edition Commodities",
+      "categoryID": 63,
+      "categoryName": "Special Edition Assets"
     },
     {
       "typeID": 71755,
@@ -229339,6 +230518,15 @@
       "categoryName": "SKINs"
     },
     {
+      "typeID": 96158,
+      "name": "Vexor Shattered Paradigm SKIN",
+      "volume": 0.01,
+      "groupID": 1950,
+      "groupName": "Permanent SKIN",
+      "categoryID": 91,
+      "categoryName": "SKINs"
+    },
+    {
       "typeID": 44913,
       "name": "Vexor Spirit SKIN",
       "volume": 0.01,
@@ -230151,6 +231339,15 @@
     {
       "typeID": 93723,
       "name": "Vigil Penumbral Shadows SKIN",
+      "volume": 0.01,
+      "groupID": 1950,
+      "groupName": "Permanent SKIN",
+      "categoryID": 91,
+      "categoryName": "SKINs"
+    },
+    {
+      "typeID": 96159,
+      "name": "Vigil Shattered Paradigm SKIN",
       "volume": 0.01,
       "groupID": 1950,
       "groupName": "Permanent SKIN",
@@ -231605,6 +232802,24 @@
       "groupName": "Missiles",
       "categoryID": 16,
       "categoryName": "Skill"
+    },
+    {
+      "typeID": 96655,
+      "name": "Warning Circle - Limited",
+      "volume": 0.1,
+      "groupID": 4726,
+      "groupName": "Ship SKIN Design Element",
+      "categoryID": 2118,
+      "categoryName": "Personalization"
+    },
+    {
+      "typeID": 96654,
+      "name": "Warning Circle - Unlimited",
+      "volume": 0.1,
+      "groupID": 4726,
+      "groupName": "Ship SKIN Design Element",
+      "categoryID": 2118,
+      "categoryName": "Personalization"
     },
     {
       "typeID": 23556,
