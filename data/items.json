@@ -1,15 +1,15 @@
 {
   "metadata": {
     "source": "EVE Online SDE",
-    "itemCount": 27116,
+    "itemCount": 27128,
     "categoryCount": 37,
     "itemsWithZeroVolume": 960,
     "categories": {
-      "Module": 3973,
+      "Module": 3977,
       "Blueprint": 4158,
       "Drone": 154,
-      "Special Edition Assets": 638,
-      "Commodity": 2844,
+      "Special Edition Assets": 639,
+      "Commodity": 2848,
       "Structure": 18,
       "Deployable": 44,
       "Apparel": 986,
@@ -18,14 +18,14 @@
       "Ship": 423,
       "SKINs": 7110,
       "Charge": 1017,
-      "Skill": 511,
+      "Skill": 512,
       "Decryptors": 44,
       "Asteroid": 460,
       "Implant": 1291,
       "Starbase": 195,
       "Infrastructure Upgrades": 73,
       "Material": 269,
-      "Expert Systems": 35,
+      "Expert Systems": 37,
       "Celestial": 225,
       "Fighter": 94,
       "Planetary Resources": 15,
@@ -15124,8 +15124,8 @@
       "typeID": 92035,
       "name": "Arabellata SW-900-I",
       "volume": 25.0,
-      "groupID": 100,
-      "groupName": "Combat Drone",
+      "groupID": 5239,
+      "groupName": "Hybrid Drone",
       "categoryID": 18,
       "categoryName": "Drone"
     },
@@ -18823,8 +18823,8 @@
       "typeID": 92466,
       "name": "Atlas SD-900-I",
       "volume": 25.0,
-      "groupID": 100,
-      "groupName": "Combat Drone",
+      "groupID": 5239,
+      "groupName": "Hybrid Drone",
       "categoryID": 18,
       "categoryName": "Drone"
     },
@@ -20963,7 +20963,7 @@
     },
     {
       "typeID": 62048,
-      "name": "Bag of Gelatinized Confectionary",
+      "name": "Bag of Gelatinized Confectionery",
       "volume": 0.1,
       "groupID": 1194,
       "groupName": "Special Edition Commodities",
@@ -58837,8 +58837,8 @@
       "typeID": 92462,
       "name": "Darter TP-600-I",
       "volume": 10.0,
-      "groupID": 100,
-      "groupName": "Combat Drone",
+      "groupID": 5239,
+      "groupName": "Hybrid Drone",
       "categoryID": 18,
       "categoryName": "Drone"
     },
@@ -101623,8 +101623,8 @@
       "typeID": 92041,
       "name": "Humboldt EC-900-I",
       "volume": 25.0,
-      "groupID": 100,
-      "groupName": "Combat Drone",
+      "groupID": 5239,
+      "groupName": "Hybrid Drone",
       "categoryID": 18,
       "categoryName": "Drone"
     },
@@ -101650,8 +101650,8 @@
       "typeID": 92034,
       "name": "Huntsman SW-600-I",
       "volume": 10.0,
-      "groupID": 100,
-      "groupName": "Combat Drone",
+      "groupID": 5239,
+      "groupName": "Hybrid Drone",
       "categoryID": 18,
       "categoryName": "Drone"
     },
@@ -102365,6 +102365,15 @@
       "groupName": "Laboratory",
       "categoryID": 23,
       "categoryName": "Starbase"
+    },
+    {
+      "typeID": 97263,
+      "name": "Hybrid Drone Specialization",
+      "volume": 0.01,
+      "groupID": 273,
+      "groupName": "Drones",
+      "categoryID": 16,
+      "categoryName": "Skill"
     },
     {
       "typeID": 30655,
@@ -104125,8 +104134,8 @@
       "typeID": 92468,
       "name": "Immaculate TD-600-I",
       "volume": 10.0,
-      "groupID": 100,
-      "groupName": "Combat Drone",
+      "groupID": 5239,
+      "groupName": "Hybrid Drone",
       "categoryID": 18,
       "categoryName": "Drone"
     },
@@ -109534,8 +109543,8 @@
       "typeID": 92039,
       "name": "Inshore EC-300-I",
       "volume": 5.0,
-      "groupID": 100,
-      "groupName": "Combat Drone",
+      "groupID": 5239,
+      "groupName": "Hybrid Drone",
       "categoryID": 18,
       "categoryName": "Drone"
     },
@@ -109601,6 +109610,15 @@
       "groupName": "Effect Beacon",
       "categoryID": 2,
       "categoryName": "Celestial"
+    },
+    {
+      "typeID": 97406,
+      "name": "Insurgent",
+      "volume": 1.0,
+      "groupID": 4091,
+      "groupName": "Standard Expert Systems",
+      "categoryID": 2100,
+      "categoryName": "Expert Systems"
     },
     {
       "typeID": 77946,
@@ -126310,8 +126328,8 @@
       "typeID": 92465,
       "name": "Luna SD-600-I",
       "volume": 10.0,
-      "groupID": 100,
-      "groupName": "Combat Drone",
+      "groupID": 5239,
+      "groupName": "Hybrid Drone",
       "categoryID": 18,
       "categoryName": "Drone"
     },
@@ -136066,8 +136084,8 @@
       "typeID": 92463,
       "name": "Meganeura TP-900-I",
       "volume": 25.0,
-      "groupID": 100,
-      "groupName": "Combat Drone",
+      "groupID": 5239,
+      "groupName": "Hybrid Drone",
       "categoryID": 18,
       "categoryName": "Drone"
     },
@@ -148171,8 +148189,8 @@
       "typeID": 92037,
       "name": "Mosquito EV-600-I",
       "volume": 10.0,
-      "groupID": 100,
-      "groupName": "Combat Drone",
+      "groupID": 5239,
+      "groupName": "Hybrid Drone",
       "categoryID": 18,
       "categoryName": "Drone"
     },
@@ -148816,6 +148834,24 @@
       "categoryName": "Module"
     },
     {
+      "typeID": 97245,
+      "name": "Mutated Drone Link Augmentor",
+      "volume": 25.0,
+      "groupID": 647,
+      "groupName": "Drone Control Range Module",
+      "categoryID": 7,
+      "categoryName": "Module"
+    },
+    {
+      "typeID": 97243,
+      "name": "Mutated Drone Navigation Computer",
+      "volume": 25.0,
+      "groupID": 644,
+      "groupName": "Drone Navigation Computer",
+      "categoryID": 7,
+      "categoryName": "Module"
+    },
+    {
       "typeID": 60515,
       "name": "Mutated Drone Specialization",
       "volume": 0.01,
@@ -148850,6 +148886,24 @@
       "groupName": "Mining Drone",
       "categoryID": 18,
       "categoryName": "Drone"
+    },
+    {
+      "typeID": 97244,
+      "name": "Mutated Omnidirectional Tracking Enhancer",
+      "volume": 5.0,
+      "groupID": 1292,
+      "groupName": "Drone Tracking Enhancer",
+      "categoryID": 7,
+      "categoryName": "Module"
+    },
+    {
+      "typeID": 97242,
+      "name": "Mutated Omnidirectional Tracking Link",
+      "volume": 5.0,
+      "groupID": 646,
+      "groupName": "Drone Tracking Modules",
+      "categoryID": 7,
+      "categoryName": "Module"
     },
     {
       "typeID": 88597,
@@ -151654,8 +151708,8 @@
       "typeID": 92040,
       "name": "Nertic EC-600-I",
       "volume": 10.0,
-      "groupID": 100,
-      "groupName": "Combat Drone",
+      "groupID": 5239,
+      "groupName": "Hybrid Drone",
       "categoryID": 18,
       "categoryName": "Drone"
     },
@@ -158503,8 +158557,8 @@
       "typeID": 92033,
       "name": "Orbweaver SW-300-I",
       "volume": 5.0,
-      "groupID": 100,
-      "groupName": "Combat Drone",
+      "groupID": 5239,
+      "groupName": "Hybrid Drone",
       "categoryID": 18,
       "categoryName": "Drone"
     },
@@ -171757,8 +171811,44 @@
       "categoryName": "Commodity"
     },
     {
+      "typeID": 97247,
+      "name": "Radical Drone Link Augmentor Mutaplasmid",
+      "volume": 1.0,
+      "groupID": 1964,
+      "groupName": "Mutaplasmids",
+      "categoryID": 17,
+      "categoryName": "Commodity"
+    },
+    {
+      "typeID": 97249,
+      "name": "Radical Drone Navigation Computer Mutaplasmid",
+      "volume": 1.0,
+      "groupID": 1964,
+      "groupName": "Mutaplasmids",
+      "categoryID": 17,
+      "categoryName": "Commodity"
+    },
+    {
       "typeID": 60477,
       "name": "Radical Fighter Support Unit Mutaplasmid",
+      "volume": 1.0,
+      "groupID": 1964,
+      "groupName": "Mutaplasmids",
+      "categoryID": 17,
+      "categoryName": "Commodity"
+    },
+    {
+      "typeID": 97246,
+      "name": "Radical Omnidirectional Tracking Enhancer Mutaplasmid",
+      "volume": 1.0,
+      "groupID": 1964,
+      "groupName": "Mutaplasmids",
+      "categoryID": 17,
+      "categoryName": "Commodity"
+    },
+    {
+      "typeID": 97248,
+      "name": "Radical Omnidirectional Tracking Link Mutaplasmid",
       "volume": 1.0,
       "groupID": 1964,
       "groupName": "Mutaplasmids",
@@ -193603,8 +193693,8 @@
       "typeID": 92461,
       "name": "Skimmer TP-300-I",
       "volume": 5.0,
-      "groupID": 100,
-      "groupName": "Combat Drone",
+      "groupID": 5239,
+      "groupName": "Hybrid Drone",
       "categoryID": 18,
       "categoryName": "Drone"
     },
@@ -207580,8 +207670,8 @@
       "typeID": 92467,
       "name": "Stellate TD-300-I",
       "volume": 5.0,
-      "groupID": 100,
-      "groupName": "Combat Drone",
+      "groupID": 5239,
+      "groupName": "Hybrid Drone",
       "categoryID": 18,
       "categoryName": "Drone"
     },
@@ -207598,8 +207688,8 @@
       "typeID": 92464,
       "name": "Stigmella SD-300-I",
       "volume": 5.0,
-      "groupID": 100,
-      "groupName": "Combat Drone",
+      "groupID": 5239,
+      "groupName": "Hybrid Drone",
       "categoryID": 18,
       "categoryName": "Drone"
     },
@@ -211603,8 +211693,8 @@
       "typeID": 92038,
       "name": "Tabanida EV-900-I",
       "volume": 25.0,
-      "groupID": 100,
-      "groupName": "Combat Drone",
+      "groupID": 5239,
+      "groupName": "Hybrid Drone",
       "categoryID": 18,
       "categoryName": "Drone"
     },
@@ -218020,8 +218110,8 @@
       "typeID": 92036,
       "name": "Tick EV-300-I",
       "volume": 5.0,
-      "groupID": 100,
-      "groupName": "Combat Drone",
+      "groupID": 5239,
+      "groupName": "Hybrid Drone",
       "categoryID": 18,
       "categoryName": "Drone"
     },
@@ -218497,8 +218587,8 @@
       "typeID": 92469,
       "name": "Torafugu TD-900-I",
       "volume": 25.0,
-      "groupID": 100,
-      "groupName": "Combat Drone",
+      "groupID": 5239,
+      "groupName": "Hybrid Drone",
       "categoryID": 18,
       "categoryName": "Drone"
     },
@@ -239293,6 +239383,15 @@
       "categoryName": "SKINs"
     },
     {
+      "typeID": 97348,
+      "name": "Wormhole Pilot",
+      "volume": 1.0,
+      "groupID": 4091,
+      "groupName": "Standard Expert Systems",
+      "categoryID": 2100,
+      "categoryName": "Expert Systems"
+    },
+    {
       "typeID": 91407,
       "name": "Worn-out Titan Jump Console",
       "volume": 1.0,
@@ -240713,6 +240812,15 @@
       "groupName": "Miscellaneous",
       "categoryID": 17,
       "categoryName": "Commodity"
+    },
+    {
+      "typeID": 97314,
+      "name": "YC128 Shifting-Spacetime Crate",
+      "volume": 4.0,
+      "groupID": 1194,
+      "groupName": "Special Edition Commodities",
+      "categoryID": 63,
+      "categoryName": "Special Edition Assets"
     },
     {
       "typeID": 33466,
