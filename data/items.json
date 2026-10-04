@@ -1,7 +1,7 @@
 {
   "metadata": {
     "source": "EVE Online SDE",
-    "itemCount": 27128,
+    "itemCount": 27133,
     "categoryCount": 37,
     "itemsWithZeroVolume": 960,
     "categories": {
@@ -16,7 +16,7 @@
       "Accessories": 77,
       "Personalization": 1863,
       "Ship": 423,
-      "SKINs": 7110,
+      "SKINs": 7115,
       "Charge": 1017,
       "Skill": 512,
       "Decryptors": 44,
@@ -54181,6 +54181,15 @@
       "categoryName": "SKINs"
     },
     {
+      "typeID": 97617,
+      "name": "Crucifier Medical Enforcement Taskforce SKIN",
+      "volume": 0.01,
+      "groupID": 1950,
+      "groupName": "Permanent SKIN",
+      "categoryID": 91,
+      "categoryName": "SKINs"
+    },
+    {
       "typeID": 37453,
       "name": "Crucifier Navy Issue",
       "volume": 28100.0,
@@ -91425,6 +91434,15 @@
     {
       "typeID": 40581,
       "name": "Griffin Matigu Seabeast SKIN",
+      "volume": 0.01,
+      "groupID": 1950,
+      "groupName": "Permanent SKIN",
+      "categoryID": 91,
+      "categoryName": "SKINs"
+    },
+    {
+      "typeID": 97618,
+      "name": "Griffin Medical Enforcement Taskforce SKIN",
       "volume": 0.01,
       "groupID": 1950,
       "groupName": "Permanent SKIN",
@@ -130735,6 +130753,15 @@
       "categoryName": "SKINs"
     },
     {
+      "typeID": 97619,
+      "name": "Maulus Medical Enforcement Taskforce SKIN",
+      "volume": 0.01,
+      "groupID": 1950,
+      "groupName": "Permanent SKIN",
+      "categoryID": 91,
+      "categoryName": "SKINs"
+    },
+    {
       "typeID": 37456,
       "name": "Maulus Navy Issue",
       "volume": 23000.0,
@@ -135272,7 +135299,7 @@
     },
     {
       "typeID": 16042,
-      "name": "Medium Sized Sealed Cargo Containers",
+      "name": "Medium Sized Sealed Cargo Container",
       "volume": 50.0,
       "groupID": 314,
       "groupName": "Miscellaneous",
@@ -162975,6 +163002,15 @@
     {
       "typeID": 91627,
       "name": "Pioneer Media Miasma SKIN",
+      "volume": 0.01,
+      "groupID": 1950,
+      "groupName": "Permanent SKIN",
+      "categoryID": 91,
+      "categoryName": "SKINs"
+    },
+    {
+      "typeID": 97621,
+      "name": "Pioneer Medical Enforcement Taskforce SKIN",
       "volume": 0.01,
       "groupID": 1950,
       "groupName": "Permanent SKIN",
@@ -231420,6 +231456,15 @@
     {
       "typeID": 38626,
       "name": "Vigil Krusual Serenity Only SKIN",
+      "volume": 0.01,
+      "groupID": 1950,
+      "groupName": "Permanent SKIN",
+      "categoryID": 91,
+      "categoryName": "SKINs"
+    },
+    {
+      "typeID": 97620,
+      "name": "Vigil Medical Enforcement Taskforce SKIN",
       "volume": 0.01,
       "groupID": 1950,
       "groupName": "Permanent SKIN",
