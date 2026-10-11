@@ -1,32 +1,32 @@
 {
   "metadata": {
     "source": "EVE Online SDE",
-    "itemCount": 27133,
+    "itemCount": 27309,
     "categoryCount": 37,
-    "itemsWithZeroVolume": 960,
+    "itemsWithZeroVolume": 962,
     "categories": {
-      "Module": 3977,
-      "Blueprint": 4158,
+      "Module": 3984,
+      "Blueprint": 4176,
       "Drone": 154,
-      "Special Edition Assets": 639,
-      "Commodity": 2848,
+      "Special Edition Assets": 658,
+      "Commodity": 2873,
       "Structure": 18,
       "Deployable": 44,
-      "Apparel": 986,
+      "Apparel": 988,
       "Accessories": 77,
-      "Personalization": 1863,
-      "Ship": 423,
-      "SKINs": 7115,
+      "Personalization": 1897,
+      "Ship": 424,
+      "SKINs": 7136,
       "Charge": 1017,
       "Skill": 512,
       "Decryptors": 44,
       "Asteroid": 460,
-      "Implant": 1291,
+      "Implant": 1338,
       "Starbase": 195,
       "Infrastructure Upgrades": 73,
       "Material": 269,
-      "Expert Systems": 37,
-      "Celestial": 225,
+      "Expert Systems": 38,
+      "Celestial": 226,
       "Fighter": 94,
       "Planetary Resources": 15,
       "Structure Module": 356,
@@ -9550,6 +9550,51 @@
       "categoryName": "Commodity"
     },
     {
+      "typeID": 95741,
+      "name": "Akoman",
+      "volume": 234000.0,
+      "groupID": 1201,
+      "groupName": "Attack Battlecruiser",
+      "categoryID": 6,
+      "categoryName": "Ship"
+    },
+    {
+      "typeID": 95745,
+      "name": "Akoman Alliance Emblem",
+      "volume": 0,
+      "groupID": 4471,
+      "groupName": "Ship Emblems",
+      "categoryID": 2118,
+      "categoryName": "Personalization"
+    },
+    {
+      "typeID": 95742,
+      "name": "Akoman Blueprint",
+      "volume": 0.01,
+      "groupID": 489,
+      "groupName": "Battlecruiser Blueprint",
+      "categoryID": 9,
+      "categoryName": "Blueprint"
+    },
+    {
+      "typeID": 97516,
+      "name": "Akoman Blueprint Crate",
+      "volume": 1.0,
+      "groupID": 1194,
+      "groupName": "Special Edition Commodities",
+      "categoryID": 63,
+      "categoryName": "Special Edition Assets"
+    },
+    {
+      "typeID": 95746,
+      "name": "Akoman Corporation Emblem",
+      "volume": 0,
+      "groupID": 4471,
+      "groupName": "Ship Emblems",
+      "categoryID": 2118,
+      "categoryName": "Personalization"
+    },
+    {
       "typeID": 17801,
       "name": "Akori's Insignia",
       "volume": 0.1,
@@ -17857,6 +17902,24 @@
       "categoryName": "Personalization"
     },
     {
+      "typeID": 96820,
+      "name": "Ascendant Clades - Limited",
+      "volume": 0.1,
+      "groupID": 4726,
+      "groupName": "Ship SKIN Design Element",
+      "categoryID": 2118,
+      "categoryName": "Personalization"
+    },
+    {
+      "typeID": 96821,
+      "name": "Ascendant Clades - Unlimited",
+      "volume": 0.1,
+      "groupID": 4726,
+      "groupName": "Ship SKIN Design Element",
+      "categoryID": 2118,
+      "categoryName": "Personalization"
+    },
+    {
       "typeID": 88525,
       "name": "Ashen Ion Satin - Limited",
       "volume": 0.1,
@@ -20746,6 +20809,15 @@
       "categoryName": "SKINs"
     },
     {
+      "typeID": 97433,
+      "name": "Babaroga Tetrimon Crimson Mark SKIN",
+      "volume": 0.01,
+      "groupID": 1950,
+      "groupName": "Permanent SKIN",
+      "categoryID": 91,
+      "categoryName": "SKINs"
+    },
+    {
       "typeID": 2393,
       "name": "Bacteria",
       "volume": 0.19,
@@ -21864,6 +21936,15 @@
     {
       "typeID": 72238,
       "name": "Basic 'Boost' Cerebral Accelerator",
+      "volume": 1.0,
+      "groupID": 303,
+      "groupName": "Booster",
+      "categoryID": 20,
+      "categoryName": "Implant"
+    },
+    {
+      "typeID": 96542,
+      "name": "Basic 'Radiance' Cerebral Accelerator",
       "volume": 1.0,
       "groupID": 303,
       "groupName": "Booster",
@@ -24355,6 +24436,24 @@
       "categoryName": "Personalization"
     },
     {
+      "typeID": 96826,
+      "name": "Bleak Stigmata - Limited",
+      "volume": 0.1,
+      "groupID": 4726,
+      "groupName": "Ship SKIN Design Element",
+      "categoryID": 2118,
+      "categoryName": "Personalization"
+    },
+    {
+      "typeID": 96827,
+      "name": "Bleak Stigmata - Unlimited",
+      "volume": 0.1,
+      "groupID": 4726,
+      "groupName": "Ship SKIN Design Element",
+      "categoryID": 2118,
+      "categoryName": "Personalization"
+    },
+    {
       "typeID": 94137,
       "name": "Blessed Moss Matte - Limited",
       "volume": 0.1,
@@ -24839,6 +24938,15 @@
       "groupName": "Frequency Crystal",
       "categoryID": 8,
       "categoryName": "Charge"
+    },
+    {
+      "typeID": 97897,
+      "name": "Blood Raider Background",
+      "volume": 0.1,
+      "groupID": 5082,
+      "groupName": "Portrait Backgrounds",
+      "categoryID": 30,
+      "categoryName": "Apparel"
     },
     {
       "typeID": 45678,
@@ -32419,6 +32527,15 @@
       "categoryName": "Module"
     },
     {
+      "typeID": 97648,
+      "name": "Capital Abyssal Remote Armor Repairer",
+      "volume": 4000.0,
+      "groupID": 325,
+      "groupName": "Remote Armor Repairer",
+      "categoryID": 7,
+      "categoryName": "Module"
+    },
+    {
       "typeID": 56309,
       "name": "Capital Abyssal Shield Booster",
       "volume": 4000.0,
@@ -38458,6 +38575,15 @@
       "categoryName": "Commodity"
     },
     {
+      "typeID": 96326,
+      "name": "Captured Bioadaptive Cache",
+      "volume": 1.0,
+      "groupID": 1194,
+      "groupName": "Special Edition Commodities",
+      "categoryID": 63,
+      "categoryName": "Special Edition Assets"
+    },
+    {
       "typeID": 2942,
       "name": "Captured CEO",
       "volume": 3.0,
@@ -42562,6 +42688,33 @@
       "categoryName": "Module"
     },
     {
+      "typeID": 96588,
+      "name": "Chemal Tech Exploration Booster I",
+      "volume": 1.0,
+      "groupID": 303,
+      "groupName": "Booster",
+      "categoryID": 20,
+      "categoryName": "Implant"
+    },
+    {
+      "typeID": 96589,
+      "name": "Chemal Tech Exploration Booster II",
+      "volume": 1.0,
+      "groupID": 303,
+      "groupName": "Booster",
+      "categoryID": 20,
+      "categoryName": "Implant"
+    },
+    {
+      "typeID": 96590,
+      "name": "Chemal Tech Exploration Booster III",
+      "volume": 1.0,
+      "groupID": 303,
+      "groupName": "Booster",
+      "categoryID": 20,
+      "categoryName": "Implant"
+    },
+    {
       "typeID": 81599,
       "name": "Chemal Tech Geneticist",
       "volume": 1.0,
@@ -42569,6 +42722,87 @@
       "groupName": "Livestock",
       "categoryID": 17,
       "categoryName": "Commodity"
+    },
+    {
+      "typeID": 96584,
+      "name": "Chemal Tech Mining Booster I",
+      "volume": 1.0,
+      "groupID": 303,
+      "groupName": "Booster",
+      "categoryID": 20,
+      "categoryName": "Implant"
+    },
+    {
+      "typeID": 96585,
+      "name": "Chemal Tech Mining Booster II",
+      "volume": 1.0,
+      "groupID": 303,
+      "groupName": "Booster",
+      "categoryID": 20,
+      "categoryName": "Implant"
+    },
+    {
+      "typeID": 96586,
+      "name": "Chemal Tech Mining Booster III",
+      "volume": 1.0,
+      "groupID": 303,
+      "groupName": "Booster",
+      "categoryID": 20,
+      "categoryName": "Implant"
+    },
+    {
+      "typeID": 96591,
+      "name": "Chemal Tech Repair Booster I",
+      "volume": 1.0,
+      "groupID": 303,
+      "groupName": "Booster",
+      "categoryID": 20,
+      "categoryName": "Implant"
+    },
+    {
+      "typeID": 96592,
+      "name": "Chemal Tech Repair Booster II",
+      "volume": 1.0,
+      "groupID": 303,
+      "groupName": "Booster",
+      "categoryID": 20,
+      "categoryName": "Implant"
+    },
+    {
+      "typeID": 96593,
+      "name": "Chemal Tech Repair Booster III",
+      "volume": 1.0,
+      "groupID": 303,
+      "groupName": "Booster",
+      "categoryID": 20,
+      "categoryName": "Implant"
+    },
+    {
+      "typeID": 96581,
+      "name": "Chemal Tech Turret Booster I",
+      "volume": 1.0,
+      "groupID": 303,
+      "groupName": "Booster",
+      "categoryID": 20,
+      "categoryName": "Implant"
+    },
+    {
+      "typeID": 96582,
+      "name": "Chemal Tech Turret Booster II",
+      "volume": 1.0,
+      "groupID": 303,
+      "groupName": "Booster",
+      "categoryID": 20,
+      "categoryName": "Implant"
+    },
+    {
+      "typeID": 96583,
+      "name": "Chemal Tech Turret Booster III",
+      "volume": 1.0,
+      "groupID": 303,
+      "groupName": "Booster",
+      "categoryID": 20,
+      "categoryName": "Implant"
     },
     {
       "typeID": 42243,
@@ -44432,6 +44666,24 @@
       "groupName": "Neural Enhancement",
       "categoryID": 16,
       "categoryName": "Skill"
+    },
+    {
+      "typeID": 96841,
+      "name": "Clotted Bronze Metallic - Limited",
+      "volume": 0.1,
+      "groupID": 4726,
+      "groupName": "Ship SKIN Design Element",
+      "categoryID": 2118,
+      "categoryName": "Personalization"
+    },
+    {
+      "typeID": 96842,
+      "name": "Clotted Bronze Metallic - Unlimited",
+      "volume": 0.1,
+      "groupID": 4726,
+      "groupName": "Ship SKIN Design Element",
+      "categoryID": 2118,
+      "categoryName": "Personalization"
     },
     {
       "typeID": 87840,
@@ -48709,6 +48961,15 @@
       "categoryName": "Blueprint"
     },
     {
+      "typeID": 97725,
+      "name": "Consortium Capital Tractor Beam Blueprint Crate",
+      "volume": 1.0,
+      "groupID": 1194,
+      "groupName": "Special Edition Commodities",
+      "categoryID": 63,
+      "categoryName": "Special Edition Assets"
+    },
+    {
       "typeID": 81951,
       "name": "Consortium Mobile Tractor Unit",
       "volume": 80.0,
@@ -48745,6 +49006,15 @@
       "categoryName": "Blueprint"
     },
     {
+      "typeID": 97724,
+      "name": "Consortium Small Tractor Beam Blueprint Crate",
+      "volume": 1.0,
+      "groupID": 1194,
+      "groupName": "Special Edition Commodities",
+      "categoryID": 63,
+      "categoryName": "Special Edition Assets"
+    },
+    {
       "typeID": 78740,
       "name": "Consortium Vorton Tuning System",
       "volume": 5.0,
@@ -48761,6 +49031,15 @@
       "groupName": "Vorton Projector Upgrade Blueprints",
       "categoryID": 9,
       "categoryName": "Blueprint"
+    },
+    {
+      "typeID": 97727,
+      "name": "Consortium Vorton Tuning System Blueprint Crate",
+      "volume": 1.0,
+      "groupID": 1194,
+      "groupName": "Special Edition Commodities",
+      "categoryID": 63,
+      "categoryName": "Special Edition Assets"
     },
     {
       "typeID": 21595,
@@ -53542,7 +53821,7 @@
       "categoryName": "Commodity"
     },
     {
-      "typeID": 90118,
+      "typeID": 97207,
       "name": "Crimson Gauntlet Shortcut Keypass",
       "volume": 0.1,
       "groupID": 474,
@@ -53587,7 +53866,7 @@
       "categoryName": "Commodity"
     },
     {
-      "typeID": 90136,
+      "typeID": 97206,
       "name": "Crimson Harvest Cerebral Accelerator Crate",
       "volume": 1.0,
       "groupID": 1194,
@@ -53675,6 +53954,24 @@
       "groupName": "Ship SKIN Design Element",
       "categoryID": 2118,
       "categoryName": "Personalization"
+    },
+    {
+      "typeID": 97265,
+      "name": "Criterion Cipher",
+      "volume": 0.1,
+      "groupID": 474,
+      "groupName": "Acceleration Gate Keys",
+      "categoryID": 17,
+      "categoryName": "Commodity"
+    },
+    {
+      "typeID": 97315,
+      "name": "Criterion Restrictions Beacon",
+      "volume": 20.0,
+      "groupID": 920,
+      "groupName": "Effect Beacon",
+      "categoryID": 2,
+      "categoryName": "Celestial"
     },
     {
       "typeID": 90607,
@@ -56989,6 +57286,15 @@
       "categoryName": "SKINs"
     },
     {
+      "typeID": 97421,
+      "name": "Damavik Blood Raiders Crimson Mark SKIN",
+      "volume": 0.01,
+      "groupID": 1950,
+      "groupName": "Permanent SKIN",
+      "categoryID": 91,
+      "categoryName": "SKINs"
+    },
+    {
       "typeID": 47966,
       "name": "Damavik Blueprint",
       "volume": 0.01,
@@ -57090,6 +57396,15 @@
     {
       "typeID": 48649,
       "name": "Damavik Singularity Storm SKIN",
+      "volume": 0.01,
+      "groupID": 1950,
+      "groupName": "Permanent SKIN",
+      "categoryID": 91,
+      "categoryName": "SKINs"
+    },
+    {
+      "typeID": 97432,
+      "name": "Damavik Tetrimon Crimson Mark SKIN",
       "volume": 0.01,
       "groupID": 1950,
       "groupName": "Permanent SKIN",
@@ -58105,6 +58420,24 @@
       "categoryName": "Module"
     },
     {
+      "typeID": 97715,
+      "name": "Dark Blood Large Armor Repairer Blueprint",
+      "volume": 0.01,
+      "groupID": 142,
+      "groupName": "Armor Repair Unit Blueprint",
+      "categoryID": 9,
+      "categoryName": "Blueprint"
+    },
+    {
+      "typeID": 97731,
+      "name": "Dark Blood Large Armor Repairer Blueprint Crate",
+      "volume": 1.0,
+      "groupID": 1194,
+      "groupName": "Special Edition Commodities",
+      "categoryID": 63,
+      "categoryName": "Special Edition Assets"
+    },
+    {
       "typeID": 27553,
       "name": "Dark Blood Large Beam Laser Battery",
       "volume": 5000.0,
@@ -58616,6 +58949,24 @@
       "groupName": "Stasis Web",
       "categoryID": 7,
       "categoryName": "Module"
+    },
+    {
+      "typeID": 97714,
+      "name": "Dark Blood Stasis Webifier Blueprint",
+      "volume": 0.01,
+      "groupID": 145,
+      "groupName": "Stasis Web Blueprint",
+      "categoryID": 9,
+      "categoryName": "Blueprint"
+    },
+    {
+      "typeID": 97730,
+      "name": "Dark Blood Stasis Webifier Blueprint Crate",
+      "volume": 1.0,
+      "groupID": 1194,
+      "groupName": "Special Edition Commodities",
+      "categoryID": 63,
+      "categoryName": "Special Edition Assets"
     },
     {
       "typeID": 13817,
@@ -59590,6 +59941,15 @@
       "categoryName": "Commodity"
     },
     {
+      "typeID": 97638,
+      "name": "Decayed Capital Remote Armor Repairer Mutaplasmid",
+      "volume": 1.0,
+      "groupID": 1964,
+      "groupName": "Mutaplasmids",
+      "categoryID": 17,
+      "categoryName": "Commodity"
+    },
+    {
       "typeID": 56285,
       "name": "Decayed Capital Shield Booster Mutaplasmid",
       "volume": 1.0,
@@ -59797,6 +60157,15 @@
       "categoryName": "Commodity"
     },
     {
+      "typeID": 97650,
+      "name": "Decayed Large Remote Armor Repairer Mutaplasmid",
+      "volume": 1.0,
+      "groupID": 1964,
+      "groupName": "Mutaplasmids",
+      "categoryID": 17,
+      "categoryName": "Commodity"
+    },
+    {
       "typeID": 47786,
       "name": "Decayed Large Shield Booster Mutaplasmid",
       "volume": 1.0,
@@ -59898,6 +60267,15 @@
     {
       "typeID": 84403,
       "name": "Decayed Medium Proton Smartbomb Mutaplasmid",
+      "volume": 1.0,
+      "groupID": 1964,
+      "groupName": "Mutaplasmids",
+      "categoryID": 17,
+      "categoryName": "Commodity"
+    },
+    {
+      "typeID": 97661,
+      "name": "Decayed Medium Remote Armor Repairer Mutaplasmid",
       "volume": 1.0,
       "groupID": 1964,
       "groupName": "Mutaplasmids",
@@ -60042,6 +60420,15 @@
     {
       "typeID": 84407,
       "name": "Decayed Small Proton Smartbomb Mutaplasmid",
+      "volume": 1.0,
+      "groupID": 1964,
+      "groupName": "Mutaplasmids",
+      "categoryID": 17,
+      "categoryName": "Commodity"
+    },
+    {
+      "typeID": 97669,
+      "name": "Decayed Small Remote Armor Repairer Mutaplasmid",
       "volume": 1.0,
       "groupID": 1964,
       "groupName": "Mutaplasmids",
@@ -65566,6 +65953,15 @@
       "categoryName": "SKINs"
     },
     {
+      "typeID": 97438,
+      "name": "Draugur Tetrimon Crimson Mark SKIN",
+      "volume": 0.01,
+      "groupID": 1950,
+      "groupName": "Permanent SKIN",
+      "categoryID": 91,
+      "categoryName": "SKINs"
+    },
+    {
       "typeID": 20164,
       "name": "Drazin's Keycard",
       "volume": 0.1,
@@ -66979,6 +67375,15 @@
       "categoryName": "SKINs"
     },
     {
+      "typeID": 97423,
+      "name": "Drekavac Blood Raiders Crimson Mark SKIN",
+      "volume": 0.01,
+      "groupID": 1950,
+      "groupName": "Permanent SKIN",
+      "categoryID": 91,
+      "categoryName": "SKINs"
+    },
+    {
       "typeID": 49715,
       "name": "Drekavac Blueprint",
       "volume": 0.01,
@@ -67053,6 +67458,15 @@
     {
       "typeID": 52444,
       "name": "Drekavac Red Forests Thunderbird SKIN",
+      "volume": 0.01,
+      "groupID": 1950,
+      "groupName": "Permanent SKIN",
+      "categoryID": 91,
+      "categoryName": "SKINs"
+    },
+    {
+      "typeID": 97435,
+      "name": "Drekavac Tetrimon Crimson Mark SKIN",
       "volume": 0.01,
       "groupID": 1950,
       "groupName": "Permanent SKIN",
@@ -69339,6 +69753,24 @@
     {
       "typeID": 93358,
       "name": "Echoes of Action - Unlimited",
+      "volume": 0.1,
+      "groupID": 4726,
+      "groupName": "Ship SKIN Design Element",
+      "categoryID": 2118,
+      "categoryName": "Personalization"
+    },
+    {
+      "typeID": 96832,
+      "name": "Ecru Marrow Satin - Limited",
+      "volume": 0.1,
+      "groupID": 4726,
+      "groupName": "Ship SKIN Design Element",
+      "categoryID": 2118,
+      "categoryName": "Personalization"
+    },
+    {
+      "typeID": 96833,
+      "name": "Ecru Marrow Satin - Unlimited",
       "volume": 0.1,
       "groupID": 4726,
       "groupName": "Ship SKIN Design Element",
@@ -72386,6 +72818,24 @@
       "groupName": "Entropic Radiation Sink Blueprint",
       "categoryID": 9,
       "categoryName": "Blueprint"
+    },
+    {
+      "typeID": 96843,
+      "name": "Entropic Rose Metallic - Limited",
+      "volume": 0.1,
+      "groupID": 4726,
+      "groupName": "Ship SKIN Design Element",
+      "categoryID": 2118,
+      "categoryName": "Personalization"
+    },
+    {
+      "typeID": 96844,
+      "name": "Entropic Rose Metallic - Unlimited",
+      "volume": 0.1,
+      "groupID": 4726,
+      "groupName": "Ship SKIN Design Element",
+      "categoryID": 2118,
+      "categoryName": "Personalization"
     },
     {
       "typeID": 2197,
@@ -76409,6 +76859,15 @@
       "groupName": "Special Edition Commodities",
       "categoryID": 63,
       "categoryName": "Special Edition Assets"
+    },
+    {
+      "typeID": 96544,
+      "name": "Extended 'Radiance' Cerebral Accelerator",
+      "volume": 1.0,
+      "groupID": 303,
+      "groupName": "Booster",
+      "categoryID": 20,
+      "categoryName": "Implant"
     },
     {
       "typeID": 87828,
@@ -86248,6 +86707,24 @@
       "categoryName": "Blueprint"
     },
     {
+      "typeID": 97641,
+      "name": "Glorified Decayed Capital Remote Armor Repairer Mutaplasmid",
+      "volume": 1.0,
+      "groupID": 1964,
+      "groupName": "Mutaplasmids",
+      "categoryID": 17,
+      "categoryName": "Commodity"
+    },
+    {
+      "typeID": 97676,
+      "name": "Glorified Decayed Capital Remote Armor Repairer Mutaplasmid Blueprint",
+      "volume": 0.1,
+      "groupID": 4820,
+      "groupName": "Mutaplasmid Blueprint",
+      "categoryID": 9,
+      "categoryName": "Blueprint"
+    },
+    {
       "typeID": 85553,
       "name": "Glorified Decayed Capital Shield Booster Mutaplasmid",
       "volume": 1.0,
@@ -86464,6 +86941,24 @@
       "categoryName": "Blueprint"
     },
     {
+      "typeID": 97653,
+      "name": "Glorified Decayed Large Remote Armor Repairer Mutaplasmid",
+      "volume": 1.0,
+      "groupID": 1964,
+      "groupName": "Mutaplasmids",
+      "categoryID": 17,
+      "categoryName": "Commodity"
+    },
+    {
+      "typeID": 97679,
+      "name": "Glorified Decayed Large Remote Armor Repairer Mutaplasmid Blueprint",
+      "volume": 0.1,
+      "groupID": 4820,
+      "groupName": "Mutaplasmid Blueprint",
+      "categoryID": 9,
+      "categoryName": "Blueprint"
+    },
+    {
       "typeID": 85542,
       "name": "Glorified Decayed Large Shield Booster Mutaplasmid",
       "volume": 1.0,
@@ -86608,6 +87103,24 @@
       "categoryName": "Blueprint"
     },
     {
+      "typeID": 97665,
+      "name": "Glorified Decayed Medium Remote Armor Repairer Mutaplasmid",
+      "volume": 1.0,
+      "groupID": 1964,
+      "groupName": "Mutaplasmids",
+      "categoryID": 17,
+      "categoryName": "Commodity"
+    },
+    {
+      "typeID": 97682,
+      "name": "Glorified Decayed Medium Remote Armor Repairer Mutaplasmid Blueprint",
+      "volume": 0.1,
+      "groupID": 4820,
+      "groupName": "Mutaplasmid Blueprint",
+      "categoryID": 9,
+      "categoryName": "Blueprint"
+    },
+    {
       "typeID": 85535,
       "name": "Glorified Decayed Medium Shield Booster Mutaplasmid",
       "volume": 1.0,
@@ -86746,6 +87259,24 @@
       "typeID": 85995,
       "name": "Glorified Decayed Small Energy Nosferatu Mutaplasmid Blueprint",
       "volume": 0,
+      "groupID": 4820,
+      "groupName": "Mutaplasmid Blueprint",
+      "categoryID": 9,
+      "categoryName": "Blueprint"
+    },
+    {
+      "typeID": 97672,
+      "name": "Glorified Decayed Small Remote Armor Repairer Mutaplasmid",
+      "volume": 1.0,
+      "groupID": 1964,
+      "groupName": "Mutaplasmids",
+      "categoryID": 17,
+      "categoryName": "Commodity"
+    },
+    {
+      "typeID": 97685,
+      "name": "Glorified Decayed Small Remote Armor Repairer Mutaplasmid Blueprint",
+      "volume": 0.1,
       "groupID": 4820,
       "groupName": "Mutaplasmid Blueprint",
       "categoryID": 9,
@@ -87409,6 +87940,24 @@
       "categoryName": "Blueprint"
     },
     {
+      "typeID": 97643,
+      "name": "Glorified Gravid Capital Remote Armor Repairer Mutaplasmid",
+      "volume": 1.0,
+      "groupID": 1964,
+      "groupName": "Mutaplasmids",
+      "categoryID": 17,
+      "categoryName": "Commodity"
+    },
+    {
+      "typeID": 97677,
+      "name": "Glorified Gravid Capital Remote Armor Repairer Mutaplasmid Blueprint",
+      "volume": 0.1,
+      "groupID": 4820,
+      "groupName": "Mutaplasmid Blueprint",
+      "categoryID": 9,
+      "categoryName": "Blueprint"
+    },
+    {
       "typeID": 85555,
       "name": "Glorified Gravid Capital Shield Booster Mutaplasmid",
       "volume": 1.0,
@@ -87625,6 +88174,24 @@
       "categoryName": "Blueprint"
     },
     {
+      "typeID": 97655,
+      "name": "Glorified Gravid Large Remote Armor Repairer Mutaplasmid",
+      "volume": 1.0,
+      "groupID": 1964,
+      "groupName": "Mutaplasmids",
+      "categoryID": 17,
+      "categoryName": "Commodity"
+    },
+    {
+      "typeID": 97680,
+      "name": "Glorified Gravid Large Remote Armor Repairer Mutaplasmid Blueprint",
+      "volume": 0.1,
+      "groupID": 4820,
+      "groupName": "Mutaplasmid Blueprint",
+      "categoryID": 9,
+      "categoryName": "Blueprint"
+    },
+    {
       "typeID": 85543,
       "name": "Glorified Gravid Large Shield Booster Mutaplasmid",
       "volume": 1.0,
@@ -87769,6 +88336,24 @@
       "categoryName": "Blueprint"
     },
     {
+      "typeID": 97667,
+      "name": "Glorified Gravid Medium Remote Armor Repairer Mutaplasmid",
+      "volume": 1.0,
+      "groupID": 1964,
+      "groupName": "Mutaplasmids",
+      "categoryID": 17,
+      "categoryName": "Commodity"
+    },
+    {
+      "typeID": 97684,
+      "name": "Glorified Gravid Medium Remote Armor Repairer Mutaplasmid Blueprint",
+      "volume": 0.1,
+      "groupID": 4820,
+      "groupName": "Mutaplasmid Blueprint",
+      "categoryID": 9,
+      "categoryName": "Blueprint"
+    },
+    {
       "typeID": 85536,
       "name": "Glorified Gravid Medium Shield Booster Mutaplasmid",
       "volume": 1.0,
@@ -87907,6 +88492,24 @@
       "typeID": 85996,
       "name": "Glorified Gravid Small Energy Nosferatu Mutaplasmid Blueprint",
       "volume": 0,
+      "groupID": 4820,
+      "groupName": "Mutaplasmid Blueprint",
+      "categoryID": 9,
+      "categoryName": "Blueprint"
+    },
+    {
+      "typeID": 97674,
+      "name": "Glorified Gravid Small Remote Armor Repairer Mutaplasmid",
+      "volume": 1.0,
+      "groupID": 1964,
+      "groupName": "Mutaplasmids",
+      "categoryID": 17,
+      "categoryName": "Commodity"
+    },
+    {
+      "typeID": 97686,
+      "name": "Glorified Gravid Small Remote Armor Repairer Mutaplasmid Blueprint",
+      "volume": 0.1,
       "groupID": 4820,
       "groupName": "Mutaplasmid Blueprint",
       "categoryID": 9,
@@ -88354,6 +88957,24 @@
       "categoryName": "Blueprint"
     },
     {
+      "typeID": 97642,
+      "name": "Glorified Unstable Capital Remote Armor Repairer Mutaplasmid",
+      "volume": 1.0,
+      "groupID": 1964,
+      "groupName": "Mutaplasmids",
+      "categoryID": 17,
+      "categoryName": "Commodity"
+    },
+    {
+      "typeID": 97678,
+      "name": "Glorified Unstable Capital Remote Armor Repairer Mutaplasmid Blueprint",
+      "volume": 0.1,
+      "groupID": 4820,
+      "groupName": "Mutaplasmid Blueprint",
+      "categoryID": 9,
+      "categoryName": "Blueprint"
+    },
+    {
       "typeID": 85556,
       "name": "Glorified Unstable Capital Shield Booster Mutaplasmid",
       "volume": 1.0,
@@ -88606,6 +89227,24 @@
       "categoryName": "Blueprint"
     },
     {
+      "typeID": 97654,
+      "name": "Glorified Unstable Large Remote Armor Repairer Mutaplasmid",
+      "volume": 1.0,
+      "groupID": 1964,
+      "groupName": "Mutaplasmids",
+      "categoryID": 17,
+      "categoryName": "Commodity"
+    },
+    {
+      "typeID": 97681,
+      "name": "Glorified Unstable Large Remote Armor Repairer Mutaplasmid Blueprint",
+      "volume": 0.1,
+      "groupID": 4820,
+      "groupName": "Mutaplasmid Blueprint",
+      "categoryID": 9,
+      "categoryName": "Blueprint"
+    },
+    {
       "typeID": 85545,
       "name": "Glorified Unstable Large Shield Booster Mutaplasmid",
       "volume": 1.0,
@@ -88786,6 +89425,24 @@
       "categoryName": "Blueprint"
     },
     {
+      "typeID": 97666,
+      "name": "Glorified Unstable Medium Remote Armor Repairer Mutaplasmid",
+      "volume": 1.0,
+      "groupID": 1964,
+      "groupName": "Mutaplasmids",
+      "categoryID": 17,
+      "categoryName": "Commodity"
+    },
+    {
+      "typeID": 97683,
+      "name": "Glorified Unstable Medium Remote Armor Repairer Mutaplasmid Blueprint",
+      "volume": 0.1,
+      "groupID": 4820,
+      "groupName": "Mutaplasmid Blueprint",
+      "categoryID": 9,
+      "categoryName": "Blueprint"
+    },
+    {
       "typeID": 85537,
       "name": "Glorified Unstable Medium Shield Booster Mutaplasmid",
       "volume": 1.0,
@@ -88942,6 +89599,24 @@
       "typeID": 85997,
       "name": "Glorified Unstable Small Energy Nosferatu Mutaplasmid Blueprint",
       "volume": 0,
+      "groupID": 4820,
+      "groupName": "Mutaplasmid Blueprint",
+      "categoryID": 9,
+      "categoryName": "Blueprint"
+    },
+    {
+      "typeID": 97673,
+      "name": "Glorified Unstable Small Remote Armor Repairer Mutaplasmid",
+      "volume": 1.0,
+      "groupID": 1964,
+      "groupName": "Mutaplasmids",
+      "categoryID": 17,
+      "categoryName": "Commodity"
+    },
+    {
+      "typeID": 97687,
+      "name": "Glorified Unstable Small Remote Armor Repairer Mutaplasmid Blueprint",
+      "volume": 0.1,
       "groupID": 4820,
       "groupName": "Mutaplasmid Blueprint",
       "categoryID": 9,
@@ -90568,6 +91243,15 @@
       "categoryName": "Commodity"
     },
     {
+      "typeID": 97640,
+      "name": "Gravid Capital Remote Armor Repairer Mutaplasmid",
+      "volume": 1.0,
+      "groupID": 1964,
+      "groupName": "Mutaplasmids",
+      "categoryID": 17,
+      "categoryName": "Commodity"
+    },
+    {
       "typeID": 56287,
       "name": "Gravid Capital Shield Booster Mutaplasmid",
       "volume": 1.0,
@@ -90766,6 +91450,15 @@
       "categoryName": "Commodity"
     },
     {
+      "typeID": 97652,
+      "name": "Gravid Large Remote Armor Repairer Mutaplasmid",
+      "volume": 1.0,
+      "groupID": 1964,
+      "groupName": "Mutaplasmids",
+      "categoryID": 17,
+      "categoryName": "Commodity"
+    },
+    {
       "typeID": 47788,
       "name": "Gravid Large Shield Booster Mutaplasmid",
       "volume": 1.0,
@@ -90867,6 +91560,15 @@
     {
       "typeID": 84421,
       "name": "Gravid Medium Proton Smartbomb Mutaplasmid",
+      "volume": 1.0,
+      "groupID": 1964,
+      "groupName": "Mutaplasmids",
+      "categoryID": 17,
+      "categoryName": "Commodity"
+    },
+    {
+      "typeID": 97663,
+      "name": "Gravid Medium Remote Armor Repairer Mutaplasmid",
       "volume": 1.0,
       "groupID": 1964,
       "groupName": "Mutaplasmids",
@@ -91011,6 +91713,15 @@
     {
       "typeID": 84413,
       "name": "Gravid Small Proton Smartbomb Mutaplasmid",
+      "volume": 1.0,
+      "groupID": 1964,
+      "groupName": "Mutaplasmids",
+      "categoryID": 17,
+      "categoryName": "Commodity"
+    },
+    {
+      "typeID": 97671,
+      "name": "Gravid Small Remote Armor Repairer Mutaplasmid",
       "volume": 1.0,
       "groupID": 1964,
       "groupName": "Mutaplasmids",
@@ -95419,6 +96130,150 @@
       "categoryName": "Commodity"
     },
     {
+      "typeID": 96546,
+      "name": "Harvest Anti-Disruptor Booster I",
+      "volume": 1.0,
+      "groupID": 303,
+      "groupName": "Booster",
+      "categoryID": 20,
+      "categoryName": "Implant"
+    },
+    {
+      "typeID": 96547,
+      "name": "Harvest Anti-Disruptor Booster II",
+      "volume": 1.0,
+      "groupID": 303,
+      "groupName": "Booster",
+      "categoryID": 20,
+      "categoryName": "Implant"
+    },
+    {
+      "typeID": 96548,
+      "name": "Harvest Anti-Disruptor Booster III",
+      "volume": 1.0,
+      "groupID": 303,
+      "groupName": "Booster",
+      "categoryID": 20,
+      "categoryName": "Implant"
+    },
+    {
+      "typeID": 96545,
+      "name": "Harvest Anti-Disruptor Booster IV",
+      "volume": 1.0,
+      "groupID": 303,
+      "groupName": "Booster",
+      "categoryID": 20,
+      "categoryName": "Implant"
+    },
+    {
+      "typeID": 96557,
+      "name": "Harvest Damage Booster I",
+      "volume": 1.0,
+      "groupID": 303,
+      "groupName": "Booster",
+      "categoryID": 20,
+      "categoryName": "Implant"
+    },
+    {
+      "typeID": 96558,
+      "name": "Harvest Damage Booster II",
+      "volume": 1.0,
+      "groupID": 303,
+      "groupName": "Booster",
+      "categoryID": 20,
+      "categoryName": "Implant"
+    },
+    {
+      "typeID": 96560,
+      "name": "Harvest Damage Booster III",
+      "volume": 1.0,
+      "groupID": 303,
+      "groupName": "Booster",
+      "categoryID": 20,
+      "categoryName": "Implant"
+    },
+    {
+      "typeID": 96561,
+      "name": "Harvest Damage Booster IV",
+      "volume": 1.0,
+      "groupID": 303,
+      "groupName": "Booster",
+      "categoryID": 20,
+      "categoryName": "Implant"
+    },
+    {
+      "typeID": 96549,
+      "name": "Harvest Nosferatu Booster I",
+      "volume": 1.0,
+      "groupID": 303,
+      "groupName": "Booster",
+      "categoryID": 20,
+      "categoryName": "Implant"
+    },
+    {
+      "typeID": 96550,
+      "name": "Harvest Nosferatu Booster II",
+      "volume": 1.0,
+      "groupID": 303,
+      "groupName": "Booster",
+      "categoryID": 20,
+      "categoryName": "Implant"
+    },
+    {
+      "typeID": 96551,
+      "name": "Harvest Nosferatu Booster III",
+      "volume": 1.0,
+      "groupID": 303,
+      "groupName": "Booster",
+      "categoryID": 20,
+      "categoryName": "Implant"
+    },
+    {
+      "typeID": 96552,
+      "name": "Harvest Nosferatu Booster IV",
+      "volume": 1.0,
+      "groupID": 303,
+      "groupName": "Booster",
+      "categoryID": 20,
+      "categoryName": "Implant"
+    },
+    {
+      "typeID": 96553,
+      "name": "Harvest Webifier Booster I",
+      "volume": 1.0,
+      "groupID": 303,
+      "groupName": "Booster",
+      "categoryID": 20,
+      "categoryName": "Implant"
+    },
+    {
+      "typeID": 96554,
+      "name": "Harvest Webifier Booster II",
+      "volume": 1.0,
+      "groupID": 303,
+      "groupName": "Booster",
+      "categoryID": 20,
+      "categoryName": "Implant"
+    },
+    {
+      "typeID": 96555,
+      "name": "Harvest Webifier Booster III",
+      "volume": 1.0,
+      "groupID": 303,
+      "groupName": "Booster",
+      "categoryID": 20,
+      "categoryName": "Implant"
+    },
+    {
+      "typeID": 96556,
+      "name": "Harvest Webifier Booster IV",
+      "volume": 1.0,
+      "groupID": 303,
+      "groupName": "Booster",
+      "categoryID": 20,
+      "categoryName": "Implant"
+    },
+    {
       "typeID": 3218,
       "name": "Harvester Mining Drone",
       "volume": 10.0,
@@ -98614,6 +99469,24 @@
       "categoryName": "Blueprint"
     },
     {
+      "typeID": 96803,
+      "name": "Hexfold Terror - Limited",
+      "volume": 0.1,
+      "groupID": 4726,
+      "groupName": "Ship SKIN Design Element",
+      "categoryID": 2118,
+      "categoryName": "Personalization"
+    },
+    {
+      "typeID": 96805,
+      "name": "Hexfold Terror - Unlimited",
+      "volume": 0.1,
+      "groupID": 4726,
+      "groupName": "Ship SKIN Design Element",
+      "categoryID": 2118,
+      "categoryName": "Personalization"
+    },
+    {
       "typeID": 16665,
       "name": "Hexite",
       "volume": 0.2,
@@ -100583,6 +101456,33 @@
       "groupName": "Miscellaneous",
       "categoryID": 17,
       "categoryName": "Commodity"
+    },
+    {
+      "typeID": 97711,
+      "name": "Horm’s Capital Energy Neutralizer",
+      "volume": 4000.0,
+      "groupID": 71,
+      "groupName": "Energy Neutralizer",
+      "categoryID": 7,
+      "categoryName": "Module"
+    },
+    {
+      "typeID": 97717,
+      "name": "Horm’s Capital Energy Neutralizer Blueprint",
+      "volume": 0.01,
+      "groupID": 151,
+      "groupName": "Energy Neutralizer Blueprint",
+      "categoryID": 9,
+      "categoryName": "Blueprint"
+    },
+    {
+      "typeID": 97720,
+      "name": "Horm’s Capital Energy Neutralizer Blueprint Crate",
+      "volume": 1.0,
+      "groupID": 1194,
+      "groupName": "Special Edition Commodities",
+      "categoryID": 63,
+      "categoryName": "Special Edition Assets"
     },
     {
       "typeID": 23707,
@@ -103672,6 +104572,15 @@
       "categoryName": "SKINs"
     },
     {
+      "typeID": 97427,
+      "name": "Ikitursa Blood Raiders Crimson Mark SKIN",
+      "volume": 0.01,
+      "groupID": 1950,
+      "groupName": "Permanent SKIN",
+      "categoryID": 91,
+      "categoryName": "SKINs"
+    },
+    {
       "typeID": 52253,
       "name": "Ikitursa Blueprint",
       "volume": 0.01,
@@ -103719,6 +104628,15 @@
     {
       "typeID": 52353,
       "name": "Ikitursa Singularity Storm SKIN",
+      "volume": 0.01,
+      "groupID": 1950,
+      "groupName": "Permanent SKIN",
+      "categoryID": 91,
+      "categoryName": "SKINs"
+    },
+    {
+      "typeID": 97437,
+      "name": "Ikitursa Tetrimon Crimson Mark SKIN",
       "volume": 0.01,
       "groupID": 1950,
       "groupName": "Permanent SKIN",
@@ -105130,6 +106048,15 @@
       "categoryName": "Blueprint"
     },
     {
+      "typeID": 97732,
+      "name": "Imperial Navy Heat Sink Blueprint Crate",
+      "volume": 1.0,
+      "groupID": 1194,
+      "groupName": "Special Edition Commodities",
+      "categoryID": 63,
+      "categoryName": "Special Edition Assets"
+    },
+    {
       "typeID": 15867,
       "name": "Imperial Navy Heavy Beam Laser",
       "volume": 10.0,
@@ -105596,6 +106523,15 @@
       "groupName": "Armor Coating Blueprint",
       "categoryID": 9,
       "categoryName": "Blueprint"
+    },
+    {
+      "typeID": 97733,
+      "name": "Imperial Navy Multispectrum Energized Membrane Blueprint Crate",
+      "volume": 1.0,
+      "groupID": 1194,
+      "groupName": "Special Edition Commodities",
+      "categoryID": 63,
+      "categoryName": "Special Edition Assets"
     },
     {
       "typeID": 33832,
@@ -114283,6 +115219,15 @@
       "categoryName": "SKINs"
     },
     {
+      "typeID": 97426,
+      "name": "Kikimora Blood Raiders Crimson Mark SKIN",
+      "volume": 0.01,
+      "groupID": 1950,
+      "groupName": "Permanent SKIN",
+      "categoryID": 91,
+      "categoryName": "SKINs"
+    },
+    {
       "typeID": 49714,
       "name": "Kikimora Blueprint",
       "volume": 0.01,
@@ -114375,6 +115320,15 @@
     {
       "typeID": 52321,
       "name": "Kikimora Red Meatgrinder SKIN",
+      "volume": 0.01,
+      "groupID": 1950,
+      "groupName": "Permanent SKIN",
+      "categoryID": 91,
+      "categoryName": "SKINs"
+    },
+    {
+      "typeID": 97436,
+      "name": "Kikimora Tetrimon Crimson Mark SKIN",
       "volume": 0.01,
       "groupID": 1950,
       "groupName": "Permanent SKIN",
@@ -116173,6 +117127,15 @@
       "categoryName": "Module"
     },
     {
+      "typeID": 97657,
+      "name": "Large Abyssal Remote Armor Repairer",
+      "volume": 25.0,
+      "groupID": 325,
+      "groupName": "Remote Armor Repairer",
+      "categoryID": 7,
+      "categoryName": "Module"
+    },
+    {
       "typeID": 47789,
       "name": "Large Abyssal Shield Booster",
       "volume": 25.0,
@@ -116882,6 +117845,15 @@
       "groupName": "Vorton Projector Blueprint",
       "categoryID": 9,
       "categoryName": "Blueprint"
+    },
+    {
+      "typeID": 97728,
+      "name": "Large Consortium Vorton Projector Blueprint Crate",
+      "volume": 1.0,
+      "groupID": 1194,
+      "groupName": "Special Edition Commodities",
+      "categoryID": 63,
+      "categoryName": "Special Edition Assets"
     },
     {
       "typeID": 25906,
@@ -122068,6 +123040,15 @@
       "categoryName": "SKINs"
     },
     {
+      "typeID": 97424,
+      "name": "Leshak Blood Raiders Crimson Mark SKIN",
+      "volume": 0.01,
+      "groupID": 1950,
+      "groupName": "Permanent SKIN",
+      "categoryID": 91,
+      "categoryName": "SKINs"
+    },
+    {
       "typeID": 47968,
       "name": "Leshak Blueprint",
       "volume": 0.01,
@@ -122205,6 +123186,15 @@
     {
       "typeID": 48651,
       "name": "Leshak Singularity Storm SKIN",
+      "volume": 0.01,
+      "groupID": 1950,
+      "groupName": "Permanent SKIN",
+      "categoryID": 91,
+      "categoryName": "SKINs"
+    },
+    {
+      "typeID": 97431,
+      "name": "Leshak Tetrimon Crimson Mark SKIN",
       "volume": 0.01,
       "groupID": 1950,
       "groupName": "Permanent SKIN",
@@ -123200,6 +124190,24 @@
       "groupName": "Harvestable Cloud",
       "categoryID": 2,
       "categoryName": "Celestial"
+    },
+    {
+      "typeID": 96828,
+      "name": "Liminal Sanguine Gloss - Limited",
+      "volume": 0.1,
+      "groupID": 4726,
+      "groupName": "Ship SKIN Design Element",
+      "categoryID": 2118,
+      "categoryName": "Personalization"
+    },
+    {
+      "typeID": 96829,
+      "name": "Liminal Sanguine Gloss - Unlimited",
+      "volume": 0.1,
+      "groupID": 4726,
+      "groupName": "Ship SKIN Design Element",
+      "categoryID": 2118,
+      "categoryName": "Personalization"
     },
     {
       "typeID": 91396,
@@ -131320,6 +132328,15 @@
       "categoryName": "Module"
     },
     {
+      "typeID": 97668,
+      "name": "Medium Abyssal Remote Armor Repairer",
+      "volume": 10.0,
+      "groupID": 325,
+      "groupName": "Remote Armor Repairer",
+      "categoryID": 7,
+      "categoryName": "Module"
+    },
+    {
       "typeID": 47785,
       "name": "Medium Abyssal Shield Booster",
       "volume": 10.0,
@@ -132146,6 +133163,15 @@
       "groupName": "Vorton Projector Blueprint",
       "categoryID": 9,
       "categoryName": "Blueprint"
+    },
+    {
+      "typeID": 97726,
+      "name": "Medium Consortium Vorton Projector Blueprint Crate",
+      "volume": 1.0,
+      "groupID": 1194,
+      "groupName": "Special Edition Commodities",
+      "categoryID": 63,
+      "categoryName": "Special Edition Assets"
     },
     {
       "typeID": 31766,
@@ -147124,6 +148150,15 @@
       "categoryName": "Blueprint"
     },
     {
+      "typeID": 97722,
+      "name": "Mobile Sanguine Harvester Blueprint Crate",
+      "volume": 1.0,
+      "groupID": 1194,
+      "groupName": "Special Edition Commodities",
+      "categoryID": 63,
+      "categoryName": "Special Edition Assets"
+    },
+    {
       "typeID": 33589,
       "name": "Mobile Scan Inhibitor",
       "volume": 100.0,
@@ -148850,6 +149885,15 @@
       "groupName": "Mining Drone",
       "categoryID": 18,
       "categoryName": "Drone"
+    },
+    {
+      "typeID": 96789,
+      "name": "Mutated Blood Sample",
+      "volume": 0.01,
+      "groupID": 1194,
+      "groupName": "Special Edition Commodities",
+      "categoryID": 63,
+      "categoryName": "Special Edition Assets"
     },
     {
       "typeID": 60482,
@@ -151678,6 +152722,15 @@
       "categoryName": "SKINs"
     },
     {
+      "typeID": 97425,
+      "name": "Nergal Blood Raiders Crimson Mark SKIN",
+      "volume": 0.01,
+      "groupID": 1950,
+      "groupName": "Permanent SKIN",
+      "categoryID": 91,
+      "categoryName": "SKINs"
+    },
+    {
       "typeID": 52251,
       "name": "Nergal Blueprint",
       "volume": 0.01,
@@ -151725,6 +152778,15 @@
     {
       "typeID": 52351,
       "name": "Nergal Singularity Storm SKIN",
+      "volume": 0.01,
+      "groupID": 1950,
+      "groupName": "Permanent SKIN",
+      "categoryID": 91,
+      "categoryName": "SKINs"
+    },
+    {
+      "typeID": 97430,
+      "name": "Nergal Tetrimon Crimson Mark SKIN",
       "volume": 0.01,
       "groupID": 1950,
       "groupName": "Permanent SKIN",
@@ -159733,6 +160795,42 @@
       "categoryName": "SKINs"
     },
     {
+      "typeID": 96836,
+      "name": "Ossified Beige Gloss - Limited",
+      "volume": 0.1,
+      "groupID": 4726,
+      "groupName": "Ship SKIN Design Element",
+      "categoryID": 2118,
+      "categoryName": "Personalization"
+    },
+    {
+      "typeID": 96838,
+      "name": "Ossified Beige Gloss - Unlimited",
+      "volume": 0.1,
+      "groupID": 4726,
+      "groupName": "Ship SKIN Design Element",
+      "categoryID": 2118,
+      "categoryName": "Personalization"
+    },
+    {
+      "typeID": 96834,
+      "name": "Ossified Beige Matte - Limited",
+      "volume": 0.1,
+      "groupID": 4726,
+      "groupName": "Ship SKIN Design Element",
+      "categoryID": 2118,
+      "categoryName": "Personalization"
+    },
+    {
+      "typeID": 96835,
+      "name": "Ossified Beige Matte - Unlimited",
+      "volume": 0.1,
+      "groupID": 4726,
+      "groupName": "Ship SKIN Design Element",
+      "categoryID": 2118,
+      "categoryName": "Personalization"
+    },
+    {
       "typeID": 45498,
       "name": "Otavite",
       "volume": 10.0,
@@ -159902,6 +161000,24 @@
       "groupName": "Hull Mods Blueprint",
       "categoryID": 9,
       "categoryName": "Blueprint"
+    },
+    {
+      "typeID": 96815,
+      "name": "Overflowing Harvest - Limited",
+      "volume": 0.1,
+      "groupID": 4726,
+      "groupName": "Ship SKIN Design Element",
+      "categoryID": 2118,
+      "categoryName": "Personalization"
+    },
+    {
+      "typeID": 96816,
+      "name": "Overflowing Harvest - Unlimited",
+      "volume": 0.1,
+      "groupID": 4726,
+      "groupName": "Ship SKIN Design Element",
+      "categoryID": 2118,
+      "categoryName": "Personalization"
     },
     {
       "typeID": 48746,
@@ -165142,6 +166258,15 @@
       "categoryName": "Special Edition Assets"
     },
     {
+      "typeID": 96543,
+      "name": "Potent 'Radiance' Cerebral Accelerator",
+      "volume": 1.0,
+      "groupID": 303,
+      "groupName": "Booster",
+      "categoryID": 20,
+      "categoryName": "Implant"
+    },
+    {
       "typeID": 20510,
       "name": "Potent Viral Agent",
       "volume": 0.5,
@@ -169064,6 +170189,24 @@
       "groupName": "Projectile Weapon Blueprint",
       "categoryID": 9,
       "categoryName": "Blueprint"
+    },
+    {
+      "typeID": 96839,
+      "name": "Proven Chrome Metallic - Limited",
+      "volume": 0.1,
+      "groupID": 4726,
+      "groupName": "Ship SKIN Design Element",
+      "categoryID": 2118,
+      "categoryName": "Personalization"
+    },
+    {
+      "typeID": 96840,
+      "name": "Proven Chrome Metallic - Unlimited",
+      "volume": 0.1,
+      "groupID": 4726,
+      "groupName": "Ship SKIN Design Element",
+      "categoryID": 2118,
+      "categoryName": "Personalization"
     },
     {
       "typeID": 88852,
@@ -180262,6 +181405,15 @@
       "categoryName": "SKINs"
     },
     {
+      "typeID": 97429,
+      "name": "Rodiva Blood Raiders Crimson Mark SKIN",
+      "volume": 0.01,
+      "groupID": 1950,
+      "groupName": "Permanent SKIN",
+      "categoryID": 91,
+      "categoryName": "SKINs"
+    },
+    {
       "typeID": 49716,
       "name": "Rodiva Blueprint",
       "volume": 0.01,
@@ -180318,6 +181470,15 @@
     {
       "typeID": 52443,
       "name": "Rodiva Red Forests Thunderbird SKIN",
+      "volume": 0.01,
+      "groupID": 1950,
+      "groupName": "Permanent SKIN",
+      "categoryID": 91,
+      "categoryName": "SKINs"
+    },
+    {
+      "typeID": 97439,
+      "name": "Rodiva Tetrimon Crimson Mark SKIN",
       "volume": 0.01,
       "groupID": 1950,
       "groupName": "Permanent SKIN",
@@ -184285,6 +185446,33 @@
       "categoryName": "Commodity"
     },
     {
+      "typeID": 97710,
+      "name": "Sarikusa’s Capital Energy Nosferatu",
+      "volume": 4000.0,
+      "groupID": 68,
+      "groupName": "Energy Nosferatu",
+      "categoryID": 7,
+      "categoryName": "Module"
+    },
+    {
+      "typeID": 97716,
+      "name": "Sarikusa’s Capital Energy Nosferatu Blueprint",
+      "volume": 0.01,
+      "groupID": 148,
+      "groupName": "Energy Nosferatu Blueprint",
+      "categoryID": 9,
+      "categoryName": "Blueprint"
+    },
+    {
+      "typeID": 97719,
+      "name": "Sarikusa’s Capital Energy Nosferatu Blueprint Crate",
+      "volume": 1.0,
+      "groupID": 1194,
+      "groupName": "Special Edition Commodities",
+      "categoryID": 63,
+      "categoryName": "Special Edition Assets"
+    },
+    {
       "typeID": 54164,
       "name": "Sarpati Reserve Brandy",
       "volume": 1.0,
@@ -184368,6 +185556,24 @@
     {
       "typeID": 85155,
       "name": "Savant Carmine Satin - Unlimited",
+      "volume": 0.1,
+      "groupID": 4726,
+      "groupName": "Ship SKIN Design Element",
+      "categoryID": 2118,
+      "categoryName": "Personalization"
+    },
+    {
+      "typeID": 96824,
+      "name": "Savant’s Ruin - Limited",
+      "volume": 0.1,
+      "groupID": 4726,
+      "groupName": "Ship SKIN Design Element",
+      "categoryID": 2118,
+      "categoryName": "Personalization"
+    },
+    {
+      "typeID": 96825,
+      "name": "Savant’s Ruin - Unlimited",
       "volume": 0.1,
       "groupID": 4726,
       "groupName": "Ship SKIN Design Element",
@@ -191134,6 +192340,24 @@
       "categoryName": "Blueprint"
     },
     {
+      "typeID": 96830,
+      "name": "Shadowy Totality Matte - Limited",
+      "volume": 0.1,
+      "groupID": 4726,
+      "groupName": "Ship SKIN Design Element",
+      "categoryID": 2118,
+      "categoryName": "Personalization"
+    },
+    {
+      "typeID": 96831,
+      "name": "Shadowy Totality Matte - Unlimited",
+      "volume": 0.1,
+      "groupID": 4726,
+      "groupName": "Ship SKIN Design Element",
+      "categoryID": 2118,
+      "categoryName": "Personalization"
+    },
+    {
       "typeID": 21739,
       "name": "Shady Acres Deed",
       "volume": 0.1,
@@ -195094,6 +196318,15 @@
       "categoryName": "Module"
     },
     {
+      "typeID": 97675,
+      "name": "Small Abyssal Remote Armor Repairer",
+      "volume": 5.0,
+      "groupID": 325,
+      "groupName": "Remote Armor Repairer",
+      "categoryID": 7,
+      "categoryName": "Module"
+    },
+    {
       "typeID": 47781,
       "name": "Small Abyssal Shield Booster",
       "volume": 5.0,
@@ -195857,6 +197090,15 @@
       "groupName": "Vorton Projector Blueprint",
       "categoryID": 9,
       "categoryName": "Blueprint"
+    },
+    {
+      "typeID": 97729,
+      "name": "Small Consortium Vorton Projector Blueprint Crate",
+      "volume": 1.0,
+      "groupID": 1194,
+      "groupName": "Special Edition Commodities",
+      "categoryID": 63,
+      "categoryName": "Special Edition Assets"
     },
     {
       "typeID": 31764,
@@ -207037,6 +208279,15 @@
       "categoryName": "Apparel"
     },
     {
+      "typeID": 96845,
+      "name": "Star of Pochven Background",
+      "volume": 0.1,
+      "groupID": 5082,
+      "groupName": "Portrait Backgrounds",
+      "categoryID": 30,
+      "categoryName": "Apparel"
+    },
+    {
       "typeID": 33121,
       "name": "Star of the Sefrim",
       "volume": 0.1,
@@ -208673,6 +209924,15 @@
       "groupName": "Siege Module Blueprint",
       "categoryID": 9,
       "categoryName": "Blueprint"
+    },
+    {
+      "typeID": 97723,
+      "name": "Strategos' Modified Siege Module Blueprint Crate",
+      "volume": 1.0,
+      "groupID": 1194,
+      "groupName": "Special Edition Commodities",
+      "categoryID": 63,
+      "categoryName": "Special Edition Assets"
     },
     {
       "typeID": 88347,
@@ -215533,13 +216793,157 @@
       "categoryName": "Personalization"
     },
     {
-      "typeID": 90117,
+      "typeID": 96562,
+      "name": "Tetrimon Anti-Drain Booster I",
+      "volume": 1.0,
+      "groupID": 303,
+      "groupName": "Booster",
+      "categoryID": 20,
+      "categoryName": "Implant"
+    },
+    {
+      "typeID": 96563,
+      "name": "Tetrimon Anti-Drain Booster II",
+      "volume": 1.0,
+      "groupID": 303,
+      "groupName": "Booster",
+      "categoryID": 20,
+      "categoryName": "Implant"
+    },
+    {
+      "typeID": 96565,
+      "name": "Tetrimon Anti-Drain Booster III",
+      "volume": 1.0,
+      "groupID": 303,
+      "groupName": "Booster",
+      "categoryID": 20,
+      "categoryName": "Implant"
+    },
+    {
+      "typeID": 96566,
+      "name": "Tetrimon Anti-Drain Booster IV",
+      "volume": 1.0,
+      "groupID": 303,
+      "groupName": "Booster",
+      "categoryID": 20,
+      "categoryName": "Implant"
+    },
+    {
+      "typeID": 97208,
       "name": "Tetrimon Base Shortcut Keypass",
       "volume": 0.1,
       "groupID": 474,
       "groupName": "Acceleration Gate Keys",
       "categoryID": 17,
       "categoryName": "Commodity"
+    },
+    {
+      "typeID": 96567,
+      "name": "Tetrimon Capacitor Booster I",
+      "volume": 1.0,
+      "groupID": 303,
+      "groupName": "Booster",
+      "categoryID": 20,
+      "categoryName": "Implant"
+    },
+    {
+      "typeID": 96568,
+      "name": "Tetrimon Capacitor Booster II",
+      "volume": 1.0,
+      "groupID": 303,
+      "groupName": "Booster",
+      "categoryID": 20,
+      "categoryName": "Implant"
+    },
+    {
+      "typeID": 96569,
+      "name": "Tetrimon Capacitor Booster III",
+      "volume": 1.0,
+      "groupID": 303,
+      "groupName": "Booster",
+      "categoryID": 20,
+      "categoryName": "Implant"
+    },
+    {
+      "typeID": 96570,
+      "name": "Tetrimon Capacitor Booster IV",
+      "volume": 1.0,
+      "groupID": 303,
+      "groupName": "Booster",
+      "categoryID": 20,
+      "categoryName": "Implant"
+    },
+    {
+      "typeID": 96575,
+      "name": "Tetrimon Precision Booster I",
+      "volume": 1.0,
+      "groupID": 303,
+      "groupName": "Booster",
+      "categoryID": 20,
+      "categoryName": "Implant"
+    },
+    {
+      "typeID": 96576,
+      "name": "Tetrimon Precision Booster II",
+      "volume": 1.0,
+      "groupID": 303,
+      "groupName": "Booster",
+      "categoryID": 20,
+      "categoryName": "Implant"
+    },
+    {
+      "typeID": 96577,
+      "name": "Tetrimon Precision Booster III",
+      "volume": 1.0,
+      "groupID": 303,
+      "groupName": "Booster",
+      "categoryID": 20,
+      "categoryName": "Implant"
+    },
+    {
+      "typeID": 96578,
+      "name": "Tetrimon Precision Booster IV",
+      "volume": 1.0,
+      "groupID": 303,
+      "groupName": "Booster",
+      "categoryID": 20,
+      "categoryName": "Implant"
+    },
+    {
+      "typeID": 96571,
+      "name": "Tetrimon Resistance Booster I",
+      "volume": 1.0,
+      "groupID": 303,
+      "groupName": "Booster",
+      "categoryID": 20,
+      "categoryName": "Implant"
+    },
+    {
+      "typeID": 96572,
+      "name": "Tetrimon Resistance Booster II",
+      "volume": 1.0,
+      "groupID": 303,
+      "groupName": "Booster",
+      "categoryID": 20,
+      "categoryName": "Implant"
+    },
+    {
+      "typeID": 96573,
+      "name": "Tetrimon Resistance Booster III",
+      "volume": 1.0,
+      "groupID": 303,
+      "groupName": "Booster",
+      "categoryID": 20,
+      "categoryName": "Implant"
+    },
+    {
+      "typeID": 96574,
+      "name": "Tetrimon Resistance Booster IV",
+      "volume": 1.0,
+      "groupID": 303,
+      "groupName": "Booster",
+      "categoryID": 20,
+      "categoryName": "Implant"
     },
     {
       "typeID": 85178,
@@ -219448,6 +220852,15 @@
       "categoryName": "Implant"
     },
     {
+      "typeID": 97649,
+      "name": "Totality Day Celebration Crate",
+      "volume": 4.0,
+      "groupID": 1194,
+      "groupName": "Special Edition Commodities",
+      "categoryID": 63,
+      "categoryName": "Special Edition Assets"
+    },
+    {
       "typeID": 3719,
       "name": "Tourists",
       "volume": 1.0,
@@ -220096,6 +221509,24 @@
       "categoryName": "Commodity"
     },
     {
+      "typeID": 96810,
+      "name": "Triglavian Collective - Limited",
+      "volume": 0.1,
+      "groupID": 4726,
+      "groupName": "Ship SKIN Design Element",
+      "categoryID": 2118,
+      "categoryName": "Personalization"
+    },
+    {
+      "typeID": 96812,
+      "name": "Triglavian Collective - Unlimited",
+      "volume": 0.1,
+      "groupID": 4726,
+      "groupName": "Ship SKIN Design Element",
+      "categoryID": 2118,
+      "categoryName": "Personalization"
+    },
+    {
       "typeID": 53025,
       "name": "Triglavian Dreadnought Wreck",
       "volume": 27500.0,
@@ -220166,6 +221597,15 @@
       "groupName": "Effect Beacon",
       "categoryID": 2,
       "categoryName": "Celestial"
+    },
+    {
+      "typeID": 97659,
+      "name": "Triglavian Pilot",
+      "volume": 1.0,
+      "groupID": 4091,
+      "groupName": "Standard Expert Systems",
+      "categoryID": 2100,
+      "categoryName": "Expert Systems"
     },
     {
       "typeID": 52307,
@@ -220501,6 +221941,24 @@
       "categoryName": "Commodity"
     },
     {
+      "typeID": 96817,
+      "name": "Trinary Complex - Limited",
+      "volume": 0.1,
+      "groupID": 4726,
+      "groupName": "Ship SKIN Design Element",
+      "categoryID": 2118,
+      "categoryName": "Personalization"
+    },
+    {
+      "typeID": 96818,
+      "name": "Trinary Complex - Unlimited",
+      "volume": 0.1,
+      "groupID": 4726,
+      "groupName": "Ship SKIN Design Element",
+      "categoryID": 2118,
+      "categoryName": "Personalization"
+    },
+    {
       "typeID": 11066,
       "name": "Trinary Data",
       "volume": 0.1,
@@ -220508,6 +221966,24 @@
       "groupName": "Miscellaneous",
       "categoryID": 17,
       "categoryName": "Commodity"
+    },
+    {
+      "typeID": 96822,
+      "name": "Trinary Echo - Limited",
+      "volume": 0.1,
+      "groupID": 4726,
+      "groupName": "Ship SKIN Design Element",
+      "categoryID": 2118,
+      "categoryName": "Personalization"
+    },
+    {
+      "typeID": 96823,
+      "name": "Trinary Echo - Unlimited",
+      "volume": 0.1,
+      "groupID": 4726,
+      "groupName": "Ship SKIN Design Element",
+      "categoryID": 2118,
+      "categoryName": "Personalization"
     },
     {
       "typeID": 52313,
@@ -225370,6 +226846,15 @@
       "categoryName": "Commodity"
     },
     {
+      "typeID": 97639,
+      "name": "Unstable Capital Remote Armor Repairer Mutaplasmid",
+      "volume": 1.0,
+      "groupID": 1964,
+      "groupName": "Mutaplasmids",
+      "categoryID": 17,
+      "categoryName": "Commodity"
+    },
+    {
       "typeID": 56286,
       "name": "Unstable Capital Shield Booster Mutaplasmid",
       "volume": 1.0,
@@ -225586,6 +227071,15 @@
       "categoryName": "Commodity"
     },
     {
+      "typeID": 97651,
+      "name": "Unstable Large Remote Armor Repairer Mutaplasmid",
+      "volume": 1.0,
+      "groupID": 1964,
+      "groupName": "Mutaplasmids",
+      "categoryID": 17,
+      "categoryName": "Commodity"
+    },
+    {
       "typeID": 47787,
       "name": "Unstable Large Shield Booster Mutaplasmid",
       "volume": 1.0,
@@ -225705,6 +227199,15 @@
     {
       "typeID": 84427,
       "name": "Unstable Medium Proton Smartbomb Mutaplasmid",
+      "volume": 1.0,
+      "groupID": 1964,
+      "groupName": "Mutaplasmids",
+      "categoryID": 17,
+      "categoryName": "Commodity"
+    },
+    {
+      "typeID": 97662,
+      "name": "Unstable Medium Remote Armor Repairer Mutaplasmid",
       "volume": 1.0,
       "groupID": 1964,
       "groupName": "Mutaplasmids",
@@ -225858,6 +227361,15 @@
     {
       "typeID": 84431,
       "name": "Unstable Small Proton Smartbomb Mutaplasmid",
+      "volume": 1.0,
+      "groupID": 1964,
+      "groupName": "Mutaplasmids",
+      "categoryID": 17,
+      "categoryName": "Commodity"
+    },
+    {
+      "typeID": 97670,
+      "name": "Unstable Small Remote Armor Repairer Mutaplasmid",
       "volume": 1.0,
       "groupID": 1964,
       "groupName": "Mutaplasmids",
@@ -228448,6 +229960,15 @@
       "categoryName": "SKINs"
     },
     {
+      "typeID": 97422,
+      "name": "Vedmak Blood Raiders Crimson Mark SKIN",
+      "volume": 0.01,
+      "groupID": 1950,
+      "groupName": "Permanent SKIN",
+      "categoryID": 91,
+      "categoryName": "SKINs"
+    },
+    {
       "typeID": 47967,
       "name": "Vedmak Blueprint",
       "volume": 0.01,
@@ -228576,6 +230097,15 @@
     {
       "typeID": 48650,
       "name": "Vedmak Singularity Storm SKIN",
+      "volume": 0.01,
+      "groupID": 1950,
+      "groupName": "Permanent SKIN",
+      "categoryID": 91,
+      "categoryName": "SKINs"
+    },
+    {
+      "typeID": 97440,
+      "name": "Vedmak Tetrimon Crimson Mark SKIN",
       "volume": 0.01,
       "groupID": 1950,
       "groupName": "Permanent SKIN",
@@ -243397,6 +244927,15 @@
       "categoryName": "SKINs"
     },
     {
+      "typeID": 97428,
+      "name": "Zarmazd Blood Raiders Crimson Mark SKIN",
+      "volume": 0.01,
+      "groupID": 1950,
+      "groupName": "Permanent SKIN",
+      "categoryID": 91,
+      "categoryName": "SKINs"
+    },
+    {
       "typeID": 49717,
       "name": "Zarmazd Blueprint",
       "volume": 0.01,
@@ -243426,6 +244965,15 @@
     {
       "typeID": 50143,
       "name": "Zarmazd Metamateria Exotica SKIN",
+      "volume": 0.01,
+      "groupID": 1950,
+      "groupName": "Permanent SKIN",
+      "categoryID": 91,
+      "categoryName": "SKINs"
+    },
+    {
+      "typeID": 97441,
+      "name": "Zarmazd Tetrimon Crimson Mark SKIN",
       "volume": 0.01,
       "groupID": 1950,
       "groupName": "Permanent SKIN",
@@ -243973,6 +245521,15 @@
       "categoryName": "SKINs"
     },
     {
+      "typeID": 97434,
+      "name": "Zirnitra Tetrimon Crimson Mark SKIN",
+      "volume": 0.01,
+      "groupID": 1950,
+      "groupName": "Permanent SKIN",
+      "categoryID": 91,
+      "categoryName": "SKINs"
+    },
+    {
       "typeID": 83660,
       "name": "Zohar's Modified Signature Radius Suppressor",
       "volume": 5.0,
@@ -244088,6 +245645,33 @@
       "groupName": "Precursor Weapon Blueprint",
       "categoryID": 9,
       "categoryName": "Blueprint"
+    },
+    {
+      "typeID": 97712,
+      "name": "Zorya’s Ultratidal Entropic Disintegrator",
+      "volume": 1600.0,
+      "groupID": 1986,
+      "groupName": "Precursor Weapon",
+      "categoryID": 7,
+      "categoryName": "Module"
+    },
+    {
+      "typeID": 97718,
+      "name": "Zorya’s Ultratidal Entropic Disintegrator Blueprint",
+      "volume": 0.01,
+      "groupID": 1990,
+      "groupName": "Precursor Weapon Blueprint",
+      "categoryID": 9,
+      "categoryName": "Blueprint"
+    },
+    {
+      "typeID": 97721,
+      "name": "Zorya’s Ultratidal Entropic Disintegrator Blueprint Crate",
+      "volume": 1.0,
+      "groupID": 1194,
+      "groupName": "Special Edition Commodities",
+      "categoryID": 63,
+      "categoryName": "Special Edition Assets"
     },
     {
       "typeID": 28626,
