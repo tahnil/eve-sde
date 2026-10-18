@@ -101459,12 +101459,21 @@
     },
     {
       "typeID": 97711,
-      "name": "Horm’s Capital Energy Neutralizer",
+      "name": "Horm's Capital Energy Neutralizer",
       "volume": 4000.0,
       "groupID": 71,
       "groupName": "Energy Neutralizer",
       "categoryID": 7,
       "categoryName": "Module"
+    },
+    {
+      "typeID": 97720,
+      "name": "Horm's Capital Energy Neutralizer Blueprint Crate",
+      "volume": 1.0,
+      "groupID": 1194,
+      "groupName": "Special Edition Commodities",
+      "categoryID": 63,
+      "categoryName": "Special Edition Assets"
     },
     {
       "typeID": 97717,
@@ -101474,15 +101483,6 @@
       "groupName": "Energy Neutralizer Blueprint",
       "categoryID": 9,
       "categoryName": "Blueprint"
-    },
-    {
-      "typeID": 97720,
-      "name": "Horm’s Capital Energy Neutralizer Blueprint Crate",
-      "volume": 1.0,
-      "groupID": 1194,
-      "groupName": "Special Edition Commodities",
-      "categoryID": 63,
-      "categoryName": "Special Edition Assets"
     },
     {
       "typeID": 23707,
@@ -185447,12 +185447,21 @@
     },
     {
       "typeID": 97710,
-      "name": "Sarikusa’s Capital Energy Nosferatu",
+      "name": "Sarikusa's Capital Energy Nosferatu",
       "volume": 4000.0,
       "groupID": 68,
       "groupName": "Energy Nosferatu",
       "categoryID": 7,
       "categoryName": "Module"
+    },
+    {
+      "typeID": 97719,
+      "name": "Sarikusa's Capital Energy Nosferatu Blueprint Crate",
+      "volume": 1.0,
+      "groupID": 1194,
+      "groupName": "Special Edition Commodities",
+      "categoryID": 63,
+      "categoryName": "Special Edition Assets"
     },
     {
       "typeID": 97716,
@@ -185462,15 +185471,6 @@
       "groupName": "Energy Nosferatu Blueprint",
       "categoryID": 9,
       "categoryName": "Blueprint"
-    },
-    {
-      "typeID": 97719,
-      "name": "Sarikusa’s Capital Energy Nosferatu Blueprint Crate",
-      "volume": 1.0,
-      "groupID": 1194,
-      "groupName": "Special Edition Commodities",
-      "categoryID": 63,
-      "categoryName": "Special Edition Assets"
     },
     {
       "typeID": 54164,
@@ -245648,12 +245648,21 @@
     },
     {
       "typeID": 97712,
-      "name": "Zorya’s Ultratidal Entropic Disintegrator",
+      "name": "Zorya's Ultratidal Entropic Disintegrator",
       "volume": 1600.0,
       "groupID": 1986,
       "groupName": "Precursor Weapon",
       "categoryID": 7,
       "categoryName": "Module"
+    },
+    {
+      "typeID": 97721,
+      "name": "Zorya's Ultratidal Entropic Disintegrator Blueprint Crate",
+      "volume": 1.0,
+      "groupID": 1194,
+      "groupName": "Special Edition Commodities",
+      "categoryID": 63,
+      "categoryName": "Special Edition Assets"
     },
     {
       "typeID": 97718,
@@ -245663,15 +245672,6 @@
       "groupName": "Precursor Weapon Blueprint",
       "categoryID": 9,
       "categoryName": "Blueprint"
-    },
-    {
-      "typeID": 97721,
-      "name": "Zorya’s Ultratidal Entropic Disintegrator Blueprint Crate",
-      "volume": 1.0,
-      "groupID": 1194,
-      "groupName": "Special Edition Commodities",
-      "categoryID": 63,
-      "categoryName": "Special Edition Assets"
     },
     {
       "typeID": 28626,
