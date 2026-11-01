@@ -1,22 +1,22 @@
 {
   "metadata": {
     "source": "EVE Online SDE",
-    "itemCount": 27309,
+    "itemCount": 27319,
     "categoryCount": 37,
-    "itemsWithZeroVolume": 962,
+    "itemsWithZeroVolume": 966,
     "categories": {
       "Module": 3984,
       "Blueprint": 4176,
       "Drone": 154,
-      "Special Edition Assets": 658,
+      "Special Edition Assets": 659,
       "Commodity": 2873,
       "Structure": 18,
       "Deployable": 44,
-      "Apparel": 988,
+      "Apparel": 989,
       "Accessories": 77,
-      "Personalization": 1897,
-      "Ship": 424,
-      "SKINs": 7136,
+      "Personalization": 1901,
+      "Ship": 426,
+      "SKINs": 7138,
       "Charge": 1017,
       "Skill": 512,
       "Decryptors": 44,
@@ -9595,6 +9595,15 @@
       "categoryName": "Personalization"
     },
     {
+      "typeID": 98268,
+      "name": "Akoman Sanguinary Savant SKIN",
+      "volume": 0.01,
+      "groupID": 1950,
+      "groupName": "Permanent SKIN",
+      "categoryID": 91,
+      "categoryName": "SKINs"
+    },
+    {
       "typeID": 17801,
       "name": "Akori's Insignia",
       "volume": 0.1,
@@ -11312,6 +11321,15 @@
       "groupName": "Miscellaneous",
       "categoryID": 17,
       "categoryName": "Commodity"
+    },
+    {
+      "typeID": 98484,
+      "name": "Amarr Victory SKIN",
+      "volume": 0.01,
+      "groupID": 1950,
+      "groupName": "Permanent SKIN",
+      "categoryID": 91,
+      "categoryName": "SKINs"
     },
     {
       "typeID": 22792,
@@ -24940,13 +24958,13 @@
       "categoryName": "Charge"
     },
     {
-      "typeID": 97897,
-      "name": "Blood Raider Background",
-      "volume": 0.1,
-      "groupID": 5082,
-      "groupName": "Portrait Backgrounds",
-      "categoryID": 30,
-      "categoryName": "Apparel"
+      "typeID": 98145,
+      "name": "Blood Raider Blueprint Crate",
+      "volume": 1.0,
+      "groupID": 1194,
+      "groupName": "Special Edition Commodities",
+      "categoryID": 63,
+      "categoryName": "Special Edition Assets"
     },
     {
       "typeID": 45678,
@@ -25352,6 +25370,15 @@
       "groupName": "Ship SKIN Design Element",
       "categoryID": 2118,
       "categoryName": "Personalization"
+    },
+    {
+      "typeID": 97897,
+      "name": "Bloody Sunset Background",
+      "volume": 0.1,
+      "groupID": 5082,
+      "groupName": "Portrait Backgrounds",
+      "categoryID": 30,
+      "categoryName": "Apparel"
     },
     {
       "typeID": 82393,
@@ -53927,6 +53954,15 @@
       "groupName": "Special Edition Commodities",
       "categoryID": 63,
       "categoryName": "Special Edition Assets"
+    },
+    {
+      "typeID": 98147,
+      "name": "Crimson Totality Background",
+      "volume": 0.1,
+      "groupID": 5082,
+      "groupName": "Portrait Backgrounds",
+      "categoryID": 30,
+      "categoryName": "Apparel"
     },
     {
       "typeID": 87801,
@@ -98740,6 +98776,33 @@
       "categoryName": "Asteroid"
     },
     {
+      "typeID": 97793,
+      "name": "Herald",
+      "volume": 28100.0,
+      "groupID": 893,
+      "groupName": "Electronic Attack Ship",
+      "categoryID": 6,
+      "categoryName": "Ship"
+    },
+    {
+      "typeID": 98139,
+      "name": "Herald Alliance Emblem",
+      "volume": 0,
+      "groupID": 4471,
+      "groupName": "Ship Emblems",
+      "categoryID": 2118,
+      "categoryName": "Personalization"
+    },
+    {
+      "typeID": 98138,
+      "name": "Herald Corporation Emblem",
+      "volume": 0,
+      "groupID": 4471,
+      "groupName": "Ship Emblems",
+      "categoryID": 2118,
+      "categoryName": "Personalization"
+    },
+    {
       "typeID": 3008,
       "name": "Herd of Conditioned House Slaves",
       "volume": 300.0,
@@ -123040,7 +123103,7 @@
       "categoryName": "SKINs"
     },
     {
-      "typeID": 97424,
+      "typeID": 97431,
       "name": "Leshak Blood Raiders Crimson Mark SKIN",
       "volume": 0.01,
       "groupID": 1950,
@@ -123193,7 +123256,7 @@
       "categoryName": "SKINs"
     },
     {
-      "typeID": 97431,
+      "typeID": 97424,
       "name": "Leshak Tetrimon Crimson Mark SKIN",
       "volume": 0.01,
       "groupID": 1950,
@@ -162503,6 +162566,33 @@
       "groupName": "Special Edition Commodities",
       "categoryID": 63,
       "categoryName": "Special Edition Assets"
+    },
+    {
+      "typeID": 97904,
+      "name": "Penitence",
+      "volume": 118000.0,
+      "groupID": 906,
+      "groupName": "Combat Recon Ship",
+      "categoryID": 6,
+      "categoryName": "Ship"
+    },
+    {
+      "typeID": 98141,
+      "name": "Penitence Alliance Emblem",
+      "volume": 0,
+      "groupID": 4471,
+      "groupName": "Ship Emblems",
+      "categoryID": 2118,
+      "categoryName": "Personalization"
+    },
+    {
+      "typeID": 98140,
+      "name": "Penitence Corporation Emblem",
+      "volume": 0,
+      "groupID": 4471,
+      "groupName": "Ship Emblems",
+      "categoryID": 2118,
+      "categoryName": "Personalization"
     },
     {
       "typeID": 81069,
