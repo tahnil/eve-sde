@@ -1,9 +1,9 @@
 {
   "metadata": {
     "source": "EVE Online SDE",
-    "itemCount": 27319,
+    "itemCount": 27324,
     "categoryCount": 37,
-    "itemsWithZeroVolume": 966,
+    "itemsWithZeroVolume": 970,
     "categories": {
       "Module": 3984,
       "Blueprint": 4176,
@@ -12,7 +12,7 @@
       "Commodity": 2873,
       "Structure": 18,
       "Deployable": 44,
-      "Apparel": 989,
+      "Apparel": 994,
       "Accessories": 77,
       "Personalization": 1901,
       "Ship": 426,
@@ -10304,6 +10304,42 @@
       "groupName": "Special Edition Commodities",
       "categoryID": 63,
       "categoryName": "Special Edition Assets"
+    },
+    {
+      "typeID": 98521,
+      "name": "Alliance Tournament XXII Background",
+      "volume": 0,
+      "groupID": 5082,
+      "groupName": "Portrait Backgrounds",
+      "categoryID": 30,
+      "categoryName": "Apparel"
+    },
+    {
+      "typeID": 98522,
+      "name": "Alliance Tournament XXII Bronze Background",
+      "volume": 0,
+      "groupID": 5082,
+      "groupName": "Portrait Backgrounds",
+      "categoryID": 30,
+      "categoryName": "Apparel"
+    },
+    {
+      "typeID": 98524,
+      "name": "Alliance Tournament XXII Gold Background",
+      "volume": 1.0,
+      "groupID": 5082,
+      "groupName": "Portrait Backgrounds",
+      "categoryID": 30,
+      "categoryName": "Apparel"
+    },
+    {
+      "typeID": 98523,
+      "name": "Alliance Tournament XXII Silver Background",
+      "volume": 0,
+      "groupID": 5082,
+      "groupName": "Portrait Backgrounds",
+      "categoryID": 30,
+      "categoryName": "Apparel"
     },
     {
       "typeID": 78366,
@@ -29420,6 +29456,15 @@
       "groupName": "Special Edition Commodities",
       "categoryID": 63,
       "categoryName": "Special Edition Assets"
+    },
+    {
+      "typeID": 98270,
+      "name": "CSM 21 Voter Background",
+      "volume": 0,
+      "groupID": 5082,
+      "groupName": "Portrait Backgrounds",
+      "categoryID": 30,
+      "categoryName": "Apparel"
     },
     {
       "typeID": 34771,
