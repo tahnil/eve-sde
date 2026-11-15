@@ -1,9 +1,9 @@
 {
   "metadata": {
     "source": "EVE Online SDE",
-    "oreCount": 460,
+    "oreCount": 476,
     "mineralCount": 15,
-    "reprocessingCount": 320
+    "reprocessingCount": 336
   },
   "ores": [
     {
@@ -427,6 +427,34 @@
       "compressed": false
     },
     {
+      "typeID": 92568,
+      "name": "Flawed Kangite",
+      "volume": 1.0,
+      "groupID": 5086,
+      "compressed": false
+    },
+    {
+      "typeID": 92567,
+      "name": "Flawed Moissanite",
+      "volume": 1.0,
+      "groupID": 5085,
+      "compressed": false
+    },
+    {
+      "typeID": 92566,
+      "name": "Flawed Polycrase",
+      "volume": 1.0,
+      "groupID": 5084,
+      "compressed": false
+    },
+    {
+      "typeID": 92565,
+      "name": "Flawed Raspite",
+      "volume": 1.0,
+      "groupID": 5083,
+      "compressed": false
+    },
+    {
       "typeID": 16268,
       "name": "Gelidus",
       "volume": 1000.0,
@@ -700,8 +728,15 @@
       "compressed": false
     },
     {
-      "typeID": 92568,
+      "typeID": 97562,
       "name": "Kangite X-Grade",
+      "volume": 1.0,
+      "groupID": 5086,
+      "compressed": false
+    },
+    {
+      "typeID": 96290,
+      "name": "Kangite Z-Grade",
       "volume": 1.0,
       "groupID": 5086,
       "compressed": false
@@ -840,8 +875,15 @@
       "compressed": false
     },
     {
-      "typeID": 92567,
+      "typeID": 97561,
       "name": "Moissanite X-Grade",
+      "volume": 1.0,
+      "groupID": 5085,
+      "compressed": false
+    },
+    {
+      "typeID": 96289,
+      "name": "Moissanite Z-Grade",
       "volume": 1.0,
       "groupID": 5085,
       "compressed": false
@@ -1015,8 +1057,15 @@
       "compressed": false
     },
     {
-      "typeID": 92566,
+      "typeID": 97560,
       "name": "Polycrase X-Grade",
+      "volume": 1.0,
+      "groupID": 5084,
+      "compressed": false
+    },
+    {
+      "typeID": 96288,
+      "name": "Polycrase Z-Grade",
       "volume": 1.0,
       "groupID": 5084,
       "compressed": false
@@ -1085,8 +1134,15 @@
       "compressed": false
     },
     {
-      "typeID": 92565,
+      "typeID": 97559,
       "name": "Raspite X-Grade",
+      "volume": 1.0,
+      "groupID": 5083,
+      "compressed": false
+    },
+    {
+      "typeID": 96286,
+      "name": "Raspite Z-Grade",
       "volume": 1.0,
       "groupID": 5083,
       "compressed": false
@@ -2282,6 +2338,34 @@
       "compressed": true
     },
     {
+      "typeID": 92821,
+      "name": "Compressed Flawed Kangite",
+      "volume": 0.01,
+      "groupID": 5086,
+      "compressed": true
+    },
+    {
+      "typeID": 92820,
+      "name": "Compressed Flawed Moissanite",
+      "volume": 0.01,
+      "groupID": 5085,
+      "compressed": true
+    },
+    {
+      "typeID": 92819,
+      "name": "Compressed Flawed Polycrase",
+      "volume": 0.01,
+      "groupID": 5084,
+      "compressed": true
+    },
+    {
+      "typeID": 92818,
+      "name": "Compressed Flawed Raspite",
+      "volume": 0.01,
+      "groupID": 5083,
+      "compressed": true
+    },
+    {
       "typeID": 28437,
       "name": "Compressed Gelidus",
       "volume": 100.0,
@@ -2534,8 +2618,15 @@
       "compressed": true
     },
     {
-      "typeID": 92821,
+      "typeID": 97570,
       "name": "Compressed Kangite X-Grade",
+      "volume": 0.01,
+      "groupID": 5086,
+      "compressed": true
+    },
+    {
+      "typeID": 96294,
+      "name": "Compressed Kangite Z-Grade",
       "volume": 0.01,
       "groupID": 5086,
       "compressed": true
@@ -2660,8 +2751,15 @@
       "compressed": true
     },
     {
-      "typeID": 92820,
+      "typeID": 97569,
       "name": "Compressed Moissanite X-Grade",
+      "volume": 0.01,
+      "groupID": 5085,
+      "compressed": true
+    },
+    {
+      "typeID": 96293,
+      "name": "Compressed Moissanite Z-Grade",
       "volume": 0.01,
       "groupID": 5085,
       "compressed": true
@@ -2800,8 +2898,15 @@
       "compressed": true
     },
     {
-      "typeID": 92819,
+      "typeID": 97566,
       "name": "Compressed Polycrase X-Grade",
+      "volume": 0.01,
+      "groupID": 5084,
+      "compressed": true
+    },
+    {
+      "typeID": 96292,
+      "name": "Compressed Polycrase Z-Grade",
       "volume": 0.01,
       "groupID": 5084,
       "compressed": true
@@ -2856,8 +2961,15 @@
       "compressed": true
     },
     {
-      "typeID": 92818,
+      "typeID": 97564,
       "name": "Compressed Raspite X-Grade",
+      "volume": 0.01,
+      "groupID": 5083,
+      "compressed": true
+    },
+    {
+      "typeID": 96291,
+      "name": "Compressed Raspite Z-Grade",
       "volume": 0.01,
       "groupID": 5083,
       "compressed": true
@@ -3229,29 +3341,29 @@
   ],
   "minerals": [
     {
+      "typeID": 97515,
+      "name": "Aberrant Kangite",
+      "volume": 0.01
+    },
+    {
+      "typeID": 97514,
+      "name": "Aberrant Moissanite",
+      "volume": 0.01
+    },
+    {
+      "typeID": 97513,
+      "name": "Aberrant Polycrase",
+      "volume": 0.01
+    },
+    {
+      "typeID": 97512,
+      "name": "Aberrant Raspite",
+      "volume": 0.01
+    },
+    {
       "typeID": 48927,
       "name": "Chromodynamic Tricarboxyls",
       "volume": 1.0
-    },
-    {
-      "typeID": 92572,
-      "name": "Crystalline Kangite",
-      "volume": 0.01
-    },
-    {
-      "typeID": 92571,
-      "name": "Crystalline Moissanite",
-      "volume": 0.01
-    },
-    {
-      "typeID": 92570,
-      "name": "Crystalline Polycrase",
-      "volume": 0.01
-    },
-    {
-      "typeID": 92569,
-      "name": "Crystalline Raspite",
-      "volume": 0.01
     },
     {
       "typeID": 88087,
@@ -6751,10 +6863,6 @@
       {
         "mineralID": 35,
         "quantity": 750
-      },
-      {
-        "mineralID": 92569,
-        "quantity": 10
       }
     ],
     "92566": [
@@ -6765,10 +6873,6 @@
       {
         "mineralID": 35,
         "quantity": 750
-      },
-      {
-        "mineralID": 92570,
-        "quantity": 10
       }
     ],
     "92567": [
@@ -6779,10 +6883,6 @@
       {
         "mineralID": 35,
         "quantity": 750
-      },
-      {
-        "mineralID": 92571,
-        "quantity": 10
       }
     ],
     "92568": [
@@ -6793,10 +6893,6 @@
       {
         "mineralID": 35,
         "quantity": 750
-      },
-      {
-        "mineralID": 92572,
-        "quantity": 10
       }
     ],
     "92818": [
@@ -6807,10 +6903,6 @@
       {
         "mineralID": 35,
         "quantity": 750
-      },
-      {
-        "mineralID": 92569,
-        "quantity": 10
       }
     ],
     "92819": [
@@ -6821,10 +6913,6 @@
       {
         "mineralID": 35,
         "quantity": 750
-      },
-      {
-        "mineralID": 92570,
-        "quantity": 10
       }
     ],
     "92820": [
@@ -6835,10 +6923,6 @@
       {
         "mineralID": 35,
         "quantity": 750
-      },
-      {
-        "mineralID": 92571,
-        "quantity": 10
       }
     ],
     "92821": [
@@ -6849,10 +6933,6 @@
       {
         "mineralID": 35,
         "quantity": 750
-      },
-      {
-        "mineralID": 92572,
-        "quantity": 10
       }
     ],
     "95395": [
@@ -6863,6 +6943,230 @@
       {
         "mineralID": 36,
         "quantity": 15
+      }
+    ],
+    "96286": [
+      {
+        "mineralID": 36,
+        "quantity": 75
+      },
+      {
+        "mineralID": 38,
+        "quantity": 25
+      },
+      {
+        "mineralID": 97512,
+        "quantity": 25
+      }
+    ],
+    "96288": [
+      {
+        "mineralID": 36,
+        "quantity": 75
+      },
+      {
+        "mineralID": 38,
+        "quantity": 25
+      },
+      {
+        "mineralID": 97513,
+        "quantity": 25
+      }
+    ],
+    "96289": [
+      {
+        "mineralID": 36,
+        "quantity": 75
+      },
+      {
+        "mineralID": 38,
+        "quantity": 25
+      },
+      {
+        "mineralID": 97514,
+        "quantity": 25
+      }
+    ],
+    "96290": [
+      {
+        "mineralID": 36,
+        "quantity": 75
+      },
+      {
+        "mineralID": 38,
+        "quantity": 25
+      },
+      {
+        "mineralID": 97515,
+        "quantity": 25
+      }
+    ],
+    "96291": [
+      {
+        "mineralID": 36,
+        "quantity": 75
+      },
+      {
+        "mineralID": 38,
+        "quantity": 25
+      },
+      {
+        "mineralID": 97512,
+        "quantity": 25
+      }
+    ],
+    "96292": [
+      {
+        "mineralID": 36,
+        "quantity": 75
+      },
+      {
+        "mineralID": 38,
+        "quantity": 25
+      },
+      {
+        "mineralID": 97513,
+        "quantity": 25
+      }
+    ],
+    "96293": [
+      {
+        "mineralID": 36,
+        "quantity": 75
+      },
+      {
+        "mineralID": 38,
+        "quantity": 25
+      },
+      {
+        "mineralID": 97514,
+        "quantity": 25
+      }
+    ],
+    "96294": [
+      {
+        "mineralID": 36,
+        "quantity": 75
+      },
+      {
+        "mineralID": 38,
+        "quantity": 25
+      },
+      {
+        "mineralID": 97515,
+        "quantity": 25
+      }
+    ],
+    "97559": [
+      {
+        "mineralID": 34,
+        "quantity": 1000
+      },
+      {
+        "mineralID": 35,
+        "quantity": 750
+      },
+      {
+        "mineralID": 97512,
+        "quantity": 10
+      }
+    ],
+    "97560": [
+      {
+        "mineralID": 34,
+        "quantity": 1000
+      },
+      {
+        "mineralID": 35,
+        "quantity": 750
+      },
+      {
+        "mineralID": 97513,
+        "quantity": 10
+      }
+    ],
+    "97561": [
+      {
+        "mineralID": 34,
+        "quantity": 1000
+      },
+      {
+        "mineralID": 35,
+        "quantity": 750
+      },
+      {
+        "mineralID": 97514,
+        "quantity": 10
+      }
+    ],
+    "97562": [
+      {
+        "mineralID": 34,
+        "quantity": 1000
+      },
+      {
+        "mineralID": 35,
+        "quantity": 750
+      },
+      {
+        "mineralID": 97515,
+        "quantity": 10
+      }
+    ],
+    "97564": [
+      {
+        "mineralID": 34,
+        "quantity": 1000
+      },
+      {
+        "mineralID": 35,
+        "quantity": 750
+      },
+      {
+        "mineralID": 97512,
+        "quantity": 10
+      }
+    ],
+    "97566": [
+      {
+        "mineralID": 34,
+        "quantity": 1000
+      },
+      {
+        "mineralID": 35,
+        "quantity": 750
+      },
+      {
+        "mineralID": 97513,
+        "quantity": 10
+      }
+    ],
+    "97569": [
+      {
+        "mineralID": 34,
+        "quantity": 1000
+      },
+      {
+        "mineralID": 35,
+        "quantity": 750
+      },
+      {
+        "mineralID": 97514,
+        "quantity": 10
+      }
+    ],
+    "97570": [
+      {
+        "mineralID": 34,
+        "quantity": 1000
+      },
+      {
+        "mineralID": 35,
+        "quantity": 750
+      },
+      {
+        "mineralID": 97515,
+        "quantity": 10
       }
     ]
   }

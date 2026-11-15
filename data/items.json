@@ -1,30 +1,30 @@
 {
   "metadata": {
     "source": "EVE Online SDE",
-    "itemCount": 27324,
+    "itemCount": 27490,
     "categoryCount": 37,
-    "itemsWithZeroVolume": 970,
+    "itemsWithZeroVolume": 979,
     "categories": {
-      "Module": 3984,
-      "Blueprint": 4176,
+      "Module": 4020,
+      "Blueprint": 4211,
       "Drone": 154,
-      "Special Edition Assets": 659,
-      "Commodity": 2873,
+      "Special Edition Assets": 685,
+      "Commodity": 2874,
       "Structure": 18,
-      "Deployable": 44,
-      "Apparel": 994,
+      "Deployable": 45,
+      "Apparel": 999,
       "Accessories": 77,
-      "Personalization": 1901,
-      "Ship": 426,
-      "SKINs": 7138,
+      "Personalization": 1943,
+      "Ship": 430,
+      "SKINs": 7167,
+      "Material": 269,
       "Charge": 1017,
-      "Skill": 512,
+      "Skill": 513,
       "Decryptors": 44,
-      "Asteroid": 460,
-      "Implant": 1338,
+      "Asteroid": 476,
+      "Implant": 1308,
       "Starbase": 195,
       "Infrastructure Upgrades": 73,
-      "Material": 269,
       "Expert Systems": 38,
       "Celestial": 226,
       "Fighter": 94,
@@ -3043,6 +3043,42 @@
       "categoryName": "Blueprint"
     },
     {
+      "typeID": 93145,
+      "name": "'Pluto' Ice Harvesting Drone",
+      "volume": 1100.0,
+      "groupID": 101,
+      "groupName": "Mining Drone",
+      "categoryID": 18,
+      "categoryName": "Drone"
+    },
+    {
+      "typeID": 93146,
+      "name": "'Pluto' Ice Harvesting Drone Blueprint",
+      "volume": 0.01,
+      "groupID": 177,
+      "groupName": "Mining Drone Blueprint",
+      "categoryID": 9,
+      "categoryName": "Blueprint"
+    },
+    {
+      "typeID": 93143,
+      "name": "'Pluto' Mining Drone",
+      "volume": 1100.0,
+      "groupID": 101,
+      "groupName": "Mining Drone",
+      "categoryID": 18,
+      "categoryName": "Drone"
+    },
+    {
+      "typeID": 93144,
+      "name": "'Pluto' Mining Drone Blueprint",
+      "volume": 0.01,
+      "groupID": 177,
+      "groupName": "Mining Drone Blueprint",
+      "categoryID": 9,
+      "categoryName": "Blueprint"
+    },
+    {
       "typeID": 20639,
       "name": "'Poacher' EM Shield Hardener",
       "volume": 5.0,
@@ -3615,6 +3651,42 @@
       "volume": 5.0,
       "groupID": 72,
       "groupName": "Smart Bomb",
+      "categoryID": 7,
+      "categoryName": "Module"
+    },
+    {
+      "typeID": 97982,
+      "name": "'Vigilant' Vital Cap Recharger",
+      "volume": 5.0,
+      "groupID": 43,
+      "groupName": "Capacitor Recharger",
+      "categoryID": 7,
+      "categoryName": "Module"
+    },
+    {
+      "typeID": 97976,
+      "name": "'Vigilant' Vital Drone Navigation Computer",
+      "volume": 25.0,
+      "groupID": 644,
+      "groupName": "Drone Navigation Computer",
+      "categoryID": 7,
+      "categoryName": "Module"
+    },
+    {
+      "typeID": 97974,
+      "name": "'Vigilant' Vital Overdrive Injector System",
+      "volume": 5.0,
+      "groupID": 764,
+      "groupName": "Overdrive Injector System",
+      "categoryID": 7,
+      "categoryName": "Module"
+    },
+    {
+      "typeID": 97975,
+      "name": "'Vigilant' Vital Shield Boost Amplifier",
+      "volume": 5.0,
+      "groupID": 338,
+      "groupName": "Shield Boost Amplifier",
       "categoryID": 7,
       "categoryName": "Module"
     },
@@ -7255,6 +7327,15 @@
       "categoryName": "SKINs"
     },
     {
+      "typeID": 97773,
+      "name": "Abaddon Penumbral Shadows SKIN",
+      "volume": 0.01,
+      "groupID": 1950,
+      "groupName": "Permanent SKIN",
+      "categoryID": 91,
+      "categoryName": "SKINs"
+    },
+    {
       "typeID": 42584,
       "name": "Abaddon Purity of the Throne SKIN",
       "volume": 0.01,
@@ -7417,6 +7498,24 @@
       "categoryName": "SKINs"
     },
     {
+      "typeID": 97515,
+      "name": "Aberrant Kangite",
+      "volume": 0.01,
+      "groupID": 18,
+      "groupName": "Mineral",
+      "categoryID": 4,
+      "categoryName": "Material"
+    },
+    {
+      "typeID": 97514,
+      "name": "Aberrant Moissanite",
+      "volume": 0.01,
+      "groupID": 18,
+      "groupName": "Mineral",
+      "categoryID": 4,
+      "categoryName": "Material"
+    },
+    {
       "typeID": 88568,
       "name": "Aberrant Mynos Forked Packet",
       "volume": 0.1,
@@ -7424,6 +7523,24 @@
       "groupName": "Special Edition Commodities",
       "categoryID": 63,
       "categoryName": "Special Edition Assets"
+    },
+    {
+      "typeID": 97513,
+      "name": "Aberrant Polycrase",
+      "volume": 0.01,
+      "groupID": 18,
+      "groupName": "Mineral",
+      "categoryID": 4,
+      "categoryName": "Material"
+    },
+    {
+      "typeID": 97512,
+      "name": "Aberrant Raspite",
+      "volume": 0.01,
+      "groupID": 18,
+      "groupName": "Mineral",
+      "categoryID": 4,
+      "categoryName": "Material"
     },
     {
       "typeID": 22448,
@@ -10423,6 +10540,15 @@
       "categoryName": "SKINs"
     },
     {
+      "typeID": 97900,
+      "name": "Alligator Penumbral Shadows SKIN",
+      "volume": 0.01,
+      "groupID": 1950,
+      "groupName": "Permanent SKIN",
+      "categoryID": 91,
+      "categoryName": "SKINs"
+    },
+    {
       "typeID": 43690,
       "name": "Allotek Industries Strong Box",
       "volume": 0.1,
@@ -10630,6 +10756,24 @@
       "categoryName": "Skill"
     },
     {
+      "typeID": 98456,
+      "name": "Amarr Conquest Booster Crate",
+      "volume": 1.0,
+      "groupID": 1194,
+      "groupName": "Special Edition Commodities",
+      "categoryID": 63,
+      "categoryName": "Special Edition Assets"
+    },
+    {
+      "typeID": 97808,
+      "name": "Amarr Conquest SKINR Crate",
+      "volume": 1.0,
+      "groupID": 1194,
+      "groupName": "Special Edition Commodities",
+      "categoryID": 63,
+      "categoryName": "Special Edition Assets"
+    },
+    {
       "typeID": 12235,
       "name": "Amarr Control Tower",
       "volume": 8000.0,
@@ -10772,6 +10916,24 @@
       "groupName": "Booster",
       "categoryID": 20,
       "categoryName": "Implant"
+    },
+    {
+      "typeID": 98301,
+      "name": "Amarr Empire Emblem - Limited",
+      "volume": 0.1,
+      "groupID": 4726,
+      "groupName": "Ship SKIN Design Element",
+      "categoryID": 2118,
+      "categoryName": "Personalization"
+    },
+    {
+      "typeID": 98300,
+      "name": "Amarr Empire Emblem - Unlimited",
+      "volume": 0.1,
+      "groupID": 4726,
+      "groupName": "Ship SKIN Design Element",
+      "categoryID": 2118,
+      "categoryName": "Personalization"
     },
     {
       "typeID": 15980,
@@ -11411,6 +11573,42 @@
       "groupName": "Livestock",
       "categoryID": 17,
       "categoryName": "Commodity"
+    },
+    {
+      "typeID": 98331,
+      "name": "Amber Comet Gloss - Limited",
+      "volume": 0.1,
+      "groupID": 4726,
+      "groupName": "Ship SKIN Design Element",
+      "categoryID": 2118,
+      "categoryName": "Personalization"
+    },
+    {
+      "typeID": 98330,
+      "name": "Amber Comet Gloss - Unlimited",
+      "volume": 0.1,
+      "groupID": 4726,
+      "groupName": "Ship SKIN Design Element",
+      "categoryID": 2118,
+      "categoryName": "Personalization"
+    },
+    {
+      "typeID": 98322,
+      "name": "Amber Comet Metallic - Limited",
+      "volume": 0.1,
+      "groupID": 4726,
+      "groupName": "Ship SKIN Design Element",
+      "categoryID": 2118,
+      "categoryName": "Personalization"
+    },
+    {
+      "typeID": 98321,
+      "name": "Amber Comet Metallic - Unlimited",
+      "volume": 0.1,
+      "groupID": 4726,
+      "groupName": "Ship SKIN Design Element",
+      "categoryID": 2118,
+      "categoryName": "Personalization"
     },
     {
       "typeID": 25268,
@@ -21997,15 +22195,6 @@
       "categoryName": "Implant"
     },
     {
-      "typeID": 96542,
-      "name": "Basic 'Radiance' Cerebral Accelerator",
-      "volume": 1.0,
-      "groupID": 303,
-      "groupName": "Booster",
-      "categoryID": 20,
-      "categoryName": "Implant"
-    },
-    {
       "typeID": 57282,
       "name": "Basic Capsuleer Defense Augmentation Chip",
       "volume": 1.0,
@@ -22017,6 +22206,15 @@
     {
       "typeID": 57283,
       "name": "Basic Capsuleer Engineering Augmentation Chip",
+      "volume": 1.0,
+      "groupID": 303,
+      "groupName": "Booster",
+      "categoryID": 20,
+      "categoryName": "Implant"
+    },
+    {
+      "typeID": 97747,
+      "name": "Basic Conquest Glamourex Booster",
       "volume": 1.0,
       "groupID": 303,
       "groupName": "Booster",
@@ -23574,6 +23772,15 @@
     {
       "typeID": 53021,
       "name": "Bhaalgorn Malagrin Marshlight SKIN",
+      "volume": 0.01,
+      "groupID": 1950,
+      "groupName": "Permanent SKIN",
+      "categoryID": 91,
+      "categoryName": "SKINs"
+    },
+    {
+      "typeID": 97903,
+      "name": "Bhaalgorn Penumbral Shadows SKIN",
       "volume": 0.01,
       "groupID": 1950,
       "groupName": "Permanent SKIN",
@@ -25689,6 +25896,24 @@
     {
       "typeID": 83338,
       "name": "Boosted Mint Satin - Unlimited",
+      "volume": 0.1,
+      "groupID": 4726,
+      "groupName": "Ship SKIN Design Element",
+      "categoryID": 2118,
+      "categoryName": "Personalization"
+    },
+    {
+      "typeID": 98337,
+      "name": "Boosted Nightshade Satin - Limited",
+      "volume": 0.1,
+      "groupID": 4726,
+      "groupName": "Ship SKIN Design Element",
+      "categoryID": 2118,
+      "categoryName": "Personalization"
+    },
+    {
+      "typeID": 98336,
+      "name": "Boosted Nightshade Satin - Unlimited",
       "volume": 0.1,
       "groupID": 4726,
       "groupName": "Ship SKIN Design Element",
@@ -29872,6 +30097,24 @@
       "categoryName": "Skill"
     },
     {
+      "typeID": 98457,
+      "name": "Caldari Conquest Booster Crate",
+      "volume": 1.0,
+      "groupID": 1194,
+      "groupName": "Special Edition Commodities",
+      "categoryID": 63,
+      "categoryName": "Special Edition Assets"
+    },
+    {
+      "typeID": 97809,
+      "name": "Caldari Conquest SKINR Crate",
+      "volume": 1.0,
+      "groupID": 1194,
+      "groupName": "Special Edition Commodities",
+      "categoryID": 63,
+      "categoryName": "Special Edition Assets"
+    },
+    {
       "typeID": 16213,
       "name": "Caldari Control Tower",
       "volume": 8000.0,
@@ -31906,6 +32149,24 @@
       "categoryName": "Skill"
     },
     {
+      "typeID": 98303,
+      "name": "Caldari State Emblem - Limited",
+      "volume": 0.1,
+      "groupID": 4726,
+      "groupName": "Ship SKIN Design Element",
+      "categoryID": 2118,
+      "categoryName": "Personalization"
+    },
+    {
+      "typeID": 98302,
+      "name": "Caldari State Emblem - Unlimited",
+      "volume": 0.1,
+      "groupID": 4726,
+      "groupName": "Ship SKIN Design Element",
+      "categoryID": 2118,
+      "categoryName": "Personalization"
+    },
+    {
       "typeID": 24593,
       "name": "Caldari State Starbase Charter",
       "volume": 0.1,
@@ -32030,6 +32291,24 @@
       "groupName": "Permanent SKIN",
       "categoryID": 91,
       "categoryName": "SKINs"
+    },
+    {
+      "typeID": 98314,
+      "name": "Caliginous Glaze Metallic - Limited",
+      "volume": 0.1,
+      "groupID": 4726,
+      "groupName": "Ship SKIN Design Element",
+      "categoryID": 2118,
+      "categoryName": "Personalization"
+    },
+    {
+      "typeID": 98313,
+      "name": "Caliginous Glaze Metallic - Unlimited",
+      "volume": 0.1,
+      "groupID": 4726,
+      "groupName": "Ship SKIN Design Element",
+      "categoryID": 2118,
+      "categoryName": "Personalization"
     },
     {
       "typeID": 83272,
@@ -39646,6 +39925,24 @@
       "categoryName": "Blueprint"
     },
     {
+      "typeID": 98318,
+      "name": "Carmine Chrome Metallic - Limited",
+      "volume": 0.1,
+      "groupID": 4726,
+      "groupName": "Ship SKIN Design Element",
+      "categoryID": 2118,
+      "categoryName": "Personalization"
+    },
+    {
+      "typeID": 98317,
+      "name": "Carmine Chrome Metallic - Unlimited",
+      "volume": 0.1,
+      "groupID": 4726,
+      "groupName": "Ship SKIN Design Element",
+      "categoryID": 2118,
+      "categoryName": "Personalization"
+    },
+    {
       "typeID": 45502,
       "name": "Carnotite",
       "volume": 10.0,
@@ -42760,33 +43057,6 @@
       "categoryName": "Module"
     },
     {
-      "typeID": 96588,
-      "name": "Chemal Tech Exploration Booster I",
-      "volume": 1.0,
-      "groupID": 303,
-      "groupName": "Booster",
-      "categoryID": 20,
-      "categoryName": "Implant"
-    },
-    {
-      "typeID": 96589,
-      "name": "Chemal Tech Exploration Booster II",
-      "volume": 1.0,
-      "groupID": 303,
-      "groupName": "Booster",
-      "categoryID": 20,
-      "categoryName": "Implant"
-    },
-    {
-      "typeID": 96590,
-      "name": "Chemal Tech Exploration Booster III",
-      "volume": 1.0,
-      "groupID": 303,
-      "groupName": "Booster",
-      "categoryID": 20,
-      "categoryName": "Implant"
-    },
-    {
       "typeID": 81599,
       "name": "Chemal Tech Geneticist",
       "volume": 1.0,
@@ -42794,87 +43064,6 @@
       "groupName": "Livestock",
       "categoryID": 17,
       "categoryName": "Commodity"
-    },
-    {
-      "typeID": 96584,
-      "name": "Chemal Tech Mining Booster I",
-      "volume": 1.0,
-      "groupID": 303,
-      "groupName": "Booster",
-      "categoryID": 20,
-      "categoryName": "Implant"
-    },
-    {
-      "typeID": 96585,
-      "name": "Chemal Tech Mining Booster II",
-      "volume": 1.0,
-      "groupID": 303,
-      "groupName": "Booster",
-      "categoryID": 20,
-      "categoryName": "Implant"
-    },
-    {
-      "typeID": 96586,
-      "name": "Chemal Tech Mining Booster III",
-      "volume": 1.0,
-      "groupID": 303,
-      "groupName": "Booster",
-      "categoryID": 20,
-      "categoryName": "Implant"
-    },
-    {
-      "typeID": 96591,
-      "name": "Chemal Tech Repair Booster I",
-      "volume": 1.0,
-      "groupID": 303,
-      "groupName": "Booster",
-      "categoryID": 20,
-      "categoryName": "Implant"
-    },
-    {
-      "typeID": 96592,
-      "name": "Chemal Tech Repair Booster II",
-      "volume": 1.0,
-      "groupID": 303,
-      "groupName": "Booster",
-      "categoryID": 20,
-      "categoryName": "Implant"
-    },
-    {
-      "typeID": 96593,
-      "name": "Chemal Tech Repair Booster III",
-      "volume": 1.0,
-      "groupID": 303,
-      "groupName": "Booster",
-      "categoryID": 20,
-      "categoryName": "Implant"
-    },
-    {
-      "typeID": 96581,
-      "name": "Chemal Tech Turret Booster I",
-      "volume": 1.0,
-      "groupID": 303,
-      "groupName": "Booster",
-      "categoryID": 20,
-      "categoryName": "Implant"
-    },
-    {
-      "typeID": 96582,
-      "name": "Chemal Tech Turret Booster II",
-      "volume": 1.0,
-      "groupID": 303,
-      "groupName": "Booster",
-      "categoryID": 20,
-      "categoryName": "Implant"
-    },
-    {
-      "typeID": 96583,
-      "name": "Chemal Tech Turret Booster III",
-      "volume": 1.0,
-      "groupID": 303,
-      "groupName": "Booster",
-      "categoryID": 20,
-      "categoryName": "Implant"
     },
     {
       "typeID": 42243,
@@ -43842,7 +44031,7 @@
     {
       "typeID": 24441,
       "name": "Civilians",
-      "volume": 5.0,
+      "volume": 3.0,
       "groupID": 283,
       "groupName": "Livestock",
       "categoryID": 17,
@@ -46864,6 +47053,42 @@
       "categoryName": "Asteroid"
     },
     {
+      "typeID": 92821,
+      "name": "Compressed Flawed Kangite",
+      "volume": 0.01,
+      "groupID": 5086,
+      "groupName": "Kangite",
+      "categoryID": 25,
+      "categoryName": "Asteroid"
+    },
+    {
+      "typeID": 92820,
+      "name": "Compressed Flawed Moissanite",
+      "volume": 0.01,
+      "groupID": 5085,
+      "groupName": "Moissanite",
+      "categoryID": 25,
+      "categoryName": "Asteroid"
+    },
+    {
+      "typeID": 92819,
+      "name": "Compressed Flawed Polycrase",
+      "volume": 0.01,
+      "groupID": 5084,
+      "groupName": "Polycrase",
+      "categoryID": 25,
+      "categoryName": "Asteroid"
+    },
+    {
+      "typeID": 92818,
+      "name": "Compressed Flawed Raspite",
+      "volume": 0.01,
+      "groupID": 5083,
+      "groupName": "Raspite",
+      "categoryID": 25,
+      "categoryName": "Asteroid"
+    },
+    {
       "typeID": 62402,
       "name": "Compressed Fullerite-C28",
       "volume": 0.2,
@@ -47296,8 +47521,17 @@
       "categoryName": "Asteroid"
     },
     {
-      "typeID": 92821,
+      "typeID": 97570,
       "name": "Compressed Kangite X-Grade",
+      "volume": 0.01,
+      "groupID": 5086,
+      "groupName": "Kangite",
+      "categoryID": 25,
+      "categoryName": "Asteroid"
+    },
+    {
+      "typeID": 96294,
+      "name": "Compressed Kangite Z-Grade",
       "volume": 0.01,
       "groupID": 5086,
       "groupName": "Kangite",
@@ -47494,8 +47728,17 @@
       "categoryName": "Asteroid"
     },
     {
-      "typeID": 92820,
+      "typeID": 97569,
       "name": "Compressed Moissanite X-Grade",
+      "volume": 0.01,
+      "groupID": 5085,
+      "groupName": "Moissanite",
+      "categoryID": 25,
+      "categoryName": "Asteroid"
+    },
+    {
+      "typeID": 96293,
+      "name": "Compressed Moissanite Z-Grade",
       "volume": 0.01,
       "groupID": 5085,
       "groupName": "Moissanite",
@@ -47674,8 +47917,17 @@
       "categoryName": "Asteroid"
     },
     {
-      "typeID": 92819,
+      "typeID": 97566,
       "name": "Compressed Polycrase X-Grade",
+      "volume": 0.01,
+      "groupID": 5084,
+      "groupName": "Polycrase",
+      "categoryID": 25,
+      "categoryName": "Asteroid"
+    },
+    {
+      "typeID": 96292,
+      "name": "Compressed Polycrase Z-Grade",
       "volume": 0.01,
       "groupID": 5084,
       "groupName": "Polycrase",
@@ -47755,8 +48007,17 @@
       "categoryName": "Asteroid"
     },
     {
-      "typeID": 92818,
+      "typeID": 97564,
       "name": "Compressed Raspite X-Grade",
+      "volume": 0.01,
+      "groupID": 5083,
+      "groupName": "Raspite",
+      "categoryID": 25,
+      "categoryName": "Asteroid"
+    },
+    {
+      "typeID": 96291,
+      "name": "Compressed Raspite Z-Grade",
       "volume": 0.01,
       "groupID": 5083,
       "groupName": "Raspite",
@@ -48995,6 +49256,24 @@
       "groupName": "Social",
       "categoryID": 16,
       "categoryName": "Skill"
+    },
+    {
+      "typeID": 97812,
+      "name": "Conquest Glamourex Booster Crate",
+      "volume": 1.0,
+      "groupID": 1194,
+      "groupName": "Special Edition Commodities",
+      "categoryID": 63,
+      "categoryName": "Special Edition Assets"
+    },
+    {
+      "typeID": 98168,
+      "name": "Conquest Salvager",
+      "volume": 5.0,
+      "groupID": 1122,
+      "groupName": "Salvager",
+      "categoryID": 7,
+      "categoryName": "Module"
     },
     {
       "typeID": 85405,
@@ -53688,7 +53967,7 @@
     {
       "typeID": 2652,
       "name": "Crates of Synthetic Oil",
-      "volume": 60.0,
+      "volume": 30.0,
       "groupID": 314,
       "groupName": "Miscellaneous",
       "categoryID": 17,
@@ -55626,42 +55905,6 @@
       "volume": 0.3,
       "groupID": 1996,
       "groupName": "Abyssal Materials",
-      "categoryID": 4,
-      "categoryName": "Material"
-    },
-    {
-      "typeID": 92572,
-      "name": "Crystalline Kangite",
-      "volume": 0.01,
-      "groupID": 18,
-      "groupName": "Mineral",
-      "categoryID": 4,
-      "categoryName": "Material"
-    },
-    {
-      "typeID": 92571,
-      "name": "Crystalline Moissanite",
-      "volume": 0.01,
-      "groupID": 18,
-      "groupName": "Mineral",
-      "categoryID": 4,
-      "categoryName": "Material"
-    },
-    {
-      "typeID": 92570,
-      "name": "Crystalline Polycrase",
-      "volume": 0.01,
-      "groupID": 18,
-      "groupName": "Mineral",
-      "categoryID": 4,
-      "categoryName": "Material"
-    },
-    {
-      "typeID": 92569,
-      "name": "Crystalline Raspite",
-      "volume": 0.01,
-      "groupID": 18,
-      "groupName": "Mineral",
       "categoryID": 4,
       "categoryName": "Material"
     },
@@ -60724,6 +60967,24 @@
       "categoryName": "Personalization"
     },
     {
+      "typeID": 98320,
+      "name": "Deep-Space Crimson Metallic - Limited",
+      "volume": 0.1,
+      "groupID": 4726,
+      "groupName": "Ship SKIN Design Element",
+      "categoryID": 2118,
+      "categoryName": "Personalization"
+    },
+    {
+      "typeID": 98319,
+      "name": "Deep-Space Crimson Metallic - Unlimited",
+      "volume": 0.1,
+      "groupID": 4726,
+      "groupName": "Ship SKIN Design Element",
+      "categoryID": 2118,
+      "categoryName": "Personalization"
+    },
+    {
       "typeID": 80382,
       "name": "Deepflow Adaptive Canister",
       "volume": 6.0,
@@ -60842,7 +61103,7 @@
     },
     {
       "typeID": 95396,
-      "name": "Defiant Latten Metallic - Limited",
+      "name": "Defiant Ochre Metallic - Limited",
       "volume": 0.1,
       "groupID": 4726,
       "groupName": "Ship SKIN Design Element",
@@ -60851,7 +61112,7 @@
     },
     {
       "typeID": 95397,
-      "name": "Defiant Latten Metallic - Unlimited",
+      "name": "Defiant Ochre Metallic - Unlimited",
       "volume": 0.1,
       "groupID": 4726,
       "groupName": "Ship SKIN Design Element",
@@ -76942,8 +77203,8 @@
       "categoryName": "Special Edition Assets"
     },
     {
-      "typeID": 96544,
-      "name": "Extended 'Radiance' Cerebral Accelerator",
+      "typeID": 97749,
+      "name": "Extended Conquest Glamourex Booster",
       "volume": 1.0,
       "groupID": 303,
       "groupName": "Booster",
@@ -77653,6 +77914,15 @@
       "categoryName": "Commodity"
     },
     {
+      "typeID": 96516,
+      "name": "Federal Equilibrium Token",
+      "volume": 0.001,
+      "groupID": 1194,
+      "groupName": "Special Edition Commodities",
+      "categoryID": 63,
+      "categoryName": "Special Edition Assets"
+    },
+    {
       "typeID": 23558,
       "name": "Federal Intelligence Officer",
       "volume": 2.0,
@@ -77761,7 +78031,7 @@
       "categoryName": "Special Edition Assets"
     },
     {
-      "typeID": 91935,
+      "typeID": 98435,
       "name": "Federation Defense Booster I",
       "volume": 1.0,
       "groupID": 303,
@@ -77770,7 +78040,7 @@
       "categoryName": "Implant"
     },
     {
-      "typeID": 91944,
+      "typeID": 98436,
       "name": "Federation Defense Booster II",
       "volume": 1.0,
       "groupID": 303,
@@ -77779,7 +78049,7 @@
       "categoryName": "Implant"
     },
     {
-      "typeID": 91943,
+      "typeID": 98437,
       "name": "Federation Defense Booster III",
       "volume": 1.0,
       "groupID": 303,
@@ -77797,7 +78067,7 @@
       "categoryName": "Commodity"
     },
     {
-      "typeID": 91921,
+      "typeID": 98432,
       "name": "Federation Electronics Booster I",
       "volume": 1.0,
       "groupID": 303,
@@ -77806,7 +78076,7 @@
       "categoryName": "Implant"
     },
     {
-      "typeID": 91925,
+      "typeID": 98433,
       "name": "Federation Electronics Booster II",
       "volume": 1.0,
       "groupID": 303,
@@ -77815,7 +78085,7 @@
       "categoryName": "Implant"
     },
     {
-      "typeID": 91926,
+      "typeID": 98434,
       "name": "Federation Electronics Booster III",
       "volume": 1.0,
       "groupID": 303,
@@ -77914,7 +78184,7 @@
       "categoryName": "Special Edition Assets"
     },
     {
-      "typeID": 91964,
+      "typeID": 98441,
       "name": "Federation Hardpoint Booster I",
       "volume": 1.0,
       "groupID": 303,
@@ -77923,7 +78193,7 @@
       "categoryName": "Implant"
     },
     {
-      "typeID": 91974,
+      "typeID": 98442,
       "name": "Federation Hardpoint Booster II",
       "volume": 1.0,
       "groupID": 303,
@@ -77932,7 +78202,7 @@
       "categoryName": "Implant"
     },
     {
-      "typeID": 91975,
+      "typeID": 98443,
       "name": "Federation Hardpoint Booster III",
       "volume": 1.0,
       "groupID": 303,
@@ -77941,7 +78211,7 @@
       "categoryName": "Implant"
     },
     {
-      "typeID": 91949,
+      "typeID": 98438,
       "name": "Federation Mobility Booster I",
       "volume": 1.0,
       "groupID": 303,
@@ -77950,7 +78220,7 @@
       "categoryName": "Implant"
     },
     {
-      "typeID": 91958,
+      "typeID": 98439,
       "name": "Federation Mobility Booster II",
       "volume": 1.0,
       "groupID": 303,
@@ -77959,7 +78229,7 @@
       "categoryName": "Implant"
     },
     {
-      "typeID": 91959,
+      "typeID": 98440,
       "name": "Federation Mobility Booster III",
       "volume": 1.0,
       "groupID": 303,
@@ -79564,6 +79834,15 @@
       "typeID": 76216,
       "name": "Federation Shadow War Reward Crate",
       "volume": 1.0,
+      "groupID": 1194,
+      "groupName": "Special Edition Commodities",
+      "categoryID": 63,
+      "categoryName": "Special Edition Assets"
+    },
+    {
+      "typeID": 97549,
+      "name": "Federation Strategic Intel",
+      "volume": 0.1,
       "groupID": 1194,
       "groupName": "Special Edition Commodities",
       "categoryID": 63,
@@ -81388,6 +81667,42 @@
       "categoryName": "Charge"
     },
     {
+      "typeID": 92568,
+      "name": "Flawed Kangite",
+      "volume": 1.0,
+      "groupID": 5086,
+      "groupName": "Kangite",
+      "categoryID": 25,
+      "categoryName": "Asteroid"
+    },
+    {
+      "typeID": 92567,
+      "name": "Flawed Moissanite",
+      "volume": 1.0,
+      "groupID": 5085,
+      "groupName": "Moissanite",
+      "categoryID": 25,
+      "categoryName": "Asteroid"
+    },
+    {
+      "typeID": 92566,
+      "name": "Flawed Polycrase",
+      "volume": 1.0,
+      "groupID": 5084,
+      "groupName": "Polycrase",
+      "categoryID": 25,
+      "categoryName": "Asteroid"
+    },
+    {
+      "typeID": 92565,
+      "name": "Flawed Raspite",
+      "volume": 1.0,
+      "groupID": 5083,
+      "groupName": "Raspite",
+      "categoryID": 25,
+      "categoryName": "Asteroid"
+    },
+    {
       "typeID": 82959,
       "name": "Flaylock Steel Metallic - Limited",
       "volume": 0.1,
@@ -82216,6 +82531,51 @@
       "categoryName": "Module"
     },
     {
+      "typeID": 98221,
+      "name": "Fractured Amarr Background",
+      "volume": 0.1,
+      "groupID": 5082,
+      "groupName": "Portrait Backgrounds",
+      "categoryID": 30,
+      "categoryName": "Apparel"
+    },
+    {
+      "typeID": 98224,
+      "name": "Fractured Background Crate",
+      "volume": 0,
+      "groupID": 1194,
+      "groupName": "Special Edition Commodities",
+      "categoryID": 63,
+      "categoryName": "Special Edition Assets"
+    },
+    {
+      "typeID": 98222,
+      "name": "Fractured Caldari Background",
+      "volume": 0.1,
+      "groupID": 5082,
+      "groupName": "Portrait Backgrounds",
+      "categoryID": 30,
+      "categoryName": "Apparel"
+    },
+    {
+      "typeID": 98223,
+      "name": "Fractured Gallente Background",
+      "volume": 0.1,
+      "groupID": 5082,
+      "groupName": "Portrait Backgrounds",
+      "categoryID": 30,
+      "categoryName": "Apparel"
+    },
+    {
+      "typeID": 98220,
+      "name": "Fractured Minmatar Background",
+      "volume": 0.1,
+      "groupID": 5082,
+      "groupName": "Portrait Backgrounds",
+      "categoryID": 30,
+      "categoryName": "Apparel"
+    },
+    {
       "typeID": 62050,
       "name": "Fragment Inscribed with Odd Circular Text",
       "volume": 0.1,
@@ -82298,7 +82658,7 @@
     },
     {
       "typeID": 63829,
-      "name": "Free AIR Soldier of Fortune Expert System",
+      "name": "Free AIR Soldier Expert System",
       "volume": 1.0,
       "groupID": 4098,
       "groupName": "Promotional Expert Systems",
@@ -83287,6 +83647,24 @@
       "categoryName": "Skill"
     },
     {
+      "typeID": 98458,
+      "name": "Gallente Conquest Booster Crate",
+      "volume": 1.0,
+      "groupID": 1194,
+      "groupName": "Special Edition Commodities",
+      "categoryID": 63,
+      "categoryName": "Special Edition Assets"
+    },
+    {
+      "typeID": 97810,
+      "name": "Gallente Conquest SKINR Crate",
+      "volume": 1.0,
+      "groupID": 1194,
+      "groupName": "Special Edition Commodities",
+      "categoryID": 63,
+      "categoryName": "Special Edition Assets"
+    },
+    {
       "typeID": 12236,
       "name": "Gallente Control Tower",
       "volume": 8000.0,
@@ -83501,6 +83879,24 @@
       "groupName": "Special Edition Commodities",
       "categoryID": 63,
       "categoryName": "Special Edition Assets"
+    },
+    {
+      "typeID": 98305,
+      "name": "Gallente Federation Emblem - Limited",
+      "volume": 0.1,
+      "groupID": 4726,
+      "groupName": "Ship SKIN Design Element",
+      "categoryID": 2118,
+      "categoryName": "Personalization"
+    },
+    {
+      "typeID": 98304,
+      "name": "Gallente Federation Emblem - Unlimited",
+      "volume": 0.1,
+      "groupID": 4726,
+      "groupName": "Ship SKIN Design Element",
+      "categoryID": 2118,
+      "categoryName": "Personalization"
     },
     {
       "typeID": 24594,
@@ -85440,6 +85836,15 @@
     {
       "typeID": 91630,
       "name": "Gila Media Miasma SKIN",
+      "volume": 0.01,
+      "groupID": 1950,
+      "groupName": "Permanent SKIN",
+      "categoryID": 91,
+      "categoryName": "SKINs"
+    },
+    {
+      "typeID": 97899,
+      "name": "Gila Penumbral Shadows SKIN",
       "volume": 0.01,
       "groupID": 1950,
       "groupName": "Permanent SKIN",
@@ -91045,6 +91450,24 @@
       "categoryName": "Commodity"
     },
     {
+      "typeID": 98297,
+      "name": "Gradated Sunrise - Limited",
+      "volume": 0.1,
+      "groupID": 4726,
+      "groupName": "Ship SKIN Design Element",
+      "categoryID": 2118,
+      "categoryName": "Personalization"
+    },
+    {
+      "typeID": 98296,
+      "name": "Gradated Sunrise - Unlimited",
+      "volume": 0.1,
+      "groupID": 4726,
+      "groupName": "Ship SKIN Design Element",
+      "categoryID": 2118,
+      "categoryName": "Personalization"
+    },
+    {
       "typeID": 40361,
       "name": "Gram I",
       "volume": 800.0,
@@ -96209,150 +96632,6 @@
       "groupName": "Livestock",
       "categoryID": 17,
       "categoryName": "Commodity"
-    },
-    {
-      "typeID": 96546,
-      "name": "Harvest Anti-Disruptor Booster I",
-      "volume": 1.0,
-      "groupID": 303,
-      "groupName": "Booster",
-      "categoryID": 20,
-      "categoryName": "Implant"
-    },
-    {
-      "typeID": 96547,
-      "name": "Harvest Anti-Disruptor Booster II",
-      "volume": 1.0,
-      "groupID": 303,
-      "groupName": "Booster",
-      "categoryID": 20,
-      "categoryName": "Implant"
-    },
-    {
-      "typeID": 96548,
-      "name": "Harvest Anti-Disruptor Booster III",
-      "volume": 1.0,
-      "groupID": 303,
-      "groupName": "Booster",
-      "categoryID": 20,
-      "categoryName": "Implant"
-    },
-    {
-      "typeID": 96545,
-      "name": "Harvest Anti-Disruptor Booster IV",
-      "volume": 1.0,
-      "groupID": 303,
-      "groupName": "Booster",
-      "categoryID": 20,
-      "categoryName": "Implant"
-    },
-    {
-      "typeID": 96557,
-      "name": "Harvest Damage Booster I",
-      "volume": 1.0,
-      "groupID": 303,
-      "groupName": "Booster",
-      "categoryID": 20,
-      "categoryName": "Implant"
-    },
-    {
-      "typeID": 96558,
-      "name": "Harvest Damage Booster II",
-      "volume": 1.0,
-      "groupID": 303,
-      "groupName": "Booster",
-      "categoryID": 20,
-      "categoryName": "Implant"
-    },
-    {
-      "typeID": 96560,
-      "name": "Harvest Damage Booster III",
-      "volume": 1.0,
-      "groupID": 303,
-      "groupName": "Booster",
-      "categoryID": 20,
-      "categoryName": "Implant"
-    },
-    {
-      "typeID": 96561,
-      "name": "Harvest Damage Booster IV",
-      "volume": 1.0,
-      "groupID": 303,
-      "groupName": "Booster",
-      "categoryID": 20,
-      "categoryName": "Implant"
-    },
-    {
-      "typeID": 96549,
-      "name": "Harvest Nosferatu Booster I",
-      "volume": 1.0,
-      "groupID": 303,
-      "groupName": "Booster",
-      "categoryID": 20,
-      "categoryName": "Implant"
-    },
-    {
-      "typeID": 96550,
-      "name": "Harvest Nosferatu Booster II",
-      "volume": 1.0,
-      "groupID": 303,
-      "groupName": "Booster",
-      "categoryID": 20,
-      "categoryName": "Implant"
-    },
-    {
-      "typeID": 96551,
-      "name": "Harvest Nosferatu Booster III",
-      "volume": 1.0,
-      "groupID": 303,
-      "groupName": "Booster",
-      "categoryID": 20,
-      "categoryName": "Implant"
-    },
-    {
-      "typeID": 96552,
-      "name": "Harvest Nosferatu Booster IV",
-      "volume": 1.0,
-      "groupID": 303,
-      "groupName": "Booster",
-      "categoryID": 20,
-      "categoryName": "Implant"
-    },
-    {
-      "typeID": 96553,
-      "name": "Harvest Webifier Booster I",
-      "volume": 1.0,
-      "groupID": 303,
-      "groupName": "Booster",
-      "categoryID": 20,
-      "categoryName": "Implant"
-    },
-    {
-      "typeID": 96554,
-      "name": "Harvest Webifier Booster II",
-      "volume": 1.0,
-      "groupID": 303,
-      "groupName": "Booster",
-      "categoryID": 20,
-      "categoryName": "Implant"
-    },
-    {
-      "typeID": 96555,
-      "name": "Harvest Webifier Booster III",
-      "volume": 1.0,
-      "groupID": 303,
-      "groupName": "Booster",
-      "categoryID": 20,
-      "categoryName": "Implant"
-    },
-    {
-      "typeID": 96556,
-      "name": "Harvest Webifier Booster IV",
-      "volume": 1.0,
-      "groupID": 303,
-      "groupName": "Booster",
-      "categoryID": 20,
-      "categoryName": "Implant"
     },
     {
       "typeID": 3218,
@@ -103717,6 +103996,15 @@
       "categoryName": "SKINs"
     },
     {
+      "typeID": 97553,
+      "name": "Hyper-Field Projector",
+      "volume": 0.1,
+      "groupID": 1194,
+      "groupName": "Special Edition Commodities",
+      "categoryID": 63,
+      "categoryName": "Special Edition Assets"
+    },
+    {
       "typeID": 89261,
       "name": "Hyper-Palm Frond Gloss - Limited",
       "volume": 0.1,
@@ -103724,6 +104012,15 @@
       "groupName": "Ship SKIN Design Element",
       "categoryID": 2118,
       "categoryName": "Personalization"
+    },
+    {
+      "typeID": 97555,
+      "name": "Hyper-Step Connector",
+      "volume": 0.1,
+      "groupID": 1194,
+      "groupName": "Special Edition Commodities",
+      "categoryID": 63,
+      "categoryName": "Special Edition Assets"
     },
     {
       "typeID": 92179,
@@ -104068,6 +104365,15 @@
       "categoryName": "SKINs"
     },
     {
+      "typeID": 97786,
+      "name": "Hyperion Penumbral Shadows SKIN",
+      "volume": 0.01,
+      "groupID": 1950,
+      "groupName": "Permanent SKIN",
+      "categoryID": 91,
+      "categoryName": "SKINs"
+    },
+    {
       "typeID": 94053,
       "name": "Hyperion Presidential Agent SKIN",
       "volume": 0.01,
@@ -104147,6 +104453,15 @@
       "groupName": "Ship SKIN Design Element",
       "categoryID": 2118,
       "categoryName": "Personalization"
+    },
+    {
+      "typeID": 97552,
+      "name": "Hyperspherical Housing",
+      "volume": 0.1,
+      "groupID": 1194,
+      "groupName": "Special Edition Commodities",
+      "categoryID": 63,
+      "categoryName": "Special Edition Assets"
     },
     {
       "typeID": 90650,
@@ -105535,7 +105850,7 @@
       "categoryName": "Special Edition Assets"
     },
     {
-      "typeID": 91932,
+      "typeID": 98411,
       "name": "Imperial Defense Booster I",
       "volume": 1.0,
       "groupID": 303,
@@ -105544,7 +105859,7 @@
       "categoryName": "Implant"
     },
     {
-      "typeID": 91939,
+      "typeID": 98412,
       "name": "Imperial Defense Booster II",
       "volume": 1.0,
       "groupID": 303,
@@ -105553,7 +105868,7 @@
       "categoryName": "Implant"
     },
     {
-      "typeID": 91940,
+      "typeID": 98413,
       "name": "Imperial Defense Booster III",
       "volume": 1.0,
       "groupID": 303,
@@ -105562,7 +105877,7 @@
       "categoryName": "Implant"
     },
     {
-      "typeID": 91916,
+      "typeID": 98408,
       "name": "Imperial Electronics Booster I",
       "volume": 1.0,
       "groupID": 303,
@@ -105571,7 +105886,7 @@
       "categoryName": "Implant"
     },
     {
-      "typeID": 91929,
+      "typeID": 98409,
       "name": "Imperial Electronics Booster II",
       "volume": 1.0,
       "groupID": 303,
@@ -105580,7 +105895,7 @@
       "categoryName": "Implant"
     },
     {
-      "typeID": 91930,
+      "typeID": 98410,
       "name": "Imperial Electronics Booster III",
       "volume": 1.0,
       "groupID": 303,
@@ -105607,7 +105922,7 @@
       "categoryName": "Personalization"
     },
     {
-      "typeID": 91962,
+      "typeID": 98417,
       "name": "Imperial Hardpoint Booster I",
       "volume": 1.0,
       "groupID": 303,
@@ -105616,7 +105931,7 @@
       "categoryName": "Implant"
     },
     {
-      "typeID": 91970,
+      "typeID": 98418,
       "name": "Imperial Hardpoint Booster II",
       "volume": 1.0,
       "groupID": 303,
@@ -105625,7 +105940,7 @@
       "categoryName": "Implant"
     },
     {
-      "typeID": 91971,
+      "typeID": 98419,
       "name": "Imperial Hardpoint Booster III",
       "volume": 1.0,
       "groupID": 303,
@@ -105634,7 +105949,16 @@
       "categoryName": "Implant"
     },
     {
-      "typeID": 91947,
+      "typeID": 96515,
+      "name": "Imperial Light Token",
+      "volume": 0.001,
+      "groupID": 1194,
+      "groupName": "Special Edition Commodities",
+      "categoryID": 63,
+      "categoryName": "Special Edition Assets"
+    },
+    {
+      "typeID": 98414,
       "name": "Imperial Mobility Booster I",
       "volume": 1.0,
       "groupID": 303,
@@ -105643,7 +105967,7 @@
       "categoryName": "Implant"
     },
     {
-      "typeID": 91952,
+      "typeID": 98415,
       "name": "Imperial Mobility Booster II",
       "volume": 1.0,
       "groupID": 303,
@@ -105652,7 +105976,7 @@
       "categoryName": "Implant"
     },
     {
-      "typeID": 91951,
+      "typeID": 98416,
       "name": "Imperial Mobility Booster III",
       "volume": 1.0,
       "groupID": 303,
@@ -107083,6 +107407,24 @@
       "categoryName": "Charge"
     },
     {
+      "typeID": 97955,
+      "name": "Imperial Navy Stasis Webifier",
+      "volume": 5.0,
+      "groupID": 65,
+      "groupName": "Stasis Web",
+      "categoryID": 7,
+      "categoryName": "Module"
+    },
+    {
+      "typeID": 97995,
+      "name": "Imperial Navy Stasis Webifier Blueprint",
+      "volume": 0.01,
+      "groupID": 145,
+      "groupName": "Stasis Web Blueprint",
+      "categoryID": 9,
+      "categoryName": "Blueprint"
+    },
+    {
       "typeID": 15860,
       "name": "Imperial Navy Tachyon Beam Laser",
       "volume": 20.0,
@@ -107191,6 +107533,42 @@
       "categoryName": "Charge"
     },
     {
+      "typeID": 97957,
+      "name": "Imperial Navy Warp Disruptor",
+      "volume": 5.0,
+      "groupID": 52,
+      "groupName": "Warp Scrambler",
+      "categoryID": 7,
+      "categoryName": "Module"
+    },
+    {
+      "typeID": 97993,
+      "name": "Imperial Navy Warp Disruptor Blueprint",
+      "volume": 0.01,
+      "groupID": 132,
+      "groupName": "Warp Scrambler Blueprint",
+      "categoryID": 9,
+      "categoryName": "Blueprint"
+    },
+    {
+      "typeID": 97956,
+      "name": "Imperial Navy Warp Scrambler",
+      "volume": 5.0,
+      "groupID": 52,
+      "groupName": "Warp Scrambler",
+      "categoryID": 7,
+      "categoryName": "Module"
+    },
+    {
+      "typeID": 97994,
+      "name": "Imperial Navy Warp Scrambler Blueprint",
+      "volume": 0.01,
+      "groupID": 132,
+      "groupName": "Warp Scrambler Blueprint",
+      "categoryID": 9,
+      "categoryName": "Blueprint"
+    },
+    {
       "typeID": 23109,
       "name": "Imperial Navy Xray L",
       "volume": 1.0,
@@ -107288,6 +107666,15 @@
       "groupName": "Cyber X Specials",
       "categoryID": 20,
       "categoryName": "Implant"
+    },
+    {
+      "typeID": 97551,
+      "name": "Imperial Strategic Intel",
+      "volume": 0.1,
+      "groupID": 1194,
+      "groupName": "Special Edition Commodities",
+      "categoryID": 63,
+      "categoryName": "Special Edition Assets"
     },
     {
       "typeID": 93343,
@@ -113770,8 +114157,17 @@
       "categoryName": "Commodity"
     },
     {
-      "typeID": 92568,
+      "typeID": 97562,
       "name": "Kangite X-Grade",
+      "volume": 1.0,
+      "groupID": 5086,
+      "groupName": "Kangite",
+      "categoryID": 25,
+      "categoryName": "Asteroid"
+    },
+    {
+      "typeID": 96290,
+      "name": "Kangite Z-Grade",
       "volume": 1.0,
       "groupID": 5086,
       "groupName": "Kangite",
@@ -114339,6 +114735,15 @@
     {
       "typeID": 40583,
       "name": "Kestrel Matigu Seabeast SKIN",
+      "volume": 0.01,
+      "groupID": 1950,
+      "groupName": "Permanent SKIN",
+      "categoryID": 91,
+      "categoryName": "SKINs"
+    },
+    {
+      "typeID": 97774,
+      "name": "Kestrel Penumbral Shadows SKIN",
       "volume": 0.01,
       "groupID": 1950,
       "groupName": "Permanent SKIN",
@@ -117766,6 +118171,24 @@
       "categoryName": "Module"
     },
     {
+      "typeID": 96145,
+      "name": "Large Caldari Navy Synchronizer",
+      "volume": 5.0,
+      "groupID": 5140,
+      "groupName": "Rig Synchronizer",
+      "categoryID": 7,
+      "categoryName": "Module"
+    },
+    {
+      "typeID": 96151,
+      "name": "Large Caldari Navy Synchronizer Blueprint",
+      "volume": 0.01,
+      "groupID": 787,
+      "groupName": "Rig Blueprint",
+      "categoryID": 9,
+      "categoryName": "Blueprint"
+    },
+    {
       "typeID": 2020,
       "name": "Large Cap Battery I",
       "volume": 15.0,
@@ -118621,6 +119044,24 @@
       "categoryName": "Commodity"
     },
     {
+      "typeID": 96564,
+      "name": "Large Dark Blood Synchronizer",
+      "volume": 5.0,
+      "groupID": 5140,
+      "groupName": "Rig Synchronizer",
+      "categoryID": 7,
+      "categoryName": "Module"
+    },
+    {
+      "typeID": 96776,
+      "name": "Large Dark Blood Synchronizer Blueprint",
+      "volume": 0.01,
+      "groupID": 787,
+      "groupName": "Rig Blueprint",
+      "categoryID": 9,
+      "categoryName": "Blueprint"
+    },
+    {
       "typeID": 47875,
       "name": "Large Disintegrator Specialization",
       "volume": 0.01,
@@ -118628,6 +119069,42 @@
       "groupName": "Gunnery",
       "categoryID": 16,
       "categoryName": "Skill"
+    },
+    {
+      "typeID": 96726,
+      "name": "Large Domination Synchronizer",
+      "volume": 5.0,
+      "groupID": 5140,
+      "groupName": "Rig Synchronizer",
+      "categoryID": 7,
+      "categoryName": "Module"
+    },
+    {
+      "typeID": 96788,
+      "name": "Large Domination Synchronizer Blueprint",
+      "volume": 0.01,
+      "groupID": 787,
+      "groupName": "Rig Blueprint",
+      "categoryID": 9,
+      "categoryName": "Blueprint"
+    },
+    {
+      "typeID": 96720,
+      "name": "Large Dread Guristas Synchronizer",
+      "volume": 5.0,
+      "groupID": 5140,
+      "groupName": "Rig Synchronizer",
+      "categoryID": 7,
+      "categoryName": "Module"
+    },
+    {
+      "typeID": 96782,
+      "name": "Large Dread Guristas Synchronizer Blueprint",
+      "volume": 0.01,
+      "groupID": 787,
+      "groupName": "Rig Blueprint",
+      "categoryID": 9,
+      "categoryName": "Blueprint"
     },
     {
       "typeID": 25908,
@@ -119422,6 +119899,24 @@
       "categoryName": "Special Edition Assets"
     },
     {
+      "typeID": 96129,
+      "name": "Large Federation Navy Synchronizer",
+      "volume": 5.0,
+      "groupID": 5140,
+      "groupName": "Rig Synchronizer",
+      "categoryID": 7,
+      "categoryName": "Module"
+    },
+    {
+      "typeID": 96154,
+      "name": "Large Federation Navy Synchronizer Blueprint",
+      "volume": 0.01,
+      "groupID": 787,
+      "groupName": "Rig Blueprint",
+      "categoryID": 9,
+      "categoryName": "Blueprint"
+    },
+    {
       "typeID": 33007,
       "name": "Large Freight Container",
       "volume": 10000.0,
@@ -120102,6 +120597,24 @@
       "volume": 0.01,
       "groupID": 4175,
       "groupName": "Compressors Blueprints",
+      "categoryID": 9,
+      "categoryName": "Blueprint"
+    },
+    {
+      "typeID": 96132,
+      "name": "Large Imperial Navy Synchronizer",
+      "volume": 5.0,
+      "groupID": 5140,
+      "groupName": "Rig Synchronizer",
+      "categoryID": 7,
+      "categoryName": "Module"
+    },
+    {
+      "typeID": 96148,
+      "name": "Large Imperial Navy Synchronizer Blueprint",
+      "volume": 0.01,
+      "groupID": 787,
+      "groupName": "Rig Blueprint",
       "categoryID": 9,
       "categoryName": "Blueprint"
     },
@@ -121222,6 +121735,24 @@
       "categoryName": "Blueprint"
     },
     {
+      "typeID": 96138,
+      "name": "Large Republic Fleet Synchronizer",
+      "volume": 5.0,
+      "groupID": 5140,
+      "groupName": "Rig Synchronizer",
+      "categoryID": 7,
+      "categoryName": "Module"
+    },
+    {
+      "typeID": 96157,
+      "name": "Large Republic Fleet Synchronizer Blueprint",
+      "volume": 0.01,
+      "groupID": 787,
+      "groupName": "Rig Blueprint",
+      "categoryID": 9,
+      "categoryName": "Blueprint"
+    },
+    {
       "typeID": 26022,
       "name": "Large Rocket Fuel Cache Partition I",
       "volume": 20.0,
@@ -121413,6 +121944,24 @@
     {
       "typeID": 26339,
       "name": "Large Sentry Damage Augmentor II Blueprint",
+      "volume": 0.01,
+      "groupID": 787,
+      "groupName": "Rig Blueprint",
+      "categoryID": 9,
+      "categoryName": "Blueprint"
+    },
+    {
+      "typeID": 96641,
+      "name": "Large Shadow Serpentis Synchronizer",
+      "volume": 5.0,
+      "groupID": 5140,
+      "groupName": "Rig Synchronizer",
+      "categoryID": 7,
+      "categoryName": "Module"
+    },
+    {
+      "typeID": 96785,
+      "name": "Large Shadow Serpentis Synchronizer Blueprint",
       "volume": 0.01,
       "groupID": 787,
       "groupName": "Rig Blueprint",
@@ -121908,6 +122457,24 @@
     {
       "typeID": 26303,
       "name": "Large Trimark Armor Pump II Blueprint",
+      "volume": 0.01,
+      "groupID": 787,
+      "groupName": "Rig Blueprint",
+      "categoryID": 9,
+      "categoryName": "Blueprint"
+    },
+    {
+      "typeID": 96595,
+      "name": "Large True Sansha Synchronizer",
+      "volume": 5.0,
+      "groupID": 5140,
+      "groupName": "Rig Synchronizer",
+      "categoryID": 7,
+      "categoryName": "Module"
+    },
+    {
+      "typeID": 96779,
+      "name": "Large True Sansha Synchronizer Blueprint",
       "volume": 0.01,
       "groupID": 787,
       "groupName": "Rig Blueprint",
@@ -128629,6 +129196,15 @@
       "categoryName": "SKINs"
     },
     {
+      "typeID": 97783,
+      "name": "Maelstrom Penumbral Shadows SKIN",
+      "volume": 0.01,
+      "groupID": 1950,
+      "groupName": "Permanent SKIN",
+      "categoryID": 91,
+      "categoryName": "SKINs"
+    },
+    {
       "typeID": 52884,
       "name": "Maelstrom Snowline Bladeracer SKIN",
       "volume": 0.01,
@@ -130197,6 +130773,15 @@
     {
       "typeID": 53618,
       "name": "Maller Oasis of Faith SKIN",
+      "volume": 0.01,
+      "groupID": 1950,
+      "groupName": "Permanent SKIN",
+      "categoryID": 91,
+      "categoryName": "SKINs"
+    },
+    {
+      "typeID": 97770,
+      "name": "Maller Penumbral Shadows SKIN",
       "volume": 0.01,
       "groupID": 1950,
       "groupName": "Permanent SKIN",
@@ -133048,6 +133633,24 @@
       "categoryName": "Module"
     },
     {
+      "typeID": 96144,
+      "name": "Medium Caldari Navy Synchronizer",
+      "volume": 5.0,
+      "groupID": 5140,
+      "groupName": "Rig Synchronizer",
+      "categoryID": 7,
+      "categoryName": "Module"
+    },
+    {
+      "typeID": 96150,
+      "name": "Medium Caldari Navy Synchronizer Blueprint",
+      "volume": 0.01,
+      "groupID": 787,
+      "groupName": "Rig Blueprint",
+      "categoryID": 9,
+      "categoryName": "Blueprint"
+    },
+    {
       "typeID": 2018,
       "name": "Medium Cap Battery I",
       "volume": 10.0,
@@ -133462,6 +134065,24 @@
       "categoryName": "Blueprint"
     },
     {
+      "typeID": 96559,
+      "name": "Medium Dark Blood Synchronizer",
+      "volume": 5.0,
+      "groupID": 5140,
+      "groupName": "Rig Synchronizer",
+      "categoryID": 7,
+      "categoryName": "Module"
+    },
+    {
+      "typeID": 96775,
+      "name": "Medium Dark Blood Synchronizer Blueprint",
+      "volume": 0.01,
+      "groupID": 787,
+      "groupName": "Rig Blueprint",
+      "categoryID": 9,
+      "categoryName": "Blueprint"
+    },
+    {
       "typeID": 32817,
       "name": "Medium Deep Core Mining Optimization I",
       "volume": 10.0,
@@ -133496,6 +134117,42 @@
       "groupName": "Booster",
       "categoryID": 20,
       "categoryName": "Implant"
+    },
+    {
+      "typeID": 96725,
+      "name": "Medium Domination Synchronizer",
+      "volume": 5.0,
+      "groupID": 5140,
+      "groupName": "Rig Synchronizer",
+      "categoryID": 7,
+      "categoryName": "Module"
+    },
+    {
+      "typeID": 96787,
+      "name": "Medium Domination Synchronizer Blueprint",
+      "volume": 0.01,
+      "groupID": 787,
+      "groupName": "Rig Blueprint",
+      "categoryID": 9,
+      "categoryName": "Blueprint"
+    },
+    {
+      "typeID": 96719,
+      "name": "Medium Dread Guristas Synchronizer",
+      "volume": 5.0,
+      "groupID": 5140,
+      "groupName": "Rig Synchronizer",
+      "categoryID": 7,
+      "categoryName": "Module"
+    },
+    {
+      "typeID": 96781,
+      "name": "Medium Dread Guristas Synchronizer Blueprint",
+      "volume": 0.01,
+      "groupID": 787,
+      "groupName": "Rig Blueprint",
+      "categoryID": 9,
+      "categoryName": "Blueprint"
     },
     {
       "typeID": 32027,
@@ -134371,6 +135028,24 @@
       "categoryName": "Special Edition Assets"
     },
     {
+      "typeID": 96128,
+      "name": "Medium Federation Navy Synchronizer",
+      "volume": 5.0,
+      "groupID": 5140,
+      "groupName": "Rig Synchronizer",
+      "categoryID": 7,
+      "categoryName": "Module"
+    },
+    {
+      "typeID": 96153,
+      "name": "Medium Federation Navy Synchronizer Blueprint",
+      "volume": 0.01,
+      "groupID": 787,
+      "groupName": "Rig Blueprint",
+      "categoryID": 9,
+      "categoryName": "Blueprint"
+    },
+    {
       "typeID": 33009,
       "name": "Medium Freight Container",
       "volume": 5000.0,
@@ -134922,6 +135597,24 @@
     {
       "typeID": 32820,
       "name": "Medium Ice Harvester Accelerator I Blueprint",
+      "volume": 0.01,
+      "groupID": 787,
+      "groupName": "Rig Blueprint",
+      "categoryID": 9,
+      "categoryName": "Blueprint"
+    },
+    {
+      "typeID": 96131,
+      "name": "Medium Imperial Navy Synchronizer",
+      "volume": 5.0,
+      "groupID": 5140,
+      "groupName": "Rig Synchronizer",
+      "categoryID": 7,
+      "categoryName": "Module"
+    },
+    {
+      "typeID": 96147,
+      "name": "Medium Imperial Navy Synchronizer Blueprint",
       "volume": 0.01,
       "groupID": 787,
       "groupName": "Rig Blueprint",
@@ -136045,6 +136738,24 @@
       "categoryName": "Blueprint"
     },
     {
+      "typeID": 96137,
+      "name": "Medium Republic Fleet Synchronizer",
+      "volume": 5.0,
+      "groupID": 5140,
+      "groupName": "Rig Synchronizer",
+      "categoryID": 7,
+      "categoryName": "Module"
+    },
+    {
+      "typeID": 96156,
+      "name": "Medium Republic Fleet Synchronizer Blueprint",
+      "volume": 0.01,
+      "groupID": 787,
+      "groupName": "Rig Blueprint",
+      "categoryID": 9,
+      "categoryName": "Blueprint"
+    },
+    {
       "typeID": 31610,
       "name": "Medium Rocket Fuel Cache Partition I",
       "volume": 10.0,
@@ -136227,6 +136938,24 @@
     {
       "typeID": 32088,
       "name": "Medium Sentry Damage Augmentor II Blueprint",
+      "volume": 0.01,
+      "groupID": 787,
+      "groupName": "Rig Blueprint",
+      "categoryID": 9,
+      "categoryName": "Blueprint"
+    },
+    {
+      "typeID": 96640,
+      "name": "Medium Shadow Serpentis Synchronizer",
+      "volume": 5.0,
+      "groupID": 5140,
+      "groupName": "Rig Synchronizer",
+      "categoryID": 7,
+      "categoryName": "Module"
+    },
+    {
+      "typeID": 96784,
+      "name": "Medium Shadow Serpentis Synchronizer Blueprint",
       "volume": 0.01,
       "groupID": 787,
       "groupName": "Rig Blueprint",
@@ -136749,6 +137478,24 @@
     {
       "typeID": 31060,
       "name": "Medium Trimark Armor Pump II Blueprint",
+      "volume": 0.01,
+      "groupID": 787,
+      "groupName": "Rig Blueprint",
+      "categoryID": 9,
+      "categoryName": "Blueprint"
+    },
+    {
+      "typeID": 96594,
+      "name": "Medium True Sansha Synchronizer",
+      "volume": 5.0,
+      "groupID": 5140,
+      "groupName": "Rig Synchronizer",
+      "categoryID": 7,
+      "categoryName": "Module"
+    },
+    {
+      "typeID": 96778,
+      "name": "Medium True Sansha Synchronizer Blueprint",
       "volume": 0.01,
       "groupID": 787,
       "groupName": "Rig Blueprint",
@@ -145945,6 +146692,24 @@
       "categoryName": "Commodity"
     },
     {
+      "typeID": 98459,
+      "name": "Minmatar Conquest Booster Crate",
+      "volume": 1.0,
+      "groupID": 1194,
+      "groupName": "Special Edition Commodities",
+      "categoryID": 63,
+      "categoryName": "Special Edition Assets"
+    },
+    {
+      "typeID": 97811,
+      "name": "Minmatar Conquest SKINR Crate",
+      "volume": 1.0,
+      "groupID": 1194,
+      "groupName": "Special Edition Commodities",
+      "categoryID": 63,
+      "categoryName": "Special Edition Assets"
+    },
+    {
       "typeID": 16214,
       "name": "Minmatar Control Tower",
       "volume": 8000.0,
@@ -146411,6 +147176,24 @@
       "groupName": "Livestock",
       "categoryID": 17,
       "categoryName": "Commodity"
+    },
+    {
+      "typeID": 98307,
+      "name": "Minmatar Republic Emblem - Limited",
+      "volume": 0.1,
+      "groupID": 4726,
+      "groupName": "Ship SKIN Design Element",
+      "categoryID": 2118,
+      "categoryName": "Personalization"
+    },
+    {
+      "typeID": 98306,
+      "name": "Minmatar Republic Emblem - Unlimited",
+      "volume": 0.1,
+      "groupID": 4726,
+      "groupName": "Ship SKIN Design Element",
+      "categoryID": 2118,
+      "categoryName": "Personalization"
     },
     {
       "typeID": 22194,
@@ -147988,6 +148771,15 @@
       "categoryName": "Commodity"
     },
     {
+      "typeID": 97775,
+      "name": "Moa Penumbral Shadows SKIN",
+      "volume": 0.01,
+      "groupID": 1950,
+      "groupName": "Permanent SKIN",
+      "categoryID": 91,
+      "categoryName": "SKINs"
+    },
+    {
       "typeID": 54445,
       "name": "Moa Permaband Roadies SKIN",
       "volume": 0.01,
@@ -148681,8 +149473,17 @@
       "categoryName": "Blueprint"
     },
     {
-      "typeID": 92567,
+      "typeID": 97561,
       "name": "Moissanite X-Grade",
+      "volume": 1.0,
+      "groupID": 5085,
+      "groupName": "Moissanite",
+      "categoryID": 25,
+      "categoryName": "Asteroid"
+    },
+    {
+      "typeID": 96289,
+      "name": "Moissanite Z-Grade",
       "volume": 1.0,
       "groupID": 5085,
       "groupName": "Moissanite",
@@ -151093,6 +151894,69 @@
       "categoryName": "SKINs"
     },
     {
+      "typeID": 95630,
+      "name": "Naga Navy Issue",
+      "volume": 252000.0,
+      "groupID": 1201,
+      "groupName": "Attack Battlecruiser",
+      "categoryID": 6,
+      "categoryName": "Ship"
+    },
+    {
+      "typeID": 95667,
+      "name": "Naga Navy Issue Alliance Emblem",
+      "volume": 0,
+      "groupID": 4471,
+      "groupName": "Ship Emblems",
+      "categoryID": 2118,
+      "categoryName": "Personalization"
+    },
+    {
+      "typeID": 95635,
+      "name": "Naga Navy Issue Blueprint",
+      "volume": 0.01,
+      "groupID": 489,
+      "groupName": "Battlecruiser Blueprint",
+      "categoryID": 9,
+      "categoryName": "Blueprint"
+    },
+    {
+      "typeID": 95666,
+      "name": "Naga Navy Issue Corporation Emblem",
+      "volume": 0,
+      "groupID": 4471,
+      "groupName": "Ship Emblems",
+      "categoryID": 2118,
+      "categoryName": "Personalization"
+    },
+    {
+      "typeID": 97777,
+      "name": "Naga Navy Issue Penumbral Shadows SKIN",
+      "volume": 0.01,
+      "groupID": 1950,
+      "groupName": "Permanent SKIN",
+      "categoryID": 91,
+      "categoryName": "SKINs"
+    },
+    {
+      "typeID": 98651,
+      "name": "Naga Navy Issue State Regulator SKIN",
+      "volume": 0.01,
+      "groupID": 1950,
+      "groupName": "Permanent SKIN",
+      "categoryID": 91,
+      "categoryName": "SKINs"
+    },
+    {
+      "typeID": 97776,
+      "name": "Naga Penumbral Shadows SKIN",
+      "volume": 0.01,
+      "groupID": 1950,
+      "groupName": "Permanent SKIN",
+      "categoryID": 91,
+      "categoryName": "SKINs"
+    },
+    {
       "typeID": 36661,
       "name": "Naga Raata Sunset SKIN",
       "volume": 0.01,
@@ -152259,6 +153123,15 @@
       "volume": 20.0,
       "groupID": 339,
       "groupName": "Auxiliary Power Core",
+      "categoryID": 7,
+      "categoryName": "Module"
+    },
+    {
+      "typeID": 97880,
+      "name": "Navy Salvager",
+      "volume": 5.0,
+      "groupID": 1122,
+      "groupName": "Salvager",
       "categoryID": 7,
       "categoryName": "Module"
     },
@@ -157186,6 +158059,24 @@
       "categoryName": "Planetary Industry"
     },
     {
+      "typeID": 98341,
+      "name": "Oceanic Coral Satin - Limited",
+      "volume": 0.1,
+      "groupID": 4726,
+      "groupName": "Ship SKIN Design Element",
+      "categoryID": 2118,
+      "categoryName": "Personalization"
+    },
+    {
+      "typeID": 98340,
+      "name": "Oceanic Coral Satin - Unlimited",
+      "volume": 0.1,
+      "groupID": 4726,
+      "groupName": "Ship SKIN Design Element",
+      "categoryID": 2118,
+      "categoryName": "Personalization"
+    },
+    {
       "typeID": 3063,
       "name": "Oceanic Extractor Control Unit",
       "volume": 0,
@@ -159580,8 +160471,71 @@
       "categoryName": "SKINs"
     },
     {
+      "typeID": 95629,
+      "name": "Oracle Navy Issue",
+      "volume": 234000.0,
+      "groupID": 1201,
+      "groupName": "Attack Battlecruiser",
+      "categoryID": 6,
+      "categoryName": "Ship"
+    },
+    {
+      "typeID": 95665,
+      "name": "Oracle Navy Issue Alliance Emblem",
+      "volume": 0,
+      "groupID": 4471,
+      "groupName": "Ship Emblems",
+      "categoryID": 2118,
+      "categoryName": "Personalization"
+    },
+    {
+      "typeID": 95634,
+      "name": "Oracle Navy Issue Blueprint",
+      "volume": 0.01,
+      "groupID": 489,
+      "groupName": "Battlecruiser Blueprint",
+      "categoryID": 9,
+      "categoryName": "Blueprint"
+    },
+    {
+      "typeID": 95664,
+      "name": "Oracle Navy Issue Corporation Emblem",
+      "volume": 0,
+      "groupID": 4471,
+      "groupName": "Ship Emblems",
+      "categoryID": 2118,
+      "categoryName": "Personalization"
+    },
+    {
+      "typeID": 98650,
+      "name": "Oracle Navy Issue Mandate of Faith SKIN",
+      "volume": 0.01,
+      "groupID": 1950,
+      "groupName": "Permanent SKIN",
+      "categoryID": 91,
+      "categoryName": "SKINs"
+    },
+    {
+      "typeID": 97772,
+      "name": "Oracle Navy Issue Penumbral Shadows SKIN",
+      "volume": 0.01,
+      "groupID": 1950,
+      "groupName": "Permanent SKIN",
+      "categoryID": 91,
+      "categoryName": "SKINs"
+    },
+    {
       "typeID": 53630,
       "name": "Oracle Oasis of Faith SKIN",
+      "volume": 0.01,
+      "groupID": 1950,
+      "groupName": "Permanent SKIN",
+      "categoryID": 91,
+      "categoryName": "SKINs"
+    },
+    {
+      "typeID": 97771,
+      "name": "Oracle Penumbral Shadows SKIN",
       "volume": 0.01,
       "groupID": 1950,
       "groupName": "Permanent SKIN",
@@ -160971,6 +161925,15 @@
       "volume": 1.0,
       "groupID": 283,
       "groupName": "Livestock",
+      "categoryID": 17,
+      "categoryName": "Commodity"
+    },
+    {
+      "typeID": 98165,
+      "name": "Outbreak Initiation Thread",
+      "volume": 0.01,
+      "groupID": 4843,
+      "groupName": "Limited Rarities",
       "categoryID": 17,
       "categoryName": "Commodity"
     },
@@ -165358,6 +166321,15 @@
       "categoryName": "Blueprint"
     },
     {
+      "typeID": 97898,
+      "name": "Pochven Stabalized Background",
+      "volume": 0.1,
+      "groupID": 5082,
+      "groupName": "Portrait Backgrounds",
+      "categoryID": 30,
+      "categoryName": "Apparel"
+    },
+    {
       "typeID": 87836,
       "name": "Pod Juice Gloss - Limited",
       "volume": 0.1,
@@ -165718,6 +166690,24 @@
       "categoryName": "Personalization"
     },
     {
+      "typeID": 98316,
+      "name": "Polished Skies Metallic - Limited",
+      "volume": 0.1,
+      "groupID": 4726,
+      "groupName": "Ship SKIN Design Element",
+      "categoryID": 2118,
+      "categoryName": "Personalization"
+    },
+    {
+      "typeID": 98315,
+      "name": "Polished Skies Metallic - Unlimited",
+      "volume": 0.1,
+      "groupID": 4726,
+      "groupName": "Ship SKIN Design Element",
+      "categoryID": 2118,
+      "categoryName": "Personalization"
+    },
+    {
       "typeID": 29253,
       "name": "Political Envoy",
       "volume": 2.0,
@@ -165772,8 +166762,17 @@
       "categoryName": "Planetary Commodities"
     },
     {
-      "typeID": 92566,
+      "typeID": 97560,
       "name": "Polycrase X-Grade",
+      "volume": 1.0,
+      "groupID": 5084,
+      "groupName": "Polycrase",
+      "categoryID": 25,
+      "categoryName": "Asteroid"
+    },
+    {
+      "typeID": 96288,
+      "name": "Polycrase Z-Grade",
       "volume": 1.0,
       "groupID": 5084,
       "groupName": "Polycrase",
@@ -166393,8 +167392,8 @@
       "categoryName": "Special Edition Assets"
     },
     {
-      "typeID": 96543,
-      "name": "Potent 'Radiance' Cerebral Accelerator",
+      "typeID": 97748,
+      "name": "Potent Conquest Glamourex Booster",
       "volume": 1.0,
       "groupID": 303,
       "groupName": "Booster",
@@ -170047,24 +171046,6 @@
       "categoryName": "Module"
     },
     {
-      "typeID": 93145,
-      "name": "Prototype 'Pluto' Ice Harvesting Drone",
-      "volume": 1100.0,
-      "groupID": 101,
-      "groupName": "Mining Drone",
-      "categoryID": 18,
-      "categoryName": "Drone"
-    },
-    {
-      "typeID": 93146,
-      "name": "Prototype 'Pluto' Ice Harvesting Drone Blueprint",
-      "volume": 0.01,
-      "groupID": 177,
-      "groupName": "Mining Drone Blueprint",
-      "categoryID": 9,
-      "categoryName": "Blueprint"
-    },
-    {
       "typeID": 94027,
       "name": "Prototype 'Pluto' Ice Harvesting Drone Blueprint Crate",
       "volume": 1.0,
@@ -170072,24 +171053,6 @@
       "groupName": "Special Edition Commodities",
       "categoryID": 63,
       "categoryName": "Special Edition Assets"
-    },
-    {
-      "typeID": 93143,
-      "name": "Prototype 'Pluto' Mining Drone",
-      "volume": 1100.0,
-      "groupID": 101,
-      "groupName": "Mining Drone",
-      "categoryID": 18,
-      "categoryName": "Drone"
-    },
-    {
-      "typeID": 93144,
-      "name": "Prototype 'Pluto' Mining Drone Blueprint",
-      "volume": 0.01,
-      "groupID": 177,
-      "groupName": "Mining Drone Blueprint",
-      "categoryID": 9,
-      "categoryName": "Blueprint"
     },
     {
       "typeID": 94026,
@@ -170927,6 +171890,15 @@
       "groupName": "Construction Component Blueprints",
       "categoryID": 9,
       "categoryName": "Blueprint"
+    },
+    {
+      "typeID": 97554,
+      "name": "Pulse-Mimic Circuitry",
+      "volume": 0.1,
+      "groupID": 1194,
+      "groupName": "Special Edition Commodities",
+      "categoryID": 63,
+      "categoryName": "Special Edition Assets"
     },
     {
       "typeID": 597,
@@ -174448,8 +175420,17 @@
       "categoryName": "Module"
     },
     {
-      "typeID": 92565,
+      "typeID": 97559,
       "name": "Raspite X-Grade",
+      "volume": 1.0,
+      "groupID": 5083,
+      "groupName": "Raspite",
+      "categoryID": 25,
+      "categoryName": "Asteroid"
+    },
+    {
+      "typeID": 96286,
+      "name": "Raspite Z-Grade",
       "volume": 1.0,
       "groupID": 5083,
       "groupName": "Raspite",
@@ -177211,7 +178192,7 @@
       "categoryName": "Special Edition Assets"
     },
     {
-      "typeID": 91936,
+      "typeID": 98447,
       "name": "Republic Defense Booster I",
       "volume": 1.0,
       "groupID": 303,
@@ -177220,7 +178201,7 @@
       "categoryName": "Implant"
     },
     {
-      "typeID": 91945,
+      "typeID": 98448,
       "name": "Republic Defense Booster II",
       "volume": 1.0,
       "groupID": 303,
@@ -177229,7 +178210,7 @@
       "categoryName": "Implant"
     },
     {
-      "typeID": 91946,
+      "typeID": 98449,
       "name": "Republic Defense Booster III",
       "volume": 1.0,
       "groupID": 303,
@@ -177247,7 +178228,7 @@
       "categoryName": "Commodity"
     },
     {
-      "typeID": 91922,
+      "typeID": 98444,
       "name": "Republic Electronics Booster I",
       "volume": 1.0,
       "groupID": 303,
@@ -177256,7 +178237,7 @@
       "categoryName": "Implant"
     },
     {
-      "typeID": 91923,
+      "typeID": 98445,
       "name": "Republic Electronics Booster II",
       "volume": 1.0,
       "groupID": 303,
@@ -177265,7 +178246,7 @@
       "categoryName": "Implant"
     },
     {
-      "typeID": 91924,
+      "typeID": 98446,
       "name": "Republic Electronics Booster III",
       "volume": 1.0,
       "groupID": 303,
@@ -179074,7 +180055,7 @@
       "categoryName": "Module"
     },
     {
-      "typeID": 91965,
+      "typeID": 98453,
       "name": "Republic Hardpoint Booster I",
       "volume": 1.0,
       "groupID": 303,
@@ -179083,7 +180064,7 @@
       "categoryName": "Implant"
     },
     {
-      "typeID": 91976,
+      "typeID": 98454,
       "name": "Republic Hardpoint Booster II",
       "volume": 1.0,
       "groupID": 303,
@@ -179092,7 +180073,7 @@
       "categoryName": "Implant"
     },
     {
-      "typeID": 91977,
+      "typeID": 98455,
       "name": "Republic Hardpoint Booster III",
       "volume": 1.0,
       "groupID": 303,
@@ -179164,7 +180145,7 @@
       "categoryName": "Personalization"
     },
     {
-      "typeID": 91950,
+      "typeID": 98450,
       "name": "Republic Mobility Booster I",
       "volume": 1.0,
       "groupID": 303,
@@ -179173,7 +180154,7 @@
       "categoryName": "Implant"
     },
     {
-      "typeID": 91960,
+      "typeID": 98451,
       "name": "Republic Mobility Booster II",
       "volume": 1.0,
       "groupID": 303,
@@ -179182,7 +180163,7 @@
       "categoryName": "Implant"
     },
     {
-      "typeID": 91961,
+      "typeID": 98452,
       "name": "Republic Mobility Booster III",
       "volume": 1.0,
       "groupID": 303,
@@ -179281,6 +180262,15 @@
       "categoryName": "Special Edition Assets"
     },
     {
+      "typeID": 96518,
+      "name": "Republic Silence Token",
+      "volume": 0.001,
+      "groupID": 1194,
+      "groupName": "Special Edition Commodities",
+      "categoryID": 63,
+      "categoryName": "Special Edition Assets"
+    },
+    {
       "typeID": 22715,
       "name": "Republic Special Ops Field Enhancer - Gamma",
       "volume": 1.0,
@@ -179288,6 +180278,15 @@
       "groupName": "Cyber X Specials",
       "categoryID": 20,
       "categoryName": "Implant"
+    },
+    {
+      "typeID": 97548,
+      "name": "Republic Strategic Intel",
+      "volume": 0.1,
+      "groupID": 1194,
+      "groupName": "Special Edition Commodities",
+      "categoryID": 63,
+      "categoryName": "Special Edition Assets"
     },
     {
       "typeID": 3403,
@@ -181243,6 +182242,15 @@
       "categoryName": "SKINs"
     },
     {
+      "typeID": 97779,
+      "name": "Rifter Penumbral Shadows SKIN",
+      "volume": 0.01,
+      "groupID": 1950,
+      "groupName": "Permanent SKIN",
+      "categoryID": 91,
+      "categoryName": "SKINs"
+    },
+    {
       "typeID": 58864,
       "name": "Rifter Republic Fleet SKIN",
       "volume": 0.01,
@@ -181621,6 +182629,15 @@
       "categoryName": "SKINs"
     },
     {
+      "typeID": 97546,
+      "name": "Rogue Anoikis Telemetry",
+      "volume": 0.1,
+      "groupID": 1194,
+      "groupName": "Special Edition Commodities",
+      "categoryID": 63,
+      "categoryName": "Special Edition Assets"
+    },
+    {
       "typeID": 33620,
       "name": "Rogue Drone 42-X Nexus Chip",
       "volume": 0.1,
@@ -181947,6 +182964,15 @@
     {
       "typeID": 71099,
       "name": "Rokh Peace and Order Unit SKIN",
+      "volume": 0.01,
+      "groupID": 1950,
+      "groupName": "Permanent SKIN",
+      "categoryID": 91,
+      "categoryName": "SKINs"
+    },
+    {
+      "typeID": 97778,
+      "name": "Rokh Penumbral Shadows SKIN",
       "volume": 0.01,
       "groupID": 1950,
       "groupName": "Permanent SKIN",
@@ -183250,6 +184276,15 @@
       "categoryName": "SKINs"
     },
     {
+      "typeID": 97780,
+      "name": "Rupture Penumbral Shadows SKIN",
+      "volume": 0.01,
+      "groupID": 1950,
+      "groupName": "Permanent SKIN",
+      "categoryID": 91,
+      "categoryName": "SKINs"
+    },
+    {
       "typeID": 54447,
       "name": "Rupture Permaband Roadies SKIN",
       "volume": 0.01,
@@ -183536,6 +184571,60 @@
       "groupName": "Miscellaneous",
       "categoryID": 17,
       "categoryName": "Commodity"
+    },
+    {
+      "typeID": 98137,
+      "name": "SARO Enforcement Booster",
+      "volume": 1.0,
+      "groupID": 303,
+      "groupName": "Booster",
+      "categoryID": 20,
+      "categoryName": "Implant"
+    },
+    {
+      "typeID": 98136,
+      "name": "SARO Forensic Booster",
+      "volume": 1.0,
+      "groupID": 303,
+      "groupName": "Booster",
+      "categoryID": 20,
+      "categoryName": "Implant"
+    },
+    {
+      "typeID": 98142,
+      "name": "SARO Mobile Observatory",
+      "volume": 100.0,
+      "groupID": 4107,
+      "groupName": "Mobile Observatory",
+      "categoryID": 22,
+      "categoryName": "Deployable"
+    },
+    {
+      "typeID": 98143,
+      "name": "SARO Mobile Observatory Blueprint",
+      "volume": 0.01,
+      "groupID": 4108,
+      "groupName": "Mobile Observatory Blueprint",
+      "categoryID": 9,
+      "categoryName": "Blueprint"
+    },
+    {
+      "typeID": 98134,
+      "name": "SARO Monitoring Booster",
+      "volume": 1.0,
+      "groupID": 303,
+      "groupName": "Booster",
+      "categoryID": 20,
+      "categoryName": "Implant"
+    },
+    {
+      "typeID": 98135,
+      "name": "SARO Pursuit Booster",
+      "volume": 1.0,
+      "groupID": 303,
+      "groupName": "Booster",
+      "categoryID": 20,
+      "categoryName": "Implant"
     },
     {
       "typeID": 85089,
@@ -185660,6 +186749,24 @@
       "groupName": "Light Fighter Blueprint",
       "categoryID": 9,
       "categoryName": "Blueprint"
+    },
+    {
+      "typeID": 98299,
+      "name": "Savage Palms - Limited",
+      "volume": 0.1,
+      "groupID": 4726,
+      "groupName": "Ship SKIN Design Element",
+      "categoryID": 2118,
+      "categoryName": "Personalization"
+    },
+    {
+      "typeID": 98298,
+      "name": "Savage Palms - Unlimited",
+      "volume": 0.1,
+      "groupID": 4726,
+      "groupName": "Ship SKIN Design Element",
+      "categoryID": 2118,
+      "categoryName": "Personalization"
     },
     {
       "typeID": 85134,
@@ -192817,6 +193924,15 @@
       "categoryName": "Blueprint"
     },
     {
+      "typeID": 97545,
+      "name": "Shield Failover Report",
+      "volume": 0.1,
+      "groupID": 1194,
+      "groupName": "Special Edition Commodities",
+      "categoryID": 63,
+      "categoryName": "Special Edition Assets"
+    },
+    {
       "typeID": 1254,
       "name": "Shield Flux Coil I",
       "volume": 5.0,
@@ -193242,7 +194358,7 @@
     {
       "typeID": 24766,
       "name": "Ship's Crew",
-      "volume": 2.0,
+      "volume": 1.0,
       "groupID": 283,
       "groupName": "Livestock",
       "categoryID": 17,
@@ -193940,6 +195056,24 @@
       "groupName": "Composite Reaction Formulas",
       "categoryID": 9,
       "categoryName": "Blueprint"
+    },
+    {
+      "typeID": 98335,
+      "name": "Silken Vapors Satin - Limited",
+      "volume": 0.1,
+      "groupID": 4726,
+      "groupName": "Ship SKIN Design Element",
+      "categoryID": 2118,
+      "categoryName": "Personalization"
+    },
+    {
+      "typeID": 98334,
+      "name": "Silken Vapors Satin - Unlimited",
+      "volume": 0.1,
+      "groupID": 4726,
+      "groupName": "Ship SKIN Design Element",
+      "categoryID": 2118,
+      "categoryName": "Personalization"
     },
     {
       "typeID": 14343,
@@ -197002,6 +198136,24 @@
       "categoryName": "Module"
     },
     {
+      "typeID": 96139,
+      "name": "Small Caldari Navy Synchronizer",
+      "volume": 5.0,
+      "groupID": 5140,
+      "groupName": "Rig Synchronizer",
+      "categoryID": 7,
+      "categoryName": "Module"
+    },
+    {
+      "typeID": 96149,
+      "name": "Small Caldari Navy Synchronizer Blueprint",
+      "volume": 0.01,
+      "groupID": 787,
+      "groupName": "Rig Blueprint",
+      "categoryID": 9,
+      "categoryName": "Blueprint"
+    },
+    {
       "typeID": 1185,
       "name": "Small Cap Battery I",
       "volume": 5.0,
@@ -197416,6 +198568,24 @@
       "categoryName": "Blueprint"
     },
     {
+      "typeID": 96541,
+      "name": "Small Dark Blood Synchronizer",
+      "volume": 5.0,
+      "groupID": 5140,
+      "groupName": "Rig Synchronizer",
+      "categoryID": 7,
+      "categoryName": "Module"
+    },
+    {
+      "typeID": 96774,
+      "name": "Small Dark Blood Synchronizer Blueprint",
+      "volume": 0.01,
+      "groupID": 787,
+      "groupName": "Rig Blueprint",
+      "categoryID": 9,
+      "categoryName": "Blueprint"
+    },
+    {
       "typeID": 47873,
       "name": "Small Disintegrator Specialization",
       "volume": 0.01,
@@ -197423,6 +198593,42 @@
       "groupName": "Gunnery",
       "categoryID": 16,
       "categoryName": "Skill"
+    },
+    {
+      "typeID": 96723,
+      "name": "Small Domination Synchronizer",
+      "volume": 5.0,
+      "groupID": 5140,
+      "groupName": "Rig Synchronizer",
+      "categoryID": 7,
+      "categoryName": "Module"
+    },
+    {
+      "typeID": 96786,
+      "name": "Small Domination Synchronizer Blueprint",
+      "volume": 0.01,
+      "groupID": 787,
+      "groupName": "Rig Blueprint",
+      "categoryID": 9,
+      "categoryName": "Blueprint"
+    },
+    {
+      "typeID": 96696,
+      "name": "Small Dread Guristas Synchronizer",
+      "volume": 5.0,
+      "groupID": 5140,
+      "groupName": "Rig Synchronizer",
+      "categoryID": 7,
+      "categoryName": "Module"
+    },
+    {
+      "typeID": 96780,
+      "name": "Small Dread Guristas Synchronizer Blueprint",
+      "volume": 0.01,
+      "groupID": 787,
+      "groupName": "Rig Blueprint",
+      "categoryID": 9,
+      "categoryName": "Blueprint"
     },
     {
       "typeID": 32025,
@@ -198280,6 +199486,24 @@
       "categoryName": "Module"
     },
     {
+      "typeID": 95809,
+      "name": "Small Federation Navy Synchronizer",
+      "volume": 5.0,
+      "groupID": 5140,
+      "groupName": "Rig Synchronizer",
+      "categoryID": 7,
+      "categoryName": "Module"
+    },
+    {
+      "typeID": 96152,
+      "name": "Small Federation Navy Synchronizer Blueprint",
+      "volume": 0.01,
+      "groupID": 787,
+      "groupName": "Rig Blueprint",
+      "categoryID": 9,
+      "categoryName": "Blueprint"
+    },
+    {
       "typeID": 6717,
       "name": "Small Focused Afocal Laser I",
       "volume": 5.0,
@@ -198908,6 +200132,24 @@
       "groupName": "Hull Repair Unit",
       "categoryID": 7,
       "categoryName": "Module"
+    },
+    {
+      "typeID": 96130,
+      "name": "Small Imperial Navy Synchronizer",
+      "volume": 5.0,
+      "groupID": 5140,
+      "groupName": "Rig Synchronizer",
+      "categoryID": 7,
+      "categoryName": "Module"
+    },
+    {
+      "typeID": 96146,
+      "name": "Small Imperial Navy Synchronizer Blueprint",
+      "volume": 0.01,
+      "groupID": 787,
+      "groupName": "Rig Blueprint",
+      "categoryID": 9,
+      "categoryName": "Blueprint"
     },
     {
       "typeID": 5091,
@@ -200026,6 +201268,24 @@
       "categoryName": "Blueprint"
     },
     {
+      "typeID": 96136,
+      "name": "Small Republic Fleet Synchronizer",
+      "volume": 5.0,
+      "groupID": 5140,
+      "groupName": "Rig Synchronizer",
+      "categoryID": 7,
+      "categoryName": "Module"
+    },
+    {
+      "typeID": 96155,
+      "name": "Small Republic Fleet Synchronizer Blueprint",
+      "volume": 0.01,
+      "groupID": 787,
+      "groupName": "Rig Blueprint",
+      "categoryID": 9,
+      "categoryName": "Blueprint"
+    },
+    {
       "typeID": 31608,
       "name": "Small Rocket Fuel Cache Partition I",
       "volume": 5.0,
@@ -200217,6 +201477,24 @@
     {
       "typeID": 32086,
       "name": "Small Sentry Damage Augmentor II Blueprint",
+      "volume": 0.01,
+      "groupID": 787,
+      "groupName": "Rig Blueprint",
+      "categoryID": 9,
+      "categoryName": "Blueprint"
+    },
+    {
+      "typeID": 96625,
+      "name": "Small Shadow Serpentis Synchronizer",
+      "volume": 5.0,
+      "groupID": 5140,
+      "groupName": "Rig Synchronizer",
+      "categoryID": 7,
+      "categoryName": "Module"
+    },
+    {
+      "typeID": 96783,
+      "name": "Small Shadow Serpentis Synchronizer Blueprint",
       "volume": 0.01,
       "groupID": 787,
       "groupName": "Rig Blueprint",
@@ -200746,6 +202024,24 @@
       "categoryName": "Blueprint"
     },
     {
+      "typeID": 96587,
+      "name": "Small True Sansha Synchronizer",
+      "volume": 5.0,
+      "groupID": 5140,
+      "groupName": "Rig Synchronizer",
+      "categoryID": 7,
+      "categoryName": "Module"
+    },
+    {
+      "typeID": 96777,
+      "name": "Small True Sansha Synchronizer Blueprint",
+      "volume": 0.01,
+      "groupID": 787,
+      "groupName": "Rig Blueprint",
+      "categoryID": 9,
+      "categoryName": "Blueprint"
+    },
+    {
       "typeID": 55034,
       "name": "Small Vorton Projector",
       "volume": 0.01,
@@ -201179,7 +202475,7 @@
     },
     {
       "typeID": 63784,
-      "name": "Soldier of Fortune - Combat Frigate Crate",
+      "name": "Soldier - Combat Frigate Crate",
       "volume": 2500.0,
       "groupID": 1818,
       "groupName": "Strong Boxes",
@@ -201188,7 +202484,7 @@
     },
     {
       "typeID": 63783,
-      "name": "Soldier of Fortune - Frigate Skill Crate",
+      "name": "Soldier - Frigate Skill Crate",
       "volume": 1.0,
       "groupID": 1818,
       "groupName": "Strong Boxes",
@@ -201197,7 +202493,7 @@
     },
     {
       "typeID": 63785,
-      "name": "Soldier of Fortune - Support Frigate Crate",
+      "name": "Soldier - Support Frigate Crate",
       "volume": 2500.0,
       "groupID": 1818,
       "groupName": "Strong Boxes",
@@ -201206,7 +202502,7 @@
     },
     {
       "typeID": 81166,
-      "name": "Soldier of Fortune Career Crate",
+      "name": "Soldier Career Crate",
       "volume": 4.0,
       "groupID": 1194,
       "groupName": "Special Edition Commodities",
@@ -208702,7 +209998,7 @@
       "categoryName": "Special Edition Assets"
     },
     {
-      "typeID": 91934,
+      "typeID": 98423,
       "name": "State Defense Booster I",
       "volume": 1.0,
       "groupID": 303,
@@ -208711,7 +210007,7 @@
       "categoryName": "Implant"
     },
     {
-      "typeID": 91941,
+      "typeID": 98424,
       "name": "State Defense Booster II",
       "volume": 1.0,
       "groupID": 303,
@@ -208720,7 +210016,7 @@
       "categoryName": "Implant"
     },
     {
-      "typeID": 91942,
+      "typeID": 98425,
       "name": "State Defense Booster III",
       "volume": 1.0,
       "groupID": 303,
@@ -208756,7 +210052,7 @@
       "categoryName": "Personalization"
     },
     {
-      "typeID": 91920,
+      "typeID": 98420,
       "name": "State Electronics Booster I",
       "volume": 1.0,
       "groupID": 303,
@@ -208765,7 +210061,7 @@
       "categoryName": "Implant"
     },
     {
-      "typeID": 91927,
+      "typeID": 98421,
       "name": "State Electronics Booster II",
       "volume": 1.0,
       "groupID": 303,
@@ -208774,7 +210070,7 @@
       "categoryName": "Implant"
     },
     {
-      "typeID": 91928,
+      "typeID": 98422,
       "name": "State Electronics Booster III",
       "volume": 1.0,
       "groupID": 303,
@@ -208792,7 +210088,7 @@
       "categoryName": "Commodity"
     },
     {
-      "typeID": 91963,
+      "typeID": 98429,
       "name": "State Hardpoint Booster I",
       "volume": 1.0,
       "groupID": 303,
@@ -208801,7 +210097,7 @@
       "categoryName": "Implant"
     },
     {
-      "typeID": 91972,
+      "typeID": 98430,
       "name": "State Hardpoint Booster II",
       "volume": 1.0,
       "groupID": 303,
@@ -208810,7 +210106,7 @@
       "categoryName": "Implant"
     },
     {
-      "typeID": 91973,
+      "typeID": 98431,
       "name": "State Hardpoint Booster III",
       "volume": 1.0,
       "groupID": 303,
@@ -208828,7 +210124,7 @@
       "categoryName": "Commodity"
     },
     {
-      "typeID": 91948,
+      "typeID": 98426,
       "name": "State Mobility Booster I",
       "volume": 1.0,
       "groupID": 303,
@@ -208837,7 +210133,7 @@
       "categoryName": "Implant"
     },
     {
-      "typeID": 91953,
+      "typeID": 98427,
       "name": "State Mobility Booster II",
       "volume": 1.0,
       "groupID": 303,
@@ -208846,7 +210142,7 @@
       "categoryName": "Implant"
     },
     {
-      "typeID": 91954,
+      "typeID": 98428,
       "name": "State Mobility Booster III",
       "volume": 1.0,
       "groupID": 303,
@@ -208864,9 +210160,27 @@
       "categoryName": "Special Edition Assets"
     },
     {
+      "typeID": 96517,
+      "name": "State Security Token",
+      "volume": 0.001,
+      "groupID": 1194,
+      "groupName": "Special Edition Commodities",
+      "categoryID": 63,
+      "categoryName": "Special Edition Assets"
+    },
+    {
       "typeID": 76215,
       "name": "State Shadow War Reward Crate",
       "volume": 1.0,
+      "groupID": 1194,
+      "groupName": "Special Edition Commodities",
+      "categoryID": 63,
+      "categoryName": "Special Edition Assets"
+    },
+    {
+      "typeID": 97550,
+      "name": "State Strategic Intel",
+      "volume": 0.1,
       "groupID": 1194,
       "groupName": "Special Edition Commodities",
       "categoryID": 63,
@@ -209096,6 +210410,15 @@
       "groupName": "Hybrid Drone",
       "categoryID": 18,
       "categoryName": "Drone"
+    },
+    {
+      "typeID": 97547,
+      "name": "Stereo-Collapse Signal",
+      "volume": 0.1,
+      "groupID": 1194,
+      "groupName": "Special Edition Commodities",
+      "categoryID": 63,
+      "categoryName": "Special Edition Assets"
     },
     {
       "typeID": 2875,
@@ -212482,6 +213805,15 @@
       "categoryName": "Decryptors"
     },
     {
+      "typeID": 96100,
+      "name": "Synchronization Rigging",
+      "volume": 0.01,
+      "groupID": 269,
+      "groupName": "Rigging",
+      "categoryID": 16,
+      "categoryName": "Skill"
+    },
+    {
       "typeID": 28778,
       "name": "Syndicate 100mm Steel Plates",
       "volume": 5.0,
@@ -214212,6 +215544,69 @@
     {
       "typeID": 48229,
       "name": "Talos Luminaire Zenith SKIN",
+      "volume": 0.01,
+      "groupID": 1950,
+      "groupName": "Permanent SKIN",
+      "categoryID": 91,
+      "categoryName": "SKINs"
+    },
+    {
+      "typeID": 95631,
+      "name": "Talos Navy Issue",
+      "volume": 270000.0,
+      "groupID": 1201,
+      "groupName": "Attack Battlecruiser",
+      "categoryID": 6,
+      "categoryName": "Ship"
+    },
+    {
+      "typeID": 95669,
+      "name": "Talos Navy Issue Alliance Emblem",
+      "volume": 0,
+      "groupID": 4471,
+      "groupName": "Ship Emblems",
+      "categoryID": 2118,
+      "categoryName": "Personalization"
+    },
+    {
+      "typeID": 95636,
+      "name": "Talos Navy Issue Blueprint",
+      "volume": 0.01,
+      "groupID": 489,
+      "groupName": "Battlecruiser Blueprint",
+      "categoryID": 9,
+      "categoryName": "Blueprint"
+    },
+    {
+      "typeID": 95668,
+      "name": "Talos Navy Issue Corporation Emblem",
+      "volume": 0,
+      "groupID": 4471,
+      "groupName": "Ship Emblems",
+      "categoryID": 2118,
+      "categoryName": "Personalization"
+    },
+    {
+      "typeID": 97788,
+      "name": "Talos Navy Issue Penumbral Shadows SKIN",
+      "volume": 0.01,
+      "groupID": 1950,
+      "groupName": "Permanent SKIN",
+      "categoryID": 91,
+      "categoryName": "SKINs"
+    },
+    {
+      "typeID": 98652,
+      "name": "Talos Navy Issue Presidential Agent SKIN",
+      "volume": 0.01,
+      "groupID": 1950,
+      "groupName": "Permanent SKIN",
+      "categoryID": 91,
+      "categoryName": "SKINs"
+    },
+    {
+      "typeID": 97787,
+      "name": "Talos Penumbral Shadows SKIN",
       "volume": 0.01,
       "groupID": 1950,
       "groupName": "Permanent SKIN",
@@ -216838,6 +218233,24 @@
       "categoryName": "Blueprint"
     },
     {
+      "typeID": 98333,
+      "name": "Terracotta Core Satin - Limited",
+      "volume": 0.1,
+      "groupID": 4726,
+      "groupName": "Ship SKIN Design Element",
+      "categoryID": 2118,
+      "categoryName": "Personalization"
+    },
+    {
+      "typeID": 98332,
+      "name": "Terracotta Core Satin - Unlimited",
+      "volume": 0.1,
+      "groupID": 4726,
+      "groupName": "Ship SKIN Design Element",
+      "categoryID": 2118,
+      "categoryName": "Personalization"
+    },
+    {
       "typeID": 20434,
       "name": "Terran Broken Datachips - Weaponry",
       "volume": 40.0,
@@ -216928,42 +218341,6 @@
       "categoryName": "Personalization"
     },
     {
-      "typeID": 96562,
-      "name": "Tetrimon Anti-Drain Booster I",
-      "volume": 1.0,
-      "groupID": 303,
-      "groupName": "Booster",
-      "categoryID": 20,
-      "categoryName": "Implant"
-    },
-    {
-      "typeID": 96563,
-      "name": "Tetrimon Anti-Drain Booster II",
-      "volume": 1.0,
-      "groupID": 303,
-      "groupName": "Booster",
-      "categoryID": 20,
-      "categoryName": "Implant"
-    },
-    {
-      "typeID": 96565,
-      "name": "Tetrimon Anti-Drain Booster III",
-      "volume": 1.0,
-      "groupID": 303,
-      "groupName": "Booster",
-      "categoryID": 20,
-      "categoryName": "Implant"
-    },
-    {
-      "typeID": 96566,
-      "name": "Tetrimon Anti-Drain Booster IV",
-      "volume": 1.0,
-      "groupID": 303,
-      "groupName": "Booster",
-      "categoryID": 20,
-      "categoryName": "Implant"
-    },
-    {
       "typeID": 97208,
       "name": "Tetrimon Base Shortcut Keypass",
       "volume": 0.1,
@@ -216971,114 +218348,6 @@
       "groupName": "Acceleration Gate Keys",
       "categoryID": 17,
       "categoryName": "Commodity"
-    },
-    {
-      "typeID": 96567,
-      "name": "Tetrimon Capacitor Booster I",
-      "volume": 1.0,
-      "groupID": 303,
-      "groupName": "Booster",
-      "categoryID": 20,
-      "categoryName": "Implant"
-    },
-    {
-      "typeID": 96568,
-      "name": "Tetrimon Capacitor Booster II",
-      "volume": 1.0,
-      "groupID": 303,
-      "groupName": "Booster",
-      "categoryID": 20,
-      "categoryName": "Implant"
-    },
-    {
-      "typeID": 96569,
-      "name": "Tetrimon Capacitor Booster III",
-      "volume": 1.0,
-      "groupID": 303,
-      "groupName": "Booster",
-      "categoryID": 20,
-      "categoryName": "Implant"
-    },
-    {
-      "typeID": 96570,
-      "name": "Tetrimon Capacitor Booster IV",
-      "volume": 1.0,
-      "groupID": 303,
-      "groupName": "Booster",
-      "categoryID": 20,
-      "categoryName": "Implant"
-    },
-    {
-      "typeID": 96575,
-      "name": "Tetrimon Precision Booster I",
-      "volume": 1.0,
-      "groupID": 303,
-      "groupName": "Booster",
-      "categoryID": 20,
-      "categoryName": "Implant"
-    },
-    {
-      "typeID": 96576,
-      "name": "Tetrimon Precision Booster II",
-      "volume": 1.0,
-      "groupID": 303,
-      "groupName": "Booster",
-      "categoryID": 20,
-      "categoryName": "Implant"
-    },
-    {
-      "typeID": 96577,
-      "name": "Tetrimon Precision Booster III",
-      "volume": 1.0,
-      "groupID": 303,
-      "groupName": "Booster",
-      "categoryID": 20,
-      "categoryName": "Implant"
-    },
-    {
-      "typeID": 96578,
-      "name": "Tetrimon Precision Booster IV",
-      "volume": 1.0,
-      "groupID": 303,
-      "groupName": "Booster",
-      "categoryID": 20,
-      "categoryName": "Implant"
-    },
-    {
-      "typeID": 96571,
-      "name": "Tetrimon Resistance Booster I",
-      "volume": 1.0,
-      "groupID": 303,
-      "groupName": "Booster",
-      "categoryID": 20,
-      "categoryName": "Implant"
-    },
-    {
-      "typeID": 96572,
-      "name": "Tetrimon Resistance Booster II",
-      "volume": 1.0,
-      "groupID": 303,
-      "groupName": "Booster",
-      "categoryID": 20,
-      "categoryName": "Implant"
-    },
-    {
-      "typeID": 96573,
-      "name": "Tetrimon Resistance Booster III",
-      "volume": 1.0,
-      "groupID": 303,
-      "groupName": "Booster",
-      "categoryID": 20,
-      "categoryName": "Implant"
-    },
-    {
-      "typeID": 96574,
-      "name": "Tetrimon Resistance Booster IV",
-      "volume": 1.0,
-      "groupID": 303,
-      "groupName": "Booster",
-      "categoryID": 20,
-      "categoryName": "Implant"
     },
     {
       "typeID": 85178,
@@ -218080,6 +219349,15 @@
       "categoryName": "Material"
     },
     {
+      "typeID": 97544,
+      "name": "Thermoelectric Flux Log",
+      "volume": 0.1,
+      "groupID": 1194,
+      "groupName": "Special Edition Commodities",
+      "categoryID": 63,
+      "categoryName": "Special Edition Assets"
+    },
+    {
       "typeID": 11691,
       "name": "Thermonuclear Trigger Unit",
       "volume": 1.0,
@@ -218667,6 +219945,15 @@
     {
       "typeID": 48228,
       "name": "Thorax Luminaire Zenith SKIN",
+      "volume": 0.01,
+      "groupID": 1950,
+      "groupName": "Permanent SKIN",
+      "categoryID": 91,
+      "categoryName": "SKINs"
+    },
+    {
+      "typeID": 97785,
+      "name": "Thorax Penumbral Shadows SKIN",
       "volume": 0.01,
       "groupID": 1950,
       "groupName": "Permanent SKIN",
@@ -220438,6 +221725,15 @@
       "categoryName": "SKINs"
     },
     {
+      "typeID": 97769,
+      "name": "Tormentor Penumbral Shadows SKIN",
+      "volume": 0.01,
+      "groupID": 1950,
+      "groupName": "Permanent SKIN",
+      "categoryID": 91,
+      "categoryName": "SKINs"
+    },
+    {
       "typeID": 42549,
       "name": "Tormentor Purity of the Throne SKIN",
       "volume": 0.01,
@@ -220663,6 +221959,60 @@
       "categoryName": "SKINs"
     },
     {
+      "typeID": 95632,
+      "name": "Tornado Fleet Issue",
+      "volume": 216000.0,
+      "groupID": 1201,
+      "groupName": "Attack Battlecruiser",
+      "categoryID": 6,
+      "categoryName": "Ship"
+    },
+    {
+      "typeID": 95671,
+      "name": "Tornado Fleet Issue Alliance Emblem",
+      "volume": 0,
+      "groupID": 4471,
+      "groupName": "Ship Emblems",
+      "categoryID": 2118,
+      "categoryName": "Personalization"
+    },
+    {
+      "typeID": 95637,
+      "name": "Tornado Fleet Issue Blueprint",
+      "volume": 0.01,
+      "groupID": 489,
+      "groupName": "Battlecruiser Blueprint",
+      "categoryID": 9,
+      "categoryName": "Blueprint"
+    },
+    {
+      "typeID": 95670,
+      "name": "Tornado Fleet Issue Corporation Emblem",
+      "volume": 0,
+      "groupID": 4471,
+      "groupName": "Ship Emblems",
+      "categoryID": 2118,
+      "categoryName": "Personalization"
+    },
+    {
+      "typeID": 97782,
+      "name": "Tornado Fleet Issue Penumbral Shadows SKIN",
+      "volume": 0.01,
+      "groupID": 1950,
+      "groupName": "Permanent SKIN",
+      "categoryID": 91,
+      "categoryName": "SKINs"
+    },
+    {
+      "typeID": 98653,
+      "name": "Tornado Fleet Issue Stark Strategist SKIN",
+      "volume": 0.01,
+      "groupID": 1950,
+      "groupName": "Permanent SKIN",
+      "categoryID": 91,
+      "categoryName": "SKINs"
+    },
+    {
       "typeID": 46906,
       "name": "Tornado Glacial Drift SKIN",
       "volume": 0.01,
@@ -220764,6 +222114,15 @@
     {
       "typeID": 38619,
       "name": "Tornado Nefantar Serenity Only SKIN",
+      "volume": 0.01,
+      "groupID": 1950,
+      "groupName": "Permanent SKIN",
+      "categoryID": 91,
+      "categoryName": "SKINs"
+    },
+    {
+      "typeID": 97781,
+      "name": "Tornado Penumbral Shadows SKIN",
       "volume": 0.01,
       "groupID": 1950,
       "groupName": "Permanent SKIN",
@@ -222420,6 +223779,15 @@
     {
       "typeID": 64398,
       "name": "Tristan Luminaire Zenith SKIN",
+      "volume": 0.01,
+      "groupID": 1950,
+      "groupName": "Permanent SKIN",
+      "categoryID": 91,
+      "categoryName": "SKINs"
+    },
+    {
+      "typeID": 97784,
+      "name": "Tristan Penumbral Shadows SKIN",
       "volume": 0.01,
       "groupID": 1950,
       "groupName": "Permanent SKIN",
@@ -225566,6 +226934,24 @@
       "groupName": "Miscellaneous",
       "categoryID": 17,
       "categoryName": "Commodity"
+    },
+    {
+      "typeID": 98339,
+      "name": "Ultra-Indigo Matte - Limited",
+      "volume": 0.1,
+      "groupID": 4726,
+      "groupName": "Ship SKIN Design Element",
+      "categoryID": 2118,
+      "categoryName": "Personalization"
+    },
+    {
+      "typeID": 98338,
+      "name": "Ultra-Indigo Matte - Unlimited",
+      "volume": 0.1,
+      "groupID": 4726,
+      "groupName": "Ship SKIN Design Element",
+      "categoryID": 2118,
+      "categoryName": "Personalization"
     },
     {
       "typeID": 54972,
@@ -233290,6 +234676,15 @@
       "categoryName": "SKINs"
     },
     {
+      "typeID": 97901,
+      "name": "Vigilant Penumbral Shadows SKIN",
+      "volume": 0.01,
+      "groupID": 1950,
+      "groupName": "Permanent SKIN",
+      "categoryID": 91,
+      "categoryName": "SKINs"
+    },
+    {
       "typeID": 87308,
       "name": "Vigilant Resplendent Coil SKIN",
       "volume": 0.01,
@@ -233360,6 +234755,96 @@
       "groupName": "Permanent SKIN",
       "categoryID": 91,
       "categoryName": "SKINs"
+    },
+    {
+      "typeID": 97916,
+      "name": "Vigilant Tyrannos 'Xyston' Armor Rigging AR-1020",
+      "volume": 1.0,
+      "groupID": 5251,
+      "groupName": "Cyber Rigging",
+      "categoryID": 20,
+      "categoryName": "Implant"
+    },
+    {
+      "typeID": 97917,
+      "name": "Vigilant Tyrannos 'Xyston' Astronautics Rigging AS-1020",
+      "volume": 1.0,
+      "groupID": 5251,
+      "groupName": "Cyber Rigging",
+      "categoryID": 20,
+      "categoryName": "Implant"
+    },
+    {
+      "typeID": 97918,
+      "name": "Vigilant Tyrannos 'Xyston' Drones Rigging DR-1020",
+      "volume": 1.0,
+      "groupID": 5251,
+      "groupName": "Cyber Rigging",
+      "categoryID": 20,
+      "categoryName": "Implant"
+    },
+    {
+      "typeID": 97919,
+      "name": "Vigilant Tyrannos 'Xyston' Electronic Superiority Rigging ES-1020",
+      "volume": 1.0,
+      "groupID": 5251,
+      "groupName": "Cyber Rigging",
+      "categoryID": 20,
+      "categoryName": "Implant"
+    },
+    {
+      "typeID": 97920,
+      "name": "Vigilant Tyrannos 'Xyston' Energy Weapon Rigging EW-1020",
+      "volume": 1.0,
+      "groupID": 5251,
+      "groupName": "Cyber Rigging",
+      "categoryID": 20,
+      "categoryName": "Implant"
+    },
+    {
+      "typeID": 97921,
+      "name": "Vigilant Tyrannos 'Xyston' Hybrid Weapon Rigging HW-1020",
+      "volume": 1.0,
+      "groupID": 5251,
+      "groupName": "Cyber Rigging",
+      "categoryID": 20,
+      "categoryName": "Implant"
+    },
+    {
+      "typeID": 97923,
+      "name": "Vigilant Tyrannos 'Xyston' Launcher Rigging LR-1020",
+      "volume": 1.0,
+      "groupID": 5251,
+      "groupName": "Cyber Rigging",
+      "categoryID": 20,
+      "categoryName": "Implant"
+    },
+    {
+      "typeID": 97922,
+      "name": "Vigilant Tyrannos 'Xyston' Projectile Weapon Rigging PW-1020",
+      "volume": 1.0,
+      "groupID": 5251,
+      "groupName": "Cyber Rigging",
+      "categoryID": 20,
+      "categoryName": "Implant"
+    },
+    {
+      "typeID": 97924,
+      "name": "Vigilant Tyrannos 'Xyston' Shield Rigging SH-1020",
+      "volume": 1.0,
+      "groupID": 5251,
+      "groupName": "Cyber Rigging",
+      "categoryID": 20,
+      "categoryName": "Implant"
+    },
+    {
+      "typeID": 97925,
+      "name": "Vigilant Tyrannos 'Xyston' Synchronization Rigging SY-1020",
+      "volume": 1.0,
+      "groupID": 5251,
+      "groupName": "Cyber Rigging",
+      "categoryID": 20,
+      "categoryName": "Implant"
     },
     {
       "typeID": 62648,
@@ -233526,6 +235011,15 @@
     {
       "typeID": 85967,
       "name": "Vindicator Luminae Polaris SKIN",
+      "volume": 0.01,
+      "groupID": 1950,
+      "groupName": "Permanent SKIN",
+      "categoryID": 91,
+      "categoryName": "SKINs"
+    },
+    {
+      "typeID": 97902,
+      "name": "Vindicator Penumbral Shadows SKIN",
       "volume": 0.01,
       "groupID": 1950,
       "groupName": "Permanent SKIN",
