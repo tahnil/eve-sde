@@ -1,12 +1,12 @@
 {
   "metadata": {
     "source": "EVE Online SDE",
-    "itemCount": 27490,
+    "itemCount": 27506,
     "categoryCount": 37,
     "itemsWithZeroVolume": 979,
     "categories": {
-      "Module": 4020,
-      "Blueprint": 4211,
+      "Module": 4021,
+      "Blueprint": 4212,
       "Drone": 154,
       "Special Edition Assets": 685,
       "Commodity": 2874,
@@ -16,7 +16,7 @@
       "Accessories": 77,
       "Personalization": 1943,
       "Ship": 430,
-      "SKINs": 7167,
+      "SKINs": 7181,
       "Material": 269,
       "Charge": 1017,
       "Skill": 513,
@@ -7500,7 +7500,7 @@
     {
       "typeID": 97515,
       "name": "Aberrant Kangite",
-      "volume": 0.01,
+      "volume": 0.001,
       "groupID": 18,
       "groupName": "Mineral",
       "categoryID": 4,
@@ -7509,7 +7509,7 @@
     {
       "typeID": 97514,
       "name": "Aberrant Moissanite",
-      "volume": 0.01,
+      "volume": 0.001,
       "groupID": 18,
       "groupName": "Mineral",
       "categoryID": 4,
@@ -7527,7 +7527,7 @@
     {
       "typeID": 97513,
       "name": "Aberrant Polycrase",
-      "volume": 0.01,
+      "volume": 0.001,
       "groupID": 18,
       "groupName": "Mineral",
       "categoryID": 4,
@@ -7536,7 +7536,7 @@
     {
       "typeID": 97512,
       "name": "Aberrant Raspite",
-      "volume": 0.01,
+      "volume": 0.001,
       "groupID": 18,
       "groupName": "Mineral",
       "categoryID": 4,
@@ -21747,6 +21747,15 @@
     {
       "typeID": 44255,
       "name": "Barghest Convergence - Nova SKIN",
+      "volume": 0.01,
+      "groupID": 1950,
+      "groupName": "Permanent SKIN",
+      "categoryID": 91,
+      "categoryName": "SKINs"
+    },
+    {
+      "typeID": 98660,
+      "name": "Barghest Copper Lightning SKIN",
       "volume": 0.01,
       "groupID": 1950,
       "groupName": "Permanent SKIN",
@@ -46189,6 +46198,24 @@
       "categoryName": "Module"
     },
     {
+      "typeID": 97955,
+      "name": "Compact Imperial Navy Stasis Webifier",
+      "volume": 5.0,
+      "groupID": 65,
+      "groupName": "Stasis Web",
+      "categoryID": 7,
+      "categoryName": "Module"
+    },
+    {
+      "typeID": 97995,
+      "name": "Compact Imperial Navy Stasis Webifier Blueprint",
+      "volume": 0.01,
+      "groupID": 145,
+      "groupName": "Stasis Web Blueprint",
+      "categoryID": 9,
+      "categoryName": "Blueprint"
+    },
+    {
       "typeID": 58966,
       "name": "Compact Interdiction Nullifier",
       "volume": 5.0,
@@ -67771,6 +67798,15 @@
       "categoryName": "SKINs"
     },
     {
+      "typeID": 98604,
+      "name": "Drekavac Empyrean Outlaws SKIN",
+      "volume": 0.01,
+      "groupID": 1950,
+      "groupName": "Permanent SKIN",
+      "categoryID": 91,
+      "categoryName": "SKINs"
+    },
+    {
       "typeID": 49936,
       "name": "Drekavac Hadean Horror SKIN",
       "volume": 0.01,
@@ -79842,7 +79878,7 @@
     {
       "typeID": 97549,
       "name": "Federation Strategic Intel",
-      "volume": 0.1,
+      "volume": 0.01,
       "groupID": 1194,
       "groupName": "Special Edition Commodities",
       "categoryID": 63,
@@ -83357,6 +83393,15 @@
       "groupName": "Carrier Blueprint",
       "categoryID": 9,
       "categoryName": "Blueprint"
+    },
+    {
+      "typeID": 98656,
+      "name": "Gaia Copper Lightning SKIN",
+      "volume": 0.01,
+      "groupID": 1950,
+      "groupName": "Permanent SKIN",
+      "categoryID": 91,
+      "categoryName": "SKINs"
     },
     {
       "typeID": 62650,
@@ -90435,6 +90480,15 @@
     {
       "typeID": 47654,
       "name": "Gnosis Capsuleer Networker XV SKIN",
+      "volume": 0.01,
+      "groupID": 1950,
+      "groupName": "Permanent SKIN",
+      "categoryID": 91,
+      "categoryName": "SKINs"
+    },
+    {
+      "typeID": 98661,
+      "name": "Gnosis Copper Lightning SKIN",
       "volume": 0.01,
       "groupID": 1950,
       "groupName": "Permanent SKIN",
@@ -103998,7 +104052,7 @@
     {
       "typeID": 97553,
       "name": "Hyper-Field Projector",
-      "volume": 0.1,
+      "volume": 0.01,
       "groupID": 1194,
       "groupName": "Special Edition Commodities",
       "categoryID": 63,
@@ -104016,7 +104070,7 @@
     {
       "typeID": 97555,
       "name": "Hyper-Step Connector",
-      "volume": 0.1,
+      "volume": 0.01,
       "groupID": 1194,
       "groupName": "Special Edition Commodities",
       "categoryID": 63,
@@ -104457,7 +104511,7 @@
     {
       "typeID": 97552,
       "name": "Hyperspherical Housing",
-      "volume": 0.1,
+      "volume": 0.01,
       "groupID": 1194,
       "groupName": "Special Edition Commodities",
       "categoryID": 63,
@@ -104583,6 +104637,15 @@
     {
       "typeID": 55533,
       "name": "Ibis Biosecurity Responders SKIN",
+      "volume": 0.01,
+      "groupID": 1950,
+      "groupName": "Permanent SKIN",
+      "categoryID": 91,
+      "categoryName": "SKINs"
+    },
+    {
+      "typeID": 98657,
+      "name": "Ibis Copper Lightning SKIN",
       "volume": 0.01,
       "groupID": 1950,
       "groupName": "Permanent SKIN",
@@ -105524,6 +105587,15 @@
       "groupName": "Ship Emblems",
       "categoryID": 2118,
       "categoryName": "Personalization"
+    },
+    {
+      "typeID": 98602,
+      "name": "Immolator Empyrean Outlaws SKIN",
+      "volume": 0.01,
+      "groupID": 1950,
+      "groupName": "Permanent SKIN",
+      "categoryID": 91,
+      "categoryName": "SKINs"
     },
     {
       "typeID": 35779,
@@ -107407,7 +107479,7 @@
       "categoryName": "Charge"
     },
     {
-      "typeID": 97955,
+      "typeID": 98845,
       "name": "Imperial Navy Stasis Webifier",
       "volume": 5.0,
       "groupID": 65,
@@ -107416,7 +107488,7 @@
       "categoryName": "Module"
     },
     {
-      "typeID": 97995,
+      "typeID": 98846,
       "name": "Imperial Navy Stasis Webifier Blueprint",
       "volume": 0.01,
       "groupID": 145,
@@ -107670,7 +107742,7 @@
     {
       "typeID": 97551,
       "name": "Imperial Strategic Intel",
-      "volume": 0.1,
+      "volume": 0.01,
       "groupID": 1194,
       "groupName": "Special Edition Commodities",
       "categoryID": 63,
@@ -115770,6 +115842,15 @@
     {
       "typeID": 54905,
       "name": "Kikimora Eden's Hunters SKIN",
+      "volume": 0.01,
+      "groupID": 1950,
+      "groupName": "Permanent SKIN",
+      "categoryID": 91,
+      "categoryName": "SKINs"
+    },
+    {
+      "typeID": 98605,
+      "name": "Kikimora Empyrean Outlaws SKIN",
       "volume": 0.01,
       "groupID": 1950,
       "groupName": "Permanent SKIN",
@@ -130296,6 +130377,15 @@
     {
       "typeID": 42758,
       "name": "Malediction Cold Iron SKIN",
+      "volume": 0.01,
+      "groupID": 1950,
+      "groupName": "Permanent SKIN",
+      "categoryID": 91,
+      "categoryName": "SKINs"
+    },
+    {
+      "typeID": 98655,
+      "name": "Malediction Copper Lightning SKIN",
       "volume": 0.01,
       "groupID": 1950,
       "groupName": "Permanent SKIN",
@@ -154927,6 +155017,15 @@
       "categoryName": "Personalization"
     },
     {
+      "typeID": 98601,
+      "name": "Nightmare Empyrean Outlaws SKIN",
+      "volume": 0.01,
+      "groupID": 1950,
+      "groupName": "Permanent SKIN",
+      "categoryID": 91,
+      "categoryName": "SKINs"
+    },
+    {
       "typeID": 57809,
       "name": "Nightmare Ghost's Hex SKIN",
       "volume": 0.01,
@@ -161290,6 +161389,15 @@
       "categoryName": "SKINs"
     },
     {
+      "typeID": 98659,
+      "name": "Orthrus Copper Lightning SKIN",
+      "volume": 0.01,
+      "groupID": 1950,
+      "groupName": "Permanent SKIN",
+      "categoryID": 91,
+      "categoryName": "SKINs"
+    },
+    {
       "typeID": 75186,
       "name": "Orthrus Corporation Emblem",
       "volume": 0,
@@ -163945,6 +164053,15 @@
       "categoryName": "Personalization"
     },
     {
+      "typeID": 98600,
+      "name": "Phantasm Empyrean Outlaws SKIN",
+      "volume": 0.01,
+      "groupID": 1950,
+      "groupName": "Permanent SKIN",
+      "categoryID": 91,
+      "categoryName": "SKINs"
+    },
+    {
       "typeID": 57808,
       "name": "Phantasm Ghost's Hex SKIN",
       "volume": 0.01,
@@ -165189,6 +165306,15 @@
     {
       "typeID": 91098,
       "name": "Pioneer Consortium Issue Refined Resourcer SKIN",
+      "volume": 0.01,
+      "groupID": 1950,
+      "groupName": "Permanent SKIN",
+      "categoryID": 91,
+      "categoryName": "SKINs"
+    },
+    {
+      "typeID": 98658,
+      "name": "Pioneer Copper Lightning SKIN",
       "volume": 0.01,
       "groupID": 1950,
       "groupName": "Permanent SKIN",
@@ -171894,7 +172020,7 @@
     {
       "typeID": 97554,
       "name": "Pulse-Mimic Circuitry",
-      "volume": 0.1,
+      "volume": 0.01,
       "groupID": 1194,
       "groupName": "Special Edition Commodities",
       "categoryID": 63,
@@ -180282,7 +180408,7 @@
     {
       "typeID": 97548,
       "name": "Republic Strategic Intel",
-      "volume": 0.1,
+      "volume": 0.01,
       "groupID": 1194,
       "groupName": "Special Edition Commodities",
       "categoryID": 63,
@@ -182631,7 +182757,7 @@
     {
       "typeID": 97546,
       "name": "Rogue Anoikis Telemetry",
-      "volume": 0.1,
+      "volume": 0.01,
       "groupID": 1194,
       "groupName": "Special Edition Commodities",
       "categoryID": 63,
@@ -193926,7 +194052,7 @@
     {
       "typeID": 97545,
       "name": "Shield Failover Report",
-      "volume": 0.1,
+      "volume": 0.01,
       "groupID": 1194,
       "groupName": "Special Edition Commodities",
       "categoryID": 63,
@@ -210180,7 +210306,7 @@
     {
       "typeID": 97550,
       "name": "State Strategic Intel",
-      "volume": 0.1,
+      "volume": 0.01,
       "groupID": 1194,
       "groupName": "Special Edition Commodities",
       "categoryID": 63,
@@ -210414,7 +210540,7 @@
     {
       "typeID": 97547,
       "name": "Stereo-Collapse Signal",
-      "volume": 0.1,
+      "volume": 0.01,
       "groupID": 1194,
       "groupName": "Special Edition Commodities",
       "categoryID": 63,
@@ -212682,6 +212808,15 @@
     {
       "typeID": 84352,
       "name": "Succubus Deathglow Remnant SKIN",
+      "volume": 0.01,
+      "groupID": 1950,
+      "groupName": "Permanent SKIN",
+      "categoryID": 91,
+      "categoryName": "SKINs"
+    },
+    {
+      "typeID": 98599,
+      "name": "Succubus Empyrean Outlaws SKIN",
       "volume": 0.01,
       "groupID": 1950,
       "groupName": "Permanent SKIN",
@@ -219351,7 +219486,7 @@
     {
       "typeID": 97544,
       "name": "Thermoelectric Flux Log",
-      "volume": 0.1,
+      "volume": 0.01,
       "groupID": 1194,
       "groupName": "Special Edition Commodities",
       "categoryID": 63,
@@ -247130,6 +247265,15 @@
       "groupName": "Ship Emblems",
       "categoryID": 2118,
       "categoryName": "Personalization"
+    },
+    {
+      "typeID": 98603,
+      "name": "Zirnitra Empyrean Outlaws SKIN",
+      "volume": 0.01,
+      "groupID": 1950,
+      "groupName": "Permanent SKIN",
+      "categoryID": 91,
+      "categoryName": "SKINs"
     },
     {
       "typeID": 91637,

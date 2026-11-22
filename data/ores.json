@@ -3343,22 +3343,22 @@
     {
       "typeID": 97515,
       "name": "Aberrant Kangite",
-      "volume": 0.01
+      "volume": 0.001
     },
     {
       "typeID": 97514,
       "name": "Aberrant Moissanite",
-      "volume": 0.01
+      "volume": 0.001
     },
     {
       "typeID": 97513,
       "name": "Aberrant Polycrase",
-      "volume": 0.01
+      "volume": 0.001
     },
     {
       "typeID": 97512,
       "name": "Aberrant Raspite",
-      "volume": 0.01
+      "volume": 0.001
     },
     {
       "typeID": 48927,
@@ -6956,7 +6956,7 @@
       },
       {
         "mineralID": 97512,
-        "quantity": 25
+        "quantity": 225
       }
     ],
     "96288": [
@@ -6970,7 +6970,7 @@
       },
       {
         "mineralID": 97513,
-        "quantity": 25
+        "quantity": 225
       }
     ],
     "96289": [
@@ -6984,7 +6984,7 @@
       },
       {
         "mineralID": 97514,
-        "quantity": 25
+        "quantity": 225
       }
     ],
     "96290": [
@@ -6998,7 +6998,7 @@
       },
       {
         "mineralID": 97515,
-        "quantity": 25
+        "quantity": 225
       }
     ],
     "96291": [
@@ -7012,7 +7012,7 @@
       },
       {
         "mineralID": 97512,
-        "quantity": 25
+        "quantity": 225
       }
     ],
     "96292": [
@@ -7026,7 +7026,7 @@
       },
       {
         "mineralID": 97513,
-        "quantity": 25
+        "quantity": 225
       }
     ],
     "96293": [
@@ -7040,7 +7040,7 @@
       },
       {
         "mineralID": 97514,
-        "quantity": 25
+        "quantity": 225
       }
     ],
     "96294": [
@@ -7054,7 +7054,7 @@
       },
       {
         "mineralID": 97515,
-        "quantity": 25
+        "quantity": 225
       }
     ],
     "97559": [
@@ -7068,7 +7068,7 @@
       },
       {
         "mineralID": 97512,
-        "quantity": 10
+        "quantity": 90
       }
     ],
     "97560": [
@@ -7082,7 +7082,7 @@
       },
       {
         "mineralID": 97513,
-        "quantity": 10
+        "quantity": 90
       }
     ],
     "97561": [
@@ -7096,7 +7096,7 @@
       },
       {
         "mineralID": 97514,
-        "quantity": 10
+        "quantity": 90
       }
     ],
     "97562": [
@@ -7110,7 +7110,7 @@
       },
       {
         "mineralID": 97515,
-        "quantity": 10
+        "quantity": 90
       }
     ],
     "97564": [
@@ -7124,7 +7124,7 @@
       },
       {
         "mineralID": 97512,
-        "quantity": 10
+        "quantity": 90
       }
     ],
     "97566": [
@@ -7138,7 +7138,7 @@
       },
       {
         "mineralID": 97513,
-        "quantity": 10
+        "quantity": 90
       }
     ],
     "97569": [
@@ -7152,7 +7152,7 @@
       },
       {
         "mineralID": 97514,
-        "quantity": 10
+        "quantity": 90
       }
     ],
     "97570": [
@@ -7166,7 +7166,7 @@
       },
       {
         "mineralID": 97515,
-        "quantity": 10
+        "quantity": 90
       }
     ]
   }
